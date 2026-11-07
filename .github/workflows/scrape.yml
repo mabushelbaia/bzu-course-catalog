@@ -56,5 +56,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update catalog: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Only index.json changed means a plain daily check; anything else is new schedule data
+          if [ -n "$(git diff --cached --name-only -- . ':(exclude)data/index.json')" ]; then msg="Update catalog"; else msg="Daily check"; fi
+          git commit -m "$msg: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push

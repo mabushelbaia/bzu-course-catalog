@@ -6,9 +6,9 @@
 Writes, per semester:
     data/<term>.json              every course, section and meeting
     data/<term>/<PREFIX>.json     the same, one file per course prefix (e.g. ENCS) for small static sites
-and data/index.json listing the semesters, their counts and when their data last changed.
-A semester's files are only rewritten when its data actually changed, so daily runs that find
-nothing new produce no commit.
+and data/index.json listing the semesters, their counts, when their data last changed, and
+when Ritaj was last checked (checked_at, stamped on every scrape). A semester's files are only
+rewritten when its data actually changed; a run that finds nothing new only updates checked_at.
 """
 
 import argparse
@@ -67,12 +67,23 @@ def write_term(out: Path, index: dict, term: dict, courses: list[dict], source: 
         for f in folder.glob("*.json"):
             if f.stem not in by_prefix:
                 f.unlink()
+    written = 0
     for prefix, cs in by_prefix.items():
-        dump(folder / f"{prefix}.json", {**meta, "prefix": prefix, "counts": counts(cs), "courses": cs})
+        f = folder / f"{prefix}.json"
+        # Leave a prefix's file alone when its courses didn't change, so one department's edit
+        # doesn't rewrite every other department's file
+        if f.exists():
+            try:
+                if digest(json.loads(f.read_text(encoding="utf-8")).get("courses")) == digest(cs):
+                    continue
+            except ValueError:
+                pass
+        dump(f, {**meta, "prefix": prefix, "counts": counts(cs), "courses": cs})
+        written += 1
     index["terms"][code] = {"name": term["name"], "updated_at": stamp, "hash": h, "counts": counts(courses),
                             "prefixes": sorted(by_prefix)}
     c = counts(courses)
-    print(f"  {code}: written ({c['courses']} courses, {c['sections']} sections)")
+    print(f"  {code}: written ({c['courses']} courses, {c['sections']} sections; {written} of {len(by_prefix)} prefix files changed)")
     return True
 
 
@@ -127,6 +138,9 @@ def cmd_scrape(args) -> None:
         write_term(out, index, {"code": code, "name": names.get(code, code)}, parse_courses(h), url)
         done.append(code)
     index["published_terms"] = done
+    # Stamped on every run, changed or not: shows the data is still being checked, and the daily
+    # commit keeps the repo active so GitHub never pauses the scheduled workflow (it does after 60 quiet days)
+    index["checked_at"] = now()
     save_index(out, index)
 
 
