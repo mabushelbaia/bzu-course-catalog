@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -67,7 +67,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jaber Jamil Ibrahim Hajali",
-     "enrolled": 65,
+     "enrolled": 66,
      "capacity": null,
      "meetings": [
       {
@@ -83,7 +83,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Jaber Jamil Ibrahim Hajali",
-     "enrolled": 21,
+     "enrolled": 22,
      "capacity": null,
      "meetings": [
       {
@@ -296,7 +296,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Abdalraziq Ibrahim Salhi",
-     "enrolled": 60,
+     "enrolled": 61,
      "capacity": null,
      "meetings": [
       {
@@ -326,7 +326,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
-     "enrolled": 64,
+     "enrolled": 65,
      "capacity": null,
      "meetings": [
       {
@@ -365,7 +365,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Jaber Jamil Ibrahim Hajali",
-     "enrolled": 21,
+     "enrolled": 22,
      "capacity": null,
      "meetings": [
       {
@@ -475,7 +475,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rania Daoud Abdel Latif Abu Hamdah",
-     "enrolled": 63,
+     "enrolled": 64,
      "capacity": null,
      "meetings": [
       {

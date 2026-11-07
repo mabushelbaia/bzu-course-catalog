@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
-     "enrolled": 185,
+     "enrolled": 188,
      "capacity": null,
      "meetings": [
       {
@@ -92,7 +92,7 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Rola Khaled Ahmad Aisa",
-     "enrolled": 12,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
@@ -108,7 +108,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Rola Khaled Ahmad Aisa",
-     "enrolled": 61,
+     "enrolled": 63,
      "capacity": null,
      "meetings": [
       {
@@ -296,7 +296,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fayez Mohummad Ahmad Ibkairat",
-     "enrolled": 31,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -418,7 +418,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rinad Kamal Al-Deen Hasan Abdallah",
-     "enrolled": 80,
+     "enrolled": 81,
      "capacity": null,
      "meetings": [
       {
@@ -434,7 +434,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Reenad Ahmed Ismail Battash",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -473,7 +473,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Abdallah Ahmad Dirbas",
-     "enrolled": 21,
+     "enrolled": 22,
      "capacity": null,
      "meetings": [
       {
@@ -579,7 +579,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Tayseer Mahmoud Alawna",
-     "enrolled": 73,
+     "enrolled": 74,
      "capacity": null,
      "meetings": [
       {
@@ -595,7 +595,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Sawsan Shaker Kayid Aljawadeh",
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -650,7 +650,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fayez Mohummad Ahmad Ibkairat",
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -703,7 +703,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Hussein Mahmoud Abdelbaqi",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -733,7 +733,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Buthina Abdlrahim Ahmad Khalid",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -910,7 +910,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Abduljalil Yousif Abu Salem",
-     "enrolled": 30,
+     "enrolled": 31,
      "capacity": null,
      "meetings": [
       {
@@ -933,7 +933,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud M. I. Dodeen",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -986,7 +986,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hussein Ahed Hussein Ayaseh",
-     "enrolled": 54,
+     "enrolled": 57,
      "capacity": null,
      "meetings": [
       {
@@ -1016,7 +1016,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Ali Hussain Khaled",
-     "enrolled": 39,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -1175,7 +1175,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dana H. Y. Farraj",
-     "enrolled": 51,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {
@@ -1198,7 +1198,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Omran Abdallah Mohammad Shawartamimi",
-     "enrolled": 58,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -1281,7 +1281,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Mohammad Mahmoud Abu Sawi",
-     "enrolled": 29,
+     "enrolled": 31,
      "capacity": null,
      "meetings": [
       {
@@ -1334,7 +1334,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rola Khaled Ahmad Aisa",
-     "enrolled": 27,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -1380,7 +1380,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
-     "enrolled": 30,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -1426,7 +1426,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Isa A. A. Abualhaj",
-     "enrolled": 29,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -1442,7 +1442,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nidal Nadeem Hana Freij",
-     "enrolled": 45,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -1495,7 +1495,7 @@
        "day": "T",
        "start": "12:00",
        "end": "13:50",
-       "room": "ALSADIK204",
+       "room": "ALSADIK305",
        "building": "ALSADIK"
       }
      ]
@@ -1647,7 +1647,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Diab Mohammad Diab Alshikh",
-     "enrolled": 25,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -1677,7 +1677,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem Mahmoud Ahmed Albatmah",
-     "enrolled": 10,
+     "enrolled": 11,
      "capacity": null,
      "meetings": [
       {
@@ -1737,7 +1737,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Newar M. M. Bdair",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {

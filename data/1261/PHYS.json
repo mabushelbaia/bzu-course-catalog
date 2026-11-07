@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,9 +14,9 @@
  "prefix": "PHYS",
  "counts": {
   "courses": 21,
-  "sections": 70,
+  "sections": 71,
   "instructors": 11,
-  "rooms": 23
+  "rooms": 24
  },
  "courses": [
   {
@@ -816,7 +816,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Abedalqader Ismail T.Amawi",
-     "enrolled": 162,
+     "enrolled": 163,
      "capacity": null,
      "meetings": [
       {
@@ -839,7 +839,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Mohammad Abedalqader Ismail T.Amawi",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -1273,6 +1273,22 @@
        "start": "11:00",
        "end": "13:50",
        "room": "SCI018",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI217",
        "building": "SCI"
       }
      ]

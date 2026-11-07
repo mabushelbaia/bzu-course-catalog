@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -44,7 +44,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Maher Omar Rushdi Abu-Madi",
-     "enrolled": 25,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -60,7 +60,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Nidal Jawdat Masoud Mahmoud",
-     "enrolled": 29,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -76,7 +76,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Nidal Jawdat Masoud Mahmoud",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -99,7 +99,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nidal Jawdat Masoud Mahmoud",
-     "enrolled": 93,
+     "enrolled": 90,
      "capacity": null,
      "meetings": [
       {
@@ -122,7 +122,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Maher Omar Rushdi Abu-Madi",
-     "enrolled": 89,
+     "enrolled": 91,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -92,7 +92,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Wasel Tahsin Ahmad Ghanem",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -140,7 +140,7 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Aya Hussein Ahmed Mousa",
-     "enrolled": 17,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -220,7 +220,7 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Shadi Abd Al-Aleim Younis Daana",
-     "enrolled": 18,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {
@@ -296,7 +296,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hanna Saba Hanna Bullata",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -342,7 +342,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Alhareth M. T. Zyoud",
-     "enrolled": 49,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {
@@ -565,7 +565,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Reda I. M. Daifallah",
-     "enrolled": 19,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -581,7 +581,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Anas Nedal Mohammad Mousa",
-     "enrolled": 20,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -597,7 +597,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Elias D. Y. Khalil",
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": [
       {
@@ -811,7 +811,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Sameh Abdel Fatah Hussein Awad",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -947,7 +947,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rania Talal Ribhi Shahwan",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -1264,7 +1264,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ibrahim Ahmed Abdallah Nemer",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -1280,7 +1280,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammad Khaleel Issa Jubran",
-     "enrolled": 12,
+     "enrolled": 11,
      "capacity": null,
      "meetings": [
       {
@@ -1344,7 +1344,7 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ibrahim Ahmed Abdallah Nemer",
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -1392,7 +1392,7 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Mohammed Sami Abdul Karim Hussein",
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -1424,7 +1424,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Reda I. M. Daifallah",
-     "enrolled": 16,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -1943,7 +1943,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khader Shehadeh Nassar Mohammad",
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -1959,7 +1959,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad S. O. Ismael",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -2227,7 +2227,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abualseoud Ahmad Abualseoud Hanani",
-     "enrolled": 8,
+     "enrolled": 3,
      "capacity": null,
      "meetings": []
     },
@@ -2531,7 +2531,7 @@
      "type": "Lecture",
      "number": "39",
      "instructor": "Iyad Khalil Ahmad Tumar",
-     "enrolled": 0,
+     "enrolled": 2,
      "capacity": null,
      "meetings": []
     },
@@ -2579,7 +2579,7 @@
      "type": "Lecture",
      "number": "45",
      "instructor": "Aya Hussein Ahmed Mousa",
-     "enrolled": 0,
+     "enrolled": 3,
      "capacity": null,
      "meetings": []
     },

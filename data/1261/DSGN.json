@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -688,7 +688,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Aseel A. J. Abusada",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -720,7 +720,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Aseel A. J. Abusada",
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -830,7 +830,7 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Yara A. Y. Hussein",
-     "enrolled": 2,
+     "enrolled": 3,
      "capacity": null,
      "meetings": []
     },

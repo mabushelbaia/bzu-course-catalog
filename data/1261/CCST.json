@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "CCST",
  "counts": {
   "courses": 3,
-  "sections": 9,
+  "sections": 10,
   "instructors": 6,
   "rooms": 2
  },
@@ -121,6 +121,14 @@
     {
      "type": "Lecture",
      "number": "7",
+     "instructor": "Abdulrahim M. A. Al Shaikh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
      "instructor": "Abdulrahim M. A. Al Shaikh",
      "enrolled": 1,
      "capacity": null,

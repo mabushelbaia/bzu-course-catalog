@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -872,7 +872,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nael Ishaq Hasan Qaraeen",
-     "enrolled": 51,
+     "enrolled": 52,
      "capacity": null,
      "meetings": [
       {
@@ -888,7 +888,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Israa Raja Issa Hamed",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -920,7 +920,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Nael Ishaq Hasan Qaraeen",
-     "enrolled": 24,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {
@@ -936,7 +936,7 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Israa Raja Issa Hamed",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -1325,7 +1325,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdallah Haidar Mohammad Karakra",
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -1405,7 +1405,7 @@
      "type": "Lab",
      "number": "5",
      "instructor": "Abdallah Haidar Mohammad Karakra",
-     "enrolled": 27,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -1497,7 +1497,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Y. M. Alkhanafseh",
-     "enrolled": 46,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -1589,7 +1589,7 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ruba N. S. Awadallah",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -3098,7 +3098,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed H. S. Helal",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {

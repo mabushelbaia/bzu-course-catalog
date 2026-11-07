@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 2,
   "sections": 4,
   "instructors": 1,
-  "rooms": 4
+  "rooms": 7
  },
  "courses": [
   {
@@ -35,15 +35,15 @@
        "day": "W",
        "start": "09:30",
        "end": "10:50",
-       "room": "Aggad303",
-       "building": "Aggad"
+       "room": "Al-Juraysi002",
+       "building": null
       },
       {
        "day": "R",
        "start": "09:30",
        "end": "10:50",
-       "room": "Aggad303",
-       "building": "Aggad"
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
       }
      ]
     },
@@ -58,15 +58,15 @@
        "day": "W",
        "start": "11:00",
        "end": "12:20",
-       "room": "Aggad336",
-       "building": "Aggad"
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
       },
       {
        "day": "R",
        "start": "11:00",
        "end": "12:20",
-       "room": "Aggad336",
-       "building": "Aggad"
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
       }
      ]
     },
@@ -74,22 +74,22 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Samuel Eduardo  Martin",
-     "enrolled": 56,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
        "day": "T",
        "start": "12:30",
        "end": "13:50",
-       "room": "Al-Juraysi027",
-       "building": null
+       "room": "ALSADIK102",
+       "building": "ALSADIK"
       },
       {
        "day": "W",
        "start": "12:30",
        "end": "13:50",
-       "room": "Al-Juraysi027",
-       "building": null
+       "room": "ALSADIK103",
+       "building": "ALSADIK"
       }
      ]
     }

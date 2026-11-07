@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 174,
+     "enrolled": 176,
      "capacity": null,
      "meetings": [
       {
@@ -44,7 +44,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 142,
+     "enrolled": 143,
      "capacity": null,
      "meetings": [
       {
@@ -76,7 +76,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Raghad Abd Elhameed Mohammad Mohammad",
-     "enrolled": 37,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -124,7 +124,7 @@
      "type": "Discussion",
      "number": "5",
      "instructor": "Qamar Eyad Mahmmoud Barghouthi",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -400,7 +400,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ghada Adnan Kathem Almadbouh",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -460,7 +460,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Mahmoud Abed Mousa",
-     "enrolled": 25,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -490,7 +490,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -520,7 +520,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Murad Abdel-Majid Abdel-Qader Shaheen",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -550,7 +550,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 26,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {
@@ -610,7 +610,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah",
-     "enrolled": 11,
+     "enrolled": 10,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 20,
   "sections": 36,
   "instructors": 11,
-  "rooms": 29
+  "rooms": 30
  },
  "courses": [
   {
@@ -369,15 +369,15 @@
        "day": "S",
        "start": "09:30",
        "end": "10:50",
-       "room": "Bamieh103",
-       "building": "Bamieh"
+       "room": "PNH403",
+       "building": "PNH"
       },
       {
        "day": "M",
        "start": "09:30",
        "end": "10:50",
-       "room": "Bamieh103",
-       "building": "Bamieh"
+       "room": "PNH203",
+       "building": "PNH"
       }
      ]
     },

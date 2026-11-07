@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -196,7 +196,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Tasneem Abdallah Abd Almajeed Barakat",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -380,7 +380,7 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Manal Salah Ibrahim Hassan",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -541,7 +541,7 @@
      "type": "Lecture",
      "number": "21",
      "instructor": "Hazem Hasan Ahmad Albarghouthi",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -1093,7 +1093,7 @@
      "type": "Lecture",
      "number": "47",
      "instructor": "Sami Ehmedan Rasheed Sha\"Th",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -1395,7 +1395,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -1425,7 +1425,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ammar Abed Elqader Mohammad Shibli",
-     "enrolled": 29,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {

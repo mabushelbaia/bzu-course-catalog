@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -74,7 +74,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdul Karim Majed Mustafa Barghothi",
-     "enrolled": 48,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -258,7 +258,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Manar Mohammad Afif Kawasmi",
-     "enrolled": 50,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -396,7 +396,7 @@
      "type": "Lecture",
      "number": "19",
      "instructor": "Imad Sami Ahmad Sayrafi",
-     "enrolled": 43,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -449,7 +449,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rami Fawzi Issa Salameh",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -472,7 +472,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamal Mahmoud Yousef Daher",
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -495,7 +495,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Munir Kamal Hani Fakher Eldin",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -541,7 +541,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Huda Ribhi Hassan Awad",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -702,7 +702,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Sa'D Fathi Said Nimer",
-     "enrolled": 47,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {
@@ -725,7 +725,7 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Raed Taleb Bader Bader",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -794,7 +794,7 @@
      "type": "Lecture",
      "number": "17",
      "instructor": "Jamal Mahmoud Yousef Daher",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -840,7 +840,7 @@
      "type": "Lecture",
      "number": "19",
      "instructor": "Rana Adeeb Abdullah Kherawish",
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -916,7 +916,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdulrahim M. A. Al Shaikh",
-     "enrolled": 56,
+     "enrolled": 57,
      "capacity": null,
      "meetings": [
       {
@@ -948,7 +948,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
-     "enrolled": 27,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {

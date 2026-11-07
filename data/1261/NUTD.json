@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 15,
   "sections": 27,
   "instructors": 13,
-  "rooms": 12
+  "rooms": 11
  },
  "courses": [
   {
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
-     "enrolled": 30,
+     "enrolled": 31,
      "capacity": null,
      "meetings": [
       {
@@ -451,15 +451,15 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ola Talal Abdallah Karmei",
-     "enrolled": 53,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
        "day": "S",
        "start": "09:00",
        "end": "10:50",
-       "room": "PNH201",
-       "building": "PNH"
+       "room": null,
+       "building": null
       }
      ]
     }
@@ -474,7 +474,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rafi Hussien Mahmoud Asfour",
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {

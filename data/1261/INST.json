@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-07T17:45:06+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "INST",
  "counts": {
   "courses": 9,
-  "sections": 16,
+  "sections": 17,
   "instructors": 9,
   "rooms": 5
  },
@@ -252,6 +252,14 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Murad Abdel-Majid Abdel-Qader Shaheen",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Basil Abdelrazeq Yaseen Farraj",
      "enrolled": 1,
      "capacity": null,
      "meetings": []
