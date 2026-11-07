@@ -7,7 +7,7 @@ Writes, per semester:
     data/<term>.json              every course, section and meeting
     data/<term>/<PREFIX>.json     the same, one file per course prefix (e.g. ENCS) for small static sites
 and data/index.json listing the semesters, their counts and when their data last changed.
-A semester's files are only rewritten when its data actually changed, so hourly runs that find
+A semester's files are only rewritten when its data actually changed, so daily runs that find
 nothing new produce no commit.
 """
 

@@ -1,10 +1,10 @@
 name: Scrape course catalog
 
-# Every hour: fetch the newest published semesters from Ritaj's public Course Browser through
+# Once a day: fetch the newest published semesters from Ritaj's public Course Browser through
 # FlareSolverr (same container as course-schedule, no login) and commit data/ when it changed.
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17 3 * * *"   # 03:17 UTC, early morning in Palestine
   workflow_dispatch:
     inputs:
       terms:

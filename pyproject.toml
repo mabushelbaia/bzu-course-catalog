@@ -1,7 +1,7 @@
 [project]
 name = "bzu-course-catalog"
 version = "0.1.0"
-description = "Birzeit University course schedules as JSON, scraped hourly from Ritaj's public Course Browser."
+description = "Birzeit University course schedules as JSON, scraped daily from Ritaj's public Course Browser."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
