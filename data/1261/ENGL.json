@@ -1,0 +1,991 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ENGL",
+ "counts": {
+  "courses": 20,
+  "sections": 36,
+  "instructors": 11,
+  "rooms": 29
+ },
+ "courses": [
+  {
+   "code": "ENGL233",
+   "prefix": "ENGL",
+   "name": "WRITING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Shams Wael I. Karain",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sumaia Mohammad Ahmad Haj Mohammad",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Shams Wael I. Karain",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Maen Hussam Abdlatife Saa",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL234",
+   "prefix": "ENGL",
+   "name": "WRITING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Habib I. M. Abu Hashhash",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi227",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi227",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad311",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL235",
+   "prefix": "ENGL",
+   "name": "ENGLISH GRAMMAR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Fadel Ahmad Al-Alem",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammad Fadel Ahmad Al-Alem",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury112",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury112",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL236",
+   "prefix": "ENGL",
+   "name": "INTRODUCTION TO LINGUISTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Wael Abed Lafi Abdeen",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Fadel Ahmad Al-Alem",
+     "enrolled": 35,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Wael Abed Lafi Abdeen",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL237",
+   "prefix": "ENGL",
+   "name": "FUNCTIONAL PHONETICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Wael Abed Lafi Abdeen",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Wael Abed Lafi Abdeen",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL238",
+   "prefix": "ENGL",
+   "name": "INTRODUCTION TO LITERATURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH303",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL330",
+   "prefix": "ENGL",
+   "name": "ENGLISH LITERATURE 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Laila K. I Shikaki",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL331",
+   "prefix": "ENGL",
+   "name": "ENGLISH LITERATURE 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Habib I. M. Abu Hashhash",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL3321",
+   "prefix": "ENGL",
+   "name": "STRUCTURE AND DEVELOPMENT OF THE NOVEL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Laila K. I Shikaki",
+     "enrolled": 35,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Laila K. I Shikaki",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL333",
+   "prefix": "ENGL",
+   "name": "CRITICISM: THEORY AND PRACTICE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sumaia Mohammad Ahmad Haj Mohammad",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi225",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi223",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Sumaia Mohammad Ahmad Haj Mohammad",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL334",
+   "prefix": "ENGL",
+   "name": "PHONOLOGY AND MORPHOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Fadel Ahmad Al-Alem",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi129",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi129",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL336",
+   "prefix": "ENGL",
+   "name": "SYNTAX",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Mahmoud Abdulhafez Abu Awad",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi225",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi225",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ahmad Mahmoud Abdulhafez Abu Awad",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL337",
+   "prefix": "ENGL",
+   "name": "SEMANTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Mahmoud Abdulhafez Abu Awad",
+     "enrolled": 35,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Maen Hussam Abdlatife Saa",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL339",
+   "prefix": "ENGL",
+   "name": "INTERACTIVE ENGLISH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Laila K. I Shikaki",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Maen Hussam Abdlatife Saa",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ahmad Mahmoud Abdulhafez Abu Awad",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL4301",
+   "prefix": "ENGL",
+   "name": "DEVELOPMENT OF DRAMA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dolly Wadi' Farah Nammour",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi129",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi129",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL431",
+   "prefix": "ENGL",
+   "name": "SHAKESPEARE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dolly Wadi' Farah Nammour",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL435",
+   "prefix": "ENGL",
+   "name": "MODERN POETRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL437",
+   "prefix": "ENGL",
+   "name": "WORLD LITERATURE IN ENGLISH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dolly Wadi' Farah Nammour",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL4381",
+   "prefix": "ENGL",
+   "name": "SEMINAR IN LINGUISTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maen Hussam Abdlatife Saa",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGL4382",
+   "prefix": "ENGL",
+   "name": "SEMINAR IN LITERATURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lloyd Howard James Precious",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Dolly Wadi' Farah Nammour",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

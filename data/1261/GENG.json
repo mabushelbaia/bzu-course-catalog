@@ -1,0 +1,147 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "GENG",
+ "counts": {
+  "courses": 2,
+  "sections": 6,
+  "instructors": 2,
+  "rooms": 4
+ },
+ "courses": [
+  {
+   "code": "GENG2210",
+   "prefix": "GENG",
+   "name": "ENVIRONMENTAL MANAGEMENT FOR SUSTAINABLE DEVELOPMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Maher Omar Rushdi Abu-Madi",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Maher Omar Rushdi Abu-Madi",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Aggad407",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GENG2310",
+   "prefix": "GENG",
+   "name": "INTRODUCTION TO ENVIRONMENT AND SOCIETY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "enrolled": 93,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad221",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad221",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Maher Omar Rushdi Abu-Madi",
+     "enrolled": 89,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad221",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad221",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

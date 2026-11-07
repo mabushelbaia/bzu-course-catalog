@@ -1,0 +1,564 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "BCLS",
+ "counts": {
+  "courses": 9,
+  "sections": 29,
+  "instructors": 9,
+  "rooms": 10
+ },
+ "courses": [
+  {
+   "code": "BCLS2100",
+   "prefix": "BCLS",
+   "name": "LAWS AND ETHICS OF MEDICAL LABORATORY SCIENCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shadi Khalil Mohummad Hasan",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Shadi Khalil Mohummad Hasan",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS3310",
+   "prefix": "BCLS",
+   "name": "CLINICAL CHEMISTRY 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 65,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH322",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH322",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH322",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS3320",
+   "prefix": "BCLS",
+   "name": "CLINICAL HEMATOLOGY 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 69,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Hamam A. H. Ali",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Hamam A. H. Ali",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "4",
+     "instructor": "Hamam A. H. Ali",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS3350",
+   "prefix": "BCLS",
+   "name": "DIAGNOSTIC PARASITOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Suzan Khamees Hussein Edkaidek",
+     "enrolled": 54,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Suzan Khamees Hussein Edkaidek",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH300",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Suzan Khamees Hussein Edkaidek",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH300",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Suzan Khamees Hussein Edkaidek",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH300",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS3370",
+   "prefix": "BCLS",
+   "name": "MEDICAL VIROLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Abdalraziq Ibrahim Salhi",
+     "enrolled": 60,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen150",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen152",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS3410",
+   "prefix": "BCLS",
+   "name": "CLINICAL IMMUNOLOGY AND SEROLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Emilia Joseph Antonio Rappocciolo",
+     "enrolled": 64,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Osayd S. F. Zohud",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS4220",
+   "prefix": "BCLS",
+   "name": "BODY FLUIDS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Osayd S. F. Zohud",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH322",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Osayd S. F. Zohud",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH322",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Osayd S. F. Zohud",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH322",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS4240",
+   "prefix": "BCLS",
+   "name": "ENDOCRINE GLANDS AND HORMONES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rania Daoud Abdel Latif Abu Hamdah",
+     "enrolled": 63,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS4300",
+   "prefix": "BCLS",
+   "name": "IMMUNOHEMATOLOGY AND BLOOD BANKING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH322",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

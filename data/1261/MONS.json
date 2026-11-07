@@ -1,0 +1,199 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MONS",
+ "counts": {
+  "courses": 8,
+  "sections": 9,
+  "instructors": 5,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "MONS6200",
+   "prefix": "MONS",
+   "name": "NURSING HEALTH ASSESSMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH413",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MONS6210",
+   "prefix": "MONS",
+   "name": "PATHOPHYSIOLOGY FOR ADVANCED NURSING PRACTICE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MONS6220",
+   "prefix": "MONS",
+   "name": "APPLIED PHARMACOLOGY IN NURSING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lina Ibrahim Ahmed Adwan",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MONS6300",
+   "prefix": "MONS",
+   "name": "PROFESSIONAL NURSING ISSUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khalid Samer Ahmad Yaseen",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MONS7200",
+   "prefix": "MONS",
+   "name": "CRITICAL CARE NURSING II",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "PNH413",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MONS7210",
+   "prefix": "MONS",
+   "name": "CRITICAL CARE NURSING (CLINICAL II)",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Haya N. H. Nofal",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MONS8300",
+   "prefix": "MONS",
+   "name": "SEMINAR I",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH413",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MONS8600",
+   "prefix": "MONS",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

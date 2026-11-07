@@ -1,0 +1,509 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "CSEC",
+ "counts": {
+  "courses": 11,
+  "sections": 24,
+  "instructors": 9,
+  "rooms": 12
+ },
+ "courses": [
+  {
+   "code": "CSEC1310",
+   "prefix": "CSEC",
+   "name": "INTRODUCTION TO CYBER SECURITY AND PROFESSIONAL ETHICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ruba N. S. Awadallah",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC1320",
+   "prefix": "CSEC",
+   "name": "AUTHENTICATION AND ACCESS CONTROL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yousef W. S. Sabbah",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Masri106",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Masri106",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Masri106",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Y. M. Alkhanafseh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Masri106",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Masri106",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Masri106",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC2320",
+   "prefix": "CSEC",
+   "name": "MATHEMATICS FOR SECURITY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yousef W. S. Sabbah",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri502",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri502",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC2350",
+   "prefix": "CSEC",
+   "name": "CRYPTOGRAPHY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdallah Haidar Mohammad Karakra",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Masri304",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Masri304",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Abdallah Haidar Mohammad Karakra",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Masri507",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Abdallah Haidar Mohammad Karakra",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Masri402",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC3350",
+   "prefix": "CSEC",
+   "name": "OPERATING SYSTEM SECURITY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rashid F. R. Yousef",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri302",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri302",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC3360",
+   "prefix": "CSEC",
+   "name": "DATABASE SECURITY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ruba N. S. Awadallah",
+     "enrolled": 35,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Masri202",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Masri202",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Masri202",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC4200",
+   "prefix": "CSEC",
+   "name": "INTRODUCTION TO GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Y. M. Alkhanafseh",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammed H. S. Helal",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "CSEC4300",
+   "prefix": "CSEC",
+   "name": "GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Murad Subhi Abdelkareem Njoum",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdallah Haidar Mohammad Karakra",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Rashid F. R. Yousef",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Rashid F. R. Yousef",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ihab Basheer Mohammed Alshaer",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Hafez Ali Hafez Barghouthi",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Ihab Basheer Mohammed Alshaer",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Ruba N. S. Awadallah",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "CSEC4320",
+   "prefix": "CSEC",
+   "name": "ETHICAL HACKING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed H. S. Helal",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Mohammed H. S. Helal",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri505",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Mohammed H. S. Helal",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri505",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC4330",
+   "prefix": "CSEC",
+   "name": "WEB SECURITY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ihab Basheer Mohammed Alshaer",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Masri504",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Masri504",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Masri504",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC4350",
+   "prefix": "CSEC",
+   "name": "DIGITAL FORENSICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Y. M. Alkhanafseh",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri404",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri404",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,888 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "DSGN",
+ "counts": {
+  "courses": 16,
+  "sections": 47,
+  "instructors": 11,
+  "rooms": 5
+ },
+ "courses": [
+  {
+   "code": "DSGN1110",
+   "prefix": "DSGN",
+   "name": "STUDIO CULTURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "15:00",
+       "end": "15:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Aweidah203",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN1220",
+   "prefix": "DSGN",
+   "name": "HISTORY OF DESIGN 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN1310",
+   "prefix": "DSGN",
+   "name": "FOUNDATION  DRAWING  SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Reem N. A. Masri",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah234",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah234",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Reem N. A. Masri",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah143",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah143",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN1340",
+   "prefix": "DSGN",
+   "name": "IMAGE MAKING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yaqeen A. S. Alyamani",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "15:30",
+       "end": "16:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Yaqeen A. S. Alyamani",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Yaqeen A. S. Alyamani",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "15:20",
+       "room": "A.Shaheen002",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "15:20",
+       "room": "A.Shaheen002",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN1420",
+   "prefix": "DSGN",
+   "name": "DESIGN STUDIO 1: FOUNDATION 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": null,
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2230",
+   "prefix": "DSGN",
+   "name": "INTRODUCTION TO DESIGN THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2320",
+   "prefix": "DSGN",
+   "name": "INTRODUCTION TO FASHION TECHNOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "15:30",
+       "end": "16:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Dana Zeyad Mohammad Idries",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": null,
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah006",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah006",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2350",
+   "prefix": "DSGN",
+   "name": "MODELING AND PRINTING SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2430",
+   "prefix": "DSGN",
+   "name": "DESIGN STUDIO 3: FASHION DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Hafez Mu'En Hafez Omar",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN3240",
+   "prefix": "DSGN",
+   "name": "MATERIALS FOR DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN3320",
+   "prefix": "DSGN",
+   "name": "BRANDING DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hafez Mu'En Hafez Omar",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Hafez Mu'En Hafez Omar",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN3380",
+   "prefix": "DSGN",
+   "name": "WORKSHOPS 2: MOLDS, CERAMICS AND PROTOTYPING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": null,
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN3410",
+   "prefix": "DSGN",
+   "name": "ADVANCED DESIGN STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN4220",
+   "prefix": "DSGN",
+   "name": "ERGONOMICS: HUMAN CENTERED DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN4370",
+   "prefix": "DSGN",
+   "name": "SP.TOP: MOVING IMAGES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dana S. G. Durr",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN4411",
+   "prefix": "DSGN",
+   "name": "GRADUATION PROJECT 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hafez Mu'En Hafez Omar",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hafez Mu'En Hafez Omar",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Dana S. G. Durr",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Dana S. G. Durr",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Amer Majdi Yacoub Alshomali",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Muath Y. Kh. Surakji",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": null,
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": null,
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": null,
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": null,
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ARCH",
+ "counts": {
+  "courses": 2,
+  "sections": 2,
+  "instructors": 1,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "ARCH131",
+   "prefix": "ARCH",
+   "name": "INTRODUCTION TO ARCHAEOLOGY OF PALESTINE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Issam K. H. Halayqa",
+     "enrolled": 87,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen102",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen102",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARCH232",
+   "prefix": "ARCH",
+   "name": "STRATIGRAPHIC HISTORY OF PALESTINE 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Issam K. H. Halayqa",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

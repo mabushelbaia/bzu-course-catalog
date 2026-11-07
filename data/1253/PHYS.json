@@ -1,0 +1,392 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PHYS",
+ "counts": {
+  "courses": 6,
+  "sections": 17,
+  "instructors": 5,
+  "rooms": 7
+ },
+ "courses": [
+  {
+   "code": "PHYS111",
+   "prefix": "PHYS",
+   "name": "GENERAL PHYSICS LAB 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI259",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI259",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHYS112",
+   "prefix": "PHYS",
+   "name": "GENERAL PHYSICS LAB 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Isma'El Daoud Mohummad Badran",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI253",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Isma'El Daoud Mohummad Badran",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI253",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Zafer M. A. Hawash",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI253",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI253",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Sami Ali Abdelmajeed Naser",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI253",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHYS132",
+   "prefix": "PHYS",
+   "name": "GENERAL PHYSICS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "enrolled": 135,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "SCI240",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Zafer M. A. Hawash",
+     "enrolled": 77,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI240",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:30",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "enrolled": 59,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:30",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "3",
+     "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "10:20",
+       "end": "11:20",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "5",
+     "instructor": "Zafer M. A. Hawash",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:10",
+       "end": "10:10",
+       "room": "SCI114",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "8",
+     "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:30",
+       "end": "12:30",
+       "room": "SCI114",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHYS1331",
+   "prefix": "PHYS",
+   "name": "GENERAL PHYSICS FOR PHARMACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Zafer M. A. Hawash",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI213",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI213",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI213",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHYS141",
+   "prefix": "PHYS",
+   "name": "GENERAL PHYSICS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Isma'El Daoud Mohummad Badran",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHYS830",
+   "prefix": "PHYS",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ACCA",
+ "counts": {
+  "courses": 5,
+  "sections": 15,
+  "instructors": 4,
+  "rooms": 4
+ },
+ "courses": [
+  {
+   "code": "ACCA6320",
+   "prefix": "ACCA",
+   "name": "STUDIES IN INTERNATIONAL FINANCIAL REPORTING STANDARDS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCA6330",
+   "prefix": "ACCA",
+   "name": "ADVANCED ACCOUNTING THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCA7310",
+   "prefix": "ACCA",
+   "name": "INTERNAL AUDITING AND CORPORATE GOVERNANCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi321",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCA8310",
+   "prefix": "ACCA",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi222",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCA8600",
+   "prefix": "ACCA",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Yousef Mohammad Yousef Hassan",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Yousef Mohammad Yousef Hassan",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Yousef Mohammad Yousef Hassan",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Yousef Mohammad Yousef Hassan",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Yousef Mohammad Yousef Hassan",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

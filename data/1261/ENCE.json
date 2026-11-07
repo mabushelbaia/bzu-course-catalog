@@ -1,0 +1,1464 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ENCE",
+ "counts": {
+  "courses": 41,
+  "sections": 67,
+  "instructors": 12,
+  "rooms": 20
+ },
+ "courses": [
+  {
+   "code": "ENCE2150",
+   "prefix": "ENCE",
+   "name": "CONSTRUCTION MATERIALS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saheem Kamel Abdullah Murshid",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad131",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE2160",
+   "prefix": "ENCE",
+   "name": "CONSTRUCTION MATERIALS LAB FOR ARCHITECTURAL AND ENVIRONMENTAL ENGINEERING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdelrahman I. S. Hamdan",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad131",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdelrahman I. S. Hamdan",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad131",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad131",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE2230",
+   "prefix": "ENCE",
+   "name": "MECHANICS FOR ARCHITECTURAL AND PLANNING ENGINEERING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saheem Kamel Abdullah Murshid",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE231",
+   "prefix": "ENCE",
+   "name": "ENGINEERING GEOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdelrahman I. S. Hamdan",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad338",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad338",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE2320",
+   "prefix": "ENCE",
+   "name": "STATICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Khaled Adeeb Zaki Abaza",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Abdelrahman I. S. Hamdan",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Omar Rabah Raghib Zimmo",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad311",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad311",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE2330",
+   "prefix": "ENCE",
+   "name": "MECHANICS OF MATERIALS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ghada Jamil Husni Karaki",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE2340",
+   "prefix": "ENCE",
+   "name": "CONSTRUCTION MATERIALS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdelrahman I. S. Hamdan",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE2352",
+   "prefix": "ENCE",
+   "name": "STRUCTURAL SYSTEMS FOR NON-CIVIL ENGINEERING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farhat M. M. Majadba",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad336",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad336",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Farhat M. M. Majadba",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE2360",
+   "prefix": "ENCE",
+   "name": "STATICS AND MECHANICS OF MATERIALS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ghada Jamil Husni Karaki",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ghada Jamil Husni Karaki",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad307",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad307",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE311",
+   "prefix": "ENCE",
+   "name": "SOIL MECHANICS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saheem Kamel Abdullah Murshid",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad232",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3160",
+   "prefix": "ENCE",
+   "name": "SURVEYING LAB FOR CIVIL AND ENVIRONMENTAL ENGINEERING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Adeeb Zaki Abaza",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad136/2",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Khaled Adeeb Zaki Abaza",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:40",
+       "room": "Aggad136/2",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3170",
+   "prefix": "ENCE",
+   "name": "SURVEYING LAB FOR ARCHITECTURAL AND PLANNING ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdul Naser Amin Ahed Arafat",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad136/2",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdul Naser Amin Ahed Arafat",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad136/2",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad136/2",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3180",
+   "prefix": "ENCE",
+   "name": "STRUCTURAL MECHANICS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ghada Jamil Husni Karaki",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad136/1",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3190",
+   "prefix": "ENCE",
+   "name": "BUILDING CONSTRUCTION AND ENGINEERING DRAWINGS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdelrahman I. S. Hamdan",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad125",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3270",
+   "prefix": "ENCE",
+   "name": "SURVEYING FOR ARCHITECTURAL AND PLANNING ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Aggad407",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdul Naser Amin Ahed Arafat",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Aggad338",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3310",
+   "prefix": "ENCE",
+   "name": "SOIL MECHANICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saheem Kamel Abdullah Murshid",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3332",
+   "prefix": "ENCE",
+   "name": "STRUCTURAL ANALYSIS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3342",
+   "prefix": "ENCE",
+   "name": "STRUCTURAL ANALYSIS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad407",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad407",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3350",
+   "prefix": "ENCE",
+   "name": "REINFORCED CONCRETE DESIGN 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3370",
+   "prefix": "ENCE",
+   "name": "SURVEYING FOR CIVIL AND ENVIRONMENTAL ENGINEERING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Adeeb Zaki Abaza",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad407",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad407",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3380",
+   "prefix": "ENCE",
+   "name": "BUILDING CONSTRUCTION AND ENGINEERING DRAWINGS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farhat M. M. Majadba",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad336",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad336",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE3391",
+   "prefix": "ENCE",
+   "name": "TRANSPORTATION ENGINEERING FOR URBAN PLANNING AND DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdul Naser Amin Ahed Arafat",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad407",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad407",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4110",
+   "prefix": "ENCE",
+   "name": "SEMINAR IN CIVIL AND ENVIRONMENTAL ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Rabah Raghib Zimmo",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4120",
+   "prefix": "ENCE",
+   "name": "INFRASTRUCTURE LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Rabah Raghib Zimmo",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad125",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4210",
+   "prefix": "ENCE",
+   "name": "CONTRACTS, SPECIFICATIONS AND QUANTITY SURVEYING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE431",
+   "prefix": "ENCE",
+   "name": "TRANSPORTATION ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdul Naser Amin Ahed Arafat",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad332",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4332",
+   "prefix": "ENCE",
+   "name": "CONSTRUCTION MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4342",
+   "prefix": "ENCE",
+   "name": "PROFESSIONAL PRACTICE AND PROJECT MANAGEMENT FOR ARCHITECTURAL AND ENVIRONMENTAL ENGINEERING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad336",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad336",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad407",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad407",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE435",
+   "prefix": "ENCE",
+   "name": "HYDROLOGY AND HYDRAULICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Rabah Raghib Zimmo",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad332",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4360",
+   "prefix": "ENCE",
+   "name": "REINFORCED CONCRETE DESIGN 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4370",
+   "prefix": "ENCE",
+   "name": "STEEL STRUCTURES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad307",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad307",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4380",
+   "prefix": "ENCE",
+   "name": "HIGHWAY ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Adeeb Zaki Abaza",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad307",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad307",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4420",
+   "prefix": "ENCE",
+   "name": "FOUNDATION ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saheem Kamel Abdullah Murshid",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad336",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad336",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Aggad336",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE4421",
+   "prefix": "ENCE",
+   "name": "EARTHQUAKE ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farhat M. M. Majadba",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Aggad221",
+       "building": "Aggad"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad411",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad411",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE520",
+   "prefix": "ENCE",
+   "name": "INTRODUCTION TO GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Khaled Adeeb Zaki Abaza",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ghada Jamil Husni Karaki",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Khaled Adeeb Zaki Abaza",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Saheem Kamel Abdullah Murshid",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Saheem Kamel Abdullah Murshid",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Omar Rabah Raghib Zimmo",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ENCE530",
+   "prefix": "ENCE",
+   "name": "GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khalil Mosab Khalil Qatu",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Khalil Mosab Khalil Qatu",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Khaled Adeeb Zaki Abaza",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ENCE5381",
+   "prefix": "ENCE",
+   "name": "SP.TOP: SCIENTIFIC RESEARCH METHODS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdul Naser Amin Ahed Arafat",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE6310",
+   "prefix": "ENCE",
+   "name": "ADVANCED CONSTRUCTION MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE6312",
+   "prefix": "ENCE",
+   "name": "SCIENTIFIC RESEARCH METHODS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdul Naser Amin Ahed Arafat",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE6331",
+   "prefix": "ENCE",
+   "name": "ADVANCED REINFORCED CONCRETE DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENCE860",
+   "prefix": "ENCE",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khalil Mosab Khalil Qatu",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Khalil Mosab Khalil Qatu",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Khalil Mosab Khalil Qatu",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

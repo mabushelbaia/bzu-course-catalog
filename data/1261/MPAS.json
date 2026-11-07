@@ -1,0 +1,215 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MPAS",
+ "counts": {
+  "courses": 8,
+  "sections": 12,
+  "instructors": 5,
+  "rooms": 5
+ },
+ "courses": [
+  {
+   "code": "MPAS6300",
+   "prefix": "MPAS",
+   "name": "SCIENTIFIC RESEARCH APPROACHES IN SOCIAL SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS6330",
+   "prefix": "MPAS",
+   "name": "PUBLIC POLICY PRINCIPLES (POLICY DESIGN, IMPLEMENTATION, AND EVALUATION)",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK203",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS7370",
+   "prefix": "MPAS",
+   "name": "STRATEGIC PLANNING AND MANAGEMENT IN THE PUBLIC SECTOR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS7391",
+   "prefix": "MPAS",
+   "name": "ADMINISTRATIVE REFORM STRATEGIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayman Elias Yousef Zaru",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK305",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS8010",
+   "prefix": "MPAS",
+   "name": "PRACTICAL INTERNSHIP",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farid Mohammad Farid Irshaid",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MPAS8060",
+   "prefix": "MPAS",
+   "name": "COMPREHENSIVE EXAM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farid Mohammad Farid Irshaid",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MPAS8300",
+   "prefix": "MPAS",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayman Elias Yousef Zaru",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS8600",
+   "prefix": "MPAS",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ayman Elias Yousef Zaru",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ayman Elias Yousef Zaru",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "WOMS",
+ "counts": {
+  "courses": 5,
+  "sections": 7,
+  "instructors": 3,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "WOMS231",
+   "prefix": "WOMS",
+   "name": "INTRODUCTION TO WOMEN'S STUDIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Ya'Qoub Sam'An Abu Duhou",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rula Ya'Qoub Sam'An Abu Duhou",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Samar Anton Eskander Kassis",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WOMS234",
+   "prefix": "WOMS",
+   "name": "WOMAN IN PSYCHOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Amirah Mohammad Faraj Silmi",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WOMS235",
+   "prefix": "WOMS",
+   "name": "WOMEN IN MEDIA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Ya'Qoub Sam'An Abu Duhou",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WOMS236",
+   "prefix": "WOMS",
+   "name": "FEMINIST METHODOLOGIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Ya'Qoub Sam'An Abu Duhou",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bahrain101",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WOMS331",
+   "prefix": "WOMS",
+   "name": "HISTORY OF FEMINISM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Amirah Mohammad Faraj Silmi",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

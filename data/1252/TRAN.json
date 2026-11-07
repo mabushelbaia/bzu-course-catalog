@@ -1,0 +1,927 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "TRAN",
+ "counts": {
+  "courses": 19,
+  "sections": 30,
+  "instructors": 8,
+  "rooms": 25
+ },
+ "courses": [
+  {
+   "code": "TRAN3100",
+   "prefix": "TRAN",
+   "name": "PRACTICAL TRAINING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "TRAN331",
+   "prefix": "TRAN",
+   "name": "PRACTICE IN GENERAL TRANSLATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nadim M. Y. Ihshaish",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN334",
+   "prefix": "TRAN",
+   "name": "TRANSLATION OF JOURNALISTIC TEXTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN3340",
+   "prefix": "TRAN",
+   "name": "TRANSLATION OF JOURNALISTIC, POLITICAL AND ECONOMIC TEXTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Yasser Mohawesh Hussein Amro",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh202",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN3350",
+   "prefix": "TRAN",
+   "name": "TERMINOLOGY AND LEXICOGRAPHY IN TRANSLATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samir Mohammad Nimer Mouqada",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Samir Mohammad Nimer Mouqada",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN3360",
+   "prefix": "TRAN",
+   "name": "USING TECHNOLOGY IN TRANSLATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen002",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen002",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen002",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN3370",
+   "prefix": "TRAN",
+   "name": "CONTRASTIVE TEXT ANALYSIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Afaf R. A. Said",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN3380",
+   "prefix": "TRAN",
+   "name": "TRANSLATION ISSUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Afaf R. A. Said",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "ALSADIK409",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "ALSADIK409",
+       "building": "ALSADIK"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Afaf R. A. Said",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN3390",
+   "prefix": "TRAN",
+   "name": "SIGHT TRANSLATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. K. Zaid",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN3410",
+   "prefix": "TRAN",
+   "name": "INTRODUCTION TO TRANSLATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nadim M. Y. Ihshaish",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Nadim M. Y. Ihshaish",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Aggad407",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad407",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad407",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN4100",
+   "prefix": "TRAN",
+   "name": "PRACTICAL TRAINING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. K. Zaid",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "TRAN4101",
+   "prefix": "TRAN",
+   "name": "PRACTICAL TRAINING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. K. Zaid",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "TRAN432",
+   "prefix": "TRAN",
+   "name": "TRANSLATION OF LITERARY TEXTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN433",
+   "prefix": "TRAN",
+   "name": "INTERPRETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. K. Zaid",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammed S. K. Zaid",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI021",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN4340",
+   "prefix": "TRAN",
+   "name": "SP.TOP: AUDIOVISUAL TRANSLATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. K. Zaid",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN435",
+   "prefix": "TRAN",
+   "name": "TRANSLATION OF LEGAL TEXTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN436",
+   "prefix": "TRAN",
+   "name": "TRANSLATION OF DIPLOMATIC AND POLITICAL TEXTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yasser Mohawesh Hussein Amro",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN4380",
+   "prefix": "TRAN",
+   "name": "TRANSLATION OF HUMAN AND SOCIAL SCIENCE TEXTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yasser Mohawesh Hussein Amro",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "TRAN4390",
+   "prefix": "TRAN",
+   "name": "SEMINAR IN LINGUISTICS AND TRANSLATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Afaf R. A. Said",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI012",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammed S. K. Zaid",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

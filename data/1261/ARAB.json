@@ -1,0 +1,1922 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ARAB",
+ "counts": {
+  "courses": 24,
+  "sections": 82,
+  "instructors": 31,
+  "rooms": 42
+ },
+ "courses": [
+  {
+   "code": "ARAB1111",
+   "prefix": "ARAB",
+   "name": "DEBATE AND ORATORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mashhour Mousa Mashhour Mshahreh",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB135",
+   "prefix": "ARAB",
+   "name": "ARABIC LANGUAGE SKILLS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Thabit Muhammad Khalil Hamed",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB1360",
+   "prefix": "ARAB",
+   "name": "ARABIC LANGUAGE SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Duaa Wajdi Saleem Shuaibi",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad338",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad338",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Yasmeen Wael Ahmad Twaashi",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Manal Salah Ibrahim Hassan",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ibrahim Nimer Hassan Mousa",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury005",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury005",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Fatima M. A. Hreash",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Khoury010",
+       "building": "Khoury"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Khoury010",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Tasneem Abdallah Abd Almajeed Barakat",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI112",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Gadeer Othman Taha Kharoubi",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Hazem Hasan Ahmad Albarghouthi",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Ali Hasan Ali Khawaja",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi329",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi329",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Ali Hasan Ali Khawaja",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Ammar Abed Elqader Mohammad Shibli",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Abdalmajid A. A. Hamed",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Khoury005",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Khoury005",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Bilal Hassan Taleb Laimoun",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri406",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri406",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Manal Salah Ibrahim Hassan",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury105",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury105",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "15",
+     "instructor": "Ibrahim Mohammad Ahmad Abu Hashhash",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury105",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury105",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "16",
+     "instructor": "Ammar Abed Elqader Mohammad Shibli",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "17",
+     "instructor": "Suhaib Jalal Abdel Majeed Wadi",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Khoury105",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Khoury105",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "18",
+     "instructor": "Jamal Abdeljaber Abdelmuti Assi",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "19",
+     "instructor": "Safa H. A. Ali Ahmad",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "20",
+     "instructor": "Suhaib Jalal Abdel Majeed Wadi",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad221",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad221",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "21",
+     "instructor": "Hazem Hasan Ahmad Albarghouthi",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury112",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury112",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "22",
+     "instructor": "Tasneem Abdallah Abd Almajeed Barakat",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri202",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri202",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "23",
+     "instructor": "Abdalmajid A. A. Hamed",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "24",
+     "instructor": "Baheya Ahmed Abdallah Daoud",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "25",
+     "instructor": "Baheya Ahmed Abdallah Daoud",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "26",
+     "instructor": "Safa H. A. Ali Ahmad",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "27",
+     "instructor": "Mariam S. A. Karakrah",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "28",
+     "instructor": "Samir Mohammad Nimer Mouqada",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad411",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad411",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "29",
+     "instructor": "Ammar Abed Elqader Mohammad Shibli",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "30",
+     "instructor": "Ali Hasan Ali Khawaja",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "31",
+     "instructor": "Khamees Ahmed Mohammad Rayyan",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "32",
+     "instructor": "Noor Alhuda Ahmad Ali Kateeb",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi325",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi325",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "33",
+     "instructor": "Majdoleen Marzouq Ahmad Abed-Rabou",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad303",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "34",
+     "instructor": "Mashhour Mousa Mashhour Mshahreh",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "35",
+     "instructor": "Ibrahim Nimer Hassan Mousa",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi227",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi329",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "37",
+     "instructor": "Gadeer Othman Taha Kharoubi",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "38",
+     "instructor": "Ola Azzam Kamal Abu Beih",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "39",
+     "instructor": "Thabit Muhammad Khalil Hamed",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "40",
+     "instructor": "Thabit Muhammad Khalil Hamed",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury005",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury005",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "41",
+     "instructor": "Thabit Muhammad Khalil Hamed",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "42",
+     "instructor": "Ola Azzam Kamal Abu Beih",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "43",
+     "instructor": "Fatima M. A. Hreash",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "44",
+     "instructor": "Abedalraheem Y. A. Mansour",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Khoury112",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Khoury112",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "45",
+     "instructor": "Ola Azzam Kamal Abu Beih",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "47",
+     "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "48",
+     "instructor": "Jamal Abdeljaber Abdelmuti Assi",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "49",
+     "instructor": "Samir Mohammad Nimer Mouqada",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "50",
+     "instructor": "Gadeer Othman Taha Kharoubi",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB137",
+   "prefix": "ARAB",
+   "name": "ARABIC LANGUAGE AND INTELLECTUAL THOUGHT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mohammad Ahmad Abu Hashhash",
+     "enrolled": 77,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB2301",
+   "prefix": "ARAB",
+   "name": "INTRODUCTION TO PALESTINIAN LITERATURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Gadeer Othman Taha Kharoubi",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB231",
+   "prefix": "ARAB",
+   "name": "INTRODUCTION TO ARABIC LITERATURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ali Hasan Ali Khawaja",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bahrain221",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bahrain221",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB2320",
+   "prefix": "ARAB",
+   "name": "INTRODUCTION TO ARABIC LINGUISTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasralla Mohammad Ahmad Alshaier",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB233",
+   "prefix": "ARAB",
+   "name": "ARABIC GRAMMAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB234",
+   "prefix": "ARAB",
+   "name": "PRE-ISLAMIC LITERATURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mohammad Ahmad Abu Hashhash",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB2361",
+   "prefix": "ARAB",
+   "name": "ARABIC FOR TRANSLATION PURPOSES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury010",
+       "building": "Khoury"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury010",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB2390",
+   "prefix": "ARAB",
+   "name": "PROSODY AND RHYME",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ammar Abed Elqader Mohammad Shibli",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB2391",
+   "prefix": "ARAB",
+   "name": "RHETORIC",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mashhour Mousa Mashhour Mshahreh",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB331",
+   "prefix": "ARAB",
+   "name": "QUR'ANIC STUDIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mashhour Mousa Mashhour Mshahreh",
+     "enrolled": 56,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nasralla Mohammad Ahmad Alshaier",
+     "enrolled": 57,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Nasralla Mohammad Ahmad Alshaier",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury105",
+       "building": "Khoury"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mashhour Mousa Mashhour Mshahreh",
+     "enrolled": 54,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB333",
+   "prefix": "ARAB",
+   "name": "ABBASID POETRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Thabit Muhammad Khalil Hamed",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB334",
+   "prefix": "ARAB",
+   "name": "ARABIC GRAMMAR 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB339",
+   "prefix": "ARAB",
+   "name": "METHODOLOGY OF MODERN LITERARY CRITICISM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Nimer Hassan Mousa",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury005",
+       "building": "Khoury"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Khoury105",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB431",
+   "prefix": "ARAB",
+   "name": "LINGUISTIC APPLICATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasralla Mohammad Ahmad Alshaier",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB437",
+   "prefix": "ARAB",
+   "name": "GENERAL LINGUISTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahdi Asad Saleh Arar",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury112",
+       "building": "Khoury"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury112",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB438",
+   "prefix": "ARAB",
+   "name": "SEMINAR IN ARABIC LANGUAGE AND LITERATURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahdi Asad Saleh Arar",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB630",
+   "prefix": "ARAB",
+   "name": "RESEARCH METHODS IN LANGUAGE, LITERATURE, AND MANUSCRIPT AUTHENTICATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahdi Asad Saleh Arar",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain221",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB631",
+   "prefix": "ARAB",
+   "name": "TRENDS IN CLASSICAL ARABIC LITERATURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mohammad Ahmad Abu Hashhash",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain321",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB734",
+   "prefix": "ARAB",
+   "name": "STUDIES IN MODERN LITERARY CRITICISM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Nimer Hassan Mousa",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB739",
+   "prefix": "ARAB",
+   "name": "SP.TOP: LINGUISTIC EXEGESIS OF THE HOLY QUR’AN: AL-BAHR AL-MUHIT BY ABU HAYYAN AL-ANDALUSI AS A CASE STUDY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mashhour Mousa Mashhour Mshahreh",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARAB860",
+   "prefix": "ARAB",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasralla Mohammad Ahmad Alshaier",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ibrahim Nimer Hassan Mousa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mousa Mitry Ibraheem Khoury",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mahdi Asad Saleh Arar",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ibrahim Nimer Hassan Mousa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Ibrahim Nimer Hassan Mousa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Mousa Mitry Ibraheem Khoury",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Ibrahim Nimer Hassan Mousa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

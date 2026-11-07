@@ -1,0 +1,155 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ARSK",
+ "counts": {
+  "courses": 3,
+  "sections": 3,
+  "instructors": 3,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "ARSK133",
+   "prefix": "ARSK",
+   "name": "COLLOQUIAL ARABIC 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samer Abdelrahim Mohammed Qot",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "16:00",
+       "end": "18:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      },
+      {
+       "day": "T",
+       "start": "16:00",
+       "end": "18:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "18:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "18:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARSK134",
+   "prefix": "ARSK",
+   "name": "COLLOQUIAL ARABIC 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hanada Mahmoud Ahmad Kharama",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "16:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "16:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARSK233",
+   "prefix": "ARSK",
+   "name": "COLLOQUIAL ARABIC 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad B. N. Qadri",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "16:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "16:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

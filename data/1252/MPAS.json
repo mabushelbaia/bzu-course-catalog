@@ -1,0 +1,154 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MPAS",
+ "counts": {
+  "courses": 5,
+  "sections": 8,
+  "instructors": 5,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "MPAS6350",
+   "prefix": "MPAS",
+   "name": "LOCAL GOVERNANCE AND LOCAL MUNICIPALITIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS7360",
+   "prefix": "MPAS",
+   "name": "FINANCIAL MANAGEMENT AND ANALYSIS IN THE PUBLIC SECTOR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:30",
+       "end": "17:20",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS7381",
+   "prefix": "MPAS",
+   "name": "ADVANCED HUMAN RESOURCES MANAGEMENT IN THE PUBLIC SECTOR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farid Mohammad Farid Irshaid",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS7390",
+   "prefix": "MPAS",
+   "name": "LEADERSHIP THEORIES AND SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayman Elias Yousef Zaru",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MPAS8600",
+   "prefix": "MPAS",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ayman Elias Yousef Zaru",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ayman Elias Yousef Zaru",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

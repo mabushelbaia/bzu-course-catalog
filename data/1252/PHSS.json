@@ -1,0 +1,155 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PHSS",
+ "counts": {
+  "courses": 4,
+  "sections": 11,
+  "instructors": 9,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "PHSS9320",
+   "prefix": "PHSS",
+   "name": "DISSERTATION RESEARCH SEMINAR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rema Hasan Ahmad Hammami",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "N.Shaheen307",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHSS9394",
+   "prefix": "PHSS",
+   "name": "SPECIAL TOPIC IN THE SOCIAL SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Munir Kamal Hani Fakher Eldin, Rana Daher  Barakat",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "N.Shaheen307",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHSS999",
+   "prefix": "PHSS",
+   "name": "DISSERTATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Salim Edmon Elias Tamari",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHSS9990",
+   "prefix": "PHSS",
+   "name": "DISSERTATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal Mahmoud Yousef Daher",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hosnia M. H. Jad",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Hosnia M. H. Jad",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Abaher Ibrahim Arafat El-Sakka",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Rema Hasan Ahmad Hammami",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Rana Daher  Barakat",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Abdulrahim M. A. Al Shaikh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Mudar Fuad Khalil Kassis",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

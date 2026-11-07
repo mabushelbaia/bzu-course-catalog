@@ -1,0 +1,605 @@
+{
+ "source": "https://ritaj.birzeit.edu/hemis/courses",
+ "terms": {
+  "1261": {
+   "name": "First Semester 2026/2027",
+   "updated_at": "2026-11-07T05:31:34+00:00",
+   "hash": "acabbff8d8ee00eaee6e15626694c9df5acbf37413184da16397b253271adafd",
+   "counts": {
+    "courses": 1174,
+    "sections": 2810,
+    "instructors": 743,
+    "rooms": 260
+   },
+   "prefixes": [
+    "ACCA",
+    "ACCT",
+    "ACFI",
+    "ANIM",
+    "ANTH",
+    "ARAB",
+    "ARCH",
+    "ARSK",
+    "ASDS",
+    "BCLS",
+    "BIOC",
+    "BIOL",
+    "BIOT",
+    "BUSA",
+    "BUSD",
+    "CCST",
+    "CHEM",
+    "CODE",
+    "COMD",
+    "COMM",
+    "COMP",
+    "COVA",
+    "CPSY",
+    "CSEC",
+    "CULS",
+    "DMHR",
+    "DMKD",
+    "DPPS",
+    "DSGN",
+    "DSIN",
+    "ECON",
+    "EDUC",
+    "ENAR",
+    "ENCE",
+    "ENCS",
+    "ENEE",
+    "ENET",
+    "ENGC",
+    "ENGL",
+    "ENMC",
+    "ENME",
+    "ENPL",
+    "ENTR",
+    "FINN",
+    "FREN",
+    "FRSC",
+    "GADS",
+    "GENG",
+    "GENS",
+    "GEOG",
+    "GEOI",
+    "GERM",
+    "GOVS",
+    "HAIC",
+    "HEBR",
+    "HIST",
+    "HLTH",
+    "IMRS",
+    "INED",
+    "INRE",
+    "INST",
+    "IRDS",
+    "ISST",
+    "JMEE",
+    "JURI",
+    "LAIT",
+    "LECO",
+    "MATH",
+    "MCLS",
+    "MDAB",
+    "MDCN",
+    "MDGD",
+    "MDJO",
+    "MIPT",
+    "MKET",
+    "MONS",
+    "MPAS",
+    "MPME",
+    "MSAI",
+    "MSCE",
+    "MSCM",
+    "MUSI",
+    "NURS",
+    "NUTD",
+    "PACS",
+    "PHAR",
+    "PHED",
+    "PHRB",
+    "PHSS",
+    "PHYS",
+    "POLS",
+    "PRLW",
+    "PSYC",
+    "PUBA",
+    "PUBH",
+    "RENE",
+    "SOCI",
+    "SPAN",
+    "SPAU",
+    "STAT",
+    "SWEN",
+    "TIFR",
+    "TRAN",
+    "TURK",
+    "UNIV",
+    "WOHE",
+    "WOMS"
+   ]
+  },
+  "1253": {
+   "name": "Summer Course 2025/2026",
+   "updated_at": "2026-11-07T05:31:35+00:00",
+   "hash": "169c4af4c72a8bc02a52af412993f9606ca15e4f1093703c7f2768cd6e43640b",
+   "counts": {
+    "courses": 328,
+    "sections": 592,
+    "instructors": 223,
+    "rooms": 153
+   },
+   "prefixes": [
+    "ACCA",
+    "ACCT",
+    "ARAB",
+    "ARCH",
+    "ARSK",
+    "BCLS",
+    "BIOC",
+    "BIOL",
+    "BUSA",
+    "CHEM",
+    "COMP",
+    "COVA",
+    "CPSY",
+    "CSEC",
+    "CULS",
+    "DSGN",
+    "DSIN",
+    "ECON",
+    "EDUC",
+    "ENAR",
+    "ENCE",
+    "ENCS",
+    "ENEE",
+    "ENGC",
+    "ENGL",
+    "ENMC",
+    "ENME",
+    "ENPL",
+    "FINN",
+    "FREN",
+    "GEOG",
+    "HEBR",
+    "HIST",
+    "HLTH",
+    "IMRS",
+    "INED",
+    "INST",
+    "ISST",
+    "JURI",
+    "LAIT",
+    "LECO",
+    "MATH",
+    "MDJO",
+    "MIPT",
+    "MKET",
+    "MPAS",
+    "MSCM",
+    "MUSI",
+    "NURS",
+    "NUTD",
+    "PASP",
+    "PHAR",
+    "PHED",
+    "PHSS",
+    "PHYS",
+    "POLS",
+    "PRLW",
+    "PUBA",
+    "RENE",
+    "SOCI",
+    "STAT",
+    "SWEN",
+    "TRAN",
+    "UNIV"
+   ]
+  },
+  "1252": {
+   "name": "Second Semester 2025/2026",
+   "updated_at": "2026-11-07T05:31:56+00:00",
+   "hash": "9b04505b5765633a1d5edebfbc35a6a728cdb30de11cbbca85fafceae8297f33",
+   "counts": {
+    "courses": 1165,
+    "sections": 2811,
+    "instructors": 754,
+    "rooms": 261
+   },
+   "prefixes": [
+    "ACCA",
+    "ACCT",
+    "ACFI",
+    "ANIM",
+    "ANTH",
+    "ARAB",
+    "ARCH",
+    "ARSK",
+    "ARST",
+    "ASDS",
+    "BCLS",
+    "BIOC",
+    "BIOL",
+    "BIOT",
+    "BUSA",
+    "CCST",
+    "CHEM",
+    "CODE",
+    "COMM",
+    "COMP",
+    "COVA",
+    "CPSY",
+    "CSEC",
+    "CULS",
+    "DMHR",
+    "DSGN",
+    "DSIN",
+    "ECON",
+    "EDUC",
+    "ENAR",
+    "ENCE",
+    "ENCS",
+    "ENEE",
+    "ENET",
+    "ENGC",
+    "ENGL",
+    "ENMC",
+    "ENME",
+    "ENPL",
+    "FINN",
+    "FREN",
+    "FRSC",
+    "GADS",
+    "GENG",
+    "GENS",
+    "GEOG",
+    "GEOI",
+    "GERM",
+    "GOVS",
+    "GRDN",
+    "HAIC",
+    "HEBR",
+    "HIST",
+    "HLTH",
+    "IMRS",
+    "INED",
+    "INRE",
+    "INST",
+    "IRDS",
+    "ISST",
+    "JMEE",
+    "JURI",
+    "LAIT",
+    "LECO",
+    "MATH",
+    "MCLS",
+    "MDAB",
+    "MDGD",
+    "MDJO",
+    "MIPT",
+    "MKET",
+    "MONS",
+    "MPAS",
+    "MSAI",
+    "MSCE",
+    "MSCM",
+    "MUSI",
+    "NURS",
+    "NUTD",
+    "PACS",
+    "PASP",
+    "PHAR",
+    "PHED",
+    "PHIL",
+    "PHSS",
+    "PHYS",
+    "POLS",
+    "PRLW",
+    "PSYC",
+    "PUBA",
+    "PUBH",
+    "RENE",
+    "SOCI",
+    "SPAN",
+    "SPAU",
+    "STAT",
+    "SWEN",
+    "TIFR",
+    "TRAN",
+    "TURK",
+    "WEEN",
+    "WOHE",
+    "WOMS"
+   ]
+  }
+ },
+ "available_terms": [
+  {
+   "code": "1263",
+   "name": "Summer Course 2026/2027"
+  },
+  {
+   "code": "1262",
+   "name": "Second Semester 2026/2027"
+  },
+  {
+   "code": "1261",
+   "name": "First Semester 2026/2027"
+  },
+  {
+   "code": "1253",
+   "name": "Summer Course 2025/2026"
+  },
+  {
+   "code": "1252",
+   "name": "Second Semester 2025/2026"
+  },
+  {
+   "code": "1251",
+   "name": "First Semester 2025/2026"
+  },
+  {
+   "code": "1244",
+   "name": "Second Summer Course 2024/2025"
+  },
+  {
+   "code": "1243",
+   "name": "First Summer Course 2024/2025"
+  },
+  {
+   "code": "1242",
+   "name": "Second Semester 2024/2025"
+  },
+  {
+   "code": "1241",
+   "name": "First Semester 2024/2025"
+  },
+  {
+   "code": "1233",
+   "name": "Summer Course 2023/2024"
+  },
+  {
+   "code": "1232",
+   "name": "Second Semester 2023/2024"
+  },
+  {
+   "code": "1231",
+   "name": "First Semester 2023/2024"
+  },
+  {
+   "code": "1223",
+   "name": "Summer Course 2022/2023"
+  },
+  {
+   "code": "1222",
+   "name": "Second Semester 2022/2023"
+  },
+  {
+   "code": "1221",
+   "name": "First Semester 2022/2023"
+  },
+  {
+   "code": "1213",
+   "name": "Summer Course 2021/2022"
+  },
+  {
+   "code": "1212",
+   "name": "Second Semester 2021/2022"
+  },
+  {
+   "code": "1211",
+   "name": "First Semester 2021/2022"
+  },
+  {
+   "code": "1203",
+   "name": "Summer Course 2020/2021"
+  },
+  {
+   "code": "1202",
+   "name": "Second Semester 2020/2021"
+  },
+  {
+   "code": "1201",
+   "name": "First Semester 2020/2021"
+  },
+  {
+   "code": "1194",
+   "name": "Second Summer Course 2019/2020"
+  },
+  {
+   "code": "1193",
+   "name": "First Summer Course 2019/2020"
+  },
+  {
+   "code": "1192",
+   "name": "Second Semester 2019/2020"
+  },
+  {
+   "code": "1191",
+   "name": "First Semester 2019/2020"
+  },
+  {
+   "code": "1183",
+   "name": "Summer Course 2018/2019"
+  },
+  {
+   "code": "1182",
+   "name": "Second Semester 2018/2019"
+  },
+  {
+   "code": "1181",
+   "name": "First Semester 2018/2019"
+  },
+  {
+   "code": "1173",
+   "name": "Summer Course 2017/2018"
+  },
+  {
+   "code": "1172",
+   "name": "Second Semester 2017/2018"
+  },
+  {
+   "code": "1171",
+   "name": "First Semester 2017/2018"
+  },
+  {
+   "code": "1163",
+   "name": "Summer Course 2016/2017"
+  },
+  {
+   "code": "1162",
+   "name": "Second Semester 2016/2017"
+  },
+  {
+   "code": "1161",
+   "name": "First Semester 2016/2017"
+  },
+  {
+   "code": "1153",
+   "name": "Summer Course 2015/2016"
+  },
+  {
+   "code": "1152",
+   "name": "Second Semester 2015/2016"
+  },
+  {
+   "code": "1151",
+   "name": "First Semester 2015/2016"
+  },
+  {
+   "code": "1144",
+   "name": "Second Summer Course 2014/2015"
+  },
+  {
+   "code": "1143",
+   "name": "First Summer Course 2014/2015"
+  },
+  {
+   "code": "1142",
+   "name": "Second Semester 2014/2015"
+  },
+  {
+   "code": "1141",
+   "name": "First Semester 2014/2015"
+  },
+  {
+   "code": "1133",
+   "name": "Summer Course 2013/2014"
+  },
+  {
+   "code": "1132",
+   "name": "Second Semester 2013/2014"
+  },
+  {
+   "code": "1131",
+   "name": "First Semester 2013/2014"
+  },
+  {
+   "code": "1124",
+   "name": "Second Summer Course 2012/2013"
+  },
+  {
+   "code": "1123",
+   "name": "First Summer Course 2012/2013"
+  },
+  {
+   "code": "1122",
+   "name": "Second Semester 2012/2013"
+  },
+  {
+   "code": "1121",
+   "name": "First Semester 2012/2013"
+  },
+  {
+   "code": "1114",
+   "name": "Second Summer Course 2011/2012"
+  },
+  {
+   "code": "1113",
+   "name": "First Summer Course 2011/2012"
+  },
+  {
+   "code": "1112",
+   "name": "Second Semester 2011/2012"
+  },
+  {
+   "code": "1111",
+   "name": "First Semester 2011/2012"
+  },
+  {
+   "code": "1104",
+   "name": "Second Summer Course 2010/2011"
+  },
+  {
+   "code": "1103",
+   "name": "First Summer Course 2010/2011"
+  },
+  {
+   "code": "1102",
+   "name": "Second Semester 2010/2011"
+  },
+  {
+   "code": "1101",
+   "name": "First Semester 2010/2011"
+  },
+  {
+   "code": "1093",
+   "name": "Summer Course 2009/2010"
+  },
+  {
+   "code": "1092",
+   "name": "Second Semester 2009/2010"
+  },
+  {
+   "code": "1091",
+   "name": "First Semester 2009/2010"
+  },
+  {
+   "code": "1083",
+   "name": "Summer Course 2008/2009"
+  },
+  {
+   "code": "1082",
+   "name": "Second Semester 2008/2009"
+  },
+  {
+   "code": "1081",
+   "name": "First Semester  2008/2009"
+  },
+  {
+   "code": "1073",
+   "name": "Summer Course 2007/2008"
+  },
+  {
+   "code": "1072",
+   "name": "Second Semester 2007/2008"
+  },
+  {
+   "code": "1071",
+   "name": "First Semester 2007/2008"
+  },
+  {
+   "code": "1063",
+   "name": "Summer Course 2006/2007"
+  },
+  {
+   "code": "1062",
+   "name": "Second Semester 2006/2007"
+  },
+  {
+   "code": "1061",
+   "name": "First Semester 2006/2007"
+  },
+  {
+   "code": "1053",
+   "name": "Summer Course 2005/2006"
+  }
+ ],
+ "published_terms": [
+  "1261",
+  "1253",
+  "1252"
+ ]
+}

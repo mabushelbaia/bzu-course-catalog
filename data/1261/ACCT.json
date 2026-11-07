@@ -1,0 +1,1139 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ACCT",
+ "counts": {
+  "courses": 17,
+  "sections": 44,
+  "instructors": 17,
+  "rooms": 18
+ },
+ "courses": [
+  {
+   "code": "ACCT130",
+   "prefix": "ACCT",
+   "name": "FINANCIAL ACCOUNTING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Karim Sani Nasib Al-Bitar",
+     "enrolled": 132,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Bashar Shukri Hanna Al Qara'",
+     "enrolled": 129,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Karim Sani Nasib Al-Bitar",
+     "enrolled": 131,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Bashar Shukri Hanna Al Qara'",
+     "enrolled": 128,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "enrolled": 133,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi001",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Yousef Mohammad Yousef Hassan",
+     "enrolled": 54,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT230",
+   "prefix": "ACCT",
+   "name": "FINANCIAL ACCOUNTING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Alaa Rafie Zahran Taweel",
+     "enrolled": 113,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Karim Sani Nasib Al-Bitar",
+     "enrolled": 122,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT331",
+   "prefix": "ACCT",
+   "name": "COST ACCOUNTING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "enrolled": 56,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Shadi Ahmad Fayez Alhaj",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Huthayfa N. I. Jabari",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Suha Mohammad Tayseir Ya'Qoub Zalloum",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT332",
+   "prefix": "ACCT",
+   "name": "PRINCIPLES OF TAXATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hatem Yousef Ahmad Daoud",
+     "enrolled": 124,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi001",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi001",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Jamal Fadel Daoud Fawadleh",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen162",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen162",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT333",
+   "prefix": "ACCT",
+   "name": "MANAGERIAL ACCOUNTING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shadi Ahmad Fayez Alhaj",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "enrolled": 54,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Shadi Ahmad Fayez Alhaj",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT3331",
+   "prefix": "ACCT",
+   "name": "MANAGERIAL ACCOUNTING FOR FINANCE STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Huthayfa N. I. Jabari",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT335",
+   "prefix": "ACCT",
+   "name": "INTERMEDIATE ACCOUNTING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Karim Sani Nasib Al-Bitar",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Karim Sani Nasib Al-Bitar",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Bashar Shukri Hanna Al Qara'",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Bashar Shukri Hanna Al Qara'",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT336",
+   "prefix": "ACCT",
+   "name": "INTERMEDIATE ACCOUNTING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samia George Issa Shammas",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Samia George Issa Shammas",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mirabo Nael Bolous Shammas",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT337",
+   "prefix": "ACCT",
+   "name": "INTERNAL AUDITING AND RISK MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shadi Ahmad Fayez Alhaj",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT3381",
+   "prefix": "ACCT",
+   "name": "INTERNATIONAL PUBLIC SECTOR ACCOUNTING STANDARDS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal Jamil Mohammad Milhem",
+     "enrolled": 59,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT339",
+   "prefix": "ACCT",
+   "name": "AUDITING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Suha Mohammad Tayseir Ya'Qoub Zalloum",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 54,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT430",
+   "prefix": "ACCT",
+   "name": "FRAUD EXAMINATION AND ANALYSIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT432",
+   "prefix": "ACCT",
+   "name": "ADVANCED FINANCIAL ACCOUNTING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samia George Issa Shammas",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mirabo Nael Bolous Shammas",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Samia George Issa Shammas",
+     "enrolled": 55,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT434",
+   "prefix": "ACCT",
+   "name": "ACCOUNTING INFORMATION SYSTEMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adnan M. A. Humos",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Adnan M. A. Humos",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Adnan M. A. Humos",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT437",
+   "prefix": "ACCT",
+   "name": "SEMINAR IN ACCOUNTING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adnan M. A. Humos",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi021",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi127",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi025",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Saher Mohammad Abdallah Aqel",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi021",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi021",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT438",
+   "prefix": "ACCT",
+   "name": "SP.TOP: PRACTICAL APPLICATIONS ON BISAN SYSTEMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miltiadi Issa Salem Habash",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen002",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen002",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACCT4391",
+   "prefix": "ACCT",
+   "name": "PRACTICAL TRAINING IN ACCOUNTING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adnan M. A. Humos",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

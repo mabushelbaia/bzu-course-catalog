@@ -1,0 +1,209 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MCLS",
+ "counts": {
+  "courses": 6,
+  "sections": 12,
+  "instructors": 5,
+  "rooms": 5
+ },
+ "courses": [
+  {
+   "code": "MCLS6222",
+   "prefix": "MCLS",
+   "name": "BIOSTATISTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lina Yaser Jalal El_Khairy",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS637",
+   "prefix": "MCLS",
+   "name": "DIAGNOSTIC MICROBIOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Arwa Abdel Rahman Yousef Abu Khweek",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "10:20",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Arwa Abdel Rahman Yousef Abu Khweek",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS7211",
+   "prefix": "MCLS",
+   "name": "BLOOD HOMEOSTASIS AND COAGULATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ola Talal Abdallah Karmei",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS731",
+   "prefix": "MCLS",
+   "name": "MOLECULAR BIOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain321",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS830",
+   "prefix": "MCLS",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH413",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS860",
+   "prefix": "MCLS",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

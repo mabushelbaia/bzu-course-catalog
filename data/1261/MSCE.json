@@ -1,0 +1,164 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MSCE",
+ "counts": {
+  "courses": 3,
+  "sections": 13,
+  "instructors": 8,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "MSCE6301",
+   "prefix": "MSCE",
+   "name": "RESEARCH METHODOLOGY, TOOLS AND ETHICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MSCE6312",
+   "prefix": "MSCE",
+   "name": "ADVANCED COMPUTER ARCHITECTURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MSCE8600",
+   "prefix": "MSCE",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Yazan Jamal Ibrahim Abu Farha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ayman Ali Mohammad Hroub",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mohammad Khaleel Issa Jubran",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Ayman Ali Mohammad Hroub",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Abdallatif S. A. Abuissa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Khader Shehadeh Nassar Mohammad",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Abualseoud Ahmad Abualseoud Hanani",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

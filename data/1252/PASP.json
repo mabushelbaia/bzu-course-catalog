@@ -1,0 +1,83 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PASP",
+ "counts": {
+  "courses": 2,
+  "sections": 2,
+  "instructors": 1,
+  "rooms": 0
+ },
+ "courses": [
+  {
+   "code": "PASP332",
+   "prefix": "PASP",
+   "name": "MODERN AND CONTEMPORARY ARAB THOUGHT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sa'D Fathi Said Nimer",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "20:00",
+       "end": "21:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "20:00",
+       "end": "21:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PASP333",
+   "prefix": "PASP",
+   "name": "PALESTINIAN QUESTION 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sa'D Fathi Said Nimer",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "20:00",
+       "end": "21:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "20:00",
+       "end": "21:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

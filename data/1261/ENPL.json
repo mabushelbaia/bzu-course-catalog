@@ -1,0 +1,526 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ENPL",
+ "counts": {
+  "courses": 11,
+  "sections": 27,
+  "instructors": 10,
+  "rooms": 12
+ },
+ "courses": [
+  {
+   "code": "ENPL3232",
+   "prefix": "ENPL",
+   "name": "URBAN PLANNING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Amir Z. J. Abu Aisheh",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad214",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Muain Abedl Aziz Qasem Jawabrah",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad214",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad214",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "4",
+     "instructor": "Sanaa Maher Wasef Anabtawi",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad521",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL3340",
+   "prefix": "ENPL",
+   "name": "PRINCIPLES OF SPATIAL PLANNING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sanaa Maher Wasef Anabtawi",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad311",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Sanaa Maher Wasef Anabtawi",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL421",
+   "prefix": "ENPL",
+   "name": "ENVIRONMENTAL PLANNING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sanaa Maher Wasef Anabtawi",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL422",
+   "prefix": "ENPL",
+   "name": "PLANNING STATISTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal Ali Abdel Fattah Numan",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "Aggad425",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL425",
+   "prefix": "ENPL",
+   "name": "LANDSCAPE ECOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samar Wadi Husain Alnazer",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Samar Wadi Husain Alnazer",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL433",
+   "prefix": "ENPL",
+   "name": "INTRODUCTION TO INFRASTRUCTURE PLANNING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad336",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL436",
+   "prefix": "ENPL",
+   "name": "LANDSCAPE ARCHITECTURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samar Wadi Husain Alnazer",
+     "enrolled": 59,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Samar Wadi Husain Alnazer",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad527",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad427",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Shaden S. O. Awad",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad521",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad521",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL520",
+   "prefix": "ENPL",
+   "name": "INTRODUCTION TO GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sanaa Maher Wasef Anabtawi",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Sanaa Maher Wasef Anabtawi",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Samar Wadi Husain Alnazer",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Rula M. S. Elkhalili",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ENPL531",
+   "prefix": "ENPL",
+   "name": "ADVANCED SPATIAL PLANNING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Manal Ahmad Mohammad Al Bishawi",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad307",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Manal Ahmad Mohammad Al Bishawi",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad427",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad427",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL537",
+   "prefix": "ENPL",
+   "name": "PRINCIPLES OF REGIONAL PLANNING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENPL539",
+   "prefix": "ENPL",
+   "name": "LAND ADMINISTRATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sanaa Maher Wasef Anabtawi",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

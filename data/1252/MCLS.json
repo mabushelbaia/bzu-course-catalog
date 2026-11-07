@@ -1,0 +1,177 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MCLS",
+ "counts": {
+  "courses": 6,
+  "sections": 9,
+  "instructors": 5,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "MCLS6211",
+   "prefix": "MCLS",
+   "name": "MANAGEMENT AND QUALITY ASSESSMENT IN CLINICAL LABORATORIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayman A. M. Najjar",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "10:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS6312",
+   "prefix": "MCLS",
+   "name": "GENETIC DISORDERS OF BLOOD",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ola Talal Abdallah Karmei",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS6321",
+   "prefix": "MCLS",
+   "name": "BLOOD GROUPS AND THEIR SEROLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayman A. M. Najjar",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS726",
+   "prefix": "MCLS",
+   "name": "SP.TOP: ADVANCED RESEARCH TECHNIQUES IN LABORATORY MEDICINE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ola Talal Abdallah Karmei",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "10:50",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS831",
+   "prefix": "MCLS",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH322",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MCLS860",
+   "prefix": "MCLS",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

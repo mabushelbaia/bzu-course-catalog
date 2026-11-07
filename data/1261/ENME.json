@@ -1,0 +1,945 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ENME",
+ "counts": {
+  "courses": 24,
+  "sections": 46,
+  "instructors": 10,
+  "rooms": 15
+ },
+ "courses": [
+  {
+   "code": "ENME1100",
+   "prefix": "ENME",
+   "name": "WORKSHOP 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rashad Irsan Hassan Mustafa",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Adel Abd Elkader Atef Dweik",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME1211",
+   "prefix": "ENME",
+   "name": "ENGINEERING DRAWING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Allan S. E. Tubaileh",
+     "enrolled": 120,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad225",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+     "enrolled": 99,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad225",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Adel Abd Elkader Atef Dweik",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Adel Abd Elkader Atef Dweik",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "4",
+     "instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "5",
+     "instructor": "Ibrahim Mohammad Othman Hammad",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "6",
+     "instructor": "Allan S. E. Tubaileh",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "7",
+     "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "8",
+     "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "9",
+     "instructor": "Adel Abd Elkader Atef Dweik",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad342",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME2111",
+   "prefix": "ENME",
+   "name": "MECHANICAL DRAWING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mohammad Othman Hammad",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad344",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad344",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Allan S. E. Tubaileh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad344",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME232",
+   "prefix": "ENME",
+   "name": "DYNAMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nidal Mohammad Abdel Qader Farhat",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad338",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad338",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nidal Mohammad Abdel Qader Farhat",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad307",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad307",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME2370",
+   "prefix": "ENME",
+   "name": "FUNDAMENTALS OF MATERIALS AND MANUFACTURING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ibrahim Mohammad Othman Hammad",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad307",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad307",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME3100",
+   "prefix": "ENME",
+   "name": "INTRODUCTION TO PRACTICAL TRAINING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mohammad Othman Hammad",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ENME312",
+   "prefix": "ENME",
+   "name": "FLUID MECHANICS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Adel Abd Elkader Atef Dweik",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad141",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME331",
+   "prefix": "ENME",
+   "name": "MATERIALS SCIENCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mohammad Othman Hammad",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad303",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad303",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME332",
+   "prefix": "ENME",
+   "name": "MACHINE DYNAMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nidal Mohammad Abdel Qader Farhat",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad338",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad338",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME333",
+   "prefix": "ENME",
+   "name": "THERMODYNAMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adel Abd Elkader Atef Dweik",
+     "enrolled": 57,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME335",
+   "prefix": "ENME",
+   "name": "FLUID MECHANICS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad311",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad311",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME4300",
+   "prefix": "ENME",
+   "name": "PRACTICAL TRAINING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mohammad Othman Hammad",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ENME431",
+   "prefix": "ENME",
+   "name": "HEAT TRANSFER",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad415",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad415",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME433",
+   "prefix": "ENME",
+   "name": "PRODUCTION ENGINEERING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mohammad Othman Hammad",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aggad303",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME435",
+   "prefix": "ENME",
+   "name": "MACHINE DESIGN 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Allan S. E. Tubaileh",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad411",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad411",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME436",
+   "prefix": "ENME",
+   "name": "MACHINE DESIGN 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Allan S. E. Tubaileh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad407",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad407",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME4380",
+   "prefix": "ENME",
+   "name": "CONTROL SYSTEMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad415",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME5194",
+   "prefix": "ENME",
+   "name": "AUTOMOTIVE LABORATORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad143",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME520",
+   "prefix": "ENME",
+   "name": "INTRODUCTION TO GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rashad Irsan Hassan Mustafa",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Allan S. E. Tubaileh",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Adel Abd Elkader Atef Dweik",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Allan S. E. Tubaileh",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ENME534",
+   "prefix": "ENME",
+   "name": "DESIGN AND OPERATION OF POWER STATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adel Abd Elkader Atef Dweik",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad311",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME5395",
+   "prefix": "ENME",
+   "name": "ALTERNATIVE FUEL, ELECTRIC AND HYBRID VEHICLES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rashad Irsan Hassan Mustafa",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad338",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad338",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME7318",
+   "prefix": "ENME",
+   "name": "SP.TOP: IN THERMOFLUIDS ENGINEERING: MAINTENANCE MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME7327",
+   "prefix": "ENME",
+   "name": "SP.TOP IN AUTOMATION: ADVANCED VEHICLE TECHNOLOGIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rashad Irsan Hassan Mustafa",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bahrain321",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENME8600",
+   "prefix": "ENME",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rashad Irsan Hassan Mustafa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ihab Mohammad Said Abu Ajamieh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

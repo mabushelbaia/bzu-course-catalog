@@ -1,0 +1,53 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PUBH",
+ "counts": {
+  "courses": 1,
+  "sections": 1,
+  "instructors": 1,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "PUBH1310",
+   "prefix": "PUBH",
+   "name": "INTRODUCTION TO PUBLIC HEALTH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maysaa Yousef Khaled Nemer",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH303",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

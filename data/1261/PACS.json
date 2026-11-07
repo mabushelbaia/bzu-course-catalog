@@ -1,0 +1,83 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PACS",
+ "counts": {
+  "courses": 2,
+  "sections": 2,
+  "instructors": 1,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "PACS2390",
+   "prefix": "PACS",
+   "name": "HUMAN RESOURCE MANAGEMENT AND CYBERSECURITY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Haitham H. Z. Zeidan",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "ALSADIK408",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "ALSADIK408",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PACS4340",
+   "prefix": "PACS",
+   "name": "CYBERSECURITY FOR LEADERS AND MANAGERS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Haitham H. Z. Zeidan",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

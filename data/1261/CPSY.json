@@ -1,0 +1,269 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "CPSY",
+ "counts": {
+  "courses": 10,
+  "sections": 12,
+  "instructors": 6,
+  "rooms": 5
+ },
+ "courses": [
+  {
+   "code": "CPSY601",
+   "prefix": "CPSY",
+   "name": "PROFESSIONAL ETHICS SEMINAR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Razzan H. A. Quran",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY6300",
+   "prefix": "CPSY",
+   "name": "INTRODUCTION TO APPLIED COMMUNITY PSYCHOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sama Suheil Salman Dawani",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain321",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY6320",
+   "prefix": "CPSY",
+   "name": "RESEARCH METHODOLOGIES IN SOCIAL AND BEHAVIORAL SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\", Aisha Abdel Munem Omran Shalash",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Khoury228",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY6350",
+   "prefix": "CPSY",
+   "name": "CHILD AND ADOLESCENT DEVELOPMENT IN THE CONTEXT OF TRAUMATIC EVENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sama Suheil Salman Dawani",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain301",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY6370",
+   "prefix": "CPSY",
+   "name": "THERAPEUTIC INTERVENTIONS WITH INDIVIDUALS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Razzan H. A. Quran",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bahrain301",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY7210",
+   "prefix": "CPSY",
+   "name": "PRACTICUM IN INDIVIDUAL THERAPY AND PROFESSIONAL ETHICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Razzan H. A. Quran",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Bahrain301",
+       "building": "Bahrain"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Razzan H. A. Quran",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY811",
+   "prefix": "CPSY",
+   "name": "PRACTICUM 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Razzan H. A. Quran",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY830",
+   "prefix": "CPSY",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain401",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY8310",
+   "prefix": "CPSY",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain301",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CPSY860",
+   "prefix": "CPSY",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mai T. M. Albzour",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

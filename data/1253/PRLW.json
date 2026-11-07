@@ -1,0 +1,113 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PRLW",
+ "counts": {
+  "courses": 3,
+  "sections": 3,
+  "instructors": 3,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "PRLW6360",
+   "prefix": "PRLW",
+   "name": "INTELLECTUAL PROPERTY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Diab Mohammad Diab Alshikh",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PRLW7326",
+   "prefix": "PRLW",
+   "name": "INSURANCE LAW",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PRLW8311",
+   "prefix": "PRLW",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hussein Ahed Hussein Ayaseh",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

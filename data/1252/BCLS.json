@@ -1,0 +1,349 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "BCLS",
+ "counts": {
+  "courses": 5,
+  "sections": 16,
+  "instructors": 3,
+  "rooms": 8
+ },
+ "courses": [
+  {
+   "code": "BCLS2440",
+   "prefix": "BCLS",
+   "name": "DIAGNOSTIC MICROBIOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Suzan Khamees Hussein Edkaidek",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Suzan Khamees Hussein Edkaidek",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH300",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Suzan Khamees Hussein Edkaidek",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH300",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS3210",
+   "prefix": "BCLS",
+   "name": "HEMOSTASIS AND COAGULATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH300",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS3330",
+   "prefix": "BCLS",
+   "name": "CLINICAL HEMATOLOGY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 56,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH201",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS3420",
+   "prefix": "BCLS",
+   "name": "CLINICAL CHEMISTRY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen152",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "A.Shaheen152",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Jaber Jamil Ibrahim Hajali",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH317",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "BCLS4330",
+   "prefix": "BCLS",
+   "name": "MOLECULAR HEMATOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Firas A. M. Qunneis",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1277 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "CHEM",
+ "counts": {
+  "courses": 26,
+  "sections": 61,
+  "instructors": 10,
+  "rooms": 22
+ },
+ "courses": [
+  {
+   "code": "CHEM111",
+   "prefix": "CHEM",
+   "name": "GENERAL CHEMISTRY LAB 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI003",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM112",
+   "prefix": "CHEM",
+   "name": "GENERAL CHEMISTRY LAB 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fatema Ibrahim Hasan Hamdan",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI361",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Hijazi Issa Hussein Abu Ali",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI361",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Imtiaz Mohammad Darwish Darwish",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI361",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Diab T. D. Qadah",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI361",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI361",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI361",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Imtiaz Mohammad Darwish Darwish",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI361",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM1310",
+   "prefix": "CHEM",
+   "name": "GENERAL CHEMISTRY FOR ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hijazi Issa Hussein Abu Ali",
+     "enrolled": 73,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Hijazi Issa Hussein Abu Ali",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Hijazi Issa Hussein Abu Ali",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM132",
+   "prefix": "CHEM",
+   "name": "GENERAL CHEMISTRY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Diab T. D. Qadah",
+     "enrolled": 126,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen150",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen150",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Imtiaz Mohammad Darwish Darwish",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Imtiaz Mohammad Darwish Darwish",
+     "enrolled": 35,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI115",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "3",
+     "instructor": "Diab T. D. Qadah",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM141",
+   "prefix": "CHEM",
+   "name": "GENERAL CHEMISTRY 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen162",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM143",
+   "prefix": "CHEM",
+   "name": "CHEMISTRY FOR ENGINEERING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fatema Ibrahim Hasan Hamdan",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI112",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI003",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM221",
+   "prefix": "CHEM",
+   "name": "ORGANIC CHEMISTRY LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Diab T. D. Qadah",
+     "enrolled": 125,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen150",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Fatema Ibrahim Hasan Hamdan",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI355",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Diab T. D. Qadah",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI357",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "4",
+     "instructor": "Adel Jamil Khalid Al Hidmi",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI357",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "5",
+     "instructor": "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI357",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "6",
+     "instructor": "Fatema Ibrahim Hasan Hamdan",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI357",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "7",
+     "instructor": "Eman Yousef Attaalah Makharza",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI357",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "8",
+     "instructor": "Diab T. D. Qadah",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI357",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "9",
+     "instructor": "Eman Yousef Attaalah Makharza",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "SCI355",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM223",
+   "prefix": "CHEM",
+   "name": "ORGANIC CHEMISTRY LAB 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adel Jamil Khalid Al Hidmi",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Adel Jamil Khalid Al Hidmi",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI355",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM230",
+   "prefix": "CHEM",
+   "name": "FUNDAMENTAL ORGANIC CHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Imtiaz Mohammad Darwish Darwish",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI214",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI214",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Eman Yousef Attaalah Makharza",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI214",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM242",
+   "prefix": "CHEM",
+   "name": "ORGANIC CHEMISTRY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adel Jamil Khalid Al Hidmi",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Adel Jamil Khalid Al Hidmi",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "SCI113",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Waseem Wajih Said Abo Oun",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "SCI115",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM3100",
+   "prefix": "CHEM",
+   "name": "QUALITY CONTROL AND ASSURANCE IN CHEMICAL INDUSTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM322",
+   "prefix": "CHEM",
+   "name": "PHYSICAL CHEMISTRY LAB 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI358",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM3260",
+   "prefix": "CHEM",
+   "name": "PHARMACEUTICAL CHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI113",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM3303",
+   "prefix": "CHEM",
+   "name": "INDUSTRIAL CHEMISTRY 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Waseem Wajih Said Abo Oun",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM332",
+   "prefix": "CHEM",
+   "name": "PHYSICAL CHEMISTRY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI115",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM3361",
+   "prefix": "CHEM",
+   "name": "PRINCIPLES OF INSTRUMENTAL ANALYSIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI116",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI116",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM411",
+   "prefix": "CHEM",
+   "name": "SEMINAR IN CHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hijazi Issa Hussein Abu Ali",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI017",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Imtiaz Mohammad Darwish Darwish",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "16:50",
+       "room": "SCI018",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "16:50",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Adel Jamil Khalid Al Hidmi",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "16:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Diab T. D. Qadah",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "CHEM4120",
+   "prefix": "CHEM",
+   "name": "INDUSTRIAL CHEMISTRY TRAINING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "CHEM4130",
+   "prefix": "CHEM",
+   "name": "INDUSTRIAL CHEMISTRY TRAINING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "CHEM4200",
+   "prefix": "CHEM",
+   "name": "DETERGENTS, SOAPS AND COSMETICS CHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM434",
+   "prefix": "CHEM",
+   "name": "INORGANIC CHEMISTRY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hijazi Issa Hussein Abu Ali",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI215",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI215",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM437",
+   "prefix": "CHEM",
+   "name": "INDEPENDENT STUDY IN CHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "CHEM438",
+   "prefix": "CHEM",
+   "name": "SP.TOP: APPLICATIONS OF GREEN AND SUSTAINABLE CHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Imtiaz Mohammad Darwish Darwish",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI112",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Waseem Wajih Said Abo Oun",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM634",
+   "prefix": "CHEM",
+   "name": "ADVANCED INORGANIC CHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hijazi Issa Hussein Abu Ali",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM830",
+   "prefix": "CHEM",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Imtiaz Mohammad Darwish Darwish",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI012",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CHEM860",
+   "prefix": "CHEM",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammed H. M. Aljabari",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Diab T. D. Qadah",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

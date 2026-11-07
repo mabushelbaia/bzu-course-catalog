@@ -1,0 +1,84 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "LAIT",
+ "counts": {
+  "courses": 3,
+  "sections": 3,
+  "instructors": 3,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "LAIT7342",
+   "prefix": "LAIT",
+   "name": "CRYPTOCURRENCIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Fawzi Amin Alkhader",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "IOL311",
+       "building": "IOL"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "LAIT830",
+   "prefix": "LAIT",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamil Elias Jamil Salem",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK305",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "LAIT860",
+   "prefix": "LAIT",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mustafa Hussein Mahmoud Abdelbaqi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

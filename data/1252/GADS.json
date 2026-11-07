@@ -1,0 +1,193 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "GADS",
+ "counts": {
+  "courses": 6,
+  "sections": 11,
+  "instructors": 8,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "GADS600",
+   "prefix": "GADS",
+   "name": "ENGLISH READINGS IN SOCIAL SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Majida \"Mohammed Yousef\" Fahmi Dajani",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Bahrain401",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GADS630",
+   "prefix": "GADS",
+   "name": "CONCEPTS AND ISSUES IN GENDER AND DEVELOPMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed Fouad Ahmed Attaallah",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain401",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GADS635",
+   "prefix": "GADS",
+   "name": "GENDER ANALYSIS AND  GENDER PLANNING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Tahreer Abdallah Hasan A'Raj",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain401",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GADS830",
+   "prefix": "GADS",
+   "name": "SEMINAR 1 (GENDER AND DEVELOPMENT IN THE REGION)",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bahrain401",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GADS831",
+   "prefix": "GADS",
+   "name": "SEMINAR 2 (GENDER AND DEVELOPMENT IN PALESTINE)",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lena Mohammad Abdel-Hamid Meari, Amirah Mohammad Faraj Silmi",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bahrain401",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GADS860",
+   "prefix": "GADS",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Tahreer Abdallah Hasan A'Raj",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Amirah Mohammad Faraj Silmi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Amirah Mohammad Faraj Silmi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Rema Hasan Ahmad Hammami",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

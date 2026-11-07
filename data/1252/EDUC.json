@@ -1,0 +1,1480 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "EDUC",
+ "counts": {
+  "courses": 45,
+  "sections": 77,
+  "instructors": 25,
+  "rooms": 21
+ },
+ "courses": [
+  {
+   "code": "EDUC2304",
+   "prefix": "EDUC",
+   "name": "READING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fatma K. M. Mohammed",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC2310",
+   "prefix": "EDUC",
+   "name": "INTRODUCTION TO EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayman Abdelmajeed Saleem Rezeqallah",
+     "enrolled": 81,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh002",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh002",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC2340",
+   "prefix": "EDUC",
+   "name": "TEACHING AND LEARNING IN HETEROGENEOUS CLASSROOMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC2360",
+   "prefix": "EDUC",
+   "name": "PSYCHOLOGICAL FOUNDATIONS OF EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mousa Mohammed Mousa Khaldi",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Amal Kaleel Abdelrazeq Deheidel, Wael Mousa Ibrahim Kishek",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC2370",
+   "prefix": "EDUC",
+   "name": "EDUCATION IN THE INFORMATION AGE AND NEW MEDIA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nahed Ibrahim Suliman Abu Taimeh, Wael Mousa Ibrahim Kishek",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC330",
+   "prefix": "EDUC",
+   "name": "GENERAL METHODS OF TEACHING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mousa Mohammed Mousa Khaldi",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC3302",
+   "prefix": "EDUC",
+   "name": "THE ENGLISH CURRICULUM 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fatma K. M. Mohammed",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC331",
+   "prefix": "EDUC",
+   "name": "EDUCATIONAL TECHNOLOGY AND TEACHING RESOURCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fatma K. M. Mohammed",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Enas Shaker Husein Eideh",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC334",
+   "prefix": "EDUC",
+   "name": "MEASUREMENT AND EVALUATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ola 'M.Monther' Rafic Khalili",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Al-Juraysi227",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4302",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING ENGLISH AS A FOREIGN LANGUAGE 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fatma K. M. Mohammed",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4305",
+   "prefix": "EDUC",
+   "name": "PRACTICUM 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fattom Saleh Mohammad Amara",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4307",
+   "prefix": "EDUC",
+   "name": "PRACTICUM 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC431",
+   "prefix": "EDUC",
+   "name": "CURRICULUM AND TEACHING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4312",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING ARABIC LANGUAGE AND LITERATURE 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Mahmoud Fteiha Fteiha",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4332",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING MATHEMATICS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Suhair Moustafa Mohammad Morar, Wael Mousa Ibrahim Kishek",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4333",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING PHYSICS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad M. A. Aljanazrah",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4334",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING BIOLOGY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad M. A. Aljanazrah",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4335",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING CHEMISTRY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad M. A. Aljanazrah",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4336",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING MANAGEMENT AND ECONOMICS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4342",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING SOCIAL STUDIES 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4345",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING GEOGRAPHY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4346",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING HISTORY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC435",
+   "prefix": "EDUC",
+   "name": "PRACTICUM TEACHING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Afaf Nae'L Khalil Dar Mousa",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri204",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri204",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Fattom Saleh Mohammad Amara",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Muna Mohammad Ahmad Ibayyeh",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC4362",
+   "prefix": "EDUC",
+   "name": "METHODS OF TEACHING FRENCH LANGUAGE 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muna Mohammad Ahmad Ibayyeh",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh302",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC437",
+   "prefix": "EDUC",
+   "name": "EDUCATIONAL RESEARCH METHODOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC438",
+   "prefix": "EDUC",
+   "name": "SEMINAR IN EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Mahmoud Fteiha Fteiha",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mousa Mohammed Mousa Khaldi",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC6100",
+   "prefix": "EDUC",
+   "name": "INTRODUCTION TO EDUCATIONAL RESEARCH AND ACADEMIC WRITING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hasan Mahmoud Ali Abdelkareem",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh304",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC6300",
+   "prefix": "EDUC",
+   "name": "QUANTITATIVE METHODS IN EDUCATIONAL RESEARCH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC632",
+   "prefix": "EDUC",
+   "name": "PSYCHOLOGICAL FOUNDATIONS OF EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "EDUC633",
+   "prefix": "EDUC",
+   "name": "CURRICULUM DEVELOPMENT AND INSTRUCTION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hasan Mahmoud Ali Abdelkareem",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC6390",
+   "prefix": "EDUC",
+   "name": "QUALITATIVE METHODS IN EDUCATIONAL RESEARCH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mousa Mohammed Mousa Khaldi",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "EDUC7302",
+   "prefix": "EDUC",
+   "name": "FOUNDATIONS OF TEACHING SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC7303",
+   "prefix": "EDUC",
+   "name": "FOUNDATIONS OF TEACHING EFL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Anwar Ahmad Mohammad Abdel Razeq",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC733",
+   "prefix": "EDUC",
+   "name": "EDUCATIONAL LEADERSHIP",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Mahmoud Fteiha Fteiha",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC734",
+   "prefix": "EDUC",
+   "name": "STRATEGIC PLANNING IN EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sofia Said Younis Rimawi",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri106",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC738",
+   "prefix": "EDUC",
+   "name": "INTRODUCTION TO SPECIAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC7392",
+   "prefix": "EDUC",
+   "name": "CONTEMPORARY ISSUES IN EDUCATIONAL COUNSELING AT SCHOOLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Roza Ramzieh W. M. Yaseen",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC830",
+   "prefix": "EDUC",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ola 'M.Monther' Rafic Khalili",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC831",
+   "prefix": "EDUC",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ola 'M.Monther' Rafic Khalili",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh304",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC860",
+   "prefix": "EDUC",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Mahmoud Fteiha Fteiha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Anwar Ahmad Mohammad Abdel Razeq",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Anwar Ahmad Mohammad Abdel Razeq",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mousa Mohammed Mousa Khaldi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Ahmad Mahmoud Fteiha Fteiha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Hasan Mahmoud Ali Abdelkareem",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Ola 'M.Monther' Rafic Khalili",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Anwar Ahmad Mohammad Abdel Razeq",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Hasan Mahmoud Ali Abdelkareem",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "15",
+     "instructor": "Anwar Ahmad Mohammad Abdel Razeq",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "EDUC9202",
+   "prefix": "EDUC",
+   "name": "ACTION RESEARCH AND SELF-STUDY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Bamieh304",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC9220",
+   "prefix": "EDUC",
+   "name": "SPECIAL TOPING IN EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh, Maher Zuhdi Daoud Al Hashweh, Mudar Fuad Khalil Kassis, Basem M. T. Ezbidi",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Bamieh304",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC9305",
+   "prefix": "EDUC",
+   "name": "TEACHER EDUCATION AND PROFESSIONAL DEVELOPMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maher Zuhdi Daoud Al Hashweh",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC9306",
+   "prefix": "EDUC",
+   "name": "EDUCATIONAL FOUNDATIONS OF USING TECHNOLOGY IN LEARNING AND TEACHING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad M. A. Aljanazrah",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EDUC9990",
+   "prefix": "EDUC",
+   "name": "DISSERTATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Anwar Ahmad Mohammad Abdel Razeq",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Anwar Ahmad Mohammad Abdel Razeq",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Refa' Jamal A.Alhafeez Al-Ramahi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Refa' Jamal A.Alhafeez Al-Ramahi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Ahmad M. A. Aljanazrah",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Ahmad M. A. Aljanazrah",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Maher Zuhdi Daoud Al Hashweh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

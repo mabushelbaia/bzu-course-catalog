@@ -1,0 +1,3301 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ENGC",
+ "counts": {
+  "courses": 7,
+  "sections": 92,
+  "instructors": 38,
+  "rooms": 49
+ },
+ "courses": [
+  {
+   "code": "ENGC1000",
+   "prefix": "ENGC",
+   "name": "INTENSIVE REMEDIAL ENGLISH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Amira Mohammad Awad Abu Zeed",
+     "enrolled": 35,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Rida Yasir Akram Dudin",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI117",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Oraib Aref Ali Khammash",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen256",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Alaa M. A. Abady",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Salam A. A. Affoneh",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI112",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Salam A. A. Affoneh",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI119",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGC1400",
+   "prefix": "ENGC",
+   "name": "INTENSIVE INTERMEDIATE ENGLISH 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Salam A. A. Affoneh",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI117",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rula Tony Jabra Yousef",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Samar Anton Eskander Kassis",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Silvia Henry Anton Nassar",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Faten Mohamad Abdoulah Khalaf",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI119",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mariam Abdullah Ratib Na'San",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI119",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Tagreed Bajes Butros Abed",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Mariam Abdullah Ratib Na'San",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Nedal N. M. Afaneh",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI017",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Atiyyeh Hussein Atiyyeh Ismael",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Al-Juraysi129",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Al-Juraysi129",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Rida Yasir Akram Dudin",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI017",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Suzan Musa Asad Shehada",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI217",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Suzan Musa Asad Shehada",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI214",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI214",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI115",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Yaffa Jumah Ahmad Abu Hamda",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI017",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "15",
+     "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI017",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "16",
+     "instructor": "Suzan Musa Asad Shehada",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "17",
+     "instructor": "Tala Huthayfa Said Jalamni",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "18",
+     "instructor": "Fatima Yacoub Jum'Ah Qarash",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI219",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "19",
+     "instructor": "Andira A. M. Abdallah",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI019",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI019",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI019",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI119",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "21",
+     "instructor": "Rula Tony Jabra Yousef",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI019",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI019",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI019",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "22",
+     "instructor": "Nagham N. J. Idrees",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI217",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "23",
+     "instructor": "Silvia Henry Anton Nassar",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI217",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "24",
+     "instructor": "Nagham N. J. Idrees",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI217",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "25",
+     "instructor": "Claire Hamd Hamed Ghethan",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI217",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "26",
+     "instructor": "Tina Yaser Kostandi Rafidi",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bahrain221",
+       "building": "Bahrain"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "27",
+     "instructor": "Ahmad Shukri Ahmad Shayeb",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "28",
+     "instructor": "Mohamad Ibrahim Khalil Abu Thaher",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "SCI117",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "29",
+     "instructor": "Rabah Fahed Ahmad 'A.Ahmad'",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "30",
+     "instructor": "Rabah Fahed Ahmad 'A.Ahmad'",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "32",
+     "instructor": "Tamara Mohammad Salah Barakat, Wejdan R. L. Al Kook",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI117",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "33",
+     "instructor": "Rabah Fahed Ahmad 'A.Ahmad'",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "35",
+     "instructor": "Amira Mohammad Awad Abu Zeed",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "37",
+     "instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "38",
+     "instructor": "Nedal N. M. Afaneh",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI217",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "39",
+     "instructor": "Rami Mahmoud Mohammed Abu Shamma",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "40",
+     "instructor": "Mohamad Ibrahim Khalil Abu Thaher",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "41",
+     "instructor": "Nariman Mohammad Hasan Morrar",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "42",
+     "instructor": "Ahmad Shukri Ahmad Shayeb",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "43",
+     "instructor": "Amira Mohammad Awad Abu Zeed",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "44",
+     "instructor": "Tina Yaser Kostandi Rafidi",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "SCI021",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "45",
+     "instructor": "Ahmad Shukri Ahmad Shayeb",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "46",
+     "instructor": "Salam A. A. Affoneh, Wejdan R. L. Al Kook",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "47",
+     "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "48",
+     "instructor": "Tala Huthayfa Said Jalamni",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "49",
+     "instructor": "Andira A. M. Abdallah",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI217",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "50",
+     "instructor": "Faten Mohamad Abdoulah Khalaf",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "51",
+     "instructor": "Tina Yaser Kostandi Rafidi",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen018",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI119",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "52",
+     "instructor": "Atiyyeh Hussein Atiyyeh Ismael",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI119",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "53",
+     "instructor": "Rami Mahmoud Mohammed Abu Shamma",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad403",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "54",
+     "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI219",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGC233",
+   "prefix": "ENGC",
+   "name": "ENGLISH THROUGH CURRENT ISSUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fatima Yacoub Jum'Ah Qarash",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Rula Tony Jabra Yousef",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGC2360",
+   "prefix": "ENGC",
+   "name": "ADVANCED READING SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Andira A. M. Abdallah",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGC2400",
+   "prefix": "ENGC",
+   "name": "INTENSIVE INTERMEDIATE ENGLISH 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen206",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Adnan Ibrahim Abdallah Abuayyash",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI116",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Osama Mahmoud Khaled Abu-Baha",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "SCI114",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "SCI114",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mahmoud Mustafa Ali Bsharat",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "15:00",
+       "end": "15:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "S",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGC2401",
+   "prefix": "ENGC",
+   "name": "INTENSIVE ADVANCED ENGLISH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nariman Mohammad Hasan Morrar",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI219",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Tagreed Bajes Butros Abed",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bahrain221",
+       "building": "Bahrain"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bahrain221",
+       "building": "Bahrain"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Nariman Mohammad Hasan Morrar",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI219",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Amira Mohammad Awad Abu Zeed",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mariam Abdullah Ratib Na'San",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Oraib Aref Ali Khammash",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI219",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Fatima Yacoub Jum'Ah Qarash",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi023",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi023",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Mohamad Ibrahim Khalil Abu Thaher",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI219",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI219",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Mahmoud Mustafa Ali Bsharat",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "16",
+     "instructor": "Fatima Yacoub Jum'Ah Qarash",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI217",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "17",
+     "instructor": "Tagreed Bajes Butros Abed",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "18",
+     "instructor": "Adnan Ibrahim Abdallah Abuayyash",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "19",
+     "instructor": "Adnan Ibrahim Abdallah Abuayyash",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI117",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen062",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "20",
+     "instructor": "Majida \"Mohammed Yousef\" Fahmi Dajani",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "SCI119",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "21",
+     "instructor": "Suzan Musa Asad Shehada",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI019",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI119",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI019",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "22",
+     "instructor": "Faten Mohamad Abdoulah Khalaf",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen202",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "23",
+     "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI021",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "24",
+     "instructor": "Nariman Mohammad Hasan Morrar",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Al-Juraysi023",
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Al-Juraysi023",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "25",
+     "instructor": "Ghada Mohammad Ahmad Abul Hommos",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Al-Juraysi227",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Al-Juraysi227",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "26",
+     "instructor": "Ahmad Shukri Ahmad Shayeb",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI012",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI017",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "27",
+     "instructor": "Tamara Mohammad Salah Barakat, Wejdan R. L. Al Kook",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Aggad307",
+       "building": "Aggad"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Aggad336",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Aggad332",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Aggad336",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENGC3340",
+   "prefix": "ENGC",
+   "name": "ADVANCED WRITING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Tina Yaser Kostandi Rafidi",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Adnan Ibrahim Abdallah Abuayyash",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

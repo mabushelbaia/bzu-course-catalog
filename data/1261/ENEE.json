@@ -1,0 +1,1597 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ENEE",
+ "counts": {
+  "courses": 28,
+  "sections": 75,
+  "instructors": 18,
+  "rooms": 29
+ },
+ "courses": [
+  {
+   "code": "ENEE2103",
+   "prefix": "ENEE",
+   "name": "CIRCUITS AND ELECTRONICS LABORATORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mahran N. F. Jazzi",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Bilal Nasser Abd Aljalil Ismail",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE2110",
+   "prefix": "ENEE",
+   "name": "ELECTRIC CIRCUITS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri206",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri206",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Majdi N. M. Thaher",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri206",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE2306",
+   "prefix": "ENEE",
+   "name": "CIRCUIT ANALYSIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bilal Jafar Hamed Karaki",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri108",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri302",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri108",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri108",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri304",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri304",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE2307",
+   "prefix": "ENEE",
+   "name": "PROBABILITY AND ENGINEERING STATISTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Majdi N. M. Thaher",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri504",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Bilal Nasser Abd Aljalil Ismail",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri304",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri304",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Majdi N. M. Thaher",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri406",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "enrolled": 54,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri406",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri406",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri406",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri406",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mohammad Khaleel Issa Jubran",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri108",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri108",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE2311",
+   "prefix": "ENEE",
+   "name": "NETWORK ANALYSIS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri108",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri108",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Aggad225",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri504",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Alhareth M. T. Zyoud",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri202",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri108",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE2312",
+   "prefix": "ENEE",
+   "name": "SIGNALS AND SYSTEMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal Othman Hosen Seyam",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri204",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri108",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Jamal Othman Hosen Seyam",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri202",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri202",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Rawan M. S. Soboh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE2313",
+   "prefix": "ENEE",
+   "name": "ELECTRONICS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahran N. F. Jazzi",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri406",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri406",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE2360",
+   "prefix": "ENEE",
+   "name": "ANALOG ELECTRONICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri306",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri306",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri502",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri502",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri110",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri204",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri302",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri302",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE2408",
+   "prefix": "ENEE",
+   "name": "ELECTRICAL MACHINES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri502",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri502",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Masri502",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE3103",
+   "prefix": "ENEE",
+   "name": "ANALOG ELECTRONICS LAB  (FOR MECHATRONIC STUDENTS)",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Alhareth M. T. Zyoud",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Alhareth M. T. Zyoud",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE3112",
+   "prefix": "ENEE",
+   "name": "ELECTRONICS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masri203",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE3304",
+   "prefix": "ENEE",
+   "name": "ELECTRONICS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahran N. F. Jazzi",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE3307",
+   "prefix": "ENEE",
+   "name": "LIGHTING AND ACOUSTICS ENGINEERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rawan M. S. Soboh",
+     "enrolled": 55,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri204",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri204",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rawan M. S. Soboh",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad332",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE3308",
+   "prefix": "ENEE",
+   "name": "ELECTROMECHANICAL PRINCIPLES AND APPLICATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen162",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen162",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE3309",
+   "prefix": "ENEE",
+   "name": "COMMUNICATION SYSTEMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Qadri A. A. Mayyala",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri110",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri110",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rawan M. S. Soboh",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri202",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri202",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri109",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri109",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Bilal Nasser Abd Aljalil Ismail",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri504",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri504",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE4102",
+   "prefix": "ENEE",
+   "name": "FUNDAMENTALS OF ELECTRICAL MACHINES LAB.",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ali Hasan Moath Abdo",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad345",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ali Hasan Moath Abdo",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad345",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE4104",
+   "prefix": "ENEE",
+   "name": "ENGINEERING SIMULATION LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal Othman Hosen Seyam",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Masri303",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE4105",
+   "prefix": "ENEE",
+   "name": "CONTROL AND POWER ELECTRONICS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad345",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE4113",
+   "prefix": "ENEE",
+   "name": "COMMUNICATIONS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Wael A. M. Hashlamoun",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad341",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Bilal Nasser Abd Aljalil Ismail",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad341",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad341",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Qadri A. A. Mayyala",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad341",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aggad341",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Alhareth M. T. Zyoud",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aggad341",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Rawan M. S. Soboh",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aggad341",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE4202",
+   "prefix": "ENEE",
+   "name": "ELECTRICAL INSTALLATION AND DRAWING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Masri106",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masri303",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masri303",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE4302",
+   "prefix": "ENEE",
+   "name": "CONTROL SYSTEMS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Aggad303",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri306",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE4303",
+   "prefix": "ENEE",
+   "name": "ELECTRICAL MACHINES FUNDAMENTALS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ali Hasan Moath Abdo",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri204",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Masri204",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ali Hasan Moath Abdo",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri404",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masri404",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE4403",
+   "prefix": "ENEE",
+   "name": "POWER SYSTEMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri204",
+       "building": "Masri"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri204",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE5102",
+   "prefix": "ENEE",
+   "name": "POWER LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE5200",
+   "prefix": "ENEE",
+   "name": "INTRODUCTION TO GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Bilal Nasser Abd Aljalil Ismail",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ali Hasan Moath Abdo",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Jamal Othman Hosen Seyam",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Bilal Jafar Hamed Karaki",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ENEE5300",
+   "prefix": "ENEE",
+   "name": "GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ENEE5303",
+   "prefix": "ENEE",
+   "name": "ELECTRICAL MACHINE DRIVES AND SPECIAL MACHINES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahran S. R. Quraan",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad221",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad221",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ENEE5304",
+   "prefix": "ENEE",
+   "name": "INFORMATION AND CODING THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Wael A. M. Hashlamoun",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri304",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masri304",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Wael A. M. Hashlamoun",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri504",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masri504",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

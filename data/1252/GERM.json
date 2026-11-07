@@ -1,0 +1,210 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "GERM",
+ "counts": {
+  "courses": 6,
+  "sections": 6,
+  "instructors": 2,
+  "rooms": 10
+ },
+ "courses": [
+  {
+   "code": "GERM130",
+   "prefix": "GERM",
+   "name": "INTRODUCTION TO GERMAN LANGUAGE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh N. F. Abuawad",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM132",
+   "prefix": "GERM",
+   "name": "GERMAN FOR BEGINNERS 2/A",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miral Ghaleb Mohammad Kadamani",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI012",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM133",
+   "prefix": "GERM",
+   "name": "GERMAN FOR BEGINNERS 2/B",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh N. F. Abuawad",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM231",
+   "prefix": "GERM",
+   "name": "GERMAN LANGUAGE 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miral Ghaleb Mohammad Kadamani",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi023",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM434",
+   "prefix": "GERM",
+   "name": "SP.TOP: DAF METHODOLOGY AND DIDACTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miral Ghaleb Mohammad Kadamani",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI021",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aggad515",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM438",
+   "prefix": "GERM",
+   "name": "GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miral Ghaleb Mohammad Kadamani",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

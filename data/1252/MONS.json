@@ -1,0 +1,115 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MONS",
+ "counts": {
+  "courses": 4,
+  "sections": 5,
+  "instructors": 4,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "MONS6203",
+   "prefix": "MONS",
+   "name": "EMERGENCY NURSING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Imad Tawfiq Mohammad Asmar",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MONS6230",
+   "prefix": "MONS",
+   "name": "CRITICAL CARE NURSING I",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MONS6240",
+   "prefix": "MONS",
+   "name": "CRITICAL CARE NURSING (CLINICAL I)",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fuad Ali Hasan Abu Al Fayyah",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Fuad Ali Hasan Abu Al Fayyah",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MONS6310",
+   "prefix": "MONS",
+   "name": "RESEARCH METHODS IN NURSING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

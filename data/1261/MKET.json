@@ -1,0 +1,778 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MKET",
+ "counts": {
+  "courses": 18,
+  "sections": 28,
+  "instructors": 16,
+  "rooms": 18
+ },
+ "courses": [
+  {
+   "code": "MKET130",
+   "prefix": "MKET",
+   "name": "PRINCIPLES OF MARKETING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dana Khaled Kamal Qaimary Siaj",
+     "enrolled": 131,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi001",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Marian Zaki Basil Petro",
+     "enrolled": 132,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Dana Khaled Kamal Qaimary Siaj",
+     "enrolled": 128,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Samer Anton Estaphan Salameh",
+     "enrolled": 163,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi001",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi001",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET230",
+   "prefix": "MKET",
+   "name": "PRINCIPLES OF MARKETING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Suzan Jamal Mousa Shkukani",
+     "enrolled": 126,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi001",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi001",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Dahouk Husain Abdel Afo Dawoudi",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET2310",
+   "prefix": "MKET",
+   "name": "DIGITAL MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adnan Sufian Muawiya Asali",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Adnan Sufian Muawiya Asali",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Samah Ahmad Hamed Abu Assab",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi227",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi227",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET2320",
+   "prefix": "MKET",
+   "name": "SOCIAL MEDIA MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Syrina Khaled Kamal Qamery",
+     "enrolled": 69,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET2330",
+   "prefix": "MKET",
+   "name": "MARKETING MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rania Yaser Qostande Jaber",
+     "enrolled": 61,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET3310",
+   "prefix": "MKET",
+   "name": "DIGITAL CUSTOMER RELATIONS MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hanin S. J. Ramahi",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "Al-Juraysi325",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "Al-Juraysi325",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET332",
+   "prefix": "MKET",
+   "name": "SALES MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Arwa B. Y. Abed",
+     "enrolled": 60,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET3320",
+   "prefix": "MKET",
+   "name": "DIGITAL BRANDING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dahouk Husain Abdel Afo Dawoudi",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi223",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi223",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET3330",
+   "prefix": "MKET",
+   "name": "DIGITAL ADVERTISING MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shadi Ismail Taha Abu Rmailah, Dana Khaled Kamal Qaimary Siaj",
+     "enrolled": 61,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET334",
+   "prefix": "MKET",
+   "name": "CONSUMER BEHAVIOR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dahouk Husain Abdel Afo Dawoudi",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi327",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi129",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET335",
+   "prefix": "MKET",
+   "name": "INTERNATIONAL MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mira K. J. Almukarker",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi223",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi223",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET337",
+   "prefix": "MKET",
+   "name": "PRICING STRATEGIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nadine Asa'D Said Sinokrot",
+     "enrolled": 69,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET4310",
+   "prefix": "MKET",
+   "name": "DIGITAL MARKETING ANALYTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samah Ahmad Hamed Abu Assab",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi225",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET436",
+   "prefix": "MKET",
+   "name": "MARKET RESEARCH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samer Anton Estaphan Salameh",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi127",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi127",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Samer Anton Estaphan Salameh",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi325",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi325",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET4370",
+   "prefix": "MKET",
+   "name": "SP.TOP: ARTIFICIAL INTELLIGENCE IN DIGITAL MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Syrina Khaled Kamal Qamery",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi327",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi327",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adnan Sufian Muawiya Asali, Dana Khaled Kamal Qaimary Siaj",
+     "enrolled": 69,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shadi Ismail Taha Abu Rmailah, Dana Khaled Kamal Qaimary Siaj",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET438",
+   "prefix": "MKET",
+   "name": "SEMINAR IN MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Amal Wasef Mousa Nazzal",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi222",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Amal Wasef Mousa Nazzal",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi322",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET439",
+   "prefix": "MKET",
+   "name": "STRATEGIC MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Suzan Jamal Mousa Shkukani",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi323",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi323",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET4391",
+   "prefix": "MKET",
+   "name": "PRACTICAL TRAINING IN MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dahouk Husain Abdel Afo Dawoudi",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

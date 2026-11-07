@@ -1,0 +1,1953 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MATH",
+ "counts": {
+  "courses": 26,
+  "sections": 95,
+  "instructors": 35,
+  "rooms": 25
+ },
+ "courses": [
+  {
+   "code": "MATH1322",
+   "prefix": "MATH",
+   "name": "CALCULUS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muna Khaled Khaleel Abu Alhalawa",
+     "enrolled": 149,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI240",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ala Ata Abdelhady Talahmeh",
+     "enrolled": 148,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI240",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Abdelrahim S. A. Mousa",
+     "enrolled": 165,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Sh.Shaheen105",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Sh.Shaheen105",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Muna Khaled Khaleel Abu Alhalawa",
+     "enrolled": 149,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI240",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Abdelrahim S. A. Mousa",
+     "enrolled": 140,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Sh.Shaheen105",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Sh.Shaheen105",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Mohammed Abd Alkareem Ibrahim Fuqaha",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Amer Rida Hasan Ja'Far",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "3",
+     "instructor": "Nojod As'Ad Abd Alrahman Abo Rihan",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "4",
+     "instructor": "Batool Mohammad Moustafa Raddad",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "5",
+     "instructor": "Nojod As'Ad Abd Alrahman Abo Rihan",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "6",
+     "instructor": "Mohammed Abd Alkareem Ibrahim Fuqaha",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "7",
+     "instructor": "Mohammed Abd Alkareem Ibrahim Fuqaha",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "8",
+     "instructor": "Batool Mohammad Moustafa Raddad",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "9",
+     "instructor": "Batool Mohammad Moustafa Raddad",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "10",
+     "instructor": "Mohammed Abd Alkareem Ibrahim Fuqaha",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "11",
+     "instructor": "Sundos Rafat Ibrahem Khalil",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "12",
+     "instructor": "Amer Rida Hasan Ja'Far",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "13",
+     "instructor": "Mohammed Abd Alkareem Ibrahim Fuqaha",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "14",
+     "instructor": "Sundos Rafat Ibrahem Khalil",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "15",
+     "instructor": "Amer Rida Hasan Ja'Far",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "16",
+     "instructor": "Amer Rida Hasan Ja'Far",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "17",
+     "instructor": "Nojod As'Ad Abd Alrahman Abo Rihan",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "18",
+     "instructor": "Batool Mohammad Moustafa Raddad",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH1331",
+   "prefix": "MATH",
+   "name": "CALCULUS FOR PHARMACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Yousef Hejaze Madiah",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI115",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Yousef Hejaze Madiah",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad338",
+       "building": "Aggad"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad338",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad338",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH1351",
+   "prefix": "MATH",
+   "name": "PRECALCULUS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad W. K. Adarbeh",
+     "enrolled": 147,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Sh.Shaheen105",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Sh.Shaheen105",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rasha Mohammad Amin Shadid",
+     "enrolled": 154,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen150",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen150",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Ayah Mohammad Abd Alhamed Sharawneh",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Ayah Mohammad Abd Alhamed Sharawneh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "3",
+     "instructor": "Ayah Mohammad Abd Alhamed Sharawneh",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "4",
+     "instructor": "Rasha Shaker Mohammad Abu Rmilah",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "5",
+     "instructor": "Ahmad Omar Abdallah Shuibat",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "6",
+     "instructor": "Heba Daiej Abed Rabuh Al Mtoor",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH1412",
+   "prefix": "MATH",
+   "name": "CALCULUS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Alaeddin Elayyan Alaeddin Elayyan",
+     "enrolled": 167,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Alaeddin Elayyan Alaeddin Elayyan",
+     "enrolled": 141,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Ayah Mohammad Abd Alhamed Sharawneh",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Salam Badir Yousef Shriteh",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "3",
+     "instructor": "Khaleel I. K. Anaya",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "4",
+     "instructor": "Ayah Mohammad Abd Alhamed Sharawneh",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "5",
+     "instructor": "Shahd Kamal Husni Jamal",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "6",
+     "instructor": "Khaleel I. K. Anaya",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "7",
+     "instructor": "Khaleel I. K. Anaya",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH2311",
+   "prefix": "MATH",
+   "name": "CALCULUS 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farah Gh. S. Omar",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI114",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI114",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI114",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH234",
+   "prefix": "MATH",
+   "name": "INTRODUCTION TO LINEAR ALGEBRA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "SCI214",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ala Ata Abdelhady Talahmeh",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI215",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammad Ali Deib Saleh",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI213",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI213",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mohammad W. K. Adarbeh",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI215",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH2351",
+   "prefix": "MATH",
+   "name": "CALCULUS FOR BUSINESS AND ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Salam Badir Yousef Shriteh",
+     "enrolled": 126,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI240",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Salam Badir Yousef Shriteh",
+     "enrolled": 121,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sundos Rafat Ibrahem Khalil",
+     "enrolled": 138,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen150",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "A.Shaheen150",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Muna Khaled Khaleel Abu Alhalawa",
+     "enrolled": 132,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad225",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Aggad225",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Reem Abdalrahim Hasan Ali",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "SCI115",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Nimah Mahfoz Naeem Zaid",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "3",
+     "instructor": "Aseel Mohammad Nori Bsharat",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "4",
+     "instructor": "Nimah Mahfoz Naeem Zaid",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "5",
+     "instructor": "Reem Abdalrahim Hasan Ali",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "6",
+     "instructor": "Amal Abdulhakim Sader Awadallah",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI114",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "7",
+     "instructor": "Rama Waddah Mubtasem Irhimi",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "8",
+     "instructor": "Rama Waddah Mubtasem Irhimi",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "9",
+     "instructor": "Aseel Mohammad Nori Bsharat",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "SCI214",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "10",
+     "instructor": "Amal Abdulhakim Sader Awadallah",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "11",
+     "instructor": "Sundos Rafat Ibrahem Khalil",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "12",
+     "instructor": "Sundos Rafat Ibrahem Khalil",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH2360",
+   "prefix": "MATH",
+   "name": "LINEAR ALGEBRA AND NUMERICAL METHODS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farah Gh. S. Omar",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH3100",
+   "prefix": "MATH",
+   "name": "SCIENTIFIC COMPUTING TOOLS LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maher Mohammad Abdallah Abdallatif",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "SCI018",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "SCI018",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH330",
+   "prefix": "MATH",
+   "name": "NUMERICAL METHODS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdelrahim S. A. Mousa",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI116",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdelrahim S. A. Mousa",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI113",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI113",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Farah Gh. S. Omar",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI215",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI215",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH331",
+   "prefix": "MATH",
+   "name": "ORDINARY DIFFERENTIAL EQUATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muna Khaled Khaleel Abu Alhalawa",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI213",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Khaleel I. K. Anaya",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI114",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI114",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Khaleel I. K. Anaya",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI112",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH3341",
+   "prefix": "MATH",
+   "name": "MATHEMATICAL ANALYSIS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ala Ata Abdelhady Talahmeh",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI216",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI216",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH338",
+   "prefix": "MATH",
+   "name": "ABSTRACT ALGEBRA 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Radwan Ali Altakhman",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI213",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI213",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "SCI213",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH339",
+   "prefix": "MATH",
+   "name": "EUCLIDEAN AND NON-EUCLIDEAN GEOMETRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hani Majed Izzo Kabajah",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI116",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI116",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH411",
+   "prefix": "MATH",
+   "name": "SEMINAR IN MATHEMATICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdelrahim S. A. Mousa",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi329",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH431",
+   "prefix": "MATH",
+   "name": "COMPLEX VARIABLES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Ali Deib Saleh",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI112",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH435",
+   "prefix": "MATH",
+   "name": "INTRODUCTION TO NUMBER THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Radwan Ali Altakhman",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI115",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI115",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH610",
+   "prefix": "MATH",
+   "name": "RESEARCH METHODOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Marwan M. S. Aloqeili",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH620",
+   "prefix": "MATH",
+   "name": "MATRIX THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muna Khaled Khaleel Abu Alhalawa",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "15:00",
+       "end": "16:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH636",
+   "prefix": "MATH",
+   "name": "COMPLEX ANALYSIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Ali Deib Saleh",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH830",
+   "prefix": "MATH",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Ali Deib Saleh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI219",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH831",
+   "prefix": "MATH",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdelrahim S. A. Mousa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH860",
+   "prefix": "MATH",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Ali Deib Saleh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdelrahim S. A. Mousa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Abdelrahim S. A. Mousa",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MATH9311",
+   "prefix": "MATH",
+   "name": "NUMERICAL METHODS FOR ORDINARY DIFFERENTIAL EQUATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Alaeddin Elayyan Alaeddin Elayyan",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "N.Shaheen203",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH9312",
+   "prefix": "MATH",
+   "name": "ABSTRACT ALGEBRA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Ali Deib Saleh",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "N.Shaheen307",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MATH9990",
+   "prefix": "MATH",
+   "name": "DISSERTATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Ali Deib Saleh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Ali Deib Saleh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Marwan M. S. Aloqeili, Ahmad Yousef Rateb Al-Dweik",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ahmad Yousef Rateb Al-Dweik, Marwan M. S. Aloqeili",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ahmad Yousef Rateb Al-Dweik, Marwan M. S. Aloqeili",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Edriss A.  Titi, Ala Ata Abdelhady Talahmeh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Baseim Salem Suliman Etilei, Abdallah Salahedin Saleh Sayyed Ahmad",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

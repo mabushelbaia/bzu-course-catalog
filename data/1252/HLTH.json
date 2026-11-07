@@ -1,0 +1,241 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "HLTH",
+ "counts": {
+  "courses": 6,
+  "sections": 15,
+  "instructors": 5,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "HLTH6100",
+   "prefix": "HLTH",
+   "name": "SP.TOP: FUNDAMENTALS OF QUANTITATIVE DATA ANALYSIS AND INTERPRETATION USING SPSS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\"",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Khoury226",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HLTH625",
+   "prefix": "HLTH",
+   "name": "ADVANCED CLASSICAL AND SOCIAL EPIDEMIOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdullatif Said Abdullatif Husseini",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "14:50",
+       "room": "Khoury228",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HLTH6340",
+   "prefix": "HLTH",
+   "name": "HEALTH STATISTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\"",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HLTH734",
+   "prefix": "HLTH",
+   "name": "SEL.TOP: INTRODUCTION TO OCCUPATIONAL HEALTH AND SAFETY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maysaa Yousef Khaled Nemer",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Khoury226",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Said F. S. Abukhattab",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Khoury228",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Aisha Abdel Munem Omran Shalash",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Khoury228",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HLTH831",
+   "prefix": "HLTH",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\"",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Khoury226",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HLTH860",
+   "prefix": "HLTH",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Said F. S. Abukhattab",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Said F. S. Abukhattab",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Said F. S. Abukhattab",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Maysaa Yousef Khaled Nemer",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Said F. S. Abukhattab",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Aisha Abdel Munem Omran Shalash",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Aisha Abdel Munem Omran Shalash",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\"",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

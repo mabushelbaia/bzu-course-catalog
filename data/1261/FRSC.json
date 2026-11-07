@@ -1,0 +1,158 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "FRSC",
+ "counts": {
+  "courses": 5,
+  "sections": 5,
+  "instructors": 3,
+  "rooms": 4
+ },
+ "courses": [
+  {
+   "code": "FRSC2310",
+   "prefix": "FRSC",
+   "name": "FUNDAMENTALS OF FORENSIC SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Wafaa Mohammed Ahmed Albeiruti",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "FRSC3320",
+   "prefix": "FRSC",
+   "name": "FORENSIC CRIMINAL PSYCHOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maurice F. B. Backleh",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "SCI115",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "FRSC4320",
+   "prefix": "FRSC",
+   "name": "ADVANCED TOPICS IN FORENSIC DNA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Wafaa Mohammed Ahmed Albeiruti",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI215",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "SCI215",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "FRSC4340",
+   "prefix": "FRSC",
+   "name": "INTERNSHIP IN FORENSICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Najeh M. S. Samarah",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "FRSC4350",
+   "prefix": "FRSC",
+   "name": "FORENSIC ANALYTICAL TECHNIQUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Najeh M. S. Samarah",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI112",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI112",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

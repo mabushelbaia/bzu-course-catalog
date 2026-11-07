@@ -1,0 +1,130 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "WOHE",
+ "counts": {
+  "courses": 5,
+  "sections": 5,
+  "instructors": 4,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "WOHE6310",
+   "prefix": "WOHE",
+   "name": "SEXUAL AND REPRODUCTIVE HEALTH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hadeel Yousif Mohammad Nasr Ali",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WOHE6320",
+   "prefix": "WOHE",
+   "name": "MATERNAL HEALTH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sahar Jamal Abed El Aziz Hassan",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WOHE7330",
+   "prefix": "WOHE",
+   "name": "GENDER-BASED VIOLENCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Aysheh \"Mohammad Saed\" Mahmoud Abu Hwaij/Alrifai",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WOHE8300",
+   "prefix": "WOHE",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sahar Jamal Abed El Aziz Hassan",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH219",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "WOHE8600",
+   "prefix": "WOHE",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Aisha Abdel Munem Omran Shalash",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

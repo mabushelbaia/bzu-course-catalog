@@ -1,0 +1,489 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "GEOI",
+ "counts": {
+  "courses": 11,
+  "sections": 26,
+  "instructors": 8,
+  "rooms": 12
+ },
+ "courses": [
+  {
+   "code": "GEOI2300",
+   "prefix": "GEOI",
+   "name": "PRINCIPLES OF PHYSICAL AND HUMAN GEOGRAPHY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khalil Abdullah Mutawe' Amro",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen262",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI2320",
+   "prefix": "GEOI",
+   "name": "GEOGRAPHIC RESEARCH METHODS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Lee Loren Tesdell",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI2380",
+   "prefix": "GEOI",
+   "name": "INTRODUCTION TO PROGRAMMING FOR GIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad So'Ud Salim Hamo",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Aggad411",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Ahmad So'Ud Salim Hamo",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "A.Shaheen230",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Ahmad So'Ud Salim Hamo",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "A.Shaheen230",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI3300",
+   "prefix": "GEOI",
+   "name": "RASTER ANALYSIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdullah Said Naji Herzallah",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "A.Shaheen064",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Abdullah Said Naji Herzallah",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "A.Shaheen232",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI3380",
+   "prefix": "GEOI",
+   "name": "REMOTE SENSING APPLICATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Khoury005",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "A.Shaheen233",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Abdallah Mahmoud Issa Al-Manasra",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "A.Shaheen233",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI3390",
+   "prefix": "GEOI",
+   "name": "APPLICATIONS OF GEOGRAPHIC INFORMATION SYSTEMS TO ENVIRONMENTAL ISSUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "A.Shaheen232",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI4300",
+   "prefix": "GEOI",
+   "name": "CADASTRAL SURVEY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamal Ali Abdel Fattah Numan",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Jamal Ali Abdel Fattah Numan",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "A.Shaheen233",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Jamal Ali Abdel Fattah Numan",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "A.Shaheen231",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI4310",
+   "prefix": "GEOI",
+   "name": "DIGITAL TERRAIN ANALYSIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdullah Said Naji Herzallah",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Aggad307",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Abdullah Said Naji Herzallah",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "A.Shaheen231",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI4370",
+   "prefix": "GEOI",
+   "name": "MANAGEMENT OF GEOGRAPHIC INFORMATION SYSTEMS PROJECTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "A.Shaheen232",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GEOI4380",
+   "prefix": "GEOI",
+   "name": "GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Abdullah Said Naji Herzallah",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Abdullah Said Naji Herzallah",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "GEOI4390",
+   "prefix": "GEOI",
+   "name": "SPECIAL TOPIC",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

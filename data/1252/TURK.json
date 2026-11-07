@@ -1,0 +1,76 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "TURK",
+ "counts": {
+  "courses": 1,
+  "sections": 2,
+  "instructors": 1,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "TURK131",
+   "prefix": "TURK",
+   "name": "TURKISH LANGUAGE FOR BEGINNERS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yara Z. F. Abuhussien",
+     "enrolled": 60,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Yara Z. F. Abuhussien",
+     "enrolled": 63,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

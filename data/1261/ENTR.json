@@ -1,0 +1,53 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ENTR",
+ "counts": {
+  "courses": 1,
+  "sections": 1,
+  "instructors": 1,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "ENTR2300",
+   "prefix": "ENTR",
+   "name": "INTRODUCTION TO ENTREPRENEURSHIP",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mira Taysir Ibrahim El-Far",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi321",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi321",
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

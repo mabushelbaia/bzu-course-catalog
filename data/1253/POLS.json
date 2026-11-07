@@ -1,0 +1,217 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "POLS",
+ "counts": {
+  "courses": 4,
+  "sections": 6,
+  "instructors": 2,
+  "rooms": 6
+ },
+ "courses": [
+  {
+   "code": "POLS231",
+   "prefix": "POLS",
+   "name": "INTRODUCTION TO POLITICAL SCIENCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Imad Hassan Musa Ghayathah",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "ALSADIK408",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "ALSADIK408",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "ALSADIK408",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "ALSADIK408",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "POLS236",
+   "prefix": "POLS",
+   "name": "PALESTINIAN POLITICAL SYSTEM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hani Mahmoud Abed Mousa",
+     "enrolled": 73,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "13:20",
+       "room": "Bamieh002",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "13:20",
+       "room": "Bamieh002",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Hani Mahmoud Abed Mousa",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:40",
+       "end": "13:40",
+       "room": "ALSADIK302",
+       "building": "ALSADIK"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Hani Mahmoud Abed Mousa",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "12:40",
+       "end": "13:40",
+       "room": "ALSADIK406",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "POLS333",
+   "prefix": "POLS",
+   "name": "PALESTINIAN QUESTION 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hani Mahmoud Abed Mousa",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "ALSADIK305",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "ALSADIK305",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "ALSADIK305",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "ALSADIK305",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "POLS339",
+   "prefix": "POLS",
+   "name": "POLITICAL TRANSFORMATIONS AND CHANGES IN THE ARAB WORLD",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hani Mahmoud Abed Mousa",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "ALSADIK102",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "ALSADIK102",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "ALSADIK102",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "ALSADIK102",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

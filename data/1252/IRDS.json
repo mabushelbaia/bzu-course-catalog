@@ -1,0 +1,115 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "IRDS",
+ "counts": {
+  "courses": 4,
+  "sections": 4,
+  "instructors": 4,
+  "rooms": 4
+ },
+ "courses": [
+  {
+   "code": "IRDS6300",
+   "prefix": "IRDS",
+   "name": "RESEARCH METHODOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hani Mahmoud Abed Mousa, Ahmad Jamil Ahmad Hamad",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK407",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IRDS6310",
+   "prefix": "IRDS",
+   "name": "A CONCEPTUAL INTRODUCTION TO INTERNATIONAL RELATIONS, DIPLOMACY, AND GLOBAL SECURITY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lourdes B. A. Habash, Ali Bassam Ali Jarbawi",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK305",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IRDS6320",
+   "prefix": "IRDS",
+   "name": "INTERNATIONAL AND SECURITY RELATIONS IN THE CONTEMPORARY WORLD",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah, Feras A. H. Qawasmeh, Salim A.  Guessoum",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IRDS6340",
+   "prefix": "IRDS",
+   "name": "UNDERSTANDING INTERNATIONAL RELATIONS: THEORETICAL AND CRITICAL APPROACHES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Qassem  Hussein, Lourdes B. A. Habash, Ali Bassam Ali Jarbawi",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "12:50",
+       "room": "N.Shaheen202",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

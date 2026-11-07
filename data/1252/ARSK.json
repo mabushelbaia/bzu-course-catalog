@@ -1,0 +1,229 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ARSK",
+ "counts": {
+  "courses": 5,
+  "sections": 5,
+  "instructors": 4,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "ARSK1310",
+   "prefix": "ARSK",
+   "name": "BASICS OF ARABIC LANGUAGE SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Thabit Muhammad Khalil Hamed",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARSK132",
+   "prefix": "ARSK",
+   "name": "MODERN STANDARD ARABIC 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hanada Mahmoud Ahmad Kharama",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "18:00",
+       "end": "19:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      },
+      {
+       "day": "T",
+       "start": "18:00",
+       "end": "19:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "18:00",
+       "end": "19:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "18:00",
+       "end": "19:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARSK133",
+   "prefix": "ARSK",
+   "name": "COLLOQUIAL ARABIC 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      },
+      {
+       "day": "T",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARSK134",
+   "prefix": "ARSK",
+   "name": "COLLOQUIAL ARABIC 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hanada Mahmoud Ahmad Kharama",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      },
+      {
+       "day": "T",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARSK233",
+   "prefix": "ARSK",
+   "name": "COLLOQUIAL ARABIC 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad B. N. Qadri",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      },
+      {
+       "day": "T",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "17:50",
+       "room": "Bahrain201",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

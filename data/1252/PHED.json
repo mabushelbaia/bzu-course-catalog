@@ -1,0 +1,1424 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PHED",
+ "counts": {
+  "courses": 30,
+  "sections": 65,
+  "instructors": 9,
+  "rooms": 20
+ },
+ "courses": [
+  {
+   "code": "PHED120",
+   "prefix": "PHED",
+   "name": "PHYSICAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud W. M. Kaied",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED122",
+   "prefix": "PHED",
+   "name": "SOCCER 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED123",
+   "prefix": "PHED",
+   "name": "PHYSICAL TRAININGS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Reem Mustafa Mohammad Hamad",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "GYM205",
+       "building": "GYM"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "GYM205",
+       "building": "GYM"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Reem Mustafa Mohammad Hamad",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "GYM205",
+       "building": "GYM"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "GYM205",
+       "building": "GYM"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Reem Mustafa Mohammad Hamad",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "GYM205",
+       "building": "GYM"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "GYM205",
+       "building": "GYM"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED1250",
+   "prefix": "PHED",
+   "name": "HEALTH EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Z. R. Ilaiwi",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mahmoud W. M. Kaied",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED211",
+   "prefix": "PHED",
+   "name": "PHYSICAL FITNESS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED220",
+   "prefix": "PHED",
+   "name": "MOTOR LEARNING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED224",
+   "prefix": "PHED",
+   "name": "VOLLEYBALL 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "GYM203",
+       "building": "GYM"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "GYM203",
+       "building": "GYM"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "GYM203",
+       "building": "GYM"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "GYM203",
+       "building": "GYM"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "GYM203",
+       "building": "GYM"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "GYM203",
+       "building": "GYM"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED2290",
+   "prefix": "PHED",
+   "name": "STATISTIC PRINCIPLES OF PHYSICAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED321",
+   "prefix": "PHED",
+   "name": "ATHLETICS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED323",
+   "prefix": "PHED",
+   "name": "BASKETBALL 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED325",
+   "prefix": "PHED",
+   "name": "HANDBALL 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mahmoud W. M. Kaied",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED326",
+   "prefix": "PHED",
+   "name": "GYMNASTICS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud W. M. Kaied",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Reem Mustafa Mohammad Hamad",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mahmoud W. M. Kaied",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED3260",
+   "prefix": "PHED",
+   "name": "MEASUREMENT AND RESEARCH IN PHYSICAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Z. R. Ilaiwi",
+     "enrolled": 59,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED327",
+   "prefix": "PHED",
+   "name": "SWIMMING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Waleed Mohammad Hassan Shaheen",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED3280",
+   "prefix": "PHED",
+   "name": "KINETIC RHYTHM AND FOLKLORE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud W. M. Kaied",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED329",
+   "prefix": "PHED",
+   "name": "PHYSICAL EDUCATION CURRICULA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Reem Mustafa Mohammad Hamad",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Reem Mustafa Mohammad Hamad",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED332",
+   "prefix": "PHED",
+   "name": "SPORT PSYCHOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED4200",
+   "prefix": "PHED",
+   "name": "TEACHING EXPERIENCE IN ELEMENTARY SCHOOLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHED4210",
+   "prefix": "PHED",
+   "name": "TEACHING EXPERIENCE IN SECONDARY SCHOOLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHED4230",
+   "prefix": "PHED",
+   "name": "SPORTS MARKETING MEDIA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Z. R. Ilaiwi",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Aggad315",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED4240",
+   "prefix": "PHED",
+   "name": "RACQUET GAMES 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Waleed Mohammad Hassan Shaheen",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Waleed Mohammad Hassan Shaheen",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Waleed Mohammad Hassan Shaheen",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED428",
+   "prefix": "PHED",
+   "name": "PHYSICAL EDUCATION FOR SPECIAL POPULATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "enrolled": 55,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED432",
+   "prefix": "PHED",
+   "name": "SOCCER 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khaled Ali Mahmoud Mallouh",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED436",
+   "prefix": "PHED",
+   "name": "ATHLETIC INJURIES AND THERAPY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Waleed Mohammad Hassan Shaheen",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Waleed Mohammad Hassan Shaheen",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED438",
+   "prefix": "PHED",
+   "name": "SEMINAR IN PHYSICAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi021",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi021",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED6200",
+   "prefix": "PHED",
+   "name": "THE PHYSIOLOGY OF SPORT TRAINING AND EXERCISE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud W. M. Kaied",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED6210",
+   "prefix": "PHED",
+   "name": "THEORIES IN TRAINING AND SPORT SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "N.Shaheen201",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED6250",
+   "prefix": "PHED",
+   "name": "ISSUES IN COMPETITIVE SPORT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHED7320",
+   "prefix": "PHED",
+   "name": "EDUCATIONAL APPROACHES AND GUIDELINES FOR PEOPLE WITH DISABILITIES IN THE FIELD OF SPORTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHED8600",
+   "prefix": "PHED",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Tareq Gazi Ayesh Raja",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Iyad Abdallh Hassan Yousef",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mahmoud W. M. Kaied",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "HEBR",
+ "counts": {
+  "courses": 2,
+  "sections": 5,
+  "instructors": 2,
+  "rooms": 6
+ },
+ "courses": [
+  {
+   "code": "HEBR331",
+   "prefix": "HEBR",
+   "name": "HEBREW LANGUAGE 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmud Mohammad Abdallah Abu Katish",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammed Aqel Mohammed Halsa",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammed Aqel Mohammed Halsa",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI116",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI021",
+       "building": "SCI"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mahmud Mohammad Abdallah Abu Katish",
+     "enrolled": 57,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HEBR332",
+   "prefix": "HEBR",
+   "name": "HEBREW LANGUAGE 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Aqel Mohammed Halsa",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Khoury010",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

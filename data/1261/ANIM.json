@@ -1,0 +1,196 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ANIM",
+ "counts": {
+  "courses": 6,
+  "sections": 6,
+  "instructors": 5,
+  "rooms": 0
+ },
+ "courses": [
+  {
+   "code": "ANIM1310",
+   "prefix": "ANIM",
+   "name": "INTRODUCTION TO FILM STUDIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud M. A. Abu Hashhash",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ANIM2200",
+   "prefix": "ANIM",
+   "name": "EXPRESSIONS AND GESTURES DRAWING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ANIM2210",
+   "prefix": "ANIM",
+   "name": "3D MODELING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sami Sameer Mahmoud Sabra",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ANIM2220",
+   "prefix": "ANIM",
+   "name": "STORY TELLING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Behzad Khosravi  Noori",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ANIM2240",
+   "prefix": "ANIM",
+   "name": "COMPUTER GRAPHICS 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sami Sameer Mahmoud Sabra",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ANIM2320",
+   "prefix": "ANIM",
+   "name": "2D CHARACTER ANIMATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dana S. G. Durr",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "12:30",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "12:30",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

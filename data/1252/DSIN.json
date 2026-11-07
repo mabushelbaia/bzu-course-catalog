@@ -1,0 +1,1016 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "DSIN",
+ "counts": {
+  "courses": 20,
+  "sections": 54,
+  "instructors": 19,
+  "rooms": 7
+ },
+ "courses": [
+  {
+   "code": "DSIN1120",
+   "prefix": "DSIN",
+   "name": "HAND RENDERING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yara Mohamed Mousa Bamieh",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammad Ibrahim Ahmad Samarah",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammad Ibrahim Ahmad Samarah",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN1230",
+   "prefix": "DSIN",
+   "name": "HISTORY OF INTERIOR DESIGN 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mera Zeyad Mohammad Idries",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN1240",
+   "prefix": "DSIN",
+   "name": "PERSPECTIVE DRAWING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Iyad Mahmoud Ahmad Issa",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah143",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah143",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mai Rizeq Abd Alhameed Alzeer",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN1310",
+   "prefix": "DSIN",
+   "name": "SURVEY AND DRAFTING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Ibrahim Ahmad Samarah",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Mohammad Ibrahim Ahmad Samarah",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah303",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah303",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Dina A. M. Eweidat",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah234",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah234",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Farah S. S. Barham",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN1420",
+   "prefix": "DSIN",
+   "name": "INTERIOR DESIGN STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Farah S. S. Barham",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "08:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Samara Mahmoud Shehadeh Abughanam",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Farah S. S. Barham",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Deama S. T. Zahran",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN2240",
+   "prefix": "DSIN",
+   "name": "LIGHTING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hussein Awadallah Ibrahim Zeitawi",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Masri110",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN2250",
+   "prefix": "DSIN",
+   "name": "MODERN ARCHITECTURE AND INTERIOR DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shatha O. N. Safi",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN2260",
+   "prefix": "DSIN",
+   "name": "DIGITAL TOOLS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ammar Ali Saleem Wahidi",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah209",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah209",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ammar Ali Saleem Wahidi",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah209",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah209",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN2340",
+   "prefix": "DSIN",
+   "name": "MATERIALS PROPERTIES 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mai Rizeq Abd Alhameed Alzeer",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Samara Mahmoud Shehadeh Abughanam",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah032",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Mai Rizeq Abd Alhameed Alzeer",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah032",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN2420",
+   "prefix": "DSIN",
+   "name": "INTERIOR DESIGN STUDIO 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Iyad Mahmoud Ahmad Issa",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Iyad Mahmoud Ahmad Issa",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Ayman S. I. Zaid",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN3120",
+   "prefix": "DSIN",
+   "name": "KITCHEN AND BATH DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mai Rizeq Abd Alhameed Alzeer",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Samara Mahmoud Shehadeh Abughanam",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN3220",
+   "prefix": "DSIN",
+   "name": "SUSTAINABILITY AND ENVIRONMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN3230",
+   "prefix": "DSIN",
+   "name": "SEMINAR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mera Zeyad Mohammad Idries",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN3320",
+   "prefix": "DSIN",
+   "name": "INTERIOR DESIGN STUDIO 5",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Heba O. G. Tannous",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": "Aweidah143",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": "Aweidah143",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mera Zeyad Mohammad Idries",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN3360",
+   "prefix": "DSIN",
+   "name": "SP.TOP: IN INTERIOR DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nihal L. H. Shamieh",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN3380",
+   "prefix": "DSIN",
+   "name": "PHOTOGRAPHY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yaqeen A. S. Alyamani",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "15:00",
+       "end": "15:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Yaqeen A. S. Alyamani",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN4200",
+   "prefix": "DSIN",
+   "name": "INTRODUCTION TO GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samara Mahmoud Shehadeh Abughanam",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mai Rizeq Abd Alhameed Alzeer",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "DSIN4220",
+   "prefix": "DSIN",
+   "name": "PROJECT MANAGEMENT FOR INTERIOR DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Haider Fadel Nasereddin Nasereddin",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Haider Fadel Nasereddin Nasereddin",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSIN4300",
+   "prefix": "DSIN",
+   "name": "GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Heba O. G. Tannous",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Heba O. G. Tannous",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mai Rizeq Abd Alhameed Alzeer",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mai Rizeq Abd Alhameed Alzeer",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Farah S. S. Barham",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Farah S. S. Barham",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Mera Zeyad Mohammad Idries",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Iyad Mahmoud Ahmad Issa",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Iyad Mahmoud Ahmad Issa",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Ayman S. I. Zaid",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Ayman S. I. Zaid",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "16",
+     "instructor": "Samara Mahmoud Shehadeh Abughanam",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "18",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "19",
+     "instructor": "Yara Mohamed Mousa Bamieh",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "21",
+     "instructor": "Nihal L. H. Shamieh",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "DSIN4370",
+   "prefix": "DSIN",
+   "name": "INTERIOR DESIGN AND FILM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Saed G. A. Mahfuth",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

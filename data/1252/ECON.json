@@ -1,0 +1,1248 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ECON",
+ "counts": {
+  "courses": 21,
+  "sections": 46,
+  "instructors": 15,
+  "rooms": 26
+ },
+ "courses": [
+  {
+   "code": "ECON131",
+   "prefix": "ECON",
+   "name": "PRINCIPLES OF MICROECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yousef Suleiman Yousef Daoud",
+     "enrolled": 104,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohanad Oudah Mohammed Ismael",
+     "enrolled": 109,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen152",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen152",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "A.Shaheen152",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "enrolled": 117,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi051",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Shireen Mustafa Kamel Al Basha",
+     "enrolled": 120,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI240",
+       "building": "SCI"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI240",
+       "building": "SCI"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "SCI240",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON132",
+   "prefix": "ECON",
+   "name": "PRINCIPLES OF MACROECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yousef Suleiman Yousef Daoud",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "enrolled": 124,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "enrolled": 117,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen162",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen162",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON233",
+   "prefix": "ECON",
+   "name": "GENERAL ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad221",
+       "building": "Aggad"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aggad221",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON234",
+   "prefix": "ECON",
+   "name": "PALESTINIAN ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shireen Mustafa Kamel Al Basha",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON235",
+   "prefix": "ECON",
+   "name": "METHODOLOGY OF RESEARCH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Najibeh Mohammad Saleh Morar",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi122",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi122",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi122",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ahmad A. M. Jarrar",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi123",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi125",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi125",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Najibeh Mohammad Saleh Morar",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Sameera M. I. Awawda",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi123",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Ahmad A. M. Jarrar",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi122",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi122",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Najibeh Mohammad Saleh Morar",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Shireen Mustafa Kamel Al Basha",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON3311",
+   "prefix": "ECON",
+   "name": "ANALYTICAL MICROECONOMICS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi223",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi223",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Adel Said Fares Zagha",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sana' Jamil Abdallah Atari",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON3321",
+   "prefix": "ECON",
+   "name": "ANALYTICAL MACROECONOMICS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi221",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi221",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohanad Oudah Mohammed Ismael",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi025",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi025",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON3361",
+   "prefix": "ECON",
+   "name": "INTERNATIONAL TRADE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adel Said Fares Zagha",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi129",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi129",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON3372",
+   "prefix": "ECON",
+   "name": "PROJECT MANAGEMENT AND ECONOMICS FOR ENGINEERING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi321",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi321",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Sana' Jamil Abdallah Atari",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sana' Jamil Abdallah Atari",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi223",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi223",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Sahar Mahmoud Mosa El_Jallad",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON338",
+   "prefix": "ECON",
+   "name": "MONEY AND BANKING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi221",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi221",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON339",
+   "prefix": "ECON",
+   "name": "MATHEMATICAL ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shaker Abdallah Mohammad Sarsour",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON430",
+   "prefix": "ECON",
+   "name": "MANAGERIAL ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adel Said Fares Zagha",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi225",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi225",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON431",
+   "prefix": "ECON",
+   "name": "ECONOMIC DEVELOPMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Shireen Mustafa Kamel Al Basha",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi023",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi023",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON437",
+   "prefix": "ECON",
+   "name": "SEMINAR IN ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sana' Jamil Abdallah Atari",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON4371",
+   "prefix": "ECON",
+   "name": "SEMINAR IN BUSINESS ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sana' Jamil Abdallah Atari",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON6320",
+   "prefix": "ECON",
+   "name": "MACROECONOMIC THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohanad Oudah Mohammed Ismael",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi222",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON635",
+   "prefix": "ECON",
+   "name": "SCIENTIFIC RESEARCH METHODS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yousef Suleiman Yousef Daoud",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi125",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON638",
+   "prefix": "ECON",
+   "name": "SP.TOP: INTERNATIONAL MONETARY ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohanad Oudah Mohammed Ismael",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "ALSADIK302",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON7340",
+   "prefix": "ECON",
+   "name": "LABOR ECONOMICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi127",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON830",
+   "prefix": "ECON",
+   "name": "SEMINAR 1 (MICROECONOMICS)",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yousef Suleiman Yousef Daoud",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ECON860",
+   "prefix": "ECON",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohanad Oudah Mohammed Ismael",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

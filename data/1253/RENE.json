@@ -1,0 +1,38 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "RENE",
+ "counts": {
+  "courses": 1,
+  "sections": 1,
+  "instructors": 1,
+  "rooms": 0
+ },
+ "courses": [
+  {
+   "code": "RENE8600",
+   "prefix": "RENE",
+   "name": "THESEIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

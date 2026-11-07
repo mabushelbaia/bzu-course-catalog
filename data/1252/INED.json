@@ -1,0 +1,527 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "INED",
+ "counts": {
+  "courses": 19,
+  "sections": 21,
+  "instructors": 17,
+  "rooms": 13
+ },
+ "courses": [
+  {
+   "code": "INED2321",
+   "prefix": "INED",
+   "name": "INTRODUCTION TO SPECIAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED2331",
+   "prefix": "INED",
+   "name": "COGNITIVE AND DEVELOPMENTAL CHALLENGES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Thair Mohammad Mahmoud Odeh",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED2334",
+   "prefix": "INED",
+   "name": "EARLY INTERVENTION PROGRAMS AND SERVICES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED2335",
+   "prefix": "INED",
+   "name": "PHYSICAL AND SENSORY CHALLENGES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Heba Atif R. Tahboub",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Iman Suliman Awad Rimawi",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED2341",
+   "prefix": "INED",
+   "name": "BEHAVIORAL AND EMOTIONAL CHALLENGES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Amal Kaleel Abdelrazeq Deheidel",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED3311",
+   "prefix": "INED",
+   "name": "COLLABORATION IN INCLUSIVE EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED3314",
+   "prefix": "INED",
+   "name": "DIAGNOSIS AND EVALUATION IN SPECIAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed R. M. Sulaiman",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED3319",
+   "prefix": "INED",
+   "name": "LANGUAGE AND COMMUNICATION CHALLENGES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Thair Mohammad Mahmoud Odeh",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED3325",
+   "prefix": "INED",
+   "name": "ACCOMMODATIONS AND MODIFICATION CONCEPTS AND PROGRAMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayman Abdelmajeed Saleem Rezeqallah",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "SCI012",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED3339",
+   "prefix": "INED",
+   "name": "APPLIED ACTION RESEARCH IN INCLUSIVE EDUCATION AND SPECIAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Mahmoud Fteiha Fteiha",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4317",
+   "prefix": "INED",
+   "name": "PRACTICUM 1 IN INCLUSIVE EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rola Jamal Abdalhafeez Abu Shamma",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4321",
+   "prefix": "INED",
+   "name": "PRACTICUM IN INCLUSIVE EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nariman Issa Ibrahim Rojoob",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4323",
+   "prefix": "INED",
+   "name": "TEACHING READING AND WRITING IN INCLUSIVE EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maram Jack Fuad Theodory",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4324",
+   "prefix": "INED",
+   "name": "SCIENCE TEACHING IN INCLUSIVE EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hasan Mahmoud Ali Abdelkareem",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4325",
+   "prefix": "INED",
+   "name": "TEACHING ENGLISH IN INCLUSIVE EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fatma K. M. Mohammed",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4326",
+   "prefix": "INED",
+   "name": "FIELD TRAINING IN SPECIAL EDUCATION 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nihal Adel Ibrahim Zurbah",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4327",
+   "prefix": "INED",
+   "name": "CURRICULUM AND INSTRUCTION IN INCLUSIVE EDUCATION AND SPECIAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hasan Mahmoud Ali Abdelkareem",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI012",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4331",
+   "prefix": "INED",
+   "name": "EDUCATIONAL, SOCIAL AND CULTURAL ASPECTS OF DISABILITY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayman Abdelmajeed Saleem Rezeqallah",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INED4382",
+   "prefix": "INED",
+   "name": "SEMINAR IN INCLUSIVE EDUCATION AND SPECIAL EDUCATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh305",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mousa Mohammed Mousa Khaldi",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Bamieh306",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

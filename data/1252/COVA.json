@@ -1,0 +1,670 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "COVA",
+ "counts": {
+  "courses": 19,
+  "sections": 30,
+  "instructors": 10,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "COVA1221",
+   "prefix": "COVA",
+   "name": "HISTORY OF ART IN PALESTINE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Reem N. A. Masri",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA1340",
+   "prefix": "COVA",
+   "name": "ADVANCED DRAWING SKILLS STUDIO",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. M. Khalil",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "15:30",
+       "end": "16:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Mohammed S. M. Khalil",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA1350",
+   "prefix": "COVA",
+   "name": "INTRODUCTION TO PHOTOGRAPHY STUDIO",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": "Aweidah002",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": "Aweidah002",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA1360",
+   "prefix": "COVA",
+   "name": "PAINTING STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Majd N. A. Masri, Mohammed S. M. Khalil",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "12:30",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "12:30",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2220",
+   "prefix": "COVA",
+   "name": "16th-19th CENTURY VISUAL ART",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samar Muneir Bols Martha",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2270",
+   "prefix": "COVA",
+   "name": "RESEARCH AND WRITING PRINCIPLES IN VISUAL ART",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saed G. A. Mahfuth",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2330",
+   "prefix": "COVA",
+   "name": "SCULPTURE STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hamad A.  Maddah",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2370",
+   "prefix": "COVA",
+   "name": "VIDEO ART STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yasmine A.  Omari",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Yasmine A.  Omari",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "15:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "15:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2390",
+   "prefix": "COVA",
+   "name": "PERFORMANCE ART STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Noorah A. M. Baker",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Noorah A. M. Baker",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "14:50",
+       "room": "Aweidah137",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "14:50",
+       "room": "Aweidah137",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3220",
+   "prefix": "COVA",
+   "name": "EXHIBITION PRACTICE STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samar Muneir Bols Martha",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "15:30",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "15:30",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3310",
+   "prefix": "COVA",
+   "name": "INDIVIDUAL PROJECT STUDIO 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saed G. A. Mahfuth, Reem N. A. Masri",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3320",
+   "prefix": "COVA",
+   "name": "VISUAL ART OF THE 21st CENTURY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3350",
+   "prefix": "COVA",
+   "name": "ADVANCED PHOTOGRAPHY STUDIO",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "15:10",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "15:10",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA336",
+   "prefix": "COVA",
+   "name": "ADVANCED VISUAL SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hamad A.  Maddah",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "17:30",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "17:30",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3360",
+   "prefix": "COVA",
+   "name": "PAINTING STUDIO 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. M. Khalil",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Mohammed S. M. Khalil",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3370",
+   "prefix": "COVA",
+   "name": "VIDEO ART STUDIO 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yasmine A.  Omari",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "16:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Yasmine A.  Omari",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA4311",
+   "prefix": "COVA",
+   "name": "GRADUATION PROJECT 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "COVA4330",
+   "prefix": "COVA",
+   "name": "EXHIBITION PRACTICE STUDIO 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samar Muneir Bols Martha",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": "Aweidah145",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": "Aweidah145",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA4411",
+   "prefix": "COVA",
+   "name": "GRADUATION PROJECT 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. M. Khalil",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Saed G. A. Mahfuth",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Saed G. A. Mahfuth",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Samar Muneir Bols Martha",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Reem N. A. Masri",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

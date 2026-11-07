@@ -1,0 +1,67 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "COMD",
+ "counts": {
+  "courses": 1,
+  "sections": 1,
+  "instructors": 1,
+  "rooms": 0
+ },
+ "courses": [
+  {
+   "code": "COMD1300",
+   "prefix": "COMD",
+   "name": "INTRODUCTION TO COMPUTER",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Asmaa Abedalsatar Ahmad Abedalsatar",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

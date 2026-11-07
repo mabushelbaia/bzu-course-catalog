@@ -1,0 +1,192 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PRLW",
+ "counts": {
+  "courses": 7,
+  "sections": 9,
+  "instructors": 6,
+  "rooms": 5
+ },
+ "courses": [
+  {
+   "code": "PRLW6340",
+   "prefix": "PRLW",
+   "name": "COMPARATIVE CONTRACTS LAW",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud M. I. Dodeen",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PRLW6380",
+   "prefix": "PRLW",
+   "name": "ADVANCED STUDIES IN COMPANY LAW",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK407",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PRLW7300",
+   "prefix": "PRLW",
+   "name": "ADVANCED STUDIES IN PRIVATE INTERNATIONAL LAW",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Diab Mohammad Diab Alshikh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PRLW7331",
+   "prefix": "PRLW",
+   "name": "LAND LAW",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hussein Ahed Hussein Ayaseh",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PRLW8301",
+   "prefix": "PRLW",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Saleem Fareez Nasra",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "ALSADIK204",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PRLW8311",
+   "prefix": "PRLW",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Saleem Fareez Nasra",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Al-Juraysi025",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PRLW8600",
+   "prefix": "PRLW",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hussein Ahed Hussein Ayaseh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hussein Ahed Hussein Ayaseh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Fayez Mohummad Ahmad Ibkairat, Diab Mohammad Diab Alshikh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

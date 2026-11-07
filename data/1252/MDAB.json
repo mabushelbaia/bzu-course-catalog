@@ -1,0 +1,92 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MDAB",
+ "counts": {
+  "courses": 3,
+  "sections": 3,
+  "instructors": 3,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "MDAB6211",
+   "prefix": "MDAB",
+   "name": "DATA MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Najibeh Mohammad Saleh Morar",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Al-Juraysi121",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDAB6312",
+   "prefix": "MDAB",
+   "name": "DATA VISUALIZATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohand M. B. Tuffaha",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi123",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDAB6313",
+   "prefix": "MDAB",
+   "name": "APPLIED REGRESSION ANALYSIS FOR BUSINESS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sameera M. I. Awawda",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

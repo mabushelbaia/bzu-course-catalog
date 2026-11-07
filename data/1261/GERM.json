@@ -1,0 +1,173 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "GERM",
+ "counts": {
+  "courses": 5,
+  "sections": 5,
+  "instructors": 2,
+  "rooms": 4
+ },
+ "courses": [
+  {
+   "code": "GERM130",
+   "prefix": "GERM",
+   "name": "INTRODUCTION TO GERMAN LANGUAGE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miral Ghaleb Mohammad Kadamani",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:25",
+       "end": "10:50",
+       "room": "Bahrain221",
+       "building": "Bahrain"
+      },
+      {
+       "day": "M",
+       "start": "09:25",
+       "end": "10:50",
+       "room": "Bahrain221",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM131",
+   "prefix": "GERM",
+   "name": "GERMAN FOR BEGINNERS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh N. F. Abuawad",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM230",
+   "prefix": "GERM",
+   "name": "INTERMEDIATE GERMAN 1/A",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miral Ghaleb Mohammad Kadamani",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "S.Abdulhadi372",
+       "building": "S.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM231",
+   "prefix": "GERM",
+   "name": "GERMAN LANGUAGE 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miral Ghaleb Mohammad Kadamani",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI012",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "SCI012",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GERM2311",
+   "prefix": "GERM",
+   "name": "INTERMEDIATE GERMAN 1/B",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Miral Ghaleb Mohammad Kadamani",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI012",
+       "building": "SCI"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "SCI012",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

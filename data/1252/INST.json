@@ -1,0 +1,170 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "INST",
+ "counts": {
+  "courses": 5,
+  "sections": 11,
+  "instructors": 6,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "INST6334",
+   "prefix": "INST",
+   "name": "PRINCIPLES OF INTERNATIONAL LAW",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muneer Zaki H.Z Nuseibah, Dana H. Y. Farraj",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh304",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INST7381",
+   "prefix": "INST",
+   "name": "SP.TOP: READINGS FROM LATIN AMERICA AND AFRICA : STATE, VIOLENCE, AND MEMORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "N.Shaheen204",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INST8011",
+   "prefix": "INST",
+   "name": "GENERAL ORAL EXAM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "INST8311",
+   "prefix": "INST",
+   "name": "RESEARCH SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Basem M. T. Ezbidi",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "A.Shaheen212",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INST8600",
+   "prefix": "INST",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lourdes B. A. Habash",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Basem M. T. Ezbidi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Basem M. T. Ezbidi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Fadi Sami Kamil Nahhas",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ghassan A. I. Khatib",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Fadi Sami Kamil Nahhas",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Lourdes B. A. Habash",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

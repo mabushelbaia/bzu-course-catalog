@@ -1,0 +1,575 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "NUTD",
+ "counts": {
+  "courses": 15,
+  "sections": 27,
+  "instructors": 13,
+  "rooms": 12
+ },
+ "courses": [
+  {
+   "code": "NUTD222",
+   "prefix": "NUTD",
+   "name": "NUTRITION FOR NURSING STUDENTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Safaa M. A. Muhanna",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "Aggad421",
+       "building": "Aggad"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD233",
+   "prefix": "NUTD",
+   "name": "PRINCIPLES OF FOOD PREPARATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Thekra B. M. Hweih",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Safaa M. A. Muhanna",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH426",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Thekra B. M. Hweih",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH426",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD238",
+   "prefix": "NUTD",
+   "name": "LIFE CYCLE NUTRITION 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Safaa M. A. Muhanna",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD3100",
+   "prefix": "NUTD",
+   "name": "COMMUNITY NUTRITION PRACTICUM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ayah M. H. Alfar",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ayah M. H. Alfar",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ayah M. H. Alfar",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ayah M. H. Alfar",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NUTD321",
+   "prefix": "NUTD",
+   "name": "INTRODUCTION TO DIETETICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Thekra B. M. Hweih",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD331",
+   "prefix": "NUTD",
+   "name": "CLINICAL NUTRITION 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Monia Omar Izat Kittana",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD336",
+   "prefix": "NUTD",
+   "name": "FOOD SAFETY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Safaa M. A. Muhanna",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD338",
+   "prefix": "NUTD",
+   "name": "NUTRIENT METABOLISM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Monia Omar Izat Kittana",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD341",
+   "prefix": "NUTD",
+   "name": "HUMAN ANATOMY AND PHYSIOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Kamal A. K. Hamayel",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Israr Nizar Mohammad Sabri",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH126",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Israr Nizar Mohammad Sabri",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH126",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD343",
+   "prefix": "NUTD",
+   "name": "FOOD MICROBIOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Emilia Joseph Antonio Rappocciolo",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Israr Nizar Mohammad Sabri",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH300",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Israr Nizar Mohammad Sabri",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH300",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD4200",
+   "prefix": "NUTD",
+   "name": "PRACTICUM 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hadeel Mousa Metri Khoury",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Basil \"Mohammad Yasser\" Badwi Abu Rass",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NUTD4221",
+   "prefix": "NUTD",
+   "name": "RESEARCH METHODS FOR HEALTH SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lina Yaser Jalal El_Khairy",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ola Talal Abdallah Karmei",
+     "enrolled": 53,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "10:50",
+       "room": "PNH201",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD429",
+   "prefix": "NUTD",
+   "name": "NUTRITION FOR ATHLETES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD431",
+   "prefix": "NUTD",
+   "name": "COMMUNICATION AND NUTRITIONAL COUNSELING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Amal Kaleel Abdelrazeq Deheidel",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NUTD438",
+   "prefix": "NUTD",
+   "name": "SP.TOP:OBESITY AND ITS HEALTH IMPLICATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Monia Omar Izat Kittana",
+     "enrolled": 29,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Thekra B. M. Hweih",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

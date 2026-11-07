@@ -1,0 +1,764 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "UNIV",
+ "counts": {
+  "courses": 3,
+  "sections": 45,
+  "instructors": 37,
+  "rooms": 30
+ },
+ "courses": [
+  {
+   "code": "UNIV1110",
+   "prefix": "UNIV",
+   "name": "AI AND MEDIA LITERACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sahar Mahmoud Mosa El_Jallad",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Belal A. S. Doufesh",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi152",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sahar Mahmoud Mosa El_Jallad",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Nahed Ibrahim Suliman Abu Taimeh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh102",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Faten Tawfiq Masoud Shahwan",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Al-Juraysi025",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Afaf Nae'L Khalil Dar Mousa",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi254",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Sahar Mahmoud Mosa El_Jallad",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Amjad Mohammad Ahmad Badah",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "ALSADIK102",
+       "building": "ALSADIK"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Enas Shaker Husein Eideh",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Suhad H. H. Nimer",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Muna Mohammad Ahmad Ibayyeh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Mohammad Khaleel Issa Jubran",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Mohammed Sami Abdul Karim Hussein",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "15",
+     "instructor": "Suhad H. H. Nimer",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi227",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "UNIV1120",
+   "prefix": "UNIV",
+   "name": "COMMUNICATION AND INTERPERSONAL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Basel Tahsen Qasim Yaseen",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury010",
+       "building": "Khoury"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Omayma Kh. M. Yousef",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Nedal Abd Alaziz Farid Aburub",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Noor Riyad Abdulfattah Awad",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Fatma K. M. Mohammed",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Rania Mohammad Nu'Man Qassrawi",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi327",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Seri Mohammad Jamil Khalil Ghanem",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Omayma Kh. M. Yousef",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masri106",
+       "building": "Masri"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Basel Tahsen Qasim Yaseen",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi027",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Sojood M. F. Darwish",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Sojood M. F. Darwish",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "15",
+     "instructor": "Iman Suliman Awad Rimawi",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "UNIV1130",
+   "prefix": "UNIV",
+   "name": "MENTAL HEALTH, PSYCHOLOGICAL WELL-BEING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Duaa Akram Mustafa Muhsen, Jehad M. M. Jamal",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Samia M. A. Hawamda, Jehad M. M. Jamal",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Samia M. A. Hawamda, Jehad M. M. Jamal",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Amal Kaleel Abdelrazeq Deheidel, Shadi Khalil Mohummad Hasan",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Fatima Said Mohammad Tirhi, Areefa Afif Musbah Abukaresh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi253",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi251",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Suhair Awdah Nade Najjar, Areefa Afif Musbah Abukaresh",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Amal Kaleel Abdelrazeq Deheidel, Maysam M. M. Hawamdeh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Shadi Khalil Mohummad Hasan, Suhair Awdah Nade Najjar",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi223",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Jehad M. M. Jamal, Samia M. A. Hawamda",
+     "enrolled": 55,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Hatem Khalaf Mohammed Idais Manasrah, Samia M. A. Hawamda",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Jehad M. M. Jamal, Amal Kaleel Abdelrazeq Deheidel",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "O.Abdulhadi154",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Hatem Khalaf Mohammed Idais Manasrah, Fatima Said Mohammad Tirhi",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Imad Tawfiq Mohammad Asmar, Duaa Akram Mustafa Muhsen",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi227",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "15",
+     "instructor": "Areefa Afif Musbah Abukaresh, Suhair Awdah Nade Najjar",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

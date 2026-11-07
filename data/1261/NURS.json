@@ -1,0 +1,953 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "NURS",
+ "counts": {
+  "courses": 26,
+  "sections": 42,
+  "instructors": 13,
+  "rooms": 17
+ },
+ "courses": [
+  {
+   "code": "NURS1100",
+   "prefix": "NURS",
+   "name": "FUNDAMENTALS OF NURSING LAB 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Areefa Afif Musbah Abukaresh",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "14:50",
+       "room": "PNH220",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Areefa Afif Musbah Abukaresh",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "11:50",
+       "room": "PNH220",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Hatem Khalaf Mohammed Idais Manasrah",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "11:50",
+       "room": "PNH220",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Maysam M. M. Hawamdeh",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "11:50",
+       "room": "PNH222",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS1200",
+   "prefix": "NURS",
+   "name": "FUNDAMENTALS OF NURSING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hatem Khalaf Mohammed Idais Manasrah",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hatem Khalaf Mohammed Idais Manasrah",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS1420",
+   "prefix": "NURS",
+   "name": "HUMAN ANATOMY AND PHYSIOLOGY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed A. R. Twam",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH303",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH303",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ahmed A. R. Twam",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ahmed A. R. Twam",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS2000",
+   "prefix": "NURS",
+   "name": "BASIC LIFE SUPPORT PRINCIPLES AND ESSENTIAL LIFESAVING SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NURS220",
+   "prefix": "NURS",
+   "name": "HEALTH ASSESSMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fuad Ali Hasan Abu Al Fayyah",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Fuad Ali Hasan Abu Al Fayyah, Maysam M. M. Hawamdeh",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "13:50",
+       "room": "PNH128",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Fuad Ali Hasan Abu Al Fayyah",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "14:50",
+       "room": "PNH128",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS2202",
+   "prefix": "NURS",
+   "name": "ADULT HEALTH 1 - CLINICAL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NURS222",
+   "prefix": "NURS",
+   "name": "FIRST AID",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khalid Samer Ahmad Yaseen",
+     "enrolled": 69,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "enrolled": 69,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Areefa Afif Musbah Abukaresh",
+     "enrolled": 69,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Al-Juraysi027",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS2241",
+   "prefix": "NURS",
+   "name": "PHARMACOLOGY 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lina Ibrahim Ahmed Adwan",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Lina Ibrahim Ahmed Adwan",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS2300",
+   "prefix": "NURS",
+   "name": "PATHOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hatem Khalaf Mohammed Idais Manasrah",
+     "enrolled": 31,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH201",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH201",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hatem Khalaf Mohammed Idais Manasrah",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Imad Tawfiq Mohammad Asmar",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS2301",
+   "prefix": "NURS",
+   "name": "ADULT HEALTH  1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS232",
+   "prefix": "NURS",
+   "name": "NURSING BIOSTATISTICS AND EPIDEMIOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lina Yaser Jalal El_Khairy",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Lina Yaser Jalal El_Khairy",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH201",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH201",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS3211",
+   "prefix": "NURS",
+   "name": "GROWTH AND DEVELOPMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "enrolled": 27,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS3232",
+   "prefix": "NURS",
+   "name": "WOMEN'S AND MATERNAL HEALTH -CLINICAL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NURS3250",
+   "prefix": "NURS",
+   "name": "CRITICAL CARE NURSING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Imad Tawfiq Mohammad Asmar",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "SCI012",
+       "building": "SCI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS3262",
+   "prefix": "NURS",
+   "name": "CRITICAL CARE NURSING 1 – CLINICAL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NURS3280",
+   "prefix": "NURS",
+   "name": "SP.TOP: TRAUMA NURSING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Areefa Afif Musbah Abukaresh",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS3331",
+   "prefix": "NURS",
+   "name": "WOMEN'S AND MATERNAL HEALTH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sahar Jamal Abed El Aziz Hassan",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS334",
+   "prefix": "NURS",
+   "name": "SEMINAR IN NURSING RESEARCH AND EVIDENCE-BASED PRACTICE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH413",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH413",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH219",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS4001",
+   "prefix": "NURS",
+   "name": "COMPREHENSIVE EXAM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Imad Tawfiq Mohammad Asmar",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NURS4121",
+   "prefix": "NURS",
+   "name": "NURSING MANAGEMENT AND LEADERSHIP - CLINICAL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NURS4200",
+   "prefix": "NURS",
+   "name": "MENTAL HEALTH NURSING CLINICAL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NURS4211",
+   "prefix": "NURS",
+   "name": "COMMUNITY HEALTH - CLINICAL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "NURS4300",
+   "prefix": "NURS",
+   "name": "MENTAL AND PSYCHIATRIC HEALTH NURSING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS4311",
+   "prefix": "NURS",
+   "name": "COMMUNITY HEALTH NURSING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khalid Samer Ahmad Yaseen",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH201",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS4321",
+   "prefix": "NURS",
+   "name": "NURSING MANAGEMENT AND LEADERSHIP",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH201",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NURS438",
+   "prefix": "NURS",
+   "name": "SP.TOP: REPRODUCTIVE AND NEWBORN HEALTH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sahar Jamal Abed El Aziz Hassan",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

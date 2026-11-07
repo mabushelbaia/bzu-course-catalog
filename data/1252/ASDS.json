@@ -1,0 +1,154 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ASDS",
+ "counts": {
+  "courses": 5,
+  "sections": 9,
+  "instructors": 7,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "ASDS6302",
+   "prefix": "ASDS",
+   "name": "STATISTICAL INFERENCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdelhadi Wajeeh Said Sabbah",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ASDS6321",
+   "prefix": "ASDS",
+   "name": "APPLIED SAMPLE DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ijtiead A. H. Abu Thabet",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Al-Juraysi023",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ASDS6351",
+   "prefix": "ASDS",
+   "name": "MULTIVARIATE ANALYSIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Tareq Mohummad Abdul_Rahim Sadeq",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Al-Juraysi322",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ASDS860",
+   "prefix": "ASDS",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sameera M. I. Awawda",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Radi A. R. Jarrar",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "ASDS8600",
+   "prefix": "ASDS",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sameera M. I. Awawda",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Sameera M. I. Awawda",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Diyama Khaled Khamees Abu Laban",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Najibeh Mohammad Saleh Morar",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "HEBR",
+ "counts": {
+  "courses": 2,
+  "sections": 6,
+  "instructors": 2,
+  "rooms": 6
+ },
+ "courses": [
+  {
+   "code": "HEBR331",
+   "prefix": "HEBR",
+   "name": "HEBREW LANGUAGE 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Aqel Mohammed Halsa",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi323",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi323",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Jalal Abed Alruhman Musa Rommaneh",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Jalal Abed Alruhman Musa Rommaneh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mohammed Aqel Mohammed Halsa",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "O.Abdulhadi153",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Jalal Abed Alruhman Musa Rommaneh",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi229",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Al-Juraysi229",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HEBR332",
+   "prefix": "HEBR",
+   "name": "HEBREW LANGUAGE 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Aqel Mohammed Halsa",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

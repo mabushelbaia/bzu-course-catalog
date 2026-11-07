@@ -1,0 +1,113 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ACFI",
+ "counts": {
+  "courses": 3,
+  "sections": 3,
+  "instructors": 1,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "ACFI331",
+   "prefix": "ACFI",
+   "name": "INTEREST THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sajed Y. M. Sharif",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi223",
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi223",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACFI430",
+   "prefix": "ACFI",
+   "name": "PRACTICAL TRAINING IN ACTUARIAL SCIENCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sajed Y. M. Sharif",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi122",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Al-Juraysi122",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ACFI431",
+   "prefix": "ACFI",
+   "name": "LIFE CONTINGENCIES 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sajed Y. M. Sharif",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi325",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Al-Juraysi325",
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

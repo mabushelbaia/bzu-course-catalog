@@ -1,0 +1,1628 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PHAR",
+ "counts": {
+  "courses": 28,
+  "sections": 102,
+  "instructors": 34,
+  "rooms": 16
+ },
+ "courses": [
+  {
+   "code": "PHAR232",
+   "prefix": "PHAR",
+   "name": "PHYSICAL PHARMACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Moammal S. H. Qurt",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "PNH201",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "PNH201",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "PNH201",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Moammal S. H. Qurt",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR243",
+   "prefix": "PHAR",
+   "name": "HUMAN PHYSIOLOGY AND ANATOMY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rania Daoud Abdel Latif Abu Hamdah",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rania Daoud Abdel Latif Abu Hamdah",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "A.Shaheen162",
+       "building": "A.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Israr Nizar Mohammad Sabri",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH126",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Israr Nizar Mohammad Sabri",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "PNH126",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Israr Nizar Mohammad Sabri",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH126",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "4",
+     "instructor": "Israr Nizar Mohammad Sabri",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH126",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR321",
+   "prefix": "PHAR",
+   "name": "PHARMACY SKILL LABORATORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Moammal S. H. Qurt",
+     "enrolled": 89,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Feras Imad Rafeq Qanaze",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH411",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH411",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "3",
+     "instructor": "Feras Imad Rafeq Qanaze",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH411",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "4",
+     "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "PNH411",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "5",
+     "instructor": "Moammal S. H. Qurt",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "PNH411",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR3210",
+   "prefix": "PHAR",
+   "name": "PATHOPHYSIOLOGY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mu'Taz M. A. Saleh",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "13:50",
+       "room": "Aggad221",
+       "building": "Aggad"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mu'Taz M. A. Saleh",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR322",
+   "prefix": "PHAR",
+   "name": "CLINICAL NUTRITION AND DIET THERAPY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hadeel Mousa Metri Khoury",
+     "enrolled": 33,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hadeel Mousa Metri Khoury",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "A.Shaheen252",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR324",
+   "prefix": "PHAR",
+   "name": "PHARMACY LAW AND ETHICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Moammal S. H. Qurt, Ruba N. M. Shaheen",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "PNH201",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR332",
+   "prefix": "PHAR",
+   "name": "PHARMACEUTICS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Feras Imad Rafeq Qanaze",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Feras Imad Rafeq Qanaze",
+     "enrolled": 47,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR333",
+   "prefix": "PHAR",
+   "name": "NATURAL PRODUCTS AND PHYTOPHARMACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Munjed Mahmoud Salem Ibrahim",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR334",
+   "prefix": "PHAR",
+   "name": "MEDICAL BIOCHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Johnny Butros Hanna Stiban",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Johnny Butros Hanna Stiban",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR342",
+   "prefix": "PHAR",
+   "name": "PHARMACOLOGY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ruba N. M. Shaheen",
+     "enrolled": 51,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ruba N. M. Shaheen",
+     "enrolled": 52,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH201",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR4101",
+   "prefix": "PHAR",
+   "name": "HOSPITAL PHARMACY TRAINING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Raghad M. A. Abushamma",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR4211",
+   "prefix": "PHAR",
+   "name": "DRUG INFORMATION AND LITERATURE EVALUATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ni'Meh Own Ibrahim Alshami",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ni'Meh Own Ibrahim Alshami",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR433",
+   "prefix": "PHAR",
+   "name": "MEDICINAL CHEMISTRY 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Munjed Mahmoud Salem Ibrahim",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "PNH104",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Munjed Mahmoud Salem Ibrahim",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "PNH104",
+       "building": "PNH"
+      },
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR434",
+   "prefix": "PHAR",
+   "name": "BIOPHARMACEUTICS/PHARMACOKINETICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdullah Khalil Salem Rabba",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH301",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdullah Khalil Salem Rabba",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR437",
+   "prefix": "PHAR",
+   "name": "OVER THE COUNTER MEDICATION/SUPPLIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abdullah Khalil Salem Rabba",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdullah Khalil Salem Rabba",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "15:30",
+       "end": "16:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR452",
+   "prefix": "PHAR",
+   "name": "PHARMACOTHERAPY 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bader Nael Abdaljaleel Remawi",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Bader Nael Abdaljaleel Remawi",
+     "enrolled": 49,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR522",
+   "prefix": "PHAR",
+   "name": "PHARMACY MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ziyad Daoud Sadeq Abu Alrob",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "PNH401",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "PNH401",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ziyad Daoud Sadeq Abu Alrob",
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH303",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR523",
+   "prefix": "PHAR",
+   "name": "RESEARCH PROJECT IN PHARMACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bader Nael Abdaljaleel Remawi",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Moammal S. H. Qurt, Ruba N. M. Shaheen, Hani Abul Hafez Ibrahim Shtaya",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Feras Imad Rafeq Qanaze",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Bader Nael Abdaljaleel Remawi, Moammal S. H. Qurt",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Abdullah Khalil Salem Rabba",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Hosniyeh Emad Thiab Ladadweh, Raed Mohammad Yousef Madia, Feras Imad Rafeq Qanaze, Abdullah Khalil Salem Rabba",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR555",
+   "prefix": "PHAR",
+   "name": "PHARMACOTHERAPY 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hosniyeh Emad Thiab Ladadweh, Lama J. I. Issa, Majd Yousef Ibrahim Tharifeh",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Masri306",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "11:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Majd Yousef Ibrahim Tharifeh, Hosniyeh Emad Thiab Ladadweh, Lama J. I. Issa",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PHAR641",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Raed Mohammad Yousef Madia",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Raed Mohammad Yousef Madia",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Raed Mohammad Yousef Madia",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Raed Mohammad Yousef Madia",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Leen Adnan Mustafa Humos",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Leen Adnan Mustafa Humos",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR642",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Alisse I. A. Nasser",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Alisse I. A. Nasser",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Alisse I. A. Nasser",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Alisse I. A. Nasser",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Leen Adnan Mustafa Humos",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Leen Adnan Mustafa Humos",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR643",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nemeh K. A. Bader",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nemeh K. A. Bader",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Nemeh K. A. Bader",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Nemeh K. A. Bader",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Rawan Ibrahim Ramadan Abdelbaset",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Rawan Ibrahim Ramadan Abdelbaset",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR644",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 4",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed Amein Isaa Qawasmi",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammed Amein Isaa Qawasmi",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammed Amein Isaa Qawasmi",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mohammed Amein Isaa Qawasmi",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Rawan Ibrahim Ramadan Abdelbaset",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Rawan Ibrahim Ramadan Abdelbaset",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR645",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 5",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Haya Omran Jamal Sultan",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Haya Omran Jamal Sultan",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Haya Omran Jamal Sultan",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Haya Omran Jamal Sultan",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Tiyba M. F. Murar",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Tiyba M. F. Murar",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR646",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 6",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Majd Yousef Ibrahim Tharifeh",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Majd Yousef Ibrahim Tharifeh",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Majd Yousef Ibrahim Tharifeh",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Majd Yousef Ibrahim Tharifeh",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Tiyba M. F. Murar",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Tiyba M. F. Murar",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR647",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 7",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lilian Samir Elias Abu Hadba",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Lilian Samir Elias Abu Hadba",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Lilian Samir Elias Abu Hadba",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Lilian Samir Elias Abu Hadba",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Dania Nedal Mohammad Thaher",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Dania Nedal Mohammad Thaher",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR648",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 8",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hosniyeh Emad Thiab Ladadweh",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hosniyeh Emad Thiab Ladadweh",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Hosniyeh Emad Thiab Ladadweh",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Hosniyeh Emad Thiab Ladadweh",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Dania Nedal Mohammad Thaher",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Dania Nedal Mohammad Thaher",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHAR649",
+   "prefix": "PHAR",
+   "name": "CLINICAL CLERKSHIP 9",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Malak Ahmad Muhmmad Hamed",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Malak Ahmad Muhmmad Hamed",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Malak Ahmad Muhmmad Hamed",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Malak Ahmad Muhmmad Hamed",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Rawan Ibrahim Ramadan Abdelbaset",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Tiyba M. F. Murar",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

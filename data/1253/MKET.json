@@ -1,0 +1,243 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MKET",
+ "counts": {
+  "courses": 5,
+  "sections": 5,
+  "instructors": 3,
+  "rooms": 4
+ },
+ "courses": [
+  {
+   "code": "MKET130",
+   "prefix": "MKET",
+   "name": "PRINCIPLES OF MARKETING 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Suzan Jamal Mousa Shkukani",
+     "enrolled": 155,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi001",
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi001",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi001",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi001",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET230",
+   "prefix": "MKET",
+   "name": "PRINCIPLES OF MARKETING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Suzan Jamal Mousa Shkukani",
+     "enrolled": 75,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      },
+      {
+       "day": "R",
+       "start": "12:00",
+       "end": "12:50",
+       "room": "O.Abdulhadi052",
+       "building": "O.Abdulhadi"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET231",
+   "prefix": "MKET",
+   "name": "PUBLIC RELATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Suzan Jamal Mousa Shkukani",
+     "enrolled": 85,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET330",
+   "prefix": "MKET",
+   "name": "MARKETING MANAGEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rania Yaser Qostande Jaber",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": "Al-Juraysi002",
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MKET439",
+   "prefix": "MKET",
+   "name": "STRATEGIC MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maisa Yacoub Naoum Burbar",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Al-Juraysi221",
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

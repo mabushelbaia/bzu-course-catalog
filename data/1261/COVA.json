@@ -1,0 +1,554 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "COVA",
+ "counts": {
+  "courses": 17,
+  "sections": 23,
+  "instructors": 8,
+  "rooms": 0
+ },
+ "courses": [
+  {
+   "code": "COVA1211",
+   "prefix": "COVA",
+   "name": "ANCIENT AND RENAISSANCE VISUAL ART",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Reem N. A. Masri",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA1310",
+   "prefix": "COVA",
+   "name": "FOUNDATION DRAWING SKILLS STUDIO",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. M. Khalil",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA1331",
+   "prefix": "COVA",
+   "name": "COLOR THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Majd N. A. Masri",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Majd N. A. Masri",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA1382",
+   "prefix": "COVA",
+   "name": "INTRODUCTION TO LABS AND WORKSHOPS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed S. M. Khalil",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2250",
+   "prefix": "COVA",
+   "name": "VISUAL ART STUDIO I",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Reem N. A. Masri",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2310",
+   "prefix": "COVA",
+   "name": "CONTEMPORARY VISUAL CULTURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mahmoud M. A. Abu Hashhash",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2330",
+   "prefix": "COVA",
+   "name": "SCULPTURE STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hamad A.  Maddah",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2350",
+   "prefix": "COVA",
+   "name": "PHOTOGRAPHY AND PHOTOSHOP STUDIO",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA2360",
+   "prefix": "COVA",
+   "name": "PAINTING STUDIO 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Majd N. A. Masri",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Majd N. A. Masri",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3300",
+   "prefix": "COVA",
+   "name": "INDIVIDUAL PROJECT STUDIO 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3311",
+   "prefix": "COVA",
+   "name": "VISUAL ART OF THE 20TH AND 21ST CENTURY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA3330",
+   "prefix": "COVA",
+   "name": "SCULPTURE AND INSTALLATION STUDIO 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hamad A.  Maddah",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA335",
+   "prefix": "COVA",
+   "name": "THE HISTORY AND PRINCIPLES OF CULTURAL PRODUCTION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA4300",
+   "prefix": "COVA",
+   "name": "SEMINAR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA4311",
+   "prefix": "COVA",
+   "name": "GRADUATION PROJECT 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Rula Helmi Sadeq Halawani",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "COVA4320",
+   "prefix": "COVA",
+   "name": "EXHIBITION PRACTICE STUDIO 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hana A. A. Irshaid",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:00",
+       "end": "17:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "13:00",
+       "end": "17:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "COVA4380",
+   "prefix": "COVA",
+   "name": "CONTEMPORARY DEBATES IN VISUAL ART PRACTICES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Reem N. A. Masri",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

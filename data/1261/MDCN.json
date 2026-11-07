@@ -1,0 +1,262 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MDCN",
+ "counts": {
+  "courses": 6,
+  "sections": 13,
+  "instructors": 9,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "MDCN1110",
+   "prefix": "MDCN",
+   "name": "GENERAL BIOLOGY LAB",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jamil Younis Mohammad Harb",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Jamil Younis Mohammad Harb",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MDCN1200",
+   "prefix": "MDCN",
+   "name": "MEDICAL TERMINOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed A. R. Twam",
+     "enrolled": 86,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDCN1310",
+   "prefix": "MDCN",
+   "name": "GENERAL BIOLOGY 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Khalid Mustafa Saleh Swaileh",
+     "enrolled": 86,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "13:00",
+       "end": "13:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Maen Khader Shehadah Mohammad",
+     "enrolled": 46,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Maen Khader Shehadah Mohammad",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDCN1330",
+   "prefix": "MDCN",
+   "name": "GENERAL CHEMISTRY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "enrolled": 86,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "1",
+     "instructor": "Hammam M. D. Abdalrazeq",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Discussion",
+     "number": "2",
+     "instructor": "Hammam M. D. Abdalrazeq",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "09:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDCN2230",
+   "prefix": "MDCN",
+   "name": "INTRODUCTION TO PUBLIC HEALTH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maysaa Yousef Khaled Nemer",
+     "enrolled": 86,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:50",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDCN3335",
+   "prefix": "MDCN",
+   "name": "CULTURAL STUDIES IN MEDICINE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Zeina Osama Mohammad Amro, Aisha Abdel Munem Omran Shalash",
+     "enrolled": 86,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Sh.Shaheen205",
+       "building": "Sh.Shaheen"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

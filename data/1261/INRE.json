@@ -1,0 +1,249 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "INRE",
+ "counts": {
+  "courses": 7,
+  "sections": 8,
+  "instructors": 3,
+  "rooms": 7
+ },
+ "courses": [
+  {
+   "code": "INRE3310",
+   "prefix": "INRE",
+   "name": "CONTEMPORARY INTERNATIONAL AND REGIONAL ISSUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Murad Abdel-Majid Abdel-Qader Shaheen",
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "ALSADIK406",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "ALSADIK406",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INRE3330",
+   "prefix": "INRE",
+   "name": "POWER, POLITICS AND ETHICS IN GLOBAL POLITICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "ALSADIK203",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "ALSADIK203",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INRE3350",
+   "prefix": "INRE",
+   "name": "CONTEMPORARY INTERNATIONAL SYSTEM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Murad Abdel-Majid Abdel-Qader Shaheen",
+     "enrolled": 32,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "ALSADIK203",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "ALSADIK203",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INRE4330",
+   "prefix": "INRE",
+   "name": "CHINA IN GLOBAL AFFAIRS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hani Mahmoud Abed Mousa",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "ALSADIK203",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "ALSADIK203",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INRE4340",
+   "prefix": "INRE",
+   "name": "INTERNATIONAL DEVELOPMENT: THEORIES, POLICIES AND CHALLENGES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah",
+     "enrolled": 50,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "ALSADIK302",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "ALSADIK302",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INRE4380",
+   "prefix": "INRE",
+   "name": "SEMINAR IN INTERNATIONAL RELATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Murad Abdel-Majid Abdel-Qader Shaheen",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "ALSADIK307",
+       "building": "ALSADIK"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hani Mahmoud Abed Mousa",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "INRE4390",
+   "prefix": "INRE",
+   "name": "SP.TOP: MEDIA AND CONLICT RESOLUTION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "ALSADIK408",
+       "building": "ALSADIK"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "ALSADIK409",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

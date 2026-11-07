@@ -1,0 +1,460 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MUSI",
+ "counts": {
+  "courses": 16,
+  "sections": 26,
+  "instructors": 7,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "MUSI111",
+   "prefix": "MUSI",
+   "name": "INSTRUMENTAL SKILLS 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Naseem Anton  Dakwer",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MUSI112",
+   "prefix": "MUSI",
+   "name": "INSTRUMENTAL SKILLS 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Naseem Anton  Dakwer",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Habib   Hanna",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MUSI1212",
+   "prefix": "MUSI",
+   "name": "GROUP PLAYING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI214",
+   "prefix": "MUSI",
+   "name": "INSTRUMENTAL SKILLS 4",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Heather Macdonald Campbell Bursheh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Razan Joel  Theodory",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MUSI2214",
+   "prefix": "MUSI",
+   "name": "GROUP PLAYING 4",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed I. M. Sulaiman",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI226",
+   "prefix": "MUSI",
+   "name": "MUSIC NOTATION SOFTWARE SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Heather Macdonald Campbell Bursheh",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "10:50",
+       "room": "Aweidah306",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI231",
+   "prefix": "MUSI",
+   "name": "INTRODUCTION TO MUSIC",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammed I. M. Sulaiman",
+     "enrolled": 55,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Mohammed I. M. Sulaiman",
+     "enrolled": 54,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammed I. M. Sulaiman",
+     "enrolled": 54,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI315",
+   "prefix": "MUSI",
+   "name": "INSTRUMENTAL SKILLS 5",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Razan Joel  Theodory",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Naseem Anton  Dakwer",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MUSI316",
+   "prefix": "MUSI",
+   "name": "INSTRUMENTAL SKILLS 6",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Heather Macdonald Campbell Bursheh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Naseem Anton  Dakwer",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MUSI321",
+   "prefix": "MUSI",
+   "name": "MAQAM PERFORMANCE 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI327",
+   "prefix": "MUSI",
+   "name": "ADVANCED MUSIC THEORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Habib   Hanna",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI332",
+   "prefix": "MUSI",
+   "name": "SOUND ENGINEERING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "12:00",
+       "end": "14:50",
+       "room": "Aweidah217",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI3331",
+   "prefix": "MUSI",
+   "name": "HISTORY OF ARABIC MUSIC",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Habib   Hanna",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI418",
+   "prefix": "MUSI",
+   "name": "GRADUATION PROJECT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Naseem Anton  Dakwer",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MUSI421",
+   "prefix": "MUSI",
+   "name": "COMPOSITION AND ARRANGING 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Habib   Hanna",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "11:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MUSI433",
+   "prefix": "MUSI",
+   "name": "MUSICAL INSTRUMENT TEACHING METHODS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jiries Raja'I Jiries Boullata",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "IRDS",
+ "counts": {
+  "courses": 5,
+  "sections": 6,
+  "instructors": 6,
+  "rooms": 4
+ },
+ "courses": [
+  {
+   "code": "IRDS6300",
+   "prefix": "IRDS",
+   "name": "RESEARCH METHODOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hani Mahmoud Abed Mousa",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Bamieh304",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Lourdes B. A. Habash, Hani Jalal Salim Awad, Bader Seetan Mujham Almadi, Ali Bassam Ali Jarbawi",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "12:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IRDS6310",
+   "prefix": "IRDS",
+   "name": "A CONCEPTUAL INTRODUCTION TO INTERNATIONAL RELATIONS, DIPLOMACY, AND GLOBAL SECURITY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lourdes B. A. Habash, Ali Bassam Ali Jarbawi",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK304",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IRDS6330",
+   "prefix": "IRDS",
+   "name": "FOUNDATIONS OF GLOBAL DIPLOMACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ghassan A. I. Khatib, Faed Khaled Abed Mustafa, Marwan A.  Alkabalan",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK409",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IRDS6360",
+   "prefix": "IRDS",
+   "name": "TOWARDS A NON-WESTERN WORLD ORDER: THE RISE OF NEW STATES AND NON-STATE ACTORS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Lourdes B. A. Habash, Ahmed Shebl  Morsy, May Ayman Hassan Darwich",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK408",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IRDS7340",
+   "prefix": "IRDS",
+   "name": "SECURITY AND THE EVOLUTION OF WARS IN THE WORLD",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah, Billal A.  Salayme",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

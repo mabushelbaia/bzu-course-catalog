@@ -1,0 +1,130 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "HAIC",
+ "counts": {
+  "courses": 5,
+  "sections": 5,
+  "instructors": 2,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "HAIC7180",
+   "prefix": "HAIC",
+   "name": "SP.TOP: COMPONENTS OF THE INTERNATIONAL RED CROSS AND RED CRESCENT MOVEMENT",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Husam Na'Em Abdul Aziz Shakhshir",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "N.Shaheen202",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HAIC7360",
+   "prefix": "HAIC",
+   "name": "SP.TOP: LIBYA: REVOLUTION, CONFLICT, AND STATE-BUILDING IN THE POST-2011 PERIOD",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Husam Na'Em Abdul Aziz Shakhshir",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "N.Shaheen202",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HAIC8300",
+   "prefix": "HAIC",
+   "name": "SEMINAR 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Husam Na'Em Abdul Aziz Shakhshir",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "N.Shaheen202",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HAIC8310",
+   "prefix": "HAIC",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Husam Na'Em Abdul Aziz Shakhshir",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "N.Shaheen202",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "HAIC8600",
+   "prefix": "HAIC",
+   "name": "Thesis",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Imad Sami Ahmad Sayrafi",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

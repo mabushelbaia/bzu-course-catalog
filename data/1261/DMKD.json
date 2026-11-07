@@ -1,0 +1,97 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "DMKD",
+ "counts": {
+  "courses": 3,
+  "sections": 3,
+  "instructors": 1,
+  "rooms": 0
+ },
+ "courses": [
+  {
+   "code": "DMKD1300",
+   "prefix": "DMKD",
+   "name": "INTRODUCTION TO MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Carmen Nader Mounir Martha",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "12:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DMKD1311",
+   "prefix": "DMKD",
+   "name": "CUSTOMER CARE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "DMKD2300",
+   "prefix": "DMKD",
+   "name": "LEGAL AND ETHICAL ISSUES IN MARKETING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

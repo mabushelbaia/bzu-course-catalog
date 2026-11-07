@@ -1,0 +1,69 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MSAI",
+ "counts": {
+  "courses": 2,
+  "sections": 2,
+  "instructors": 2,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "MSAI6300",
+   "prefix": "MSAI",
+   "name": "MACHINE LEARNING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "A.Shaheen004",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MSAI6310",
+   "prefix": "MSAI",
+   "name": "RESEARCH METHODS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmad Saleh Ibrahim Alsadeh, Nidal Jawdat Masoud Mahmoud",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Bahrain301",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

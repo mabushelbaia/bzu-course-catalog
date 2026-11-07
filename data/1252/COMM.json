@@ -1,0 +1,61 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "COMM",
+ "counts": {
+  "courses": 2,
+  "sections": 2,
+  "instructors": 1,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "COMM4116",
+   "prefix": "COMM",
+   "name": "INTERNSHIP IN PR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nashaat A. A. Aqtash",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "COMM4318",
+   "prefix": "COMM",
+   "name": "SEMINAR IN PUBLIC RELATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nashaat A. A. Aqtash",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Masrouji111",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

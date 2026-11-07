@@ -1,0 +1,813 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "MDJO",
+ "counts": {
+  "courses": 21,
+  "sections": 35,
+  "instructors": 11,
+  "rooms": 11
+ },
+ "courses": [
+  {
+   "code": "MDJO131",
+   "prefix": "MDJO",
+   "name": "INTRODUCTION TO COMMUNICATION STUDIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasser Aldden J. K. Khasib",
+     "enrolled": 73,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen152",
+       "building": "A.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "A.Shaheen152",
+       "building": "A.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO132",
+   "prefix": "MDJO",
+   "name": "PRINCIPLES OF NEWS GATHERING AND EDITING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nashaat A. A. Aqtash",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      },
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nashaat A. A. Aqtash",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury105",
+       "building": "Khoury"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Khoury105",
+       "building": "Khoury"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO136",
+   "prefix": "MDJO",
+   "name": "ISRAELI MEDIA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maisoon Hussam Ali Zoubi",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO221",
+   "prefix": "MDJO",
+   "name": "RADIO TECHNIQUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasser Aldden J. K. Khasib",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Nasser Aldden J. K. Khasib",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Maktoum336",
+       "building": "Maktoum"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Nasser Aldden J. K. Khasib",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Maktoum336",
+       "building": "Maktoum"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO227",
+   "prefix": "MDJO",
+   "name": "TV TECHNIQUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nasser Aldden J. K. Khasib",
+     "enrolled": 34,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "11:50",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Nasser Aldden J. K. Khasib",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Maktoum336",
+       "building": "Maktoum"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Belal A. S. Doufesh",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Maktoum336",
+       "building": "Maktoum"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO231",
+   "prefix": "MDJO",
+   "name": "INTRODUCTION TO PUBLIC RELATIONS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nashaat A. A. Aqtash",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO233",
+   "prefix": "MDJO",
+   "name": "MEDIA LANGUAGE RULES 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Abeer Midhat Ahmad Ismail",
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Fatima M. A. Hreash",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masrouji014",
+       "building": "Masrouji"
+      },
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "12:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO237",
+   "prefix": "MDJO",
+   "name": "ENGLISH LANGUAGE FOR PRESS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Duha Abdulatif Rateb Abu Hijjleh",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO2380",
+   "prefix": "MDJO",
+   "name": "GRAPHIC DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Belal A. S. Doufesh",
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Belal A. S. Doufesh",
+     "enrolled": 22,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masrouji111",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Belal A. S. Doufesh",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masrouji111",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO331",
+   "prefix": "MDJO",
+   "name": "MEDIA THEORIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Walid Omar Awad Shurafa",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      },
+      {
+       "day": "W",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO332",
+   "prefix": "MDJO",
+   "name": "JOURNALISTIC REPORTING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bassam Rizeq Mofleh Ewaida",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO333",
+   "prefix": "MDJO",
+   "name": "FEATURE STORY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Walid Omar Awad Shurafa",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Masrouji014",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO338",
+   "prefix": "MDJO",
+   "name": "TV REPORTS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "enrolled": 28,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "09:50",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masrouji112",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masrouji112",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO4120",
+   "prefix": "MDJO",
+   "name": "PRACTICAL TRAINING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nashaat A. A. Aqtash",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MDJO428",
+   "prefix": "MDJO",
+   "name": "DIGITAL STORYTELLING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Belal A. S. Doufesh",
+     "enrolled": 21,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Masrouji111",
+       "building": "Masrouji"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Masrouji111",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO430",
+   "prefix": "MDJO",
+   "name": "INVESTIGATIVE JOURNALISM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Bassam Rizeq Mofleh Ewaida",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      },
+      {
+       "day": "M",
+       "start": "09:30",
+       "end": "10:50",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO431",
+   "prefix": "MDJO",
+   "name": "TV PROGRAMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Masrouji014",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Maktoum321",
+       "building": "Maktoum"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO432",
+   "prefix": "MDJO",
+   "name": "RADIO PROGRAMS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Laura Yousif Issa Sayej",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Bassam Rizeq Mofleh Ewaida",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Maktoum319",
+       "building": "Maktoum"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Bassam Rizeq Mofleh Ewaida",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Maktoum319",
+       "building": "Maktoum"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO436",
+   "prefix": "MDJO",
+   "name": "JOURNALISTIC WRITING IN ENGLISH",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Duha Abdulatif Rateb Abu Hijjleh",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO438",
+   "prefix": "MDJO",
+   "name": "SEMINAR IN MEDIA",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Nashaat A. A. Aqtash",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Masrouji016",
+       "building": "Masrouji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MDJO439",
+   "prefix": "MDJO",
+   "name": "SP.TOP: MEDIA SEMIOTICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Walid Omar Awad Shurafa",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      },
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Masrouji023",
+       "building": "Masrouji"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Al-Juraysi227",
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ARSK",
+ "counts": {
+  "courses": 3,
+  "sections": 5,
+  "instructors": 3,
+  "rooms": 2
+ },
+ "courses": [
+  {
+   "code": "ARSK1310",
+   "prefix": "ARSK",
+   "name": "BASICS OF ARABIC LANGUAGE SKILLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "enrolled": 30,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bahrain226",
+       "building": "Bahrain"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      },
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "09:20",
+       "room": "Bahrain220",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARSK134",
+   "prefix": "ARSK",
+   "name": "COLLOQUIAL ARABIC 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad B. N. Qadri",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "17:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "17:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "17:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "17:00",
+       "end": "18:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ARSK231",
+   "prefix": "ARSK",
+   "name": "MODERN STANDARD ARABIC 3",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Samer Abdelrahim Mohammed Qot",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "16:00",
+       "end": "17:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "16:00",
+       "end": "17:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "16:00",
+       "end": "17:50",
+       "room": null,
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "16:00",
+       "end": "17:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

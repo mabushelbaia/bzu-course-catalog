@@ -1,0 +1,82 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "CSEC",
+ "counts": {
+  "courses": 2,
+  "sections": 2,
+  "instructors": 2,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "CSEC1320",
+   "prefix": "CSEC",
+   "name": "AUTHENTICATION AND ACCESS CONTROL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yousef W. S. Sabbah",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Masri304",
+       "building": "Masri"
+      },
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Masri304",
+       "building": "Masri"
+      },
+      {
+       "day": "W",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Masri304",
+       "building": "Masri"
+      },
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "10:50",
+       "room": "Masri304",
+       "building": "Masri"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CSEC3300",
+   "prefix": "CSEC",
+   "name": "PRACTICAL TRAINING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rashid F. R. Yousef",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,294 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "ISST",
+ "counts": {
+  "courses": 7,
+  "sections": 19,
+  "instructors": 9,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "ISST500",
+   "prefix": "ISST",
+   "name": "PROFICIENCY IN HEBREW",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Maher Tayseer Mohammad Daoud",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "13:30",
+       "end": "16:50",
+       "room": "N.Shaheen202",
+       "building": "N.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "13:30",
+       "end": "17:20",
+       "room": "N.Shaheen203",
+       "building": "N.Shaheen"
+      },
+      {
+       "day": "W",
+       "start": "14:30",
+       "end": "16:20",
+       "room": "N.Shaheen203",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ISST632",
+   "prefix": "ISST",
+   "name": "HISTORY OF JEWS AND JUDAISM",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nabih Ibrahim Mohammad Bashir",
+     "enrolled": 9,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "10:00",
+       "end": "12:50",
+       "room": "N.Shaheen204",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ISST634",
+   "prefix": "ISST",
+   "name": "THE POLITICAL SYSTEM OF ISRAEL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hiba Mahmoud Abed Yazbak",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "10:00",
+       "end": "12:50",
+       "room": "N.Shaheen203",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ISST737",
+   "prefix": "ISST",
+   "name": "INTRODUCTION TO LITERATURE AND CULTURE IN ISRAEL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hunaida Omar Mohummad Ghanim",
+     "enrolled": 16,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "12:50",
+       "room": "N.Shaheen203",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ISST738",
+   "prefix": "ISST",
+   "name": "SP.TOP:LAND LAWS AND SETTLER COLONIALISM IN PALESTINE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "N.Shaheen203",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ISST831",
+   "prefix": "ISST",
+   "name": "SEMINAR 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "N.Shaheen203",
+       "building": "N.Shaheen"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hunaida Omar Mohummad Ghanim",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "10:00",
+       "end": "12:50",
+       "room": "N.Shaheen203",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ISST860",
+   "prefix": "ISST",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Fadi Sami Kamil Nahhas",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ghada Adnan Kathem Almadbouh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Hala Ezzat Saleh Shoaibi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ghada Adnan Kathem Almadbouh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Ghada Adnan Kathem Almadbouh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Rami Fawzi Issa Salameh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Ghada Adnan Kathem Almadbouh",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Nabih Ibrahim Mohammad Bashir",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Hunaida Omar Mohummad Ghanim",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Hala Ezzat Saleh Shoaibi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Nabih Ibrahim Mohammad Bashir",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

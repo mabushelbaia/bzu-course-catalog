@@ -1,0 +1,254 @@
+{
+ "term": "1261",
+ "name": "First Semester 2026/2027",
+ "updated_at": "2026-11-07T05:31:34+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "DMHR",
+ "counts": {
+  "courses": 9,
+  "sections": 13,
+  "instructors": 6,
+  "rooms": 3
+ },
+ "courses": [
+  {
+   "code": "DMHR5001",
+   "prefix": "DMHR",
+   "name": "ENGLISH LANGUAGE FOR STUDYING SOCIAL SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Eman R. Y. Alasah",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Bahrain401",
+       "building": "Bahrain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DMHR5002",
+   "prefix": "DMHR",
+   "name": "ADVANCED INTRODUCTION TO SOCIAL SCIENCES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed Fouad Ahmed Attaallah",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "IOL311",
+       "building": "IOL"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DMHR6311",
+   "prefix": "DMHR",
+   "name": "DEMOCRACY IN THEORY AND PRACTICE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "George Hanna George Giacaman",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "IOL311",
+       "building": "IOL"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DMHR6321",
+   "prefix": "DMHR",
+   "name": "ISSUES OF TRANSITIONS TO DEMOCRACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mudar Fuad Khalil Kassis",
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "IOL311",
+       "building": "IOL"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DMHR6331",
+   "prefix": "DMHR",
+   "name": "INTERNATIONAL HUMAN RIGHTS LAW",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Reem Mahmoud Ahmed Albatmah",
+     "enrolled": 10,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "IOL311",
+       "building": "IOL"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DMHR7151",
+   "prefix": "DMHR",
+   "name": "INTERNSHIP (PRACTICUM)",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ahmed Fouad Ahmed Attaallah",
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "DMHR7390",
+   "prefix": "DMHR",
+   "name": "SP.TOP: POLITICAL PARTICIPATION AND SELF-DETERMINATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mudar Fuad Khalil Kassis",
+     "enrolled": 2,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "IOL311",
+       "building": "IOL"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Basem M. T. Ezbidi",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK407",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DMHR8301",
+   "prefix": "DMHR",
+   "name": "SEMINAR IN DEMOCRACY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Basem M. T. Ezbidi",
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "ALSADIK407",
+       "building": "ALSADIK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DMHR8600",
+   "prefix": "DMHR",
+   "name": "THESIS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mudar Fuad Khalil Kassis",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "George Hanna George Giacaman",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mudar Fuad Khalil Kassis",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Mudar Fuad Khalil Kassis",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

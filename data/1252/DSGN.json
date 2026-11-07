@@ -1,0 +1,943 @@
+{
+ "term": "1252",
+ "name": "Second Semester 2025/2026",
+ "updated_at": "2026-11-07T05:31:56+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "DSGN",
+ "counts": {
+  "courses": 19,
+  "sections": 45,
+  "instructors": 21,
+  "rooms": 11
+ },
+ "courses": [
+  {
+   "code": "DSGN1200",
+   "prefix": "DSGN",
+   "name": "TECHNICAL DRAWING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Mohammad Ibrahim Ahmad Samarah",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN1210",
+   "prefix": "DSGN",
+   "name": "RENDERING TECHNIQUES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Heba O. G. Tannous",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah303",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah303",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN1260",
+   "prefix": "DSGN",
+   "name": "HISTORY OF DESIGN 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 35,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "09:00",
+       "end": "10:50",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN1350",
+   "prefix": "DSGN",
+   "name": "GRAPHIC DESIGN AND COMPUTER TECHNOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dana S. G. Durr",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Dana S. G. Durr",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah207",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah207",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Hanein B. F. Qawasmeh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah207",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah207",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN1460",
+   "prefix": "DSGN",
+   "name": "DESIGN STUDIO 2: FOUNDATION 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dennis Z. Y. Sobeh, Yara A. Y. Hussein",
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah304",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Dennis Z. Y. Sobeh",
+     "enrolled": 18,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah234",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah234",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2260",
+   "prefix": "DSGN",
+   "name": "ADVANCED DIGITAL TOOLS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hafez Mu'En Hafez Omar",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "15:20",
+       "room": "Aweidah207",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "15:20",
+       "room": "Aweidah207",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Dana S. G. Durr",
+     "enrolled": 13,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "11:50",
+       "room": "Aweidah207",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "11:50",
+       "room": "Aweidah207",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2270",
+   "prefix": "DSGN",
+   "name": "LOCAL AND REGIONAL INDUSTRIES",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Christina Esther  Wong You Cheong",
+     "enrolled": 36,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "12:00",
+       "end": "13:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2330",
+   "prefix": "DSGN",
+   "name": "FASHION AND TEXTILES TECHNOLOGY",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Christina Esther  Wong You Cheong",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "W",
+       "start": "08:00",
+       "end": "08:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Amane F. M. Dahadha",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "15:20",
+       "room": "Aweidah006",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "15:20",
+       "room": "Aweidah006",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Christina Esther  Wong You Cheong",
+     "enrolled": 12,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "11:50",
+       "room": "Aweidah006",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "11:50",
+       "room": "Aweidah006",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2380",
+   "prefix": "DSGN",
+   "name": "WORKSHOPS 1: WOOD AND METAL",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis, Yara A. Y. Hussein",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "14:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 15,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah032",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Aweidah032",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah032",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "Aweidah032",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN2460",
+   "prefix": "DSGN",
+   "name": "DESIGN STUDIO 4: PRODUCT AND FURNITURE DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 25,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 14,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah309",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah309",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 11,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "16:50",
+       "room": "Aweidah303",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "16:50",
+       "room": "Aweidah303",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN3300",
+   "prefix": "DSGN",
+   "name": "PRINCIPLES AND CULTURE OF AESTHETICS",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yara Mohamed Mousa Bamieh",
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "11:00",
+       "end": "13:50",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN3330",
+   "prefix": "DSGN",
+   "name": "SEMINAR",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Dennis Z. Y. Sobeh",
+     "enrolled": 19,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aweidah306",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "14:00",
+       "end": "15:20",
+       "room": "Aweidah306",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN3360",
+   "prefix": "DSGN",
+   "name": "INCLUSIVE DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 23,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "09:00",
+       "end": "11:50",
+       "room": "Aweidah309",
+       "building": "Aweidah"
+      },
+      {
+       "day": "R",
+       "start": "09:00",
+       "end": "11:50",
+       "room": "Aweidah309",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN3431",
+   "prefix": "DSGN",
+   "name": "ADVANCED DESIGN STUDIO 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Hafez Mu'En Hafez Omar, Christina Esther  Wong You Cheong",
+     "enrolled": 37,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "08:50",
+       "room": "Aweidah215",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "1",
+     "instructor": "Hafez Mu'En Hafez Omar",
+     "enrolled": 20,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah006",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah006",
+       "building": "Aweidah"
+      }
+     ]
+    },
+    {
+     "type": "Lab",
+     "number": "2",
+     "instructor": "Christina Esther  Wong You Cheong",
+     "enrolled": 17,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah203",
+       "building": "Aweidah"
+      },
+      {
+       "day": "W",
+       "start": "09:00",
+       "end": "13:20",
+       "room": "Aweidah203",
+       "building": "Aweidah"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN4300",
+   "prefix": "DSGN",
+   "name": "CONTEMPORARY ARAB VISUAL CULTURE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Saed G. A. Mahfuth",
+     "enrolled": 48,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "08:00",
+       "end": "10:50",
+       "room": "Al-Juraysi223",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Aseel A. J. Abusada",
+     "enrolled": 26,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "R",
+       "start": "08:00",
+       "end": "10:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN4320",
+   "prefix": "DSGN",
+   "name": "ENTREPRENEURSHIP AND INNOVATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Muath Y. Kh. Surakji",
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN4370",
+   "prefix": "DSGN",
+   "name": "SP.TOP: DOCUMENTING ENVIRONMENTAL DESIGN",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Omar Lee Loren Tesdell",
+     "enrolled": 24,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "15:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DSGN4411",
+   "prefix": "DSGN",
+   "name": "GRADUATION PROJECT 1",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Adnan Sufian Muawiya Asali",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "DSGN4441",
+   "prefix": "DSGN",
+   "name": "GRADUATION PROJECT 2",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Dennis Z. Y. Sobeh",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Hafez Mu'En Hafez Omar",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Dana S. G. Durr",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Yara A. Y. Hussein",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Christina Esther  Wong You Cheong",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Muath Y. Kh. Surakji",
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Adnan Sufian Muawiya Asali",
+     "enrolled": 3,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Natalie Assem A. Al Tahhan",
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "prefix": "PHSS",
+ "counts": {
+  "courses": 2,
+  "sections": 2,
+  "instructors": 1,
+  "rooms": 1
+ },
+ "courses": [
+  {
+   "code": "PHSS9090",
+   "prefix": "PHSS",
+   "name": "QUALIFYING EXAMINATION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "PHSS9321",
+   "prefix": "PHSS",
+   "name": "MAJOR THEORETICAL DEBATES IN THE SOCIAL SCIENCES, THE STUDY OF THE SOUTH AND THE ARAB REGION",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Rema Hasan Ahmad Hammami, Samera Nimr  Esmeir",
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "16:50",
+       "room": "N.Shaheen307",
+       "building": "N.Shaheen"
+      },
+      {
+       "day": "M",
+       "start": "14:00",
+       "end": "15:50",
+       "room": "N.Shaheen307",
+       "building": "N.Shaheen"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
