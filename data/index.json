@@ -3,8 +3,8 @@
  "terms": {
   "1261": {
    "name": "First Semester 2026/2027",
-   "updated_at": "2026-11-07T17:45:06+00:00",
-   "hash": "ebace7fd24712b490415c62391500c45104155ea2d2eed183e7a47b192282aa2",
+   "updated_at": "2026-11-08T03:34:41+00:00",
+   "hash": "83a26335dfcf909073ebba35eba6d3399821411fbfa49ffbda0b97ef6fdce80a",
    "counts": {
     "courses": 1174,
     "sections": 2813,
@@ -119,7 +119,14 @@
     "UNIV",
     "WOHE",
     "WOMS"
-   ]
+   ],
+   "calendar": {
+    "teaching_starts": "2026-10-06",
+    "teaching_ends": "2027-01-28",
+    "exams_start": "2027-01-30",
+    "exams_end": "2027-02-14",
+    "source": "https://ritaj.birzeit.edu/be1/en/academic/academic-calendar/public-academic-calendar?academic-year=2026%2F2027"
+   }
   },
   "1253": {
    "name": "Summer Course 2025/2026",
@@ -196,7 +203,14 @@
     "SWEN",
     "TRAN",
     "UNIV"
-   ]
+   ],
+   "calendar": {
+    "teaching_starts": "2026-07-20",
+    "teaching_ends": "2026-09-24",
+    "exams_start": "2026-09-26",
+    "exams_end": "2026-10-03",
+    "source": "https://ritaj.birzeit.edu/be1/en/academic/academic-calendar/public-academic-calendar?academic-year=2025%2F2026"
+   }
   },
   "1252": {
    "name": "Second Semester 2025/2026",
@@ -312,7 +326,14 @@
     "WEEN",
     "WOHE",
     "WOMS"
-   ]
+   ],
+   "calendar": {
+    "teaching_starts": "2026-03-09",
+    "teaching_ends": "2026-06-25",
+    "exams_start": "2026-06-27",
+    "exams_end": "2026-07-12",
+    "source": "https://ritaj.birzeit.edu/be1/en/academic/academic-calendar/public-academic-calendar?academic-year=2025%2F2026"
+   }
   }
  },
  "available_terms": [
@@ -602,5 +623,13 @@
   "1253",
   "1252"
  ],
- "checked_at": "2026-11-07T17:45:47+00:00"
+ "checked_at": "2026-11-08T03:35:43+00:00",
+ "current": {
+  "term": "1261",
+  "name": "First Semester 2026/2027",
+  "teaching_starts": "2026-10-06",
+  "teaching_ends": "2027-01-28",
+  "exams_start": "2027-01-30",
+  "exams_end": "2027-02-14"
+ }
 }

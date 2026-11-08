@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-08T03:34:41+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -136,7 +136,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayah M. H. Alfar",
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": []
     },
@@ -175,7 +175,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
-     "enrolled": 33,
+     "enrolled": 34,
      "capacity": null,
      "meetings": [
       {
@@ -350,7 +350,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
-     "enrolled": 25,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -389,7 +389,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Israr Nizar Mohammad Sabri",
-     "enrolled": 9,
+     "enrolled": 10,
      "capacity": null,
      "meetings": [
       {
@@ -412,7 +412,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hadeel Mousa Metri Khoury",
-     "enrolled": 3,
+     "enrolled": 4,
      "capacity": null,
      "meetings": []
     },
@@ -527,7 +527,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Monia Omar Izat Kittana",
-     "enrolled": 29,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {

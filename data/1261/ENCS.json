@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-08T03:34:41+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -643,7 +643,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yousef T. Y. Abuhamda",
-     "enrolled": 32,
+     "enrolled": 33,
      "capacity": null,
      "meetings": [
       {
@@ -947,7 +947,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rania Talal Ribhi Shahwan",
-     "enrolled": 29,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -1193,7 +1193,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Mohammad S. O. Ismael",
-     "enrolled": 16,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -2706,7 +2706,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Suhail Ahmad Afaneh",
-     "enrolled": 1,
+     "enrolled": 2,
      "capacity": null,
      "meetings": []
     },
