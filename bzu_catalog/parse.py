@@ -133,3 +133,59 @@ def parse_courses(html: str) -> list[dict]:
             current["sections"].append(section)
 
     return sorted(courses.values(), key=lambda c: c["code"])
+
+
+# --- Academic calendar -------------------------------------------------------------------------
+# Ritaj's public academic calendar (one page per academic year) lists dated events in Arabic, in a
+# table grouped by month: <td id="mon_10_2026"> starts a month, then each row has the day and the
+# events. We keep the four dates that bound a semester.
+
+CALENDAR_URL = "https://ritaj.birzeit.edu/be1/en/academic/academic-calendar/public-academic-calendar?academic-year={start}%2F{end}"
+
+# The semester as the calendar names it, by the last digit of the term code
+_SEMESTER = {"1": "للفصل الدراسي الأول", "2": "للفصل الدراسي الثاني", "3": "للدورة الصيفية"}
+_EVENTS = {
+    "teaching_starts": "بدء التدريس",
+    "teaching_ends": "آخر يوم تدريس",
+    "exams_start": "بدء فترة الامتحانات النهائية",
+    "exams_end": "انتهاء فترة الامتحانات النهائية",
+}
+
+
+def academic_year(term: str) -> tuple[int, int]:
+    """Term 1261 is First Semester 2026/2027: the first three digits are the year minus 1900."""
+    start = 1900 + int(term[:3])
+    return start, start + 1
+
+
+def parse_calendar(html: str) -> list[tuple[str, str]]:
+    """Every dated event on the page, as (YYYY-MM-DD, text), in page order."""
+    soup = BeautifulSoup(html, "lxml")
+    events, month = [], None
+    for tr in soup.find_all("tr"):
+        cells = tr.find_all("td", recursive=False)
+        for td in cells:
+            m = re.fullmatch(r"mon_(\d+)_(\d{4})", td.get("id") or "")
+            if m:
+                month = (int(m.group(2)), int(m.group(1)))
+        day = next((int(t) for td in cells if (t := td.get_text(strip=True)).isdigit()), None)
+        if not month or day is None:
+            continue
+        for p in tr.find_all("p"):
+            text = " ".join(p.get_text(" ", strip=True).split())
+            if text:
+                events.append((f"{month[0]:04d}-{month[1]:02d}-{day:02d}", text))
+    return events
+
+
+def term_dates(events: list[tuple[str, str]], term: str) -> dict:
+    """Teaching and exam dates for one term, from the calendar events. Missing ones are left out."""
+    start, end = academic_year(term)
+    semester = f"{_SEMESTER[term[-1]]} {start}/{end}"
+    out = {}
+    for key, phrase in _EVENTS.items():
+        for date, text in events:
+            if text.startswith(phrase) and semester in text:
+                out[key] = date
+                break
+    return out

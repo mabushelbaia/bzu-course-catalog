@@ -6,7 +6,8 @@
 Writes, per semester:
     data/<term>.json              every course, section and meeting
     data/<term>/<PREFIX>.json     the same, one file per course prefix (e.g. ENCS) for small static sites
-and data/index.json listing the semesters, their counts, when their data last changed, and
+and data/index.json listing the semesters, their counts, when their data last changed, their
+teaching and exam dates from Ritaj's academic calendar, the semester in progress (current), and
 when Ritaj was last checked (checked_at, stamped on every scrape). A semester's files are only
 rewritten when its data actually changed; a run that finds nothing new only updates checked_at.
 """
@@ -19,7 +20,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from . import fetch as fetching
-from .parse import DAYS, parse_courses, parse_terms, shown_term
+from .parse import CALENDAR_URL, DAYS, academic_year, parse_calendar, parse_courses, parse_terms, shown_term, term_dates
 
 
 def now() -> str:
@@ -138,10 +139,40 @@ def cmd_scrape(args) -> None:
         write_term(out, index, {"code": code, "name": names.get(code, code)}, parse_courses(h), url)
         done.append(code)
     index["published_terms"] = done
+    add_calendar(index, done)
     # Stamped on every run, changed or not: shows the data is still being checked, and the daily
     # commit keeps the repo active so GitHub never pauses the scheduled workflow (it does after 60 quiet days)
     index["checked_at"] = now()
     save_index(out, index)
+
+
+def add_calendar(index: dict, terms: list[str]) -> None:
+    """Teaching and exam dates per semester from Ritaj's academic calendar, and which one is on now.
+
+    A calendar that can't be fetched keeps the dates from the last run; it never fails the scrape.
+    """
+    pages: dict[tuple[int, int], list] = {}
+    for code in terms:
+        year = academic_year(code)
+        if year not in pages:
+            try:
+                url, html = fetching.fetch_calendar(*year)
+                pages[year] = parse_calendar(html)
+                print(f"  calendar {year[0]}/{year[1]}: {len(pages[year])} events")
+            except fetching.FetchError as e:
+                print(f"  calendar {year[0]}/{year[1]}: skipped ({e})")
+                pages[year] = []
+        dates = term_dates(pages[year], code)
+        if dates and code in index["terms"]:
+            index["terms"][code]["calendar"] = {**dates, "source": CALENDAR_URL.format(start=year[0], end=year[1])}
+    # The semester in progress: teaching has started and its exams haven't ended. Between semesters,
+    # the one that ended most recently, so "this semester" numbers still mean something.
+    today = datetime.now(timezone.utc).date().isoformat()
+    dated = [(c, t["calendar"]) for c, t in index["terms"].items() if t.get("calendar", {}).get("teaching_starts")]
+    started = sorted([x for x in dated if x[1]["teaching_starts"] <= today], key=lambda x: x[1]["teaching_starts"])
+    if started:
+        code, cal = started[-1]
+        index["current"] = {"term": code, "name": index["terms"][code]["name"], **{k: v for k, v in cal.items() if k != "source"}}
 
 
 def cmd_parse(args) -> None:
