@@ -6,6 +6,7 @@
 Writes, per semester:
     data/<term>.json              every course, section and meeting
     data/<term>/<PREFIX>.json     the same, one file per course prefix (e.g. ENCS) for small static sites
+    data/<term>/rooms.json        every department's meetings grouped by room (rooms are shared)
 and data/index.json listing the semesters, their counts, when their data last changed, their
 teaching and exam dates from Ritaj's academic calendar, the semester in progress (current), and
 when Ritaj was last checked (checked_at, stamped on every scrape). A semester's files are only
@@ -46,6 +47,22 @@ def counts(courses: list[dict]) -> dict:
     }
 
 
+def rooms_of(courses: list[dict]) -> dict:
+    """Every meeting of every department, grouped by room: a room is shared across departments, so a
+    room's real week needs all of them. Compact rows: [code, section, instructor, day, start, end]."""
+    rooms: dict[str, list] = {}
+    for c in courses:
+        for s in c["sections"]:
+            for m in s["meetings"]:
+                if m["room"] and m["start"]:
+                    rooms.setdefault(m["room"], []).append([c["code"], s["number"], s["instructor"], m["day"], m["start"], m["end"]])
+    return {r: sorted(v, key=lambda x: ("SUMTWRF".find(x[3]), x[4], x[0])) for r, v in sorted(rooms.items())}
+
+
+def write_rooms(folder: Path, meta: dict, courses: list[dict]) -> None:
+    dump(folder / "rooms.json", {**meta, "rooms": rooms_of(courses)})
+
+
 def write_term(out: Path, index: dict, term: dict, courses: list[dict], source: str) -> bool:
     """Writes one semester if its data changed. Returns True when files were written."""
     code = term["code"]
@@ -56,6 +73,9 @@ def write_term(out: Path, index: dict, term: dict, courses: list[dict], source: 
     h = digest(courses)
     if h == old.get("hash"):
         print(f"  {code}: unchanged")
+        # Semesters written before rooms.json existed get it once
+        if not (out / code / "rooms.json").exists() and courses:
+            write_rooms(out / code, {"term": code, "name": term["name"], "updated_at": old.get("updated_at"), "source": source, "days": DAYS}, courses)
         return False
     stamp = now()
     meta = {"term": code, "name": term["name"], "updated_at": stamp, "source": source, "days": DAYS}
@@ -66,7 +86,7 @@ def write_term(out: Path, index: dict, term: dict, courses: list[dict], source: 
     folder = out / code
     if folder.exists():
         for f in folder.glob("*.json"):
-            if f.stem not in by_prefix:
+            if f.stem not in by_prefix and f.stem != "rooms":
                 f.unlink()
     written = 0
     for prefix, cs in by_prefix.items():
@@ -81,6 +101,7 @@ def write_term(out: Path, index: dict, term: dict, courses: list[dict], source: 
                 pass
         dump(f, {**meta, "prefix": prefix, "counts": counts(cs), "courses": cs})
         written += 1
+    write_rooms(folder, meta, courses)
     index["terms"][code] = {"name": term["name"], "updated_at": stamp, "hash": h, "counts": counts(courses),
                             "prefixes": sorted(by_prefix)}
     c = counts(courses)

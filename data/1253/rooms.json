@@ -1,0 +1,11946 @@
+{
+ "term": "1253",
+ "name": "Summer Course 2025/2026",
+ "updated_at": "2026-11-07T05:31:35+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
+ "days": {
+  "S": "Sat",
+  "U": "Sun",
+  "M": "Mon",
+  "T": "Tue",
+  "W": "Wed",
+  "R": "Thu"
+ },
+ "rooms": {
+  "A.Shaheen016": [
+   [
+    "ENGC2400",
+    "11",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "11",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "17",
+    "Silvia Henry Anton Nassar",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN436",
+    "1",
+    "Mohammed S. K. Zaid",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "TRAN433",
+    "3",
+    "Mohammed S. K. Zaid",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "8",
+    "Silvia Henry Anton Nassar",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "TRAN436",
+    "1",
+    "Mohammed S. K. Zaid",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "TRAN433",
+    "3",
+    "Mohammed S. K. Zaid",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "8",
+    "Silvia Henry Anton Nassar",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "8",
+    "Silvia Henry Anton Nassar",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN436",
+    "1",
+    "Mohammed S. K. Zaid",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "TRAN433",
+    "3",
+    "Mohammed S. K. Zaid",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "8",
+    "Silvia Henry Anton Nassar",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "TRAN436",
+    "1",
+    "Mohammed S. K. Zaid",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "A.Shaheen062": [
+   [
+    "ENGC2400",
+    "1",
+    "Ahmad Shukri Ahmad Shayeb",
+    "M",
+    "08:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "2",
+    "Ahmad Shukri Ahmad Shayeb",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "3",
+    "Ahmad Shukri Ahmad Shayeb",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "2",
+    "Ahmad Shukri Ahmad Shayeb",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "1",
+    "Ahmad Shukri Ahmad Shayeb",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "2",
+    "Ahmad Shukri Ahmad Shayeb",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "3",
+    "Ahmad Shukri Ahmad Shayeb",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "3",
+    "Ahmad Shukri Ahmad Shayeb",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "1",
+    "Ahmad Shukri Ahmad Shayeb",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "2",
+    "Ahmad Shukri Ahmad Shayeb",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "3",
+    "Ahmad Shukri Ahmad Shayeb",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "1",
+    "Ahmad Shukri Ahmad Shayeb",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "2",
+    "Ahmad Shukri Ahmad Shayeb",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "3",
+    "Ahmad Shukri Ahmad Shayeb",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "A.Shaheen064": [
+   [
+    "ENGC1400",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "M",
+    "08:00",
+    "09:50"
+   ],
+   [
+    "ENGC233",
+    "1",
+    "Tina Yaser Kostandi Rafidi",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "4",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "M",
+    "12:00",
+    "13:50"
+   ],
+   [
+    "ENGC1400",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC233",
+    "1",
+    "Tina Yaser Kostandi Rafidi",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "4",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC1400",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC233",
+    "1",
+    "Tina Yaser Kostandi Rafidi",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "4",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC1400",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "16",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC233",
+    "1",
+    "Tina Yaser Kostandi Rafidi",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "4",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "A.Shaheen102": [
+   [
+    "CULS331",
+    "6",
+    "Omar M. H. Qassis",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "NURS222",
+    "5",
+    "Imad Tawfiq Mohammad Asmar",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS331",
+    "6",
+    "Omar M. H. Qassis",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "NURS222",
+    "5",
+    "Imad Tawfiq Mohammad Asmar",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS331",
+    "6",
+    "Omar M. H. Qassis",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "NURS222",
+    "5",
+    "Imad Tawfiq Mohammad Asmar",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS331",
+    "6",
+    "Omar M. H. Qassis",
+    "R",
+    "09:00",
+    "09:50"
+   ]
+  ],
+  "A.Shaheen112": [
+   [
+    "TRAN3340",
+    "1",
+    "Mohammed S. K. Zaid",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "TRAN3370",
+    "1",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS331",
+    "3",
+    "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "5",
+    "Rana Adeeb Abdullah Kherawish",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "SOCI439",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "TRAN431",
+    "1",
+    "Nadim M. Y. Ihshaish",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "TRAN3340",
+    "1",
+    "Mohammed S. K. Zaid",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "TRAN3370",
+    "1",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS331",
+    "3",
+    "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "5",
+    "Rana Adeeb Abdullah Kherawish",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "SOCI439",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "TRAN431",
+    "1",
+    "Nadim M. Y. Ihshaish",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "TRAN3340",
+    "1",
+    "Mohammed S. K. Zaid",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "TRAN3370",
+    "1",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS331",
+    "3",
+    "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "5",
+    "Rana Adeeb Abdullah Kherawish",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "SOCI439",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "TRAN431",
+    "1",
+    "Nadim M. Y. Ihshaish",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "TRAN3340",
+    "1",
+    "Mohammed S. K. Zaid",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "TRAN3370",
+    "1",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS331",
+    "3",
+    "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "5",
+    "Rana Adeeb Abdullah Kherawish",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "SOCI439",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "TRAN431",
+    "1",
+    "Nadim M. Y. Ihshaish",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "A.Shaheen116": [
+   [
+    "TRAN3410",
+    "1",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "8",
+    "Silvia Henry Anton Nassar",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB135",
+    "2",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB331",
+    "4",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "17",
+    "Silvia Henry Anton Nassar",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ARAB135",
+    "2",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB331",
+    "4",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "17",
+    "Silvia Henry Anton Nassar",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ARAB135",
+    "2",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB331",
+    "4",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "17",
+    "Silvia Henry Anton Nassar",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ARAB135",
+    "2",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB331",
+    "4",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "A.Shaheen150": [
+   [
+    "ENEE2312",
+    "2",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN2300",
+    "2",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB136",
+    "5",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENEE2312",
+    "2",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN2300",
+    "2",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB136",
+    "5",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENEE2312",
+    "2",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN2300",
+    "2",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB136",
+    "5",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENEE2312",
+    "2",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN2300",
+    "2",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB136",
+    "5",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "A.Shaheen152": [
+   [
+    "SOCI131",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "7",
+    "Manar Mohammad Afif Kawasmi",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "CULS332",
+    "7",
+    "Manar Mohammad Afif Kawasmi",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "SOCI131",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "7",
+    "Manar Mohammad Afif Kawasmi",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "CULS332",
+    "7",
+    "Manar Mohammad Afif Kawasmi",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "SOCI131",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "7",
+    "Manar Mohammad Afif Kawasmi",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "CULS332",
+    "7",
+    "Manar Mohammad Afif Kawasmi",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "SOCI131",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "7",
+    "Manar Mohammad Afif Kawasmi",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "CULS332",
+    "7",
+    "Manar Mohammad Afif Kawasmi",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "A.Shaheen162": [
+   [
+    "HIST133",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS331",
+    "8",
+    "Omar M. H. Qassis",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "HIST135",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "HIST133",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS331",
+    "8",
+    "Omar M. H. Qassis",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "HIST135",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "HIST133",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS331",
+    "8",
+    "Omar M. H. Qassis",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "HIST135",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "HIST133",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS331",
+    "8",
+    "Omar M. H. Qassis",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "HIST135",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "A.Shaheen202": [
+   [
+    "ARAB2320",
+    "1",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ARAB136",
+    "2",
+    "Thabit Muhammad Khalil Hamed",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "TRAN432",
+    "1",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB136",
+    "2",
+    "Thabit Muhammad Khalil Hamed",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "TRAN432",
+    "1",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB136",
+    "2",
+    "Thabit Muhammad Khalil Hamed",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "TRAN432",
+    "1",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB136",
+    "2",
+    "Thabit Muhammad Khalil Hamed",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "TRAN432",
+    "1",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "A.Shaheen206": [
+   [
+    "HIST231",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "SOCI233",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL3321",
+    "1",
+    "Habib I. M. Abu Hashhash",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "4",
+    "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB332",
+    "2",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "6",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "M",
+    "13:00",
+    "14:50"
+   ],
+   [
+    "HIST231",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "SOCI233",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL3321",
+    "1",
+    "Habib I. M. Abu Hashhash",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "4",
+    "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB332",
+    "2",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "6",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "HIST231",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "SOCI233",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL3321",
+    "1",
+    "Habib I. M. Abu Hashhash",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "4",
+    "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB332",
+    "2",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "6",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "HIST231",
+    "1",
+    "Amer Najeeb Mousa Barakat",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "SOCI233",
+    "1",
+    "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL3321",
+    "1",
+    "Habib I. M. Abu Hashhash",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS331",
+    "4",
+    "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB332",
+    "2",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "6",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "A.Shaheen212": [
+   [
+    "ENGC2400",
+    "14",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "5",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN433",
+    "2",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "14",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "5",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "T",
+    "10:00",
+    "11:50"
+   ],
+   [
+    "TRAN433",
+    "2",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "14",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "W",
+    "08:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "5",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN433",
+    "2",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGC2400",
+    "14",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "5",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN433",
+    "2",
+    "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "A.Shaheen216": [
+   [
+    "ENGC2400",
+    "17",
+    "Silvia Henry Anton Nassar",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "2",
+    "Huda Ribhi Hassan Awad",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "GEOG210",
+    "1",
+    "Mohammad Tayseer Ahmad Kittaneh",
+    "M",
+    "11:30",
+    "12:30"
+   ],
+   [
+    "ENGL435",
+    "1",
+    "Lloyd Howard James Precious",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "TRAN3410",
+    "1",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "2",
+    "Huda Ribhi Hassan Awad",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "15",
+    "Tina Yaser Kostandi Rafidi",
+    "T",
+    "12:00",
+    "13:50"
+   ],
+   [
+    "ENGL435",
+    "1",
+    "Lloyd Howard James Precious",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "TRAN3410",
+    "1",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "2",
+    "Huda Ribhi Hassan Awad",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "15",
+    "Tina Yaser Kostandi Rafidi",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "TRAN3410",
+    "1",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENGL435",
+    "1",
+    "Lloyd Howard James Precious",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "TRAN3410",
+    "1",
+    "Majdi Jehad Ahmad Abu_Zahra",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "2",
+    "Huda Ribhi Hassan Awad",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "15",
+    "Tina Yaser Kostandi Rafidi",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGL435",
+    "1",
+    "Lloyd Howard James Precious",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "A.Shaheen252": [
+   [
+    "ENGC2400",
+    "16",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "TRAN433",
+    "3",
+    "Mohammed S. K. Zaid",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "8",
+    "Sa'D Fathi Said Nimer",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGL236",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS332",
+    "3",
+    "Huda Ribhi Hassan Awad",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGL235",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENGC2400",
+    "16",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "11",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "8",
+    "Sa'D Fathi Said Nimer",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGL236",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS332",
+    "3",
+    "Huda Ribhi Hassan Awad",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGL235",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENGC2400",
+    "16",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "11",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "8",
+    "Sa'D Fathi Said Nimer",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGL236",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS332",
+    "3",
+    "Huda Ribhi Hassan Awad",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGL235",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENGC2400",
+    "16",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "11",
+    "Ruba Abdul_Latif Mustafa Khalaf",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "8",
+    "Sa'D Fathi Said Nimer",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGL236",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS332",
+    "3",
+    "Huda Ribhi Hassan Awad",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGL235",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "A.Shaheen256": [
+   [
+    "ENGL237",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CULS332",
+    "4",
+    "Bashir Rizeqallah Abd Alraziq Doha",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "TRAN435",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB331",
+    "2",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS332",
+    "5",
+    "Rana Adeeb Abdullah Kherawish",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGL237",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CULS332",
+    "4",
+    "Bashir Rizeqallah Abd Alraziq Doha",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "TRAN435",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB331",
+    "2",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS332",
+    "5",
+    "Rana Adeeb Abdullah Kherawish",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGL237",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CULS332",
+    "4",
+    "Bashir Rizeqallah Abd Alraziq Doha",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "TRAN435",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB331",
+    "2",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS332",
+    "5",
+    "Rana Adeeb Abdullah Kherawish",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENGL237",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CULS332",
+    "4",
+    "Bashir Rizeqallah Abd Alraziq Doha",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "TRAN435",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB331",
+    "2",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS332",
+    "5",
+    "Rana Adeeb Abdullah Kherawish",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "A.Shaheen262": [
+   [
+    "ARAB331",
+    "1",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "12",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "TRAN3390",
+    "1",
+    "Mohammed S. K. Zaid",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS332",
+    "9",
+    "Sa'D Fathi Said Nimer",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN3360",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB331",
+    "1",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ARAB2320",
+    "1",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "TRAN3390",
+    "1",
+    "Mohammed S. K. Zaid",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS332",
+    "9",
+    "Sa'D Fathi Said Nimer",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN3360",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB331",
+    "1",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ARAB2320",
+    "1",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "TRAN3390",
+    "1",
+    "Mohammed S. K. Zaid",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS332",
+    "9",
+    "Sa'D Fathi Said Nimer",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN3360",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB331",
+    "1",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ARAB2320",
+    "1",
+    "Nasralla Mohammad Ahmad Alshaier",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "TRAN3390",
+    "1",
+    "Mohammed S. K. Zaid",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CULS332",
+    "9",
+    "Sa'D Fathi Said Nimer",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "TRAN3360",
+    "1",
+    "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "A.Shaheen266": [
+   [
+    "ARAB331",
+    "3",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "12",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB2390",
+    "1",
+    "Thabit Muhammad Khalil Hamed",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB136",
+    "3",
+    "Thabit Muhammad Khalil Hamed",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB331",
+    "3",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "12",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB2390",
+    "1",
+    "Thabit Muhammad Khalil Hamed",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB136",
+    "3",
+    "Thabit Muhammad Khalil Hamed",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB331",
+    "3",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "12",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB2390",
+    "1",
+    "Thabit Muhammad Khalil Hamed",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB136",
+    "3",
+    "Thabit Muhammad Khalil Hamed",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ARAB331",
+    "3",
+    "Mashhour Mousa Mashhour Mshahreh",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "12",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB2390",
+    "1",
+    "Thabit Muhammad Khalil Hamed",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ARAB136",
+    "3",
+    "Thabit Muhammad Khalil Hamed",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "ALSADIK102": [
+   [
+    "PUBA232",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "POLS339",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PUBA334",
+    "2",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PUBA338",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI238",
+    "1",
+    "Tammam Kamal Mousa Shair",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI234",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PUBA3351",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "M",
+    "15:00",
+    "15:50"
+   ],
+   [
+    "PUBA232",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "POLS339",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PUBA334",
+    "2",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PUBA338",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI238",
+    "1",
+    "Tammam Kamal Mousa Shair",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI234",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PUBA3351",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "T",
+    "15:00",
+    "15:50"
+   ],
+   [
+    "PUBA232",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "POLS339",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PUBA334",
+    "2",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PUBA338",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI238",
+    "1",
+    "Tammam Kamal Mousa Shair",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI234",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PUBA3351",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "W",
+    "15:00",
+    "15:50"
+   ],
+   [
+    "PUBA232",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "POLS339",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PUBA334",
+    "2",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PUBA338",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI238",
+    "1",
+    "Tammam Kamal Mousa Shair",
+    "R",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI234",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "R",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PUBA3351",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "R",
+    "15:00",
+    "15:50"
+   ]
+  ],
+  "ALSADIK103": [
+   [
+    "PUBA331",
+    "1",
+    "Farid Mohammad Farid Irshaid",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "PUBA332",
+    "1",
+    "Farid Mohammad Farid Irshaid",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI131",
+    "1",
+    "Mahmoud M. I. Dodeen",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI232",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "PUBA331",
+    "1",
+    "Farid Mohammad Farid Irshaid",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "PUBA332",
+    "1",
+    "Farid Mohammad Farid Irshaid",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI131",
+    "1",
+    "Mahmoud M. I. Dodeen",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI232",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI3250",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "PUBA331",
+    "1",
+    "Farid Mohammad Farid Irshaid",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "PUBA332",
+    "1",
+    "Farid Mohammad Farid Irshaid",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI131",
+    "1",
+    "Mahmoud M. I. Dodeen",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI232",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI3250",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI230",
+    "3",
+    "Reenad Ahmed Ismail Battash",
+    "W",
+    "14:00",
+    "15:00"
+   ],
+   [
+    "PUBA331",
+    "1",
+    "Farid Mohammad Farid Irshaid",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "PUBA332",
+    "1",
+    "Farid Mohammad Farid Irshaid",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI131",
+    "1",
+    "Mahmoud M. I. Dodeen",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI232",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI3250",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "ALSADIK202": [
+   [
+    "JURI4351",
+    "1",
+    "Jamal Abduljalil Yousif Abu Salem",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "PUBA334",
+    "1",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI331",
+    "1",
+    "Mahmoud M. I. Dodeen",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI134",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI130",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI3311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "JURI4351",
+    "1",
+    "Jamal Abduljalil Yousif Abu Salem",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "PUBA334",
+    "1",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI4212",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI134",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI421",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI420",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI3311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "JURI4351",
+    "1",
+    "Jamal Abduljalil Yousif Abu Salem",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "PUBA334",
+    "1",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI4212",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI134",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI421",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI420",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI3311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "JURI4351",
+    "1",
+    "Jamal Abduljalil Yousif Abu Salem",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "PUBA334",
+    "1",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI4212",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI134",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI421",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI420",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "R",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI3311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "ALSADIK203": [
+   [
+    "JURI2311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI4330",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI4243",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI2311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI4330",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI4243",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI2311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI4330",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "JURI4243",
+    "1",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI2311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI4330",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "ALSADIK204": [
+   [
+    "LECO830",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "M",
+    "09:00",
+    "11:50"
+   ],
+   [
+    "LECO831",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "M",
+    "09:00",
+    "11:50"
+   ],
+   [
+    "PRLW7326",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "LECO830",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "T",
+    "09:00",
+    "10:50"
+   ],
+   [
+    "LECO831",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "T",
+    "09:00",
+    "10:50"
+   ],
+   [
+    "JURI4112",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "T",
+    "13:55",
+    "14:55"
+   ],
+   [
+    "PRLW7326",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "W",
+    "14:00",
+    "15:50"
+   ]
+  ],
+  "ALSADIK302": [
+   [
+    "PUBA3391",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "JURI420",
+    "2",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI4211",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "POLS236",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "T",
+    "12:40",
+    "13:40"
+   ],
+   [
+    "PUBA3391",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "JURI420",
+    "2",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI4211",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI130",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "PUBA3391",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "JURI230",
+    "1",
+    "Reenad Ahmed Ismail Battash",
+    "R",
+    "08:00",
+    "09:00"
+   ],
+   [
+    "JURI420",
+    "2",
+    "Fayez Mohummad Ahmad Ibkairat",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI4211",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI130",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "PUBA3391",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "ALSADIK304": [
+   [
+    "PRLW8311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "M",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "PRLW6360",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "PRLW8311",
+    "1",
+    "Hussein Ahed Hussein Ayaseh",
+    "R",
+    "08:00",
+    "09:50"
+   ],
+   [
+    "PRLW6360",
+    "1",
+    "Diab Mohammad Diab Alshikh",
+    "R",
+    "14:00",
+    "15:50"
+   ]
+  ],
+  "ALSADIK305": [
+   [
+    "JURI230",
+    "2",
+    "Reenad Ahmed Ismail Battash",
+    "M",
+    "08:55",
+    "09:55"
+   ],
+   [
+    "POLS333",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "POLS333",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "POLS333",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "POLS333",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "ALSADIK307": [
+   [
+    "MPAS7300",
+    "1",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "MPAS7300",
+    "1",
+    "Jehad Yousif Abd-Alrahman Alayasa",
+    "W",
+    "14:00",
+    "15:50"
+   ]
+  ],
+  "ALSADIK406": [
+   [
+    "PUBA437",
+    "1",
+    "Ismail Salama Ismail Iriqat",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI332",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI3280",
+    "1",
+    "Jamal Abduljalil Yousif Abu Salem",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "PUBA437",
+    "1",
+    "Ismail Salama Ismail Iriqat",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI332",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI3280",
+    "1",
+    "Jamal Abduljalil Yousif Abu Salem",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "PUBA437",
+    "1",
+    "Ismail Salama Ismail Iriqat",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI332",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "JURI3280",
+    "1",
+    "Jamal Abduljalil Yousif Abu Salem",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "PUBA437",
+    "1",
+    "Ismail Salama Ismail Iriqat",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI332",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "POLS236",
+    "2",
+    "Hani Mahmoud Abed Mousa",
+    "R",
+    "12:40",
+    "13:40"
+   ],
+   [
+    "JURI4111",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "R",
+    "15:00",
+    "16:00"
+   ]
+  ],
+  "ALSADIK407": [
+   [
+    "JURI7392",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "JURI7392",
+    "1",
+    "Ahmad Ali Hussain Khaled",
+    "W",
+    "14:00",
+    "15:50"
+   ]
+  ],
+  "ALSADIK408": [
+   [
+    "POLS231",
+    "1",
+    "Imad Hassan Musa Ghayathah",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "POLS231",
+    "1",
+    "Imad Hassan Musa Ghayathah",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI331",
+    "1",
+    "Mahmoud M. I. Dodeen",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "JURI130",
+    "1",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "POLS231",
+    "1",
+    "Imad Hassan Musa Ghayathah",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI331",
+    "1",
+    "Mahmoud M. I. Dodeen",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "POLS231",
+    "1",
+    "Imad Hassan Musa Ghayathah",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI331",
+    "1",
+    "Mahmoud M. I. Dodeen",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "ALSADIK409": [
+   [
+    "PUBA135",
+    "1",
+    "Ismail Salama Ismail Iriqat",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PUBA135",
+    "1",
+    "Ismail Salama Ismail Iriqat",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PUBA135",
+    "1",
+    "Ismail Salama Ismail Iriqat",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PUBA135",
+    "1",
+    "Ismail Salama Ismail Iriqat",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Aggad131": [
+   [
+    "ENCE2160",
+    "1",
+    "Saheem Kamel Abdullah Murshid",
+    "W",
+    "08:00",
+    "10:50"
+   ]
+  ],
+  "Aggad136/2": [
+   [
+    "ENCE3170",
+    "1",
+    "Mustafa Shaban Mas'Oud Abed Musa",
+    "M",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "ENCE3170",
+    "3",
+    "Mustafa Shaban Mas'Oud Abed Musa",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCE3170",
+    "2",
+    "Khaled Adeeb Zaki Abaza",
+    "T",
+    "08:00",
+    "10:50"
+   ]
+  ],
+  "Aggad141": [
+   [
+    "ENME312",
+    "1",
+    "Adel Abd Elkader Atef Dweik",
+    "M",
+    "08:00",
+    "10:50"
+   ]
+  ],
+  "Aggad221": [
+   [
+    "JURI339",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "JURI431",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI439",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE3270",
+    "2",
+    "Mustafa Shaban Mas'Oud Abed Musa",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENME1210",
+    "1",
+    "Allan S. E. Tubaileh",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "JURI339",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "JURI431",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI439",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE3270",
+    "2",
+    "Mustafa Shaban Mas'Oud Abed Musa",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI339",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "JURI431",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI439",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE3270",
+    "2",
+    "Mustafa Shaban Mas'Oud Abed Musa",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI339",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "JURI431",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "JURI439",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Aggad225": [
+   [
+    "JURI230",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "JURI132",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FINN2300",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS5325",
+    "1",
+    "Alhareth M. T. Zyoud",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS3330",
+    "2",
+    "Alhareth M. T. Zyoud",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS3330",
+    "1",
+    "Alhareth M. T. Zyoud",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI230",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "JURI132",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FINN2300",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS5325",
+    "1",
+    "Alhareth M. T. Zyoud",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS3330",
+    "2",
+    "Alhareth M. T. Zyoud",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS3330",
+    "1",
+    "Alhareth M. T. Zyoud",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI230",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "JURI132",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FINN2300",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS5325",
+    "1",
+    "Alhareth M. T. Zyoud",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS3330",
+    "2",
+    "Alhareth M. T. Zyoud",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS3330",
+    "1",
+    "Alhareth M. T. Zyoud",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "JURI132",
+    "1",
+    "Rinad Kamal Al-Deen Hasan Abdallah",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FINN2300",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS5325",
+    "1",
+    "Alhareth M. T. Zyoud",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS3330",
+    "2",
+    "Alhareth M. T. Zyoud",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS3330",
+    "1",
+    "Alhareth M. T. Zyoud",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Aggad303": [
+   [
+    "ENCS5325",
+    "2",
+    "Alhareth M. T. Zyoud",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENMC3251",
+    "1",
+    "Mamon Mohammad Abedalqader Horoub",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS5325",
+    "2",
+    "Alhareth M. T. Zyoud",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENMC3251",
+    "1",
+    "Mamon Mohammad Abedalqader Horoub",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS5325",
+    "2",
+    "Alhareth M. T. Zyoud",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENMC3251",
+    "1",
+    "Mamon Mohammad Abedalqader Horoub",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS5325",
+    "2",
+    "Alhareth M. T. Zyoud",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Aggad307": [
+   [
+    "COMP2421",
+    "1",
+    "Ahmed A. A. Abusnaina",
+    "M",
+    "09:00",
+    "10:50"
+   ]
+  ],
+  "Aggad311": [
+   [
+    "COMP122",
+    "1",
+    "Mohammed H. S. Helal",
+    "T",
+    "09:05",
+    "09:55"
+   ]
+  ],
+  "Aggad332": [
+   [
+    "COMP2311",
+    "1",
+    "Ahmed J. A. Fahal",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE2230",
+    "1",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCE2330",
+    "1",
+    "Saheem Kamel Abdullah Murshid",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP2311",
+    "1",
+    "Ahmed J. A. Fahal",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE2230",
+    "1",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCE2330",
+    "1",
+    "Saheem Kamel Abdullah Murshid",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP2311",
+    "1",
+    "Ahmed J. A. Fahal",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE2230",
+    "1",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCE2330",
+    "1",
+    "Saheem Kamel Abdullah Murshid",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCE2330",
+    "1",
+    "Saheem Kamel Abdullah Murshid",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Aggad336": [
+   [
+    "ENCE2320",
+    "1",
+    "Khaled Adeeb Zaki Abaza",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCE3270",
+    "1",
+    "Mustafa Shaban Mas'Oud Abed Musa",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCE2320",
+    "3",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENCE2320",
+    "1",
+    "Khaled Adeeb Zaki Abaza",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCE3270",
+    "1",
+    "Mustafa Shaban Mas'Oud Abed Musa",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCE2320",
+    "3",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENCE2320",
+    "1",
+    "Khaled Adeeb Zaki Abaza",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCE3270",
+    "1",
+    "Mustafa Shaban Mas'Oud Abed Musa",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCE2320",
+    "3",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENCE2320",
+    "1",
+    "Khaled Adeeb Zaki Abaza",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCE2320",
+    "3",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Aggad338": [
+   [
+    "ENME232",
+    "2",
+    "Nidal Mohammad Abdel Qader Farhat",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENME232",
+    "1",
+    "Nidal Mohammad Abdel Qader Farhat",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENME331",
+    "1",
+    "Ibrahim Mohammad Othman Hammad",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENME232",
+    "2",
+    "Nidal Mohammad Abdel Qader Farhat",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENME232",
+    "1",
+    "Nidal Mohammad Abdel Qader Farhat",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENME331",
+    "1",
+    "Ibrahim Mohammad Othman Hammad",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENME232",
+    "2",
+    "Nidal Mohammad Abdel Qader Farhat",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENME232",
+    "1",
+    "Nidal Mohammad Abdel Qader Farhat",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENME331",
+    "1",
+    "Ibrahim Mohammad Othman Hammad",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENME232",
+    "2",
+    "Nidal Mohammad Abdel Qader Farhat",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENME232",
+    "1",
+    "Nidal Mohammad Abdel Qader Farhat",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENME331",
+    "1",
+    "Ibrahim Mohammad Othman Hammad",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Aggad341": [
+   [
+    "ENEE4113",
+    "1",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENEE4113",
+    "5",
+    "Qadri A. A. Mayyala",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENEE4113",
+    "2",
+    "Qadri A. A. Mayyala",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENEE4113",
+    "6",
+    "Rawan M. S. Soboh",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENEE4113",
+    "4",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENEE4113",
+    "8",
+    "Wasel Tahsin Ahmad Ghanem",
+    "W",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENEE4113",
+    "3",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "R",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENEE4113",
+    "7",
+    "Wasel Tahsin Ahmad Ghanem",
+    "R",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Aggad342": [
+   [
+    "ENME1210",
+    "1",
+    "Allan S. E. Tubaileh",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENME1210",
+    "2",
+    "Ahmad Ismael Abd Al-Hafith Balasie",
+    "W",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Aggad344": [
+   [
+    "ENME2111",
+    "1",
+    "Mamon Mohammad Abedalqader Horoub",
+    "T",
+    "08:00",
+    "10:50"
+   ]
+  ],
+  "Aggad345": [
+   [
+    "ENEE4102",
+    "1",
+    "Muhammad Sharif Mustafa Abu-Khaizaran",
+    "R",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "Aggad411": [
+   [
+    "ENGC2400",
+    "9",
+    "Tamara Mohammad Salah Barakat",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "9",
+    "Tamara Mohammad Salah Barakat",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "9",
+    "Tamara Mohammad Salah Barakat",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENGC2400",
+    "9",
+    "Tamara Mohammad Salah Barakat",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "9",
+    "Tamara Mohammad Salah Barakat",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Aggad415": [
+   [
+    "ENCE2320",
+    "4",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE2320",
+    "2",
+    "Khaled Adeeb Zaki Abaza",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCE3362",
+    "1",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENCE2320",
+    "4",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE2320",
+    "2",
+    "Khaled Adeeb Zaki Abaza",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCE3362",
+    "1",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENCE2320",
+    "4",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE2320",
+    "2",
+    "Khaled Adeeb Zaki Abaza",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCE3362",
+    "1",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENCE2320",
+    "4",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCE2320",
+    "2",
+    "Khaled Adeeb Zaki Abaza",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCE3362",
+    "1",
+    "Nizar Abdul-Hamid Yousef Assi",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "Aggad421": [
+   [
+    "CHEM143",
+    "1",
+    "Hijazi Issa Hussein Abu Ali",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CHEM143",
+    "1",
+    "Hijazi Issa Hussein Abu Ali",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CHEM143",
+    "1",
+    "Hijazi Issa Hussein Abu Ali",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Al-Juraysi001": [
+   [
+    "BUSA230",
+    "2",
+    "Maisa Yacoub Naoum Burbar",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA230",
+    "1",
+    "Maisa Yacoub Naoum Burbar",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MKET130",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ACCT130",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ACCT230",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA230",
+    "2",
+    "Maisa Yacoub Naoum Burbar",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA230",
+    "1",
+    "Maisa Yacoub Naoum Burbar",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MKET130",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ACCT130",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ACCT230",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA230",
+    "2",
+    "Maisa Yacoub Naoum Burbar",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA230",
+    "1",
+    "Maisa Yacoub Naoum Burbar",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MKET130",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ACCT130",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ACCT230",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA230",
+    "2",
+    "Maisa Yacoub Naoum Burbar",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA230",
+    "1",
+    "Maisa Yacoub Naoum Burbar",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MKET130",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ACCT130",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ACCT230",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Al-Juraysi002": [
+   [
+    "FINN2331",
+    "1",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN2331",
+    "2",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MKET231",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MKET330",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "FINN2331",
+    "1",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN2331",
+    "2",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MKET231",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MKET330",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "FINN2331",
+    "1",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN2331",
+    "2",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MKET231",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MKET330",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "FINN2331",
+    "1",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN2331",
+    "2",
+    "Seri Mohammad Jamil Khalil Ghanem",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MKET231",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "R",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MKET330",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "Al-Juraysi025": [
+   [
+    "FINN233",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA236",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "FINN233",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA236",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "FINN233",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA236",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "FINN233",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA236",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Al-Juraysi027": [
+   [
+    "BUSA336",
+    "1",
+    "Mohand M. B. Tuffaha",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA336",
+    "1",
+    "Mohand M. B. Tuffaha",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA336",
+    "1",
+    "Mohand M. B. Tuffaha",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA336",
+    "1",
+    "Mohand M. B. Tuffaha",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Al-Juraysi122": [
+   [
+    "ECON235",
+    "1",
+    "Sameera M. I. Awawda",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON235",
+    "2",
+    "Sameera M. I. Awawda",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ECON235",
+    "1",
+    "Sameera M. I. Awawda",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON235",
+    "2",
+    "Sameera M. I. Awawda",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ECON235",
+    "1",
+    "Sameera M. I. Awawda",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON235",
+    "2",
+    "Sameera M. I. Awawda",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ECON235",
+    "1",
+    "Sameera M. I. Awawda",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON235",
+    "2",
+    "Sameera M. I. Awawda",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Al-Juraysi123": [
+   [
+    "BUSA238",
+    "2",
+    "Mohand M. B. Tuffaha",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON235",
+    "4",
+    "Najibeh Mohammad Saleh Morar",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA238",
+    "1",
+    "Mohand M. B. Tuffaha",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "BUSA238",
+    "2",
+    "Mohand M. B. Tuffaha",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON235",
+    "4",
+    "Najibeh Mohammad Saleh Morar",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA238",
+    "1",
+    "Mohand M. B. Tuffaha",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "BUSA238",
+    "2",
+    "Mohand M. B. Tuffaha",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON235",
+    "4",
+    "Najibeh Mohammad Saleh Morar",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA238",
+    "1",
+    "Mohand M. B. Tuffaha",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "BUSA238",
+    "2",
+    "Mohand M. B. Tuffaha",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON235",
+    "4",
+    "Najibeh Mohammad Saleh Morar",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA238",
+    "1",
+    "Mohand M. B. Tuffaha",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Al-Juraysi125": [
+   [
+    "FINN3302",
+    "1",
+    "Muniece Abdelrahman Ameen Alfar",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN3302",
+    "2",
+    "Muniece Abdelrahman Ameen Alfar",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN3302",
+    "1",
+    "Muniece Abdelrahman Ameen Alfar",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN3302",
+    "2",
+    "Muniece Abdelrahman Ameen Alfar",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN3302",
+    "1",
+    "Muniece Abdelrahman Ameen Alfar",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN3302",
+    "2",
+    "Muniece Abdelrahman Ameen Alfar",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN3302",
+    "1",
+    "Muniece Abdelrahman Ameen Alfar",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN3302",
+    "2",
+    "Muniece Abdelrahman Ameen Alfar",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Al-Juraysi129": [
+   [
+    "BUSA333",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA432",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA333",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA432",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA333",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA432",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA333",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA432",
+    "1",
+    "Mira Taysir Ibrahim El-Far",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Al-Juraysi221": [
+   [
+    "FINN3300",
+    "1",
+    "Fairouz Sa'Eed Mouhamed Darwish",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FINN333",
+    "1",
+    "Diyama Khaled Khamees Abu Laban",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MKET439",
+    "1",
+    "Maisa Yacoub Naoum Burbar",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN3300",
+    "1",
+    "Fairouz Sa'Eed Mouhamed Darwish",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FINN333",
+    "1",
+    "Diyama Khaled Khamees Abu Laban",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MKET439",
+    "1",
+    "Maisa Yacoub Naoum Burbar",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN3300",
+    "1",
+    "Fairouz Sa'Eed Mouhamed Darwish",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FINN333",
+    "1",
+    "Diyama Khaled Khamees Abu Laban",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MKET439",
+    "1",
+    "Maisa Yacoub Naoum Burbar",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN3300",
+    "1",
+    "Fairouz Sa'Eed Mouhamed Darwish",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FINN333",
+    "1",
+    "Diyama Khaled Khamees Abu Laban",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MKET439",
+    "1",
+    "Maisa Yacoub Naoum Burbar",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Al-Juraysi223": [
+   [
+    "BUSA436",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA436",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA436",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA436",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Al-Juraysi227": [
+   [
+    "FINN437",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN437",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN437",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "FINN437",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Al-Juraysi322": [
+   [
+    "BUSA438",
+    "1",
+    "Samir Daoud Khalil Baidoun",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "BUSA438",
+    "1",
+    "Samir Daoud Khalil Baidoun",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "BUSA438",
+    "1",
+    "Samir Daoud Khalil Baidoun",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "BUSA438",
+    "1",
+    "Samir Daoud Khalil Baidoun",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "Al-Juraysi323": [
+   [
+    "UNIV1130",
+    "2",
+    "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "2",
+    "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "2",
+    "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "2",
+    "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+    "R",
+    "10:30",
+    "11:50"
+   ]
+  ],
+  "Al-Juraysi325": [
+   [
+    "BUSA3373",
+    "1",
+    "Rashid Nidal Rashid Sabri",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "BUSA3373",
+    "1",
+    "Rashid Nidal Rashid Sabri",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "BUSA3373",
+    "1",
+    "Rashid Nidal Rashid Sabri",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "BUSA3373",
+    "1",
+    "Rashid Nidal Rashid Sabri",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "Aweidah215": [
+   [
+    "MUSI231",
+    "1",
+    "Mohammed I. M. Sulaiman",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MUSI231",
+    "2",
+    "Mohammed I. M. Sulaiman",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "MUSI231",
+    "3",
+    "Mohammed I. M. Sulaiman",
+    "M",
+    "15:00",
+    "15:50"
+   ],
+   [
+    "MUSI231",
+    "1",
+    "Mohammed I. M. Sulaiman",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MUSI231",
+    "2",
+    "Mohammed I. M. Sulaiman",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "MUSI231",
+    "3",
+    "Mohammed I. M. Sulaiman",
+    "T",
+    "15:00",
+    "15:50"
+   ],
+   [
+    "MUSI231",
+    "1",
+    "Mohammed I. M. Sulaiman",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MUSI231",
+    "2",
+    "Mohammed I. M. Sulaiman",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "MUSI231",
+    "3",
+    "Mohammed I. M. Sulaiman",
+    "W",
+    "15:00",
+    "15:50"
+   ],
+   [
+    "MUSI231",
+    "1",
+    "Mohammed I. M. Sulaiman",
+    "R",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MUSI231",
+    "2",
+    "Mohammed I. M. Sulaiman",
+    "R",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "MUSI231",
+    "3",
+    "Mohammed I. M. Sulaiman",
+    "R",
+    "15:00",
+    "15:50"
+   ]
+  ],
+  "Bahrain101": [
+   [
+    "CULS331",
+    "1",
+    "Rami Fawzi Issa Salameh",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CULS331",
+    "2",
+    "Rami Fawzi Issa Salameh",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "6",
+    "Rami Fawzi Issa Salameh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS331",
+    "1",
+    "Rami Fawzi Issa Salameh",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CULS331",
+    "2",
+    "Rami Fawzi Issa Salameh",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "6",
+    "Rami Fawzi Issa Salameh",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS331",
+    "1",
+    "Rami Fawzi Issa Salameh",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CULS331",
+    "2",
+    "Rami Fawzi Issa Salameh",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "6",
+    "Rami Fawzi Issa Salameh",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CULS331",
+    "1",
+    "Rami Fawzi Issa Salameh",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CULS331",
+    "2",
+    "Rami Fawzi Issa Salameh",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CULS332",
+    "6",
+    "Rami Fawzi Issa Salameh",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Bahrain201": [
+   [
+    "ARSK133",
+    "1",
+    "Samer Abdelrahim Mohammed Qot",
+    "M",
+    "16:00",
+    "18:50"
+   ],
+   [
+    "ARSK133",
+    "1",
+    "Samer Abdelrahim Mohammed Qot",
+    "T",
+    "16:00",
+    "18:50"
+   ],
+   [
+    "ARSK133",
+    "1",
+    "Samer Abdelrahim Mohammed Qot",
+    "W",
+    "16:00",
+    "18:50"
+   ],
+   [
+    "ARSK133",
+    "1",
+    "Samer Abdelrahim Mohammed Qot",
+    "R",
+    "16:00",
+    "18:50"
+   ]
+  ],
+  "Bahrain220": [
+   [
+    "PASP333",
+    "1",
+    "Sa'D Fathi Said Nimer",
+    "T",
+    "19:00",
+    "21:50"
+   ],
+   [
+    "PASP333",
+    "1",
+    "Sa'D Fathi Said Nimer",
+    "R",
+    "19:00",
+    "21:50"
+   ]
+  ],
+  "Bahrain221": [
+   [
+    "ARAB136",
+    "4",
+    "Ali Hasan Ali Khawaja",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ARAB435",
+    "1",
+    "Ali Hasan Ali Khawaja",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB136",
+    "4",
+    "Ali Hasan Ali Khawaja",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ARAB435",
+    "1",
+    "Ali Hasan Ali Khawaja",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB136",
+    "4",
+    "Ali Hasan Ali Khawaja",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ARAB435",
+    "1",
+    "Ali Hasan Ali Khawaja",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ARAB136",
+    "4",
+    "Ali Hasan Ali Khawaja",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ARAB435",
+    "1",
+    "Ali Hasan Ali Khawaja",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Bamieh002": [
+   [
+    "PUBA130",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "POLS236",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "M",
+    "12:00",
+    "13:20"
+   ],
+   [
+    "PUBA130",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PUBA130",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "POLS236",
+    "1",
+    "Hani Mahmoud Abed Mousa",
+    "W",
+    "12:00",
+    "13:20"
+   ],
+   [
+    "PUBA130",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Bamieh101": [
+   [
+    "UNIV1110",
+    "4",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "INED3321",
+    "1",
+    "Hasan Mahmoud Ali Abdelkareem",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1110",
+    "6",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "4",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "INED3321",
+    "1",
+    "Hasan Mahmoud Ali Abdelkareem",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1110",
+    "6",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "4",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "INED3321",
+    "1",
+    "Hasan Mahmoud Ali Abdelkareem",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1110",
+    "6",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "4",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "INED3321",
+    "1",
+    "Hasan Mahmoud Ali Abdelkareem",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1110",
+    "6",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "Bamieh102": [
+   [
+    "PHED120",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4320",
+    "2",
+    "Ahmed I. A. Shawahna",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PHED1250",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PHED425",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "PHED4230",
+    "1",
+    "Iyad Abdallh Hassan Yousef",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PHED120",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4320",
+    "2",
+    "Ahmed I. A. Shawahna",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PHED1250",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PHED1250",
+    "2",
+    "Tareq Gazi Ayesh Raja",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "PHED425",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "PHED4230",
+    "1",
+    "Iyad Abdallh Hassan Yousef",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PHED120",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4320",
+    "2",
+    "Ahmed I. A. Shawahna",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PHED1250",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "PHED1250",
+    "2",
+    "Tareq Gazi Ayesh Raja",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "PHED425",
+    "1",
+    "Khaled Ali Mahmoud Mallouh",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "PHED4230",
+    "1",
+    "Iyad Abdallh Hassan Yousef",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ENCS4320",
+    "2",
+    "Ahmed I. A. Shawahna",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PHED1250",
+    "2",
+    "Tareq Gazi Ayesh Raja",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Bamieh103": [
+   [
+    "EDUC334",
+    "1",
+    "Mousa Mohammed Mousa Khaldi",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS5341",
+    "1",
+    "Aziz Mohammed Ahmad Qaroush",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "EDUC2360",
+    "1",
+    "Mousa Mohammed Mousa Khaldi",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "3",
+    "Noor Riyad Abdulfattah Awad",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "EDUC334",
+    "1",
+    "Mousa Mohammed Mousa Khaldi",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS5341",
+    "1",
+    "Aziz Mohammed Ahmad Qaroush",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "EDUC2360",
+    "1",
+    "Mousa Mohammed Mousa Khaldi",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "3",
+    "Noor Riyad Abdulfattah Awad",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "EDUC334",
+    "1",
+    "Mousa Mohammed Mousa Khaldi",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS5341",
+    "1",
+    "Aziz Mohammed Ahmad Qaroush",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "EDUC2360",
+    "1",
+    "Mousa Mohammed Mousa Khaldi",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "3",
+    "Noor Riyad Abdulfattah Awad",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "EDUC334",
+    "1",
+    "Mousa Mohammed Mousa Khaldi",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS5341",
+    "1",
+    "Aziz Mohammed Ahmad Qaroush",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "EDUC2360",
+    "1",
+    "Mousa Mohammed Mousa Khaldi",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "3",
+    "Noor Riyad Abdulfattah Awad",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "Bamieh104": [
+   [
+    "UNIV1110",
+    "10",
+    "Mohammed Sami Abdul Karim Hussein",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "8",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "INED3339",
+    "1",
+    "Abdallah Ibrahim Atiyeh Bsharat",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "10",
+    "Mohammed Sami Abdul Karim Hussein",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "8",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "INED3339",
+    "1",
+    "Abdallah Ibrahim Atiyeh Bsharat",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "10",
+    "Mohammed Sami Abdul Karim Hussein",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "8",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "INED3339",
+    "1",
+    "Abdallah Ibrahim Atiyeh Bsharat",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "10",
+    "Mohammed Sami Abdul Karim Hussein",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "8",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "INED3339",
+    "1",
+    "Abdallah Ibrahim Atiyeh Bsharat",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Bamieh105": [
+   [
+    "UNIV1110",
+    "7",
+    "Faten Tawfiq Masoud Shahwan",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "5",
+    "Faten Tawfiq Masoud Shahwan",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "9",
+    "Heba Atif R. Tahboub",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "7",
+    "Faten Tawfiq Masoud Shahwan",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "5",
+    "Faten Tawfiq Masoud Shahwan",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "9",
+    "Heba Atif R. Tahboub",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "7",
+    "Faten Tawfiq Masoud Shahwan",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "5",
+    "Faten Tawfiq Masoud Shahwan",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "9",
+    "Heba Atif R. Tahboub",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "7",
+    "Faten Tawfiq Masoud Shahwan",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "5",
+    "Faten Tawfiq Masoud Shahwan",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "9",
+    "Heba Atif R. Tahboub",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "Bamieh106": [
+   [
+    "UNIV1120",
+    "7",
+    "Heba Atif R. Tahboub",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "ENCS4210",
+    "1",
+    "Abdel Salam Muhammad Khader Sayyad",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGL436",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGL233",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "UNIV1120",
+    "7",
+    "Heba Atif R. Tahboub",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "ENCS4210",
+    "1",
+    "Abdel Salam Muhammad Khader Sayyad",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGL436",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGL233",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "UNIV1120",
+    "7",
+    "Heba Atif R. Tahboub",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "ENCS4210",
+    "1",
+    "Abdel Salam Muhammad Khader Sayyad",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGL436",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGL233",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "UNIV1120",
+    "7",
+    "Heba Atif R. Tahboub",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "ENGL436",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENGL233",
+    "1",
+    "Maen Hussam Abdlatife Saa",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Bamieh201": [
+   [
+    "ENGL336",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "10",
+    "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "6",
+    "Rania Mohammad Nu'Man Qassrawi",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "ENGL336",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "10",
+    "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "6",
+    "Rania Mohammad Nu'Man Qassrawi",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "ENGL336",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "10",
+    "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "6",
+    "Rania Mohammad Nu'Man Qassrawi",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "ENGL336",
+    "1",
+    "Wael Abed Lafi Abdeen",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "10",
+    "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "6",
+    "Rania Mohammad Nu'Man Qassrawi",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "Bamieh202": [
+   [
+    "FREN131",
+    "1",
+    "Muna Mohammad Ahmad Ibayyeh",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FREN131",
+    "2",
+    "Muna Mohammad Ahmad Ibayyeh",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2400",
+    "15",
+    "Tina Yaser Kostandi Rafidi",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "FREN131",
+    "1",
+    "Muna Mohammad Ahmad Ibayyeh",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FREN131",
+    "2",
+    "Muna Mohammad Ahmad Ibayyeh",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FREN131",
+    "1",
+    "Muna Mohammad Ahmad Ibayyeh",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FREN131",
+    "2",
+    "Muna Mohammad Ahmad Ibayyeh",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FREN131",
+    "1",
+    "Muna Mohammad Ahmad Ibayyeh",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "FREN131",
+    "2",
+    "Muna Mohammad Ahmad Ibayyeh",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Bamieh203": [
+   [
+    "UNIV1110",
+    "3",
+    "Enas Shaker Husein Eideh",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "2",
+    "Tagreed Bajes Butros Abed",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "HEBR331",
+    "1",
+    "Mohammed Aqel Mohammed Halsa",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "HEBR331",
+    "2",
+    "Mohammed Aqel Mohammed Halsa",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "3",
+    "Enas Shaker Husein Eideh",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "2",
+    "Tagreed Bajes Butros Abed",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "HEBR331",
+    "1",
+    "Mohammed Aqel Mohammed Halsa",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "HEBR331",
+    "2",
+    "Mohammed Aqel Mohammed Halsa",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "3",
+    "Enas Shaker Husein Eideh",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "2",
+    "Tagreed Bajes Butros Abed",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "HEBR331",
+    "1",
+    "Mohammed Aqel Mohammed Halsa",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "HEBR331",
+    "2",
+    "Mohammed Aqel Mohammed Halsa",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "3",
+    "Enas Shaker Husein Eideh",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "2",
+    "Tagreed Bajes Butros Abed",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "HEBR331",
+    "1",
+    "Mohammed Aqel Mohammed Halsa",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "HEBR331",
+    "2",
+    "Mohammed Aqel Mohammed Halsa",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Bamieh204": [
+   [
+    "UNIV1110",
+    "1",
+    "Nibal Mohammad Khalil Al-Thwabteh",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "2",
+    "Emad Sameer Ahmad Alasfar",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1110",
+    "9",
+    "Suhair Taisir Hassan Kalifah",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "1",
+    "Nibal Mohammad Khalil Al-Thwabteh",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "2",
+    "Emad Sameer Ahmad Alasfar",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1110",
+    "9",
+    "Suhair Taisir Hassan Kalifah",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "1",
+    "Nibal Mohammad Khalil Al-Thwabteh",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "2",
+    "Emad Sameer Ahmad Alasfar",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1110",
+    "9",
+    "Suhair Taisir Hassan Kalifah",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "1",
+    "Nibal Mohammad Khalil Al-Thwabteh",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "2",
+    "Emad Sameer Ahmad Alasfar",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1110",
+    "9",
+    "Suhair Taisir Hassan Kalifah",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "Bamieh205": [
+   [
+    "UNIV1120",
+    "4",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "8",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "4",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "8",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "4",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "8",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "4",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "8",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "1",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "Bamieh206": [
+   [
+    "UNIV1120",
+    "5",
+    "Fatma K. M. Mohammed",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "ENCS2340",
+    "7",
+    "Aziz Mohammed Ahmad Qaroush",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "5",
+    "Fatma K. M. Mohammed",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "ENCS2340",
+    "7",
+    "Aziz Mohammed Ahmad Qaroush",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "5",
+    "Fatma K. M. Mohammed",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "ENCS2340",
+    "7",
+    "Aziz Mohammed Ahmad Qaroush",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "UNIV1120",
+    "5",
+    "Fatma K. M. Mohammed",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "PHED211",
+    "1",
+    "Rafi Hussien Mahmoud Asfour",
+    "R",
+    "12:40",
+    "13:40"
+   ]
+  ],
+  "Bamieh304": [
+   [
+    "PHED7210",
+    "1",
+    "Iyad Abdallh Hassan Yousef",
+    "S",
+    "09:00",
+    "11:50"
+   ],
+   [
+    "PHED6220",
+    "1",
+    "Rafi Hussien Mahmoud Asfour",
+    "S",
+    "12:00",
+    "14:50"
+   ],
+   [
+    "PHED7310",
+    "1",
+    "Mahmoud W. M. Kaied",
+    "S",
+    "15:00",
+    "16:50"
+   ]
+  ],
+  "Bamieh305": [
+   [
+    "EDUC621",
+    "1",
+    "Hasan Mahmoud Ali Abdelkareem",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "EDUC839",
+    "1",
+    "Abdallah Ibrahim Atiyeh Bsharat",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "EDUC621",
+    "1",
+    "Hasan Mahmoud Ali Abdelkareem",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "EDUC839",
+    "1",
+    "Abdallah Ibrahim Atiyeh Bsharat",
+    "W",
+    "14:00",
+    "15:50"
+   ]
+  ],
+  "IOL311": [
+   [
+    "LAIT6340",
+    "1",
+    null,
+    "S",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "LAIT6340",
+    "1",
+    null,
+    "M",
+    "14:00",
+    "15:50"
+   ]
+  ],
+  "Khoury112": [
+   [
+    "ENGC1400",
+    "2",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENGC2400",
+    "18",
+    "Nadim M. Y. Ihshaish",
+    "M",
+    "10:00",
+    "11:50"
+   ],
+   [
+    "ENGC1400",
+    "2",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "T",
+    "08:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "18",
+    "Nadim M. Y. Ihshaish",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC1400",
+    "2",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "18",
+    "Nadim M. Y. Ihshaish",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC1400",
+    "2",
+    "Mohamed Kamel Ahmad Ishnaiwer",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGC2400",
+    "18",
+    "Nadim M. Y. Ihshaish",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Maktoum336": [
+   [
+    "MDJO428",
+    "1",
+    "Emad Sameer Ahmad Alasfar",
+    "M",
+    "14:00",
+    "15:20"
+   ],
+   [
+    "MDJO428",
+    "1",
+    "Emad Sameer Ahmad Alasfar",
+    "T",
+    "14:00",
+    "15:20"
+   ]
+  ],
+  "Masri106": [
+   [
+    "ENEE2360",
+    "1",
+    "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "COMP233",
+    "2",
+    "Mohammad Y. M. Alkhanafseh",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2340",
+    "5",
+    "Rawan M. S. Soboh",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENEE2360",
+    "1",
+    "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "COMP233",
+    "2",
+    "Mohammad Y. M. Alkhanafseh",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2340",
+    "5",
+    "Rawan M. S. Soboh",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENEE2360",
+    "1",
+    "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "COMP233",
+    "2",
+    "Mohammad Y. M. Alkhanafseh",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2340",
+    "5",
+    "Rawan M. S. Soboh",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENEE2360",
+    "1",
+    "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "COMP233",
+    "2",
+    "Mohammad Y. M. Alkhanafseh",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2340",
+    "5",
+    "Rawan M. S. Soboh",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Masri107": [
+   [
+    "ENCS2110",
+    "6",
+    "Abdallatif S. A. Abuissa",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS2110",
+    "8",
+    "Wasel Tahsin Ahmad Ghanem",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS2110",
+    "2",
+    "Ismail Mohammad Mousa Khater",
+    "T",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "ENCS2110",
+    "7",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS2110",
+    "1",
+    "Ali Hasan Moath Abdo",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS2110",
+    "10",
+    "Qadri A. A. Mayyala",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS2110",
+    "9",
+    "Ali Hasan Moath Abdo",
+    "W",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS2110",
+    "5",
+    "Ismail Mohammad Mousa Khater",
+    "R",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "ENCS2110",
+    "4",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "R",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS2110",
+    "3",
+    "Jamal Othman Hosen Seyam",
+    "R",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Masri108": [
+   [
+    "ENEE2307",
+    "1",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3340",
+    "1",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE2307",
+    "2",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS3320",
+    "4",
+    "Rawan M. S. Soboh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS3390",
+    "1",
+    "Abdel Salam Muhammad Khader Sayyad",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Yousef W. S. Sabbah",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENEE2307",
+    "1",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3340",
+    "1",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE2307",
+    "2",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS3320",
+    "4",
+    "Rawan M. S. Soboh",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS3390",
+    "1",
+    "Abdel Salam Muhammad Khader Sayyad",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Yousef W. S. Sabbah",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENEE2307",
+    "1",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3340",
+    "1",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE2307",
+    "2",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS3320",
+    "4",
+    "Rawan M. S. Soboh",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS3390",
+    "1",
+    "Abdel Salam Muhammad Khader Sayyad",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Yousef W. S. Sabbah",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENEE2307",
+    "1",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3340",
+    "1",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE2307",
+    "2",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS3320",
+    "4",
+    "Rawan M. S. Soboh",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS3390",
+    "1",
+    "Abdel Salam Muhammad Khader Sayyad",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Yousef W. S. Sabbah",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Masri109": [
+   [
+    "ENCS5323",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP334",
+    "2",
+    "Fadi Atta Aredi Khalil",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3320",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP338",
+    "1",
+    "Abdelrahman Naser Ali Hamarsha",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS5323",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP334",
+    "2",
+    "Fadi Atta Aredi Khalil",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3320",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP338",
+    "1",
+    "Abdelrahman Naser Ali Hamarsha",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS5323",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP334",
+    "2",
+    "Fadi Atta Aredi Khalil",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3320",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP338",
+    "1",
+    "Abdelrahman Naser Ali Hamarsha",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS5323",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP334",
+    "2",
+    "Fadi Atta Aredi Khalil",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3320",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP338",
+    "1",
+    "Abdelrahman Naser Ali Hamarsha",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Masri110": [
+   [
+    "COMP334",
+    "1",
+    "Fadi Atta Aredi Khalil",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3310",
+    "1",
+    "Abdallatif S. A. Abuissa",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE2311",
+    "1",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Mohammed H. S. Helal",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP334",
+    "1",
+    "Fadi Atta Aredi Khalil",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3310",
+    "1",
+    "Abdallatif S. A. Abuissa",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE2311",
+    "1",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Mohammed H. S. Helal",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP334",
+    "1",
+    "Fadi Atta Aredi Khalil",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3310",
+    "1",
+    "Abdallatif S. A. Abuissa",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE2311",
+    "1",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Mohammed H. S. Helal",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "COMP334",
+    "1",
+    "Fadi Atta Aredi Khalil",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3310",
+    "1",
+    "Abdallatif S. A. Abuissa",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE2311",
+    "1",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Mohammed H. S. Helal",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Masri202": [
+   [
+    "ENCS3320",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3320",
+    "3",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "COMP338",
+    "2",
+    "Abdelrahman Naser Ali Hamarsha",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS3320",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3320",
+    "3",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "COMP338",
+    "2",
+    "Abdelrahman Naser Ali Hamarsha",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP133",
+    "1",
+    "Samer Mas'Oud Ahmad Zein",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS3320",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3320",
+    "3",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "COMP338",
+    "2",
+    "Abdelrahman Naser Ali Hamarsha",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP133",
+    "1",
+    "Samer Mas'Oud Ahmad Zein",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS3320",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS3320",
+    "3",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "COMP338",
+    "2",
+    "Abdelrahman Naser Ali Hamarsha",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP133",
+    "1",
+    "Samer Mas'Oud Ahmad Zein",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Masri203": [
+   [
+    "ENEE2103",
+    "3",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENEE2103",
+    "1",
+    "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENEE2103",
+    "2",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENEE2103",
+    "5",
+    "Muhammad Sharif Mustafa Abu-Khaizaran",
+    "W",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENEE2103",
+    "4",
+    "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+    "R",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "Masri204": [
+   [
+    "ENCS4310",
+    "1",
+    "Qadri A. A. Mayyala",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS5344",
+    "1",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE3309",
+    "2",
+    "Qadri A. A. Mayyala",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP242",
+    "1",
+    "Murad Subhi Abdelkareem Njoum",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP1350",
+    "1",
+    "Yousef W. S. Sabbah",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS4310",
+    "1",
+    "Qadri A. A. Mayyala",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS5344",
+    "1",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE3309",
+    "2",
+    "Qadri A. A. Mayyala",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP242",
+    "1",
+    "Murad Subhi Abdelkareem Njoum",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP1350",
+    "1",
+    "Yousef W. S. Sabbah",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS4310",
+    "1",
+    "Qadri A. A. Mayyala",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS5344",
+    "1",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE3309",
+    "2",
+    "Qadri A. A. Mayyala",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP242",
+    "1",
+    "Murad Subhi Abdelkareem Njoum",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP1350",
+    "1",
+    "Yousef W. S. Sabbah",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ENCS4310",
+    "1",
+    "Qadri A. A. Mayyala",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS5344",
+    "1",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENEE3309",
+    "2",
+    "Qadri A. A. Mayyala",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP242",
+    "1",
+    "Murad Subhi Abdelkareem Njoum",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP1350",
+    "1",
+    "Yousef W. S. Sabbah",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "Masri206": [
+   [
+    "ENEE2110",
+    "1",
+    "Jaser Abdel Mon'En Fayiz Sa'Ed",
+    "M",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Masri207": [
+   [
+    "ENCS4110",
+    "5",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS4110",
+    "6",
+    "Jamal Othman Hosen Seyam",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS4110",
+    "1",
+    "Jamal Othman Hosen Seyam",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS4110",
+    "3",
+    "Jamal Othman Hosen Seyam",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS4110",
+    "2",
+    "Abdel Salam Muhammad Khader Sayyad",
+    "R",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "ENCS4110",
+    "4",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "R",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "Masri302": [
+   [
+    "ENEE2306",
+    "1",
+    "Muhammad Sharif Mustafa Abu-Khaizaran",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4330",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENEE2306",
+    "1",
+    "Muhammad Sharif Mustafa Abu-Khaizaran",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4330",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENEE2306",
+    "1",
+    "Muhammad Sharif Mustafa Abu-Khaizaran",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4330",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP242",
+    "2",
+    "Ahmed J. A. Fahal",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4330",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Masri303": [
+   [
+    "ENCS5131",
+    "1",
+    "Abdallatif S. A. Abuissa",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS5121",
+    "2",
+    "Ahmed I. A. Shawahna",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS5131",
+    "2",
+    "Abdallatif S. A. Abuissa",
+    "W",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Masri304": [
+   [
+    "ENEE2360",
+    "2",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS4380",
+    "1",
+    "Wasel Tahsin Ahmad Ghanem",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CSEC1320",
+    "1",
+    "Yousef W. S. Sabbah",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP2333",
+    "1",
+    "Mohammad Y. M. Alkhanafseh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENEE2360",
+    "2",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS4380",
+    "1",
+    "Wasel Tahsin Ahmad Ghanem",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CSEC1320",
+    "1",
+    "Yousef W. S. Sabbah",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP2333",
+    "1",
+    "Mohammad Y. M. Alkhanafseh",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENEE2360",
+    "2",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS4380",
+    "1",
+    "Wasel Tahsin Ahmad Ghanem",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CSEC1320",
+    "1",
+    "Yousef W. S. Sabbah",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENEE2360",
+    "2",
+    "Nasser Abdel Jaleel Muhammad Ismail",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS4380",
+    "1",
+    "Wasel Tahsin Ahmad Ghanem",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CSEC1320",
+    "1",
+    "Yousef W. S. Sabbah",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP2333",
+    "1",
+    "Mohammad Y. M. Alkhanafseh",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Masri305": [
+   [
+    "COMP132",
+    "1",
+    "Ahmed A. A. Abusnaina",
+    "T",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "Masri306": [
+   [
+    "ENEE3309",
+    "1",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP242",
+    "2",
+    "Ahmed J. A. Fahal",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS2340",
+    "6",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP438",
+    "2",
+    "Mohammed H. S. Helal",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENEE3309",
+    "1",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP242",
+    "2",
+    "Ahmed J. A. Fahal",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS2340",
+    "6",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP438",
+    "2",
+    "Mohammed H. S. Helal",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENEE3309",
+    "1",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP242",
+    "2",
+    "Ahmed J. A. Fahal",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS2340",
+    "6",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP438",
+    "2",
+    "Mohammed H. S. Helal",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENEE3309",
+    "1",
+    "Ashraf Sulieman Awad Al-Rimawi",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENEE2306",
+    "1",
+    "Muhammad Sharif Mustafa Abu-Khaizaran",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS2340",
+    "6",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP438",
+    "2",
+    "Mohammed H. S. Helal",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Masri307": [
+   [
+    "COMP1331",
+    "3",
+    "Abdallah Haidar Mohammad Karakra",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "COMP132",
+    "1",
+    "Ahmed A. A. Abusnaina",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP1331",
+    "1",
+    "Abdallah Haidar Mohammad Karakra",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "COMP132",
+    "1",
+    "Ahmed A. A. Abusnaina",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP1331",
+    "2",
+    "Abdallah Haidar Mohammad Karakra",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "COMP132",
+    "1",
+    "Ahmed A. A. Abusnaina",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Masri402": [
+   [
+    "COMP311",
+    "1",
+    "Alaa Sh. A. Nairat",
+    "M",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "COMP311",
+    "2",
+    "Alaa Sh. A. Nairat",
+    "T",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "ENCE5381",
+    "1",
+    "Raed Abdul Min'Em Mahmoud Hanafia",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCE5381",
+    "1",
+    "Raed Abdul Min'Em Mahmoud Hanafia",
+    "R",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Masri403": [
+   [
+    "COMP133",
+    "1",
+    "Samer Mas'Oud Ahmad Zein",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "COMP242",
+    "1",
+    "Murad Subhi Abdelkareem Njoum",
+    "T",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "COMP242",
+    "3",
+    "Ahmed J. A. Fahal",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "COMP242",
+    "2",
+    "Murad Subhi Abdelkareem Njoum",
+    "R",
+    "08:00",
+    "10:50"
+   ]
+  ],
+  "Masri404": [
+   [
+    "COMP1331",
+    "1",
+    "Abdallah Haidar Mohammad Karakra",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS2380",
+    "1",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2380",
+    "2",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP1331",
+    "1",
+    "Abdallah Haidar Mohammad Karakra",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS2380",
+    "1",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2380",
+    "2",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP1331",
+    "1",
+    "Abdallah Haidar Mohammad Karakra",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS2380",
+    "1",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2380",
+    "2",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ENCS2380",
+    "1",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2380",
+    "2",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Masri405": [
+   [
+    "COMP133",
+    "3",
+    "Samer Mas'Oud Ahmad Zein",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "COMP2333",
+    "1",
+    "Mohammad Y. M. Alkhanafseh",
+    "T",
+    "13:00",
+    "15:50"
+   ],
+   [
+    "COMP133",
+    "4",
+    "Alaa Sh. A. Nairat",
+    "W",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Masri406": [
+   [
+    "ENCS2340",
+    "1",
+    "Ali Hasan Moath Abdo",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP233",
+    "1",
+    "Mohammad Y. M. Alkhanafseh",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3310",
+    "2",
+    "Abdallatif S. A. Abuissa",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS2340",
+    "1",
+    "Ali Hasan Moath Abdo",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP233",
+    "1",
+    "Mohammad Y. M. Alkhanafseh",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3310",
+    "2",
+    "Abdallatif S. A. Abuissa",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP133",
+    "2",
+    "Samer Mas'Oud Ahmad Zein",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENCS2340",
+    "1",
+    "Ali Hasan Moath Abdo",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP233",
+    "1",
+    "Mohammad Y. M. Alkhanafseh",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3310",
+    "2",
+    "Abdallatif S. A. Abuissa",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP133",
+    "2",
+    "Samer Mas'Oud Ahmad Zein",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENCS2340",
+    "1",
+    "Ali Hasan Moath Abdo",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP233",
+    "1",
+    "Mohammad Y. M. Alkhanafseh",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3310",
+    "2",
+    "Abdallatif S. A. Abuissa",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP133",
+    "2",
+    "Samer Mas'Oud Ahmad Zein",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "Masri407": [
+   [
+    "ENCS3130",
+    "8",
+    "Reda I. M. Daifallah",
+    "M",
+    "08:00",
+    "10:40"
+   ],
+   [
+    "ENCS3130",
+    "3",
+    "Aziz Mohammed Ahmad Qaroush",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS3130",
+    "6",
+    "Reda I. M. Daifallah",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS3130",
+    "2",
+    "Aziz Mohammed Ahmad Qaroush",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS3130",
+    "4",
+    "Anas Nedal Mohammad Mousa",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS5141",
+    "1",
+    "Aziz Mohammed Ahmad Qaroush",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS3130",
+    "5",
+    "Anas Nedal Mohammad Mousa",
+    "W",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS3130",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "R",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS3130",
+    "7",
+    "Mohammad Khaleel Issa Jubran",
+    "R",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Masri502": [
+   [
+    "COMP438",
+    "1",
+    "Samer Mas'Oud Ahmad Zein",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3360",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS4320",
+    "1",
+    "Ahmed I. A. Shawahna",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Samer Mas'Oud Ahmad Zein",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3360",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS4320",
+    "1",
+    "Ahmed I. A. Shawahna",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Samer Mas'Oud Ahmad Zein",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3360",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS4320",
+    "1",
+    "Ahmed I. A. Shawahna",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "COMP438",
+    "1",
+    "Samer Mas'Oud Ahmad Zein",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS3360",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS4320",
+    "1",
+    "Ahmed I. A. Shawahna",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Masri503": [
+   [
+    "ENCS4130",
+    "6",
+    "Rawan M. S. Soboh",
+    "M",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "ENCS4130",
+    "7",
+    "Reda I. M. Daifallah",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS4130",
+    "3",
+    "Ahmed I. A. Shawahna",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS4130",
+    "4",
+    "Ismail Mohammad Mousa Khater",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS4130",
+    "5",
+    "Ismail Mohammad Mousa Khater",
+    "W",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "ENCS4130",
+    "1",
+    "Mohammad Khaleel Issa Jubran",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS4130",
+    "2",
+    "Ibrahim Ahmed Abdallah Nemer",
+    "W",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS4130",
+    "8",
+    "Ahmed I. A. Shawahna",
+    "R",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "Masri504": [
+   [
+    "ENCS4370",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ENCS2340",
+    "7",
+    "Aziz Mohammed Ahmad Qaroush",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4310",
+    "2",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS4370",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP2421",
+    "1",
+    "Ahmed A. A. Abusnaina",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4310",
+    "2",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS4370",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP2421",
+    "1",
+    "Ahmed A. A. Abusnaina",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4310",
+    "2",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENCS4370",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "COMP2421",
+    "1",
+    "Ahmed A. A. Abusnaina",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENCS4310",
+    "2",
+    "Abualseoud Ahmad Abualseoud Hanani",
+    "R",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Masri505": [
+   [
+    "COMP133",
+    "2",
+    "Samer Mas'Oud Ahmad Zein",
+    "T",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "COMP122",
+    "2",
+    "Rana Hussam Moh'D Said Salameh",
+    "R",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "Masri506": [
+   [
+    "ENCS5140",
+    "2",
+    "Wasel Tahsin Ahmad Ghanem",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS5140",
+    "1",
+    "Ahmad Suhail Ahmad Afaneh",
+    "W",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "Masri507": [
+   [
+    "COMP1331",
+    "2",
+    "Abdallah Haidar Mohammad Karakra",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP2311",
+    "2",
+    "Ahmed J. A. Fahal",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "COMP1331",
+    "2",
+    "Abdallah Haidar Mohammad Karakra",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "COMP1331",
+    "2",
+    "Abdallah Haidar Mohammad Karakra",
+    "W",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "Masrouji014": [
+   [
+    "MDJO4310",
+    "1",
+    "Belal A. S. Doufesh",
+    "T",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "Masrouji016": [
+   [
+    "MDJO230",
+    "1",
+    "Belal A. S. Doufesh",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MDJO230",
+    "1",
+    "Belal A. S. Doufesh",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MDJO230",
+    "1",
+    "Belal A. S. Doufesh",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MDJO230",
+    "1",
+    "Belal A. S. Doufesh",
+    "R",
+    "09:00",
+    "09:50"
+   ]
+  ],
+  "Masrouji023": [
+   [
+    "MDJO332",
+    "1",
+    "Saleh Badawi Audeh Allah Masharqeh",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "MDJO437",
+    "1",
+    "Emad Sameer Ahmad Alasfar",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MDJO334",
+    "1",
+    "Saleh Badawi Audeh Allah Masharqeh",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MDJO4310",
+    "1",
+    "Belal A. S. Doufesh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MDJO332",
+    "1",
+    "Saleh Badawi Audeh Allah Masharqeh",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "MDJO437",
+    "1",
+    "Emad Sameer Ahmad Alasfar",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MDJO334",
+    "1",
+    "Saleh Badawi Audeh Allah Masharqeh",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MDJO332",
+    "1",
+    "Saleh Badawi Audeh Allah Masharqeh",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "MDJO437",
+    "1",
+    "Emad Sameer Ahmad Alasfar",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MDJO334",
+    "1",
+    "Saleh Badawi Audeh Allah Masharqeh",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MDJO4310",
+    "1",
+    "Belal A. S. Doufesh",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MDJO332",
+    "1",
+    "Saleh Badawi Audeh Allah Masharqeh",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "MDJO437",
+    "1",
+    "Emad Sameer Ahmad Alasfar",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MDJO4310",
+    "1",
+    "Belal A. S. Doufesh",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "Masrouji111": [
+   [
+    "MDJO334",
+    "1",
+    "Saleh Badawi Audeh Allah Masharqeh",
+    "R",
+    "10:00",
+    "12:50"
+   ]
+  ],
+  "N.Shaheen307": [
+   [
+    "PHSS9321",
+    "1",
+    "Rema Hasan Ahmad Hammami, Samera Nimr  Esmeir",
+    "S",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "PHSS9321",
+    "1",
+    "Rema Hasan Ahmad Hammami, Samera Nimr  Esmeir",
+    "M",
+    "14:00",
+    "15:50"
+   ]
+  ],
+  "O.Abdulhadi051": [
+   [
+    "BUSA3301",
+    "1",
+    "Alaa Mohammad Fares Hamad",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ECON132",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN1300",
+    "1",
+    "Fairouz Sa'Eed Mouhamed Darwish",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ECON3321",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA3301",
+    "1",
+    "Alaa Mohammad Fares Hamad",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ECON132",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN1300",
+    "1",
+    "Fairouz Sa'Eed Mouhamed Darwish",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ECON3321",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA3301",
+    "1",
+    "Alaa Mohammad Fares Hamad",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ECON132",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN1300",
+    "1",
+    "Fairouz Sa'Eed Mouhamed Darwish",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ECON3321",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA3301",
+    "1",
+    "Alaa Mohammad Fares Hamad",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ECON132",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "FINN1300",
+    "1",
+    "Fairouz Sa'Eed Mouhamed Darwish",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "ECON3321",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "O.Abdulhadi052": [
+   [
+    "ECON131",
+    "1",
+    "Mohanad Oudah Mohammed Ismael",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ECON233",
+    "1",
+    "Najibeh Mohammad Saleh Morar",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ACCT334",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MKET230",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ACCT331",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ECON131",
+    "1",
+    "Mohanad Oudah Mohammed Ismael",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ECON233",
+    "1",
+    "Najibeh Mohammad Saleh Morar",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ACCT334",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MKET230",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ACCT331",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ECON131",
+    "1",
+    "Mohanad Oudah Mohammed Ismael",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ECON233",
+    "1",
+    "Najibeh Mohammad Saleh Morar",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ACCT334",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MKET230",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ACCT331",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ECON131",
+    "1",
+    "Mohanad Oudah Mohammed Ismael",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ECON233",
+    "1",
+    "Najibeh Mohammad Saleh Morar",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ACCT334",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MKET230",
+    "1",
+    "Suzan Jamal Mousa Shkukani",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ACCT331",
+    "1",
+    "Bashar Shukri Hanna Al Qara'",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "O.Abdulhadi151": [
+   [
+    "BUSA638",
+    "1",
+    "Samir Daoud Khalil Baidoun",
+    "S",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ACCT333",
+    "1",
+    "Huthayfa N. I. Jabari",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ACCT331",
+    "2",
+    "Huthayfa N. I. Jabari",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ACCT3331",
+    "1",
+    "Huthayfa N. I. Jabari",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON3311",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA130",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ECON3372",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ACCT333",
+    "1",
+    "Huthayfa N. I. Jabari",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ACCT331",
+    "2",
+    "Huthayfa N. I. Jabari",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ACCT3331",
+    "1",
+    "Huthayfa N. I. Jabari",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON3311",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA130",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ECON3372",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "BUSA638",
+    "1",
+    "Samir Daoud Khalil Baidoun",
+    "T",
+    "15:00",
+    "16:50"
+   ],
+   [
+    "ACCT333",
+    "1",
+    "Huthayfa N. I. Jabari",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ACCT331",
+    "2",
+    "Huthayfa N. I. Jabari",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ACCT3331",
+    "1",
+    "Huthayfa N. I. Jabari",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON3311",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA130",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ECON3372",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "ACCT333",
+    "1",
+    "Huthayfa N. I. Jabari",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "ACCT331",
+    "2",
+    "Huthayfa N. I. Jabari",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ACCT3331",
+    "1",
+    "Huthayfa N. I. Jabari",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON3311",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "BUSA130",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "ECON3372",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "O.Abdulhadi152": [
+   [
+    "ACCT332",
+    "1",
+    "Jamal Fadel Daoud Fawadleh",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA232",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON438",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ACCT332",
+    "1",
+    "Jamal Fadel Daoud Fawadleh",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA232",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON438",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ACCT332",
+    "1",
+    "Jamal Fadel Daoud Fawadleh",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA232",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON438",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ACCT332",
+    "1",
+    "Jamal Fadel Daoud Fawadleh",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BUSA232",
+    "1",
+    "Rania Yaser Qostande Jaber",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ECON438",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "O.Abdulhadi154": [
+   [
+    "ECON739",
+    "1",
+    "Mohanad Oudah Mohammed Ismael",
+    "S",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ECON739",
+    "1",
+    "Mohanad Oudah Mohammed Ismael",
+    "W",
+    "11:00",
+    "12:50"
+   ]
+  ],
+  "O.Abdulhadi251": [
+   [
+    "BUSA636",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "S",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "BUSA639",
+    "1",
+    "Samir Daoud Khalil Baidoun",
+    "S",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ACCT435",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA636",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "M",
+    "15:00",
+    "16:50"
+   ],
+   [
+    "ACCT435",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ACCT435",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "BUSA639",
+    "1",
+    "Samir Daoud Khalil Baidoun",
+    "W",
+    "15:00",
+    "16:50"
+   ],
+   [
+    "ACCT435",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "O.Abdulhadi254": [
+   [
+    "ACCA7330",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "S",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ACCA7330",
+    "1",
+    "Zeyad Fawaz Fouzi Munawer",
+    "W",
+    "15:00",
+    "16:50"
+   ]
+  ],
+  "PNH103": [
+   [
+    "NURS2300",
+    "2",
+    "Imad Tawfiq Mohammad Asmar",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "NURS130",
+    "1",
+    "Ahmed A. R. Twam",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "NURS1420",
+    "1",
+    "Ahmed A. R. Twam",
+    "M",
+    "10:00",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "9",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "NURS2300",
+    "2",
+    "Imad Tawfiq Mohammad Asmar",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "NURS130",
+    "1",
+    "Ahmed A. R. Twam",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "NURS1420",
+    "1",
+    "Ahmed A. R. Twam",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1130",
+    "9",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "NURS2300",
+    "2",
+    "Imad Tawfiq Mohammad Asmar",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "NURS130",
+    "1",
+    "Ahmed A. R. Twam",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "NURS1420",
+    "1",
+    "Ahmed A. R. Twam",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1130",
+    "9",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "NURS2300",
+    "2",
+    "Imad Tawfiq Mohammad Asmar",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "NURS130",
+    "1",
+    "Ahmed A. R. Twam",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "NURS1420",
+    "1",
+    "Ahmed A. R. Twam",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1130",
+    "9",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "PNH104": [
+   [
+    "NURS222",
+    "1",
+    "Omar Hasan Abdulghani Almahmoud",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "NURS222",
+    "1",
+    "Omar Hasan Abdulghani Almahmoud",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "NURS222",
+    "1",
+    "Omar Hasan Abdulghani Almahmoud",
+    "W",
+    "10:00",
+    "10:50"
+   ]
+  ],
+  "PNH105": [
+   [
+    "UNIV1130",
+    "1",
+    "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "PHAR233",
+    "1",
+    "Bader Nael Abdaljaleel Remawi",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1130",
+    "10",
+    "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "NURS220",
+    "1",
+    "Mutaz Mohammed Mohammed Jamil Dredei",
+    "M",
+    "14:00",
+    "15:00"
+   ],
+   [
+    "UNIV1130",
+    "1",
+    "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "PHAR233",
+    "1",
+    "Bader Nael Abdaljaleel Remawi",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1130",
+    "10",
+    "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "1",
+    "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "PHAR233",
+    "1",
+    "Bader Nael Abdaljaleel Remawi",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1130",
+    "10",
+    "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "1",
+    "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "PHAR233",
+    "1",
+    "Bader Nael Abdaljaleel Remawi",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "UNIV1130",
+    "10",
+    "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "PNH128": [
+   [
+    "NURS220",
+    "1",
+    "Mutaz Mohammed Mohammed Jamil Dredei",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "NURS220",
+    "2",
+    "Mutaz Mohammed Mohammed Jamil Dredei",
+    "R",
+    "08:00",
+    "10:50"
+   ]
+  ],
+  "PNH203": [
+   [
+    "UNIV1130",
+    "7",
+    "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "8",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "13",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "UNIV1130",
+    "7",
+    "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "8",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "13",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "UNIV1130",
+    "7",
+    "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "8",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "13",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "UNIV1130",
+    "7",
+    "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "8",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "ENGC2400",
+    "13",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "PNH301": [
+   [
+    "NURS222",
+    "3",
+    "Omar Hasan Abdulghani Almahmoud",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BCLS3300",
+    "1",
+    "Mahmoud Abdul-Rahman Husein Srour",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2401",
+    "1",
+    "Nadim M. Y. Ihshaish",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "NURS222",
+    "3",
+    "Omar Hasan Abdulghani Almahmoud",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BCLS3300",
+    "1",
+    "Mahmoud Abdul-Rahman Husein Srour",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2401",
+    "1",
+    "Nadim M. Y. Ihshaish",
+    "T",
+    "11:00",
+    "12:50"
+   ],
+   [
+    "NURS222",
+    "3",
+    "Omar Hasan Abdulghani Almahmoud",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BCLS3300",
+    "1",
+    "Mahmoud Abdul-Rahman Husein Srour",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2401",
+    "1",
+    "Nadim M. Y. Ihshaish",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "BCLS3300",
+    "1",
+    "Mahmoud Abdul-Rahman Husein Srour",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "ENGC2401",
+    "1",
+    "Nadim M. Y. Ihshaish",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "PNH303": [
+   [
+    "ENGC2400",
+    "13",
+    "Haya Abdulrahman Abdulrahman Abuhussein",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL339",
+    "1",
+    "Habib I. M. Abu Hashhash",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "3",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "ENGL339",
+    "1",
+    "Habib I. M. Abu Hashhash",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "3",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "ENGL339",
+    "1",
+    "Habib I. M. Abu Hashhash",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "3",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "ENGL339",
+    "1",
+    "Habib I. M. Abu Hashhash",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "3",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "PNH401": [
+   [
+    "ENGL238",
+    "1",
+    "Shams Wael I. Karain",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL330",
+    "1",
+    "Shams Wael I. Karain",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "NURS222",
+    "2",
+    "Khalid Samer Ahmad Yaseen",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "NURS222",
+    "4",
+    "Khalid Samer Ahmad Yaseen",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENGL238",
+    "1",
+    "Shams Wael I. Karain",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL330",
+    "1",
+    "Shams Wael I. Karain",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "NURS222",
+    "2",
+    "Khalid Samer Ahmad Yaseen",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "NURS222",
+    "4",
+    "Khalid Samer Ahmad Yaseen",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENGL238",
+    "1",
+    "Shams Wael I. Karain",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL330",
+    "1",
+    "Shams Wael I. Karain",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "NURS222",
+    "2",
+    "Khalid Samer Ahmad Yaseen",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "NURS222",
+    "4",
+    "Khalid Samer Ahmad Yaseen",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "ENGL238",
+    "1",
+    "Shams Wael I. Karain",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "ENGL330",
+    "1",
+    "Shams Wael I. Karain",
+    "R",
+    "11:00",
+    "11:50"
+   ]
+  ],
+  "PNH403": [
+   [
+    "UNIV1130",
+    "4",
+    "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "5",
+    "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "6",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "4",
+    "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "5",
+    "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "6",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "4",
+    "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "5",
+    "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "6",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "4",
+    "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "5",
+    "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1130",
+    "6",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "R",
+    "12:30",
+    "13:50"
+   ]
+  ],
+  "S.Abdulhadi380": [
+   [
+    "MATH1351",
+    "1",
+    "Amer Rida Hasan Ja'Far",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "STAT2361",
+    "2",
+    "Hassan Mohmmed Odeh Abu Hassan",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "BIOC332",
+    "1",
+    "Johnny Butros Hanna Stiban",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH1351",
+    "1",
+    "Amer Rida Hasan Ja'Far",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "STAT2361",
+    "2",
+    "Hassan Mohmmed Odeh Abu Hassan",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "BIOC332",
+    "1",
+    "Johnny Butros Hanna Stiban",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH1351",
+    "1",
+    "Amer Rida Hasan Ja'Far",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "STAT2361",
+    "2",
+    "Hassan Mohmmed Odeh Abu Hassan",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "BIOC332",
+    "1",
+    "Johnny Butros Hanna Stiban",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH1351",
+    "1",
+    "Amer Rida Hasan Ja'Far",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "STAT2361",
+    "2",
+    "Hassan Mohmmed Odeh Abu Hassan",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "BIOC332",
+    "1",
+    "Johnny Butros Hanna Stiban",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "SCI003": [
+   [
+    "CHEM143",
+    "1",
+    "Hijazi Issa Hussein Abu Ali",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "CHEM143",
+    "2",
+    "Mohammed H. M. Aljabari",
+    "W",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "SCI113": [
+   [
+    "PHYS132",
+    "1",
+    "Abdallah Salahedin Saleh Sayyed Ahmad",
+    "M",
+    "08:30",
+    "09:30"
+   ],
+   [
+    "BIOC230",
+    "1",
+    "Abdallah Taha Suleiman Abu Taha",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "MATH2351",
+    "1",
+    "Rasha Mohammad Amin Shadid",
+    "T",
+    "08:30",
+    "09:30"
+   ],
+   [
+    "CHEM221",
+    "1",
+    "Diab T. D. Qadah",
+    "T",
+    "11:30",
+    "12:30"
+   ],
+   [
+    "BIOC230",
+    "1",
+    "Abdallah Taha Suleiman Abu Taha",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "PHYS132",
+    "2",
+    "Khalid Fathi Abdalrazzaq Eid",
+    "W",
+    "08:30",
+    "09:30"
+   ],
+   [
+    "PHYS132",
+    "3",
+    "Khalid Fathi Abdalrazzaq Eid",
+    "W",
+    "10:20",
+    "11:20"
+   ],
+   [
+    "MATH2351",
+    "2",
+    "Rasha Mohammad Amin Shadid",
+    "R",
+    "08:30",
+    "09:30"
+   ],
+   [
+    "BIOC230",
+    "1",
+    "Abdallah Taha Suleiman Abu Taha",
+    "R",
+    "12:00",
+    "12:50"
+   ]
+  ],
+  "SCI114": [
+   [
+    "PHYS132",
+    "5",
+    "Zafer M. A. Hawash",
+    "M",
+    "09:10",
+    "10:10"
+   ],
+   [
+    "CHEM143",
+    "1",
+    "Hijazi Issa Hussein Abu Ali",
+    "T",
+    "10:00",
+    "11:00"
+   ],
+   [
+    "CHEM143",
+    "2",
+    "Hijazi Issa Hussein Abu Ali",
+    "T",
+    "11:00",
+    "12:00"
+   ],
+   [
+    "MATH1322",
+    "4",
+    "Rasha Mohammad Amin Shadid",
+    "T",
+    "11:30",
+    "12:30"
+   ],
+   [
+    "PHYS132",
+    "8",
+    "Khalid Fathi Abdalrazzaq Eid",
+    "W",
+    "11:30",
+    "12:30"
+   ],
+   [
+    "BIOC230",
+    "1",
+    "Abdallah Taha Suleiman Abu Taha",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "MATH1322",
+    "3",
+    "Amer Rida Hasan Ja'Far",
+    "R",
+    "10:10",
+    "11:10"
+   ]
+  ],
+  "SCI115": [
+   [
+    "MATH1412",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "M",
+    "08:00",
+    "09:50"
+   ],
+   [
+    "MATH1412",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH1322",
+    "1",
+    "Rasha Mohammad Amin Shadid",
+    "T",
+    "10:10",
+    "11:10"
+   ],
+   [
+    "MATH1412",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH1412",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH1322",
+    "2",
+    "Rasha Mohammad Amin Shadid",
+    "R",
+    "10:10",
+    "11:10"
+   ]
+  ],
+  "SCI120": [
+   [
+    "CHEM234",
+    "1",
+    "Diab T. D. Qadah",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CHEM234",
+    "1",
+    "Diab T. D. Qadah",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "CHEM234",
+    "1",
+    "Diab T. D. Qadah",
+    "W",
+    "09:00",
+    "09:50"
+   ]
+  ],
+  "SCI160": [
+   [
+    "BIOL111",
+    "1",
+    "Mahmoud Abdul-Rahman Husein Srour",
+    "M",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "SCI163": [
+   [
+    "BIOC311",
+    "1",
+    "Johnny Butros Hanna Stiban",
+    "W",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "SCI213": [
+   [
+    "PHYS1331",
+    "1",
+    "Zafer M. A. Hawash",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CHEM132",
+    "1",
+    "Mohammed H. M. Aljabari",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH2360",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MATH330",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH330",
+    "2",
+    "Abdelrahim S. A. Mousa",
+    "M",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PHYS1331",
+    "1",
+    "Zafer M. A. Hawash",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CHEM132",
+    "1",
+    "Mohammed H. M. Aljabari",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH2360",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MATH330",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH330",
+    "2",
+    "Abdelrahim S. A. Mousa",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PHYS1331",
+    "1",
+    "Zafer M. A. Hawash",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CHEM132",
+    "1",
+    "Mohammed H. M. Aljabari",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH2360",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MATH330",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH330",
+    "2",
+    "Abdelrahim S. A. Mousa",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "PHYS1331",
+    "1",
+    "Zafer M. A. Hawash",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "CHEM132",
+    "1",
+    "Mohammed H. M. Aljabari",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH2360",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MATH330",
+    "1",
+    "Abdelrahim S. A. Mousa",
+    "R",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH330",
+    "2",
+    "Abdelrahim S. A. Mousa",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "SCI214": [
+   [
+    "MATH331",
+    "2",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "M",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "MATH331",
+    "3",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH234",
+    "1",
+    "Mohammad Ali Deib Saleh",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CHEM241",
+    "1",
+    "Waseem Wajih Said Abo Oun",
+    "M",
+    "14:00",
+    "15:50"
+   ],
+   [
+    "MATH331",
+    "2",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "T",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "MATH331",
+    "3",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH234",
+    "1",
+    "Mohammad Ali Deib Saleh",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CHEM241",
+    "1",
+    "Waseem Wajih Said Abo Oun",
+    "T",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "MATH331",
+    "2",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "W",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "MATH331",
+    "3",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH234",
+    "1",
+    "Mohammad Ali Deib Saleh",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "CHEM241",
+    "1",
+    "Waseem Wajih Said Abo Oun",
+    "W",
+    "14:00",
+    "14:50"
+   ],
+   [
+    "MATH331",
+    "2",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "R",
+    "08:00",
+    "08:50"
+   ],
+   [
+    "MATH331",
+    "3",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "MATH234",
+    "1",
+    "Mohammad Ali Deib Saleh",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MATH2351",
+    "3",
+    "Rasha Mohammad Amin Shadid",
+    "R",
+    "11:30",
+    "12:30"
+   ],
+   [
+    "CHEM241",
+    "1",
+    "Waseem Wajih Said Abo Oun",
+    "R",
+    "14:00",
+    "14:50"
+   ]
+  ],
+  "SCI215": [
+   [
+    "MATH331",
+    "4",
+    "Ala Ata Abdelhady Talahmeh",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MATH331",
+    "5",
+    "Ala Ata Abdelhady Talahmeh",
+    "M",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CHEM230",
+    "1",
+    "Waseem Wajih Said Abo Oun",
+    "M",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH331",
+    "4",
+    "Ala Ata Abdelhady Talahmeh",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MATH331",
+    "5",
+    "Ala Ata Abdelhady Talahmeh",
+    "T",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CHEM230",
+    "1",
+    "Waseem Wajih Said Abo Oun",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH331",
+    "4",
+    "Ala Ata Abdelhady Talahmeh",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MATH331",
+    "5",
+    "Ala Ata Abdelhady Talahmeh",
+    "W",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CHEM230",
+    "1",
+    "Waseem Wajih Said Abo Oun",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "MATH331",
+    "4",
+    "Ala Ata Abdelhady Talahmeh",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MATH331",
+    "5",
+    "Ala Ata Abdelhady Talahmeh",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "CHEM230",
+    "1",
+    "Waseem Wajih Said Abo Oun",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "SCI216": [
+   [
+    "PHYS141",
+    "1",
+    "Isma'El Daoud Mohummad Badran",
+    "M",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BIOL131",
+    "1",
+    "Abdallah Taha Suleiman Abu Taha",
+    "M",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MATH331",
+    "1",
+    "Ala Ata Abdelhady Talahmeh",
+    "M",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "MATH1412",
+    "2",
+    "Ala Ata Abdelhady Talahmeh",
+    "M",
+    "13:00",
+    "14:50"
+   ],
+   [
+    "PHYS141",
+    "1",
+    "Isma'El Daoud Mohummad Badran",
+    "T",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BIOL131",
+    "1",
+    "Abdallah Taha Suleiman Abu Taha",
+    "T",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MATH331",
+    "1",
+    "Ala Ata Abdelhady Talahmeh",
+    "T",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "MATH1412",
+    "2",
+    "Ala Ata Abdelhady Talahmeh",
+    "T",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "PHYS141",
+    "1",
+    "Isma'El Daoud Mohummad Badran",
+    "W",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BIOL131",
+    "1",
+    "Abdallah Taha Suleiman Abu Taha",
+    "W",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "MATH331",
+    "1",
+    "Ala Ata Abdelhady Talahmeh",
+    "W",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "MATH1412",
+    "2",
+    "Ala Ata Abdelhady Talahmeh",
+    "W",
+    "13:00",
+    "13:50"
+   ],
+   [
+    "PHYS141",
+    "1",
+    "Isma'El Daoud Mohummad Badran",
+    "R",
+    "09:00",
+    "09:50"
+   ],
+   [
+    "BIOL131",
+    "1",
+    "Abdallah Taha Suleiman Abu Taha",
+    "R",
+    "10:00",
+    "10:50"
+   ],
+   [
+    "PHYS141",
+    "1",
+    "Isma'El Daoud Mohummad Badran",
+    "R",
+    "11:00",
+    "11:50"
+   ],
+   [
+    "MATH331",
+    "1",
+    "Ala Ata Abdelhady Talahmeh",
+    "R",
+    "12:00",
+    "12:50"
+   ],
+   [
+    "MATH1412",
+    "2",
+    "Ala Ata Abdelhady Talahmeh",
+    "R",
+    "13:00",
+    "13:50"
+   ]
+  ],
+  "SCI240": [
+   [
+    "MATH2351",
+    "1",
+    "Hassan Mohmmed Odeh Abu Hassan",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "MATH1322",
+    "1",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "M",
+    "10:00",
+    "11:20"
+   ],
+   [
+    "PHYS132",
+    "1",
+    "Khalid Fathi Abdalrazzaq Eid",
+    "T",
+    "08:00",
+    "09:20"
+   ],
+   [
+    "PHYS132",
+    "2",
+    "Zafer M. A. Hawash",
+    "T",
+    "09:30",
+    "10:50"
+   ],
+   [
+    "MATH2351",
+    "1",
+    "Hassan Mohmmed Odeh Abu Hassan",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "MATH1322",
+    "1",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "W",
+    "10:00",
+    "11:20"
+   ],
+   [
+    "PHYS132",
+    "1",
+    "Khalid Fathi Abdalrazzaq Eid",
+    "R",
+    "08:00",
+    "09:20"
+   ],
+   [
+    "PHYS132",
+    "2",
+    "Zafer M. A. Hawash",
+    "R",
+    "09:30",
+    "10:50"
+   ]
+  ],
+  "SCI253": [
+   [
+    "PHYS112",
+    "2",
+    "Isma'El Daoud Mohummad Badran",
+    "T",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "PHYS112",
+    "3",
+    "Zafer M. A. Hawash",
+    "W",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "PHYS112",
+    "5",
+    "Sami Ali Abdelmajeed Naser",
+    "W",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "PHYS112",
+    "4",
+    "Khalid Fathi Abdalrazzaq Eid",
+    "R",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "PHYS112",
+    "1",
+    "Isma'El Daoud Mohummad Badran",
+    "R",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "SCI259": [
+   [
+    "PHYS111",
+    "2",
+    "Abdallah Salahedin Saleh Sayyed Ahmad",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "PHYS111",
+    "1",
+    "Abdallah Salahedin Saleh Sayyed Ahmad",
+    "M",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "SCI357": [
+   [
+    "CHEM234",
+    "3",
+    "Saleh Mohammad Sulaiman Sulaiman",
+    "M",
+    "13:00",
+    "16:50"
+   ],
+   [
+    "CHEM221",
+    "1",
+    "Asem M. A. Mubarak",
+    "T",
+    "08:00",
+    "10:50"
+   ],
+   [
+    "CHEM234",
+    "1",
+    "Diab T. D. Qadah",
+    "T",
+    "13:00",
+    "16:50"
+   ],
+   [
+    "CHEM234",
+    "4",
+    "Diab T. D. Qadah",
+    "W",
+    "13:00",
+    "16:50"
+   ],
+   [
+    "CHEM221",
+    "2",
+    "Diab T. D. Qadah",
+    "R",
+    "11:00",
+    "13:50"
+   ]
+  ],
+  "SCI358": [
+   [
+    "CHEM234",
+    "2",
+    "Saleh Mohammad Sulaiman Sulaiman",
+    "R",
+    "08:00",
+    "11:50"
+   ]
+  ],
+  "SCI361": [
+   [
+    "CHEM112",
+    "1",
+    "Mohammed H. M. Aljabari",
+    "T",
+    "14:00",
+    "16:50"
+   ]
+  ],
+  "WKS215": [
+   [
+    "ENCS5150",
+    "1",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "M",
+    "11:00",
+    "13:50"
+   ],
+   [
+    "ENCS5150",
+    "3",
+    "Yazan Jamal Ibrahim Abu Farha",
+    "M",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS5150",
+    "4",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "W",
+    "14:00",
+    "16:50"
+   ],
+   [
+    "ENCS5150",
+    "2",
+    "Abdalkarim Ishaq Ibraheem Awad",
+    "R",
+    "14:00",
+    "16:50"
+   ]
+  ]
+ }
+}

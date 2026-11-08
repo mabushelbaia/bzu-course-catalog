@@ -53,3 +53,13 @@ def test_calendar():
     # The second semester starts on 20 February; next year's first semester isn't mistaken for this one's
     assert term_dates(events, "1262")["teaching_starts"] == "2027-02-20"
     assert set(term_dates(events, "1263")) == {"teaching_starts", "teaching_ends", "exams_start", "exams_end"}
+
+
+def test_rooms_cover_every_department():
+    from bzu_catalog.__main__ import rooms_of
+
+    rooms = rooms_of(parse_courses(HTML))
+    assert rooms["Masri109"]  # a room ENCS3320 meets in
+    prefixes = {r[0].rstrip("0123456789") for rs in rooms.values() for r in rs}
+    assert len(prefixes) > 10  # not just one department
+    assert all(len(r) == 6 and r[4] < r[5] for rs in rooms.values() for r in rs)

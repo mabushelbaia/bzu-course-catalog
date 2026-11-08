@@ -8,6 +8,7 @@ It feeds the ECE schedule view on [birzeit.me](https://birzeit.me) and the all-d
 
 | Path | Contents |
 |:--|:--|
+| `data/<term>/rooms.json` | Every department's meetings grouped by room, as `[code, section, instructor, day, start, end]`. Rooms are shared across departments, so one department's files alone would show a busy room as free |
 | `data/index.json` | The semesters Ritaj offers (`available_terms`), the ones scraped (`published_terms`), when Ritaj was last checked (`checked_at`), for each semester: name, counts, prefixes, when its data last changed (`updated_at`) and its teaching and exam dates from Ritaj's academic calendar (`calendar`: `teaching_starts`, `teaching_ends`, `exams_start`, `exams_end`); and the semester in progress (`current`) |
 | `data/<term>.json` | One semester, e.g. `data/1261.json`: every course with its sections and meetings |
 | `data/<term>/<PREFIX>.json` | The same, one file per course prefix, e.g. `data/1261/ENCS.json` for a small static site |
