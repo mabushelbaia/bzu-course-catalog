@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -163,7 +163,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Majdi N. M. Thaher",
-     "enrolled": 16,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -407,7 +407,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
-     "enrolled": 51,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -430,7 +430,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hakam Suleiman Nu'Man Shehadeh",
-     "enrolled": 49,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -453,7 +453,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Alhareth M. T. Zyoud",
-     "enrolled": 29,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -886,7 +886,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hakam Suleiman Nu'Man Shehadeh",
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -1304,7 +1304,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ali Hasan Moath Abdo",
-     "enrolled": 42,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -1327,7 +1327,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ali Hasan Moath Abdo",
-     "enrolled": 24,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {
@@ -1417,7 +1417,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
-     "enrolled": 4,
+     "enrolled": 3,
      "capacity": null,
      "meetings": []
     },

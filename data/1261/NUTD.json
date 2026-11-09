@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 15,
   "sections": 27,
   "instructors": 13,
-  "rooms": 11
+  "rooms": 12
  },
  "courses": [
   {
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
-     "enrolled": 27,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -67,7 +67,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
-     "enrolled": 14,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -106,7 +106,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
-     "enrolled": 31,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -144,7 +144,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ayah M. H. Alfar",
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": []
     },
@@ -175,7 +175,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -198,7 +198,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Monia Omar Izat Kittana",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -288,7 +288,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Kamal A. K. Hamayel",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -311,7 +311,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Israr Nizar Mohammad Sabri",
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -350,7 +350,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
-     "enrolled": 26,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {
@@ -389,7 +389,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Israr Nizar Mohammad Sabri",
-     "enrolled": 10,
+     "enrolled": 11,
      "capacity": null,
      "meetings": [
       {
@@ -435,7 +435,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lina Yaser Jalal El_Khairy",
-     "enrolled": 31,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -458,8 +458,8 @@
        "day": "S",
        "start": "09:00",
        "end": "10:50",
-       "room": null,
-       "building": null
+       "room": "PNH201",
+       "building": "PNH"
       }
      ]
     }
@@ -497,7 +497,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amal Kaleel Abdelrazeq Deheidel",
-     "enrolled": 27,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -527,7 +527,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Monia Omar Izat Kittana",
-     "enrolled": 30,
+     "enrolled": 31,
      "capacity": null,
      "meetings": [
       {
@@ -550,7 +550,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
-     "enrolled": 23,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {

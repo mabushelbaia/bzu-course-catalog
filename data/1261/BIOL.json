@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -60,7 +60,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Haya Jamal Issa Hamdat",
-     "enrolled": 21,
+     "enrolled": 22,
      "capacity": null,
      "meetings": [
       {
@@ -257,7 +257,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Majed Abdallatif Milhim",
-     "enrolled": 128,
+     "enrolled": 127,
      "capacity": null,
      "meetings": [
       {
@@ -280,7 +280,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamil Younis Mohammad Harb",
-     "enrolled": 99,
+     "enrolled": 101,
      "capacity": null,
      "meetings": [
       {
@@ -455,7 +455,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
-     "enrolled": 52,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {
@@ -494,7 +494,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Shadi Khalil Mohummad Hasan",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -710,7 +710,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Mustafa Saleh Swaileh",
-     "enrolled": 6,
+     "enrolled": 5,
      "capacity": null,
      "meetings": [
       {

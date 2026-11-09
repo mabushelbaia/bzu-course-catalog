@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -556,7 +556,7 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Rula M. S. Elkhalili",
-     "enrolled": 19,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -602,7 +602,7 @@
      "type": "Lab",
      "number": "5",
      "instructor": "Lara-Marian Rizek Naji Makhoul",
-     "enrolled": 17,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -774,7 +774,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed N. A. Abualrob",
-     "enrolled": 50,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -829,7 +829,7 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Meral G. K. Abuaita",
-     "enrolled": 25,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {

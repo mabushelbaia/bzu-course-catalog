@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -90,7 +90,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Feras Imad Rafeq Qanaze",
-     "enrolled": 47,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {
@@ -143,7 +143,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rania Daoud Abdel Latif Abu Hamdah",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -205,7 +205,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Ni'Meh Own Ibrahim Alshami",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -237,7 +237,7 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Bayan Kakhil Khalil Hasonah",
-     "enrolled": 23,
+     "enrolled": 22,
      "capacity": null,
      "meetings": [
       {
@@ -338,7 +338,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Feras Imad Rafeq Qanaze",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -368,7 +368,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Kamal A. K. Hamayel",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -481,7 +481,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dima Mahmoud Mustafa Jarar",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -511,7 +511,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Dima Mahmoud Mustafa Jarar",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -548,7 +548,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hosniyeh Emad Thiab Ladadweh",
-     "enrolled": 40,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -1055,7 +1055,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nemeh K. A. Bader",
-     "enrolled": 6,
+     "enrolled": 7,
      "capacity": null,
      "meetings": []
     },
@@ -1110,7 +1110,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed Amein Isaa Qawasmi",
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": []
     },
@@ -1165,7 +1165,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Haya Omran Jamal Sultan",
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": []
     },
@@ -1220,7 +1220,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Majd Yousef Ibrahim Tharifeh",
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": []
     },
@@ -1275,7 +1275,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Lilian Samir Elias Abu Hadba",
-     "enrolled": 6,
+     "enrolled": 7,
      "capacity": null,
      "meetings": []
     }

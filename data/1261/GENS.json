@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Beesan Nooraddeen Mohammed Arda",
-     "enrolled": 136,
+     "enrolled": 138,
      "capacity": null,
      "meetings": [
       {
@@ -141,7 +141,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Johnny Butros Hanna Stiban",
-     "enrolled": 30,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {

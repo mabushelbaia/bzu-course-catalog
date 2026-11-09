@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -621,7 +621,7 @@
      "type": "Discussion",
      "number": "11",
      "instructor": "Eman Abd Alrahem Dawod Raddad",
-     "enrolled": 43,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -637,7 +637,7 @@
      "type": "Discussion",
      "number": "12",
      "instructor": "Rula Imad Al-Din Said Bakeer",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -816,7 +816,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Abedalqader Ismail T.Amawi",
-     "enrolled": 163,
+     "enrolled": 164,
      "capacity": null,
      "meetings": [
       {
@@ -855,7 +855,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Rula Imad Al-Din Said Bakeer",
-     "enrolled": 46,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {
@@ -887,7 +887,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Rula Imad Al-Din Said Bakeer",
-     "enrolled": 33,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -933,15 +933,15 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hazem Sadee Abdul Rahman Abu Sara",
-     "enrolled": 56,
+     "enrolled": 61,
      "capacity": null,
      "meetings": [
       {
        "day": "T",
        "start": "14:00",
        "end": "15:50",
-       "room": "SCI116",
-       "building": "SCI"
+       "room": "S.Abdulhadi380",
+       "building": "S.Abdulhadi"
       }
      ]
     }
@@ -1280,7 +1280,7 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": null,
+     "instructor": "Zafer M. A. Hawash",
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -1303,16 +1303,16 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": null,
+     "instructor": "Zafer M. A. Hawash",
      "enrolled": 1,
      "capacity": null,
      "meetings": [
       {
        "day": "T",
-       "start": "08:00",
-       "end": "10:50",
-       "room": "N.Shaheen203",
-       "building": "N.Shaheen"
+       "start": "14:00",
+       "end": "16:50",
+       "room": "SCI119",
+       "building": "SCI"
       }
      ]
     }

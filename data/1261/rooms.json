@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -5530,6 +5530,14 @@
     "13:50"
    ],
    [
+    "MATH1322",
+    "1",
+    "Muna Khaled Khaleel Abu Alhalawa",
+    "M",
+    "08:00",
+    "09:50"
+   ],
+   [
     "BUSA130",
     "13",
     "Mohand M. B. Tuffaha",
@@ -7064,14 +7072,6 @@
     "10:50"
    ],
    [
-    "ENCE2330",
-    "1",
-    "Ghada Jamil Husni Karaki",
-    "T",
-    "11:00",
-    "12:20"
-   ],
-   [
     "ENMC5331",
     "1",
     "Ahmad Ismael Abd Al-Hafith Balasie",
@@ -7102,14 +7102,6 @@
     "R",
     "09:30",
     "10:50"
-   ],
-   [
-    "ENCE2330",
-    "1",
-    "Ghada Jamil Husni Karaki",
-    "R",
-    "11:00",
-    "12:20"
    ]
   ],
   "Aggad407": [
@@ -7243,6 +7235,14 @@
    ]
   ],
   "Aggad411": [
+   [
+    "ENET9334",
+    "1",
+    "Ahmed Mohammed Ahmed Abu Hanieh, Mohanad Oudah Mohammed Ismael",
+    "S",
+    "08:00",
+    "10:50"
+   ],
    [
     "ARAB1360",
     "28",
@@ -9166,14 +9166,6 @@
     "10:50"
    ],
    [
-    "ECON3311",
-    "2",
-    "Mohammad Nassar Ahmad Amreyeh",
-    "M",
-    "11:00",
-    "12:20"
-   ],
-   [
     "FINN4302",
     "2",
     "Jawana Abed Al-Hadi Odeh Awwad",
@@ -9768,14 +9760,6 @@
     "12:20"
    ],
    [
-    "ECON3311",
-    "1",
-    "Mohammad Nassar Ahmad Amreyeh",
-    "T",
-    "12:30",
-    "13:50"
-   ],
-   [
     "ENGC2400",
     "36",
     "Atiyyeh Hussein Atiyyeh Ismael",
@@ -9830,14 +9814,6 @@
     "R",
     "09:30",
     "10:50"
-   ],
-   [
-    "ECON3311",
-    "1",
-    "Mohammad Nassar Ahmad Amreyeh",
-    "R",
-    "12:30",
-    "13:50"
    ],
    [
     "ENGC2400",
@@ -10679,14 +10655,6 @@
    ],
    [
     "MUSI231",
-    "2",
-    "Mohammed I. M. Sulaiman",
-    "T",
-    "12:30",
-    "13:50"
-   ],
-   [
-    "MUSI231",
     "1",
     "Mohammed I. M. Sulaiman",
     "T",
@@ -10700,14 +10668,6 @@
     "R",
     "11:00",
     "12:20"
-   ],
-   [
-    "MUSI231",
-    "2",
-    "Mohammed I. M. Sulaiman",
-    "R",
-    "12:30",
-    "13:50"
    ],
    [
     "MUSI231",
@@ -10822,28 +10782,12 @@
     "10:50"
    ],
    [
-    "MUSI1310",
-    "1",
-    "Mahmoud Hassan Mahmoud Awad",
-    "T",
-    "14:00",
-    "15:20"
-   ],
-   [
     "MUSI435",
     "1",
     null,
     "W",
     "09:30",
     "10:50"
-   ],
-   [
-    "MUSI1310",
-    "1",
-    "Mahmoud Hassan Mahmoud Awad",
-    "R",
-    "14:00",
-    "15:20"
    ]
   ],
   "Aweidah309": [
@@ -11454,14 +11398,6 @@
   ],
   "Bahrain321": [
    [
-    "ENET9334",
-    "1",
-    "Ahmed Mohammed Ahmed Abu Hanieh, Mohanad Oudah Mohammed Ismael",
-    "S",
-    "08:00",
-    "10:50"
-   ],
-   [
     "ENME7327",
     "1",
     "Rashad Irsan Hassan Mustafa",
@@ -11602,6 +11538,14 @@
   ],
   "Bamieh002": [
    [
+    "PUBA130",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "S",
+    "12:00",
+    "12:50"
+   ],
+   [
     "POLS231",
     "1",
     "Imad Hassan Musa Ghayathah",
@@ -11616,6 +11560,14 @@
     "M",
     "10:00",
     "11:50"
+   ],
+   [
+    "PUBA130",
+    "1",
+    "Mohammad Wajeeh Mohammad Hanini",
+    "M",
+    "12:00",
+    "12:50"
    ],
    [
     "JURI233",
@@ -16528,7 +16480,7 @@
    [
     "COMP9318",
     "1",
-    "Mohammed A. T. Khalilia",
+    "Radi A. R. Jarrar, Mohammed A. T. Khalilia",
     "S",
     "14:00",
     "16:50"
@@ -18464,14 +18416,6 @@
     "16:50"
    ],
    [
-    "PHYS831",
-    "1",
-    null,
-    "T",
-    "08:00",
-    "10:50"
-   ],
-   [
     "ISST634",
     "1",
     null,
@@ -20300,6 +20244,14 @@
   ],
   "PNH201": [
    [
+    "NUTD4221",
+    "2",
+    "Ola Talal Abdallah Karmei",
+    "S",
+    "09:00",
+    "10:50"
+   ],
+   [
     "PHAR233",
     "1",
     "Rania Daoud Abdel Latif Abu Hamdah",
@@ -22010,6 +21962,14 @@
     "13:50"
    ],
    [
+    "PHYS2201",
+    "1",
+    "Hazem Sadee Abdul Rahman Abu Sara",
+    "T",
+    "14:00",
+    "15:50"
+   ],
+   [
     "MATH1431",
     "1",
     "Rasha Mohammad Amin Shadid",
@@ -23276,14 +23236,6 @@
     "13:50"
    ],
    [
-    "PHYS2201",
-    "1",
-    "Hazem Sadee Abdul Rahman Abu Sara",
-    "T",
-    "14:00",
-    "15:50"
-   ],
-   [
     "MATH234",
     "2",
     "Ahmad Yousef Rateb Al-Dweik",
@@ -23582,6 +23534,14 @@
     "T",
     "11:00",
     "12:20"
+   ],
+   [
+    "PHYS831",
+    "1",
+    "Zafer M. A. Hawash",
+    "T",
+    "14:00",
+    "16:50"
    ],
    [
     "ENGC2400",
@@ -24768,7 +24728,7 @@
    [
     "PHYS830",
     "2",
-    null,
+    "Zafer M. A. Hawash",
     "S",
     "14:00",
     "16:50"
@@ -25096,6 +25056,14 @@
     "T",
     "09:00",
     "09:50"
+   ],
+   [
+    "MATH1351",
+    "4",
+    "Batool Mohammad Moustafa Raddad",
+    "T",
+    "10:00",
+    "10:50"
    ],
    [
     "BIOL131",

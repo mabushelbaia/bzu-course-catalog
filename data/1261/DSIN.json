@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -511,7 +511,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Haider Fadel Nasereddin Nasereddin",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -543,7 +543,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Haider Fadel Nasereddin Nasereddin",
-     "enrolled": 19,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -566,7 +566,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Iyad Mahmoud Ahmad Issa",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -582,7 +582,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Iyad Mahmoud Ahmad Issa",
-     "enrolled": 18,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -697,7 +697,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Zeinat J. M. Qadamani",
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -913,7 +913,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shatha O. N. Safi",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -76,7 +76,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Muain Abedl Aziz Qasem Jawabrah",
-     "enrolled": 19,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -177,7 +177,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
-     "enrolled": 9,
+     "enrolled": 10,
      "capacity": null,
      "meetings": [
       {
@@ -200,7 +200,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Ali Abdel Fattah Numan",
-     "enrolled": 16,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {
@@ -223,7 +223,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
-     "enrolled": 9,
+     "enrolled": 10,
      "capacity": null,
      "meetings": [
       {
@@ -239,7 +239,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
-     "enrolled": 9,
+     "enrolled": 10,
      "capacity": null,
      "meetings": [
       {
@@ -262,7 +262,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nidal Jawdat Masoud Mahmoud",
-     "enrolled": 9,
+     "enrolled": 10,
      "capacity": null,
      "meetings": [
       {

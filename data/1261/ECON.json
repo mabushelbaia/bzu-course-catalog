@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
-     "enrolled": 152,
+     "enrolled": 150,
      "capacity": null,
      "meetings": [
       {
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Shireen Mustafa Kamel Al Basha",
-     "enrolled": 132,
+     "enrolled": 133,
      "capacity": null,
      "meetings": [
       {
@@ -104,7 +104,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
-     "enrolled": 127,
+     "enrolled": 128,
      "capacity": null,
      "meetings": [
       {
@@ -127,7 +127,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
-     "enrolled": 149,
+     "enrolled": 151,
      "capacity": null,
      "meetings": [
       {
@@ -157,7 +157,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
-     "enrolled": 79,
+     "enrolled": 80,
      "capacity": null,
      "meetings": [
       {
@@ -233,7 +233,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Najibeh Mohammad Saleh Morar",
-     "enrolled": 29,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -256,7 +256,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohanad Oudah Mohammed Ismael",
-     "enrolled": 29,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -279,7 +279,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ijtiead A. H. Abu Thabet",
-     "enrolled": 29,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -348,7 +348,7 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Yousef Suleiman Yousef Daoud",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -371,7 +371,7 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Mahmoud Othman Yousef Khaseeb",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -394,7 +394,7 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
-     "enrolled": 28,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -417,7 +417,7 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Sana' Jamil Abdallah Atari",
-     "enrolled": 30,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -507,14 +507,14 @@
        "day": "T",
        "start": "12:30",
        "end": "13:50",
-       "room": "Al-Juraysi229",
+       "room": null,
        "building": null
       },
       {
        "day": "R",
        "start": "12:30",
        "end": "13:50",
-       "room": "Al-Juraysi229",
+       "room": null,
        "building": null
       }
      ]
@@ -523,7 +523,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
-     "enrolled": 56,
+     "enrolled": 58,
      "capacity": null,
      "meetings": [
       {
@@ -537,7 +537,7 @@
        "day": "M",
        "start": "11:00",
        "end": "12:20",
-       "room": "Al-Juraysi221",
+       "room": null,
        "building": null
       }
      ]
@@ -599,7 +599,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohanad Oudah Mohammed Ismael",
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -652,7 +652,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Jamil Abdallah Atari",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -675,7 +675,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sana' Jamil Abdallah Atari",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {

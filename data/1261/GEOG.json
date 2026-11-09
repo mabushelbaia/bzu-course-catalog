@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Said Naji Herzallah",
-     "enrolled": 42,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -44,7 +44,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Othman Ali Othman Sharkas",
-     "enrolled": 47,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -92,7 +92,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Othman Ali Othman Sharkas",
-     "enrolled": 27,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -108,7 +108,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Othman Ali Othman Sharkas",
-     "enrolled": 40,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -232,7 +232,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
-     "enrolled": 17,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -248,7 +248,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
-     "enrolled": 17,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -271,7 +271,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalil Abdullah Mutawe' Amro",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -294,7 +294,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khalil Abdullah Mutawe' Amro",
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -340,7 +340,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Othman Ali Othman Sharkas",
-     "enrolled": 48,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {

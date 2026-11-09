@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
-     "enrolled": 127,
+     "enrolled": 128,
      "capacity": null,
      "meetings": [
       {
@@ -74,7 +74,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Katya N. M. Hussary",
-     "enrolled": 142,
+     "enrolled": 144,
      "capacity": null,
      "meetings": [
       {
@@ -97,7 +97,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Seri Mohammad Jamil Khalil Ghanem",
-     "enrolled": 158,
+     "enrolled": 163,
      "capacity": null,
      "meetings": [
       {
@@ -120,7 +120,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
-     "enrolled": 54,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
@@ -173,7 +173,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Osama M. Y. Sanadaah",
-     "enrolled": 130,
+     "enrolled": 131,
      "capacity": null,
      "meetings": [
       {
@@ -203,7 +203,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Seri Mohammad Jamil Khalil Ghanem",
-     "enrolled": 50,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -256,7 +256,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sajed Y. M. Sharif",
-     "enrolled": 40,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -551,7 +551,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Diyama Khaled Khamees Abu Laban",
-     "enrolled": 57,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -740,7 +740,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Osama M. Y. Sanadaah",
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {

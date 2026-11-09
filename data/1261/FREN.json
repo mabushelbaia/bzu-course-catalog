@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -58,7 +58,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Said Hilmi Mohammad Kalil",
-     "enrolled": 9,
+     "enrolled": 6,
      "capacity": null,
      "meetings": [
       {
@@ -148,7 +148,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed Youssef Odeh Jawaada",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -309,7 +309,7 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Hanine J. M. Hmouz",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {

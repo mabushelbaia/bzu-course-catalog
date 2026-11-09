@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -83,7 +83,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Jaber Jamil Ibrahim Hajali",
-     "enrolled": 22,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -99,7 +99,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Jaber Jamil Ibrahim Hajali",
-     "enrolled": 21,
+     "enrolled": 22,
      "capacity": null,
      "meetings": [
       {
@@ -241,7 +241,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Suzan Khamees Hussein Edkaidek",
-     "enrolled": 15,
+     "enrolled": 14,
      "capacity": null,
      "meetings": [
       {
@@ -273,7 +273,7 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Suzan Khamees Hussein Edkaidek",
-     "enrolled": 19,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {

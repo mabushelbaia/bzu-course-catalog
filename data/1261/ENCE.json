@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -83,7 +83,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
-     "enrolled": 18,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {
@@ -129,7 +129,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdelrahman I. S. Hamdan",
-     "enrolled": 46,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -182,7 +182,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khaled Adeeb Zaki Abaza",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -258,22 +258,22 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ghada Jamil Husni Karaki",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
        "day": "T",
        "start": "11:00",
        "end": "12:20",
-       "room": "Aggad403",
-       "building": "Aggad"
+       "room": null,
+       "building": null
       },
       {
        "day": "R",
        "start": "11:00",
        "end": "12:20",
-       "room": "Aggad403",
-       "building": "Aggad"
+       "room": null,
+       "building": null
       }
      ]
     }
@@ -318,7 +318,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farhat M. M. Majadba",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -341,7 +341,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Farhat M. M. Majadba",
-     "enrolled": 41,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -518,7 +518,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
-     "enrolled": 14,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -587,7 +587,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
-     "enrolled": 33,
+     "enrolled": 34,
      "capacity": null,
      "meetings": [
       {
@@ -746,7 +746,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Adeeb Zaki Abaza",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {

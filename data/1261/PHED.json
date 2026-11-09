@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Ali Mahmoud Mallouh",
-     "enrolled": 30,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -203,7 +203,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
-     "enrolled": 51,
+     "enrolled": 52,
      "capacity": null,
      "meetings": [
       {
@@ -267,7 +267,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Tareq Gazi Ayesh Raja",
-     "enrolled": 27,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -343,7 +343,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Ali Mahmoud Mallouh",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -442,7 +442,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tareq Gazi Ayesh Raja",
-     "enrolled": 25,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -472,7 +472,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud W. M. Kaied",
-     "enrolled": 28,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -495,7 +495,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud W. M. Kaied",
-     "enrolled": 29,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -594,7 +594,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Iyad Abdallh Hassan Yousef",
-     "enrolled": 25,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -663,7 +663,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mahmoud W. M. Kaied",
-     "enrolled": 27,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {
@@ -716,7 +716,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Waleed Mohammad Hassan Shaheen",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -785,7 +785,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
-     "enrolled": 25,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -808,7 +808,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem Mustafa Mohammad Hamad",
-     "enrolled": 55,
+     "enrolled": 56,
      "capacity": null,
      "meetings": [
       {
@@ -861,7 +861,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rafi Hussien Mahmoud Asfour",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -891,7 +891,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
-     "enrolled": 9,
+     "enrolled": 8,
      "capacity": null,
      "meetings": [
       {
@@ -907,7 +907,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
-     "enrolled": 13,
+     "enrolled": 14,
      "capacity": null,
      "meetings": [
       {
@@ -930,7 +930,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
-     "enrolled": 35,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -953,7 +953,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Waleed Mohammad Hassan Shaheen",
-     "enrolled": 6,
+     "enrolled": 4,
      "capacity": null,
      "meetings": []
     },
@@ -961,7 +961,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tareq Gazi Ayesh Raja",
-     "enrolled": 5,
+     "enrolled": 4,
      "capacity": null,
      "meetings": []
     },
@@ -969,7 +969,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Iyad Abdallh Hassan Yousef",
-     "enrolled": 2,
+     "enrolled": 3,
      "capacity": null,
      "meetings": []
     },
@@ -977,7 +977,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Khaled Ali Mahmoud Mallouh",
-     "enrolled": 3,
+     "enrolled": 4,
      "capacity": null,
      "meetings": []
     },
@@ -985,7 +985,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Khaled Ali Mahmoud Mallouh",
-     "enrolled": 2,
+     "enrolled": 3,
      "capacity": null,
      "meetings": []
     }
@@ -1069,7 +1069,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
-     "enrolled": 27,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {
@@ -1085,7 +1085,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -1108,7 +1108,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud W. M. Kaied",
-     "enrolled": 8,
+     "enrolled": 9,
      "capacity": null,
      "meetings": [
       {

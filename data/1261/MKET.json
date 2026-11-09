@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -74,7 +74,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Dana Khaled Kamal Qaimary Siaj",
-     "enrolled": 128,
+     "enrolled": 127,
      "capacity": null,
      "meetings": [
       {
@@ -127,7 +127,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Suzan Jamal Mousa Shkukani",
-     "enrolled": 127,
+     "enrolled": 129,
      "capacity": null,
      "meetings": [
       {
@@ -203,7 +203,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Adnan Sufian Muawiya Asali",
-     "enrolled": 48,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -226,7 +226,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Samah Ahmad Hamed Abu Assab",
-     "enrolled": 53,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -316,7 +316,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hanin S. J. Ramahi",
-     "enrolled": 43,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -655,7 +655,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shadi Ismail Taha Abu Rmailah, Dana Khaled Kamal Qaimary Siaj",
-     "enrolled": 48,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -708,7 +708,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Amal Wasef Mousa Nazzal",
-     "enrolled": 14,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {

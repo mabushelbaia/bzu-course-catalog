@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman Abdelmajeed Saleem Rezeqallah",
-     "enrolled": 85,
+     "enrolled": 84,
      "capacity": null,
      "meetings": [
       {
@@ -263,7 +263,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Amjad Kamel Hasan Shehadeh",
-     "enrolled": 25,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -422,7 +422,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fattom Saleh Mohammad Amara",
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -475,7 +475,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
-     "enrolled": 34,
+     "enrolled": 33,
      "capacity": null,
      "meetings": [
       {
@@ -521,7 +521,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fatma K. M. Mohammed",
-     "enrolled": 24,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -613,7 +613,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
-     "enrolled": 4,
+     "enrolled": 5,
      "capacity": null,
      "meetings": [
       {
@@ -1040,7 +1040,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bihan Ahmad Taher Al_Qaimari",
-     "enrolled": 3,
+     "enrolled": 2,
      "capacity": null,
      "meetings": []
     }

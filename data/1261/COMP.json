@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "prefix": "COMP",
  "counts": {
-  "courses": 36,
-  "sections": 212,
+  "courses": 37,
+  "sections": 219,
   "instructors": 50,
   "rooms": 31
  },
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
-     "enrolled": 83,
+     "enrolled": 84,
      "capacity": null,
      "meetings": [
       {
@@ -44,7 +44,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Haneen Abd Allatif Mohammed Liqreina",
-     "enrolled": 12,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
@@ -60,7 +60,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Shurooq Rafeeq Ameen Morrar",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -92,7 +92,7 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Yaman Monther Moneer Salem",
-     "enrolled": 27,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -163,7 +163,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -307,7 +307,7 @@
      "type": "Lab",
      "number": "10",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
-     "enrolled": 27,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -433,7 +433,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ruba N. S. Awadallah",
-     "enrolled": 47,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {
@@ -657,7 +657,7 @@
      "type": "Lab",
      "number": "8",
      "instructor": "Ruba N. S. Awadallah",
-     "enrolled": 18,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -1062,7 +1062,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Rashid F. R. Yousef",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -1078,7 +1078,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -1110,7 +1110,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
-     "enrolled": 26,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {
@@ -1126,7 +1126,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
-     "enrolled": 19,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -1206,7 +1206,7 @@
      "type": "Lab",
      "number": "7",
      "instructor": "Rashid F. R. Yousef",
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -1254,7 +1254,7 @@
      "type": "Lab",
      "number": "10",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
-     "enrolled": 25,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -1309,7 +1309,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yousef Asad Fares Hassouneh",
-     "enrolled": 43,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -1373,7 +1373,7 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Yousef Asad Fares Hassouneh",
-     "enrolled": 26,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {
@@ -1474,7 +1474,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ruwa' Fayeq Suliman Abu Hweidi",
-     "enrolled": 39,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -1566,7 +1566,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Yousef W. S. Sabbah",
-     "enrolled": 46,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -1649,7 +1649,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad F. Y. Sabbah",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -1833,7 +1833,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ihab Basheer Mohammed Alshaer",
-     "enrolled": 19,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -1865,7 +1865,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Hafez Ali Hafez Barghouthi",
-     "enrolled": 19,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -1911,7 +1911,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad F. A. Kharmah",
-     "enrolled": 45,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -1934,7 +1934,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Bassem Sami Ahmad Sayrafi",
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -1980,7 +1980,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Bassem Sami Ahmad Sayrafi",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -2003,7 +2003,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Mohammed A. A. Husseinali",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -2148,7 +2148,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Iyad Fawzi Sabri Jaber",
-     "enrolled": 46,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -2900,7 +2900,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hafez Ali Hafez Barghouthi",
-     "enrolled": 41,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -2923,7 +2923,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hafez Ali Hafez Barghouthi",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -3181,7 +3181,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad So'Ud Salim Hamo",
-     "enrolled": 56,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
@@ -3286,6 +3286,69 @@
    ]
   },
   {
+   "code": "COMP9303",
+   "prefix": "COMP",
+   "name": "DIRECTED STUDY IN COMPUTER SCIENCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": null,
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
    "code": "COMP9306",
    "prefix": "COMP",
    "name": "RESEARCH METHODS",
@@ -3316,7 +3379,7 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Mohammed A. T. Khalilia",
+     "instructor": "Radi A. R. Jarrar, Mohammed A. T. Khalilia",
      "enrolled": 7,
      "capacity": null,
      "meetings": [

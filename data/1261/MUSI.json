@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -184,15 +184,15 @@
        "day": "T",
        "start": "14:00",
        "end": "15:20",
-       "room": "Aweidah305",
-       "building": "Aweidah"
+       "room": null,
+       "building": null
       },
       {
        "day": "R",
        "start": "14:00",
        "end": "15:20",
-       "room": "Aweidah305",
-       "building": "Aweidah"
+       "room": null,
+       "building": null
       }
      ]
     }
@@ -377,7 +377,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed I. M. Sulaiman",
-     "enrolled": 55,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {
@@ -400,22 +400,22 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed I. M. Sulaiman",
-     "enrolled": 55,
+     "enrolled": 57,
      "capacity": null,
      "meetings": [
       {
        "day": "T",
        "start": "12:30",
        "end": "13:50",
-       "room": "Aweidah215",
-       "building": "Aweidah"
+       "room": null,
+       "building": null
       },
       {
        "day": "R",
        "start": "12:30",
        "end": "13:50",
-       "room": "Aweidah215",
-       "building": "Aweidah"
+       "room": null,
+       "building": null
       }
      ]
     },
@@ -423,7 +423,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed I. M. Sulaiman",
-     "enrolled": 55,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {

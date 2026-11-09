@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 176,
+     "enrolled": 177,
      "capacity": null,
      "meetings": [
       {
@@ -60,7 +60,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Aya Amjad Omar Dahadha",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -76,7 +76,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Raghad Abd Elhameed Mohammad Mohammad",
-     "enrolled": 39,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -108,7 +108,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Abedalkreem Ibrahem Abedalkreem Qawareeq",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -299,7 +299,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 103,
+     "enrolled": 104,
      "capacity": null,
      "meetings": [
       {
@@ -315,7 +315,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Aya Amjad Omar Dahadha",
-     "enrolled": 21,
+     "enrolled": 22,
      "capacity": null,
      "meetings": [
       {
@@ -331,7 +331,7 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Abedalkreem Ibrahem Abedalkreem Qawareeq",
-     "enrolled": 37,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -347,7 +347,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Qamar Eyad Mahmmoud Barghouthi",
-     "enrolled": 45,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -370,7 +370,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Mahmoud Abdl Fatah Mesleh",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {

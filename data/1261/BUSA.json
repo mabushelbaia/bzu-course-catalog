@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-08T03:34:41+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -120,7 +120,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Suzan Jamal Mousa Shkukani",
-     "enrolled": 129,
+     "enrolled": 131,
      "capacity": null,
      "meetings": [
       {
@@ -143,7 +143,7 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Mohand M. B. Tuffaha",
-     "enrolled": 126,
+     "enrolled": 127,
      "capacity": null,
      "meetings": [
       {
@@ -173,7 +173,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maisa Yacoub Naoum Burbar",
-     "enrolled": 126,
+     "enrolled": 127,
      "capacity": null,
      "meetings": [
       {
@@ -408,7 +408,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohand M. B. Tuffaha",
-     "enrolled": 26,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {
@@ -560,7 +560,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abeer Abdallah Ahmad Dirbas",
-     "enrolled": 58,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -703,7 +703,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Asma'A Mahmoud Abdel-Kareem Qasqas",
-     "enrolled": 63,
+     "enrolled": 64,
      "capacity": null,
      "meetings": [
       {
@@ -763,7 +763,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mira K. J. Almukarker",
-     "enrolled": 52,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {
@@ -786,7 +786,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mira K. J. Almukarker",
-     "enrolled": 38,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -892,7 +892,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rami Basem Ibrahim Kashou'",
-     "enrolled": 44,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -945,7 +945,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Suzan Jamal Mousa Shkukani",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-09T11:34:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Bashar Shukri Hanna Al Qara'",
-     "enrolled": 130,
+     "enrolled": 131,
      "capacity": null,
      "meetings": [
       {
@@ -74,7 +74,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Karim Sani Nasib Al-Bitar",
-     "enrolled": 132,
+     "enrolled": 133,
      "capacity": null,
      "meetings": [
       {
@@ -120,7 +120,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Zeyad Fawaz Fouzi Munawer",
-     "enrolled": 133,
+     "enrolled": 135,
      "capacity": null,
      "meetings": [
       {
@@ -143,7 +143,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Yousef Mohammad Yousef Hassan",
-     "enrolled": 57,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -196,7 +196,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Karim Sani Nasib Al-Bitar",
-     "enrolled": 123,
+     "enrolled": 126,
      "capacity": null,
      "meetings": [
       {
@@ -226,7 +226,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
-     "enrolled": 56,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
@@ -295,7 +295,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Suha Mohammad Tayseir Ya'Qoub Zalloum",
-     "enrolled": 52,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -348,7 +348,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamal Fadel Daoud Fawadleh",
-     "enrolled": 42,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -454,7 +454,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Huthayfa N. I. Jabari",
-     "enrolled": 52,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {
@@ -484,7 +484,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Karim Sani Nasib Al-Bitar",
-     "enrolled": 50,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -530,7 +530,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Bashar Shukri Hanna Al Qara'",
-     "enrolled": 50,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -553,7 +553,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Bashar Shukri Hanna Al Qara'",
-     "enrolled": 45,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -689,7 +689,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Jamil Mohammad Milhem",
-     "enrolled": 58,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -924,7 +924,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Adnan M. A. Humos",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
