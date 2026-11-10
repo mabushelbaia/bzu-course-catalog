@@ -189,3 +189,76 @@ def term_dates(events: list[tuple[str, str]], term: str) -> dict:
                 out[key] = date
                 break
     return out
+
+
+# --- Faculties and departments ----------------------------------------------------------------
+# Ritaj's unit tree (hemis/bu/hierarchy) nests faculties, departments and, under each department,
+# its programs: "Bachelor Level Courses of Computer Engineering ENCS". The last word of a program is
+# its course prefix. Some programs sit straight under a faculty, or at the top of the tree.
+
+HIERARCHY_URL = "https://ritaj.birzeit.edu/hemis/bu/hierarchy?mode=CB&lang=en"
+
+_PROGRAM = re.compile(r"^(?P<level>.+?) Level Courses of (?P<name>.+?)\s+(?P<prefix>[A-Z]{2,6})$")
+
+
+_SMALL = {"and", "of", "the", "in", "for", "&"}
+
+
+def _tidy(name: str) -> str:
+    """Ritaj's names come in mixed case ("COMPUTER ENGINEERING", "Electrical and computer Engineering"):
+    capitalise every word but the small ones."""
+    words = " ".join(name.split()).split(" ")
+    return " ".join(w.lower() if i and w.lower() in _SMALL else w[:1].upper() + (w[1:].lower() if w.isupper() else w[1:])
+                    for i, w in enumerate(words))
+
+
+def _unit_label(li) -> str:
+    head = li.find(class_="tree_header")
+    if head is None:
+        return ""
+    if head.name != "div" or head.find("a"):
+        head = head.find("a") or head
+    return " ".join(head.get_text(" ", strip=True).split())
+
+
+def _program(uid: str, label: str) -> dict | None:
+    m = _PROGRAM.match(label)
+    if not m:
+        return None  # a program with no course prefix (e.g. an associate diploma) has nothing to show
+    return {"id": uid, "level": m["level"], "name": _tidy(m["name"]), "prefix": m["prefix"]}
+
+
+def parse_hierarchy(html: str) -> dict:
+    """Faculties, their departments and each department's programs (with course prefixes).
+
+    Programs that sit straight under a faculty go in the faculty's own "programs"; ones at the top of
+    the tree (general university courses) in the top-level "programs".
+    """
+    soup = BeautifulSoup(html, "lxml")
+    tree = soup.find(id="treeview_div")
+    top = tree.find("ul", recursive=False) if tree else None
+    out = {"faculties": [], "programs": []}
+    if top is None:
+        return out
+
+    def units(ul):
+        for li in ul.find_all("li", recursive=False):
+            yield li.get("id") or "", _unit_label(li), li.find("ul", recursive=False)
+
+    for fid, fname, fsub in units(top):
+        if fsub is None:
+            p = _program(fid, fname)
+            if p:
+                out["programs"].append(p)
+            continue
+        faculty = {"id": fid, "name": _tidy(fname), "departments": [], "programs": []}
+        for did, dname, dsub in units(fsub):
+            if dsub is None:
+                p = _program(did, dname)
+                if p:
+                    faculty["programs"].append(p)
+                continue
+            programs = [p for uid, label, _ in units(dsub) if (p := _program(uid, label))]
+            faculty["departments"].append({"id": did, "name": _tidy(dname), "programs": programs})
+        out["faculties"].append(faculty)
+    return out

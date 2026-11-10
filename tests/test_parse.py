@@ -63,3 +63,19 @@ def test_rooms_cover_every_department():
     prefixes = {r[0].rstrip("0123456789") for rs in rooms.values() for r in rs}
     assert len(prefixes) > 10  # not just one department
     assert all(len(r) == 6 and r[4] < r[5] for rs in rooms.values() for r in rs)
+
+
+def test_departments():
+    from bzu_catalog.parse import parse_hierarchy
+
+    tree = parse_hierarchy((Path(__file__).parent / "fixtures" / "hierarchy.html").read_text(encoding="utf-8"))
+    eng = next(f for f in tree["faculties"] if f["id"] == "7253")
+    assert eng["name"] == "Faculty of Engineering and Technology"
+    ece = next(d for d in eng["departments"] if d["id"] == "7261")
+    assert ece["name"] == "Department of Electrical and Computer Engineering"
+    assert [p["prefix"] for p in ece["programs"]] == ["ENEE", "ENCS", "MSCE"]
+    assert ece["programs"][1] == {"id": "10759", "level": "Bachelor", "name": "Computer Engineering", "prefix": "ENCS"}
+    # Programs straight under the faculty, and at the top of the tree
+    assert {p["prefix"] for p in eng["programs"]} == {"JMEE", "MSAI"}
+    assert [p["prefix"] for p in tree["programs"]] == ["UNIV"]
+    assert len(tree["faculties"]) == 9

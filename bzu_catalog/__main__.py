@@ -7,6 +7,7 @@ Writes, per semester:
     data/<term>.json              every course, section and meeting
     data/<term>/<PREFIX>.json     the same, one file per course prefix (e.g. ENCS) for small static sites
     data/<term>/rooms.json        every department's meetings grouped by room (rooms are shared)
+and data/departments.json: Ritaj's faculties and departments with each one's programs and course prefixes,
 and data/index.json listing the semesters, their counts, when their data last changed, their
 teaching and exam dates from Ritaj's academic calendar, the semester in progress (current), and
 when Ritaj was last checked (checked_at, stamped on every scrape). A semester's files are only
@@ -21,7 +22,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from . import fetch as fetching
-from .parse import CALENDAR_URL, DAYS, academic_year, parse_calendar, parse_courses, parse_terms, shown_term, term_dates
+from .parse import CALENDAR_URL, DAYS, HIERARCHY_URL, academic_year, parse_calendar, parse_courses, parse_hierarchy, parse_terms, shown_term, term_dates
 
 
 def now() -> str:
@@ -161,10 +162,37 @@ def cmd_scrape(args) -> None:
         done.append(code)
     index["published_terms"] = done
     add_calendar(index, done)
+    write_departments(out)
     # Stamped on every run, changed or not: shows the data is still being checked, and the daily
     # commit keeps the repo active so GitHub never pauses the scheduled workflow (it does after 60 quiet days)
     index["checked_at"] = now()
     save_index(out, index)
+
+
+def write_departments(out: Path, html: str | None = None, source: str | None = None) -> None:
+    """data/departments.json: faculties, departments and their course prefixes, from Ritaj's unit tree.
+
+    Rewritten only when the tree changed. A tree that can't be fetched or parses to nothing keeps the
+    last file; it never fails the scrape.
+    """
+    try:
+        if html is None:
+            source, html = fetching.fetch_hierarchy()
+    except fetching.FetchError as e:
+        print(f"  departments: skipped ({e})")
+        return
+    tree = parse_hierarchy(html)
+    if not tree["faculties"]:
+        print("  departments: parsed none, kept the last file")
+        return
+    path = out / "departments.json"
+    old = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    if digest({k: old.get(k) for k in tree}) == digest(tree):
+        print("  departments: unchanged")
+        return
+    dump(path, {"updated_at": now(), "source": source, **tree})
+    n = sum(len(f["departments"]) for f in tree["faculties"])
+    print(f"  departments: written ({len(tree['faculties'])} faculties, {n} departments)")
 
 
 def add_calendar(index: dict, terms: list[str]) -> None:
@@ -223,6 +251,10 @@ def main(argv=None) -> None:
     q.add_argument("page")
     q.add_argument("--out", default="data")
     q.set_defaults(func=cmd_parse)
+    d = sub.add_parser("departments", help="parse a saved unit tree page (hemis/bu/hierarchy) into departments.json")
+    d.add_argument("page")
+    d.add_argument("--out", default="data")
+    d.set_defaults(func=lambda a: write_departments(Path(a.out), Path(a.page).read_text(encoding="utf-8"), HIERARCHY_URL))
     args = p.parse_args(argv)
     args.func(args)
 

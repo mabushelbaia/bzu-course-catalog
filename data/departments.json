@@ -1,0 +1,988 @@
+{
+ "updated_at": "2026-11-10T19:01:23+00:00",
+ "source": "https://ritaj.birzeit.edu/hemis/bu/hierarchy?mode=CB&lang=en",
+ "faculties": [
+  {
+   "id": "103",
+   "name": "Faculty of Arts",
+   "departments": [
+    {
+     "id": "102",
+     "name": "Department of Arabic Language and Literature",
+     "programs": [
+      {
+       "id": "269",
+       "level": "Bachelor",
+       "name": "Arabic Language and Literature",
+       "prefix": "ARAB"
+      },
+      {
+       "id": "5728",
+       "level": "Masters",
+       "name": "Arabic Language and Literature",
+       "prefix": "ARAB"
+      }
+     ]
+    },
+    {
+     "id": "118",
+     "name": "Department of Philosophy and Cultural Studies",
+     "programs": [
+      {
+       "id": "329",
+       "level": "Bachelor",
+       "name": "Cultural Studies",
+       "prefix": "CULS"
+      },
+      {
+       "id": "16302",
+       "level": "Masters",
+       "name": "Critical Cultural Studies",
+       "prefix": "CCST"
+      }
+     ]
+    },
+    {
+     "id": "129",
+     "name": "Department of Languages and Translation",
+     "programs": [
+      {
+       "id": "333",
+       "level": "Bachelor",
+       "name": "English Language",
+       "prefix": "ENGC"
+      },
+      {
+       "id": "337",
+       "level": "Bachelor",
+       "name": "Hebrew Language",
+       "prefix": "HEBR"
+      },
+      {
+       "id": "1621",
+       "level": "Bachelor",
+       "name": "Spanish Language",
+       "prefix": "SPAN"
+      },
+      {
+       "id": "7653",
+       "level": "Bachelor",
+       "name": "Turkish Language",
+       "prefix": "TURK"
+      },
+      {
+       "id": "7993",
+       "level": "Bachelor",
+       "name": "German Language",
+       "prefix": "GERM"
+      },
+      {
+       "id": "13880",
+       "level": "Bachelor",
+       "name": "Translation",
+       "prefix": "TRAN"
+      }
+     ]
+    },
+    {
+     "id": "130",
+     "name": "Department of English Language and Literature",
+     "programs": [
+      {
+       "id": "280",
+       "level": "Bachelor",
+       "name": "English Language and Literature",
+       "prefix": "ENGL"
+      }
+     ]
+    },
+    {
+     "id": "136",
+     "name": "Department of Geography",
+     "programs": [
+      {
+       "id": "282",
+       "level": "Bachelor",
+       "name": "Geography",
+       "prefix": "GEOG"
+      },
+      {
+       "id": "14899",
+       "level": "Bachelor",
+       "name": "Geoinformatics",
+       "prefix": "GEOI"
+      }
+     ]
+    },
+    {
+     "id": "148",
+     "name": "Department of History and Archaeology",
+     "programs": [
+      {
+       "id": "347",
+       "level": "Bachelor",
+       "name": "Palestinian Archaeology",
+       "prefix": "ARCH"
+      },
+      {
+       "id": "348",
+       "level": "Bachelor",
+       "name": "History",
+       "prefix": "HIST"
+      }
+     ]
+    },
+    {
+     "id": "160",
+     "name": "Department of Media",
+     "programs": [
+      {
+       "id": "9094",
+       "level": "Bachelor",
+       "name": "Media",
+       "prefix": "MDJO"
+      },
+      {
+       "id": "15969",
+       "level": "Bachelor",
+       "name": "Strategic Communication",
+       "prefix": "COMM"
+      },
+      {
+       "id": "18962",
+       "level": "Masters",
+       "name": "Digital Media",
+       "prefix": "MDGD"
+      }
+     ]
+    },
+    {
+     "id": "702",
+     "name": "Department of French Language",
+     "programs": [
+      {
+       "id": "279",
+       "level": "Bachelor",
+       "name": "French Language",
+       "prefix": "FREN"
+      },
+      {
+       "id": "339",
+       "level": "Bachelor",
+       "name": "French Translation and Interpreting",
+       "prefix": "TIFR"
+      }
+     ]
+    },
+    {
+     "id": "6629",
+     "name": "Department of Social and Behavioral Science",
+     "programs": [
+      {
+       "id": "165",
+       "level": "Masters",
+       "name": "Sociology",
+       "prefix": "SOCI"
+      },
+      {
+       "id": "288",
+       "level": "Bachelor",
+       "name": "Sociology",
+       "prefix": "SOCI"
+      },
+      {
+       "id": "367",
+       "level": "Bachelor",
+       "name": "Anthropology",
+       "prefix": "ANTH"
+      },
+      {
+       "id": "2325",
+       "level": "Masters",
+       "name": "Community Psychology",
+       "prefix": "CPSY"
+      },
+      {
+       "id": "2788",
+       "level": "Bachelor",
+       "name": "Psychology",
+       "prefix": "PSYC"
+      }
+     ]
+    }
+   ],
+   "programs": [
+    {
+     "id": "166",
+     "level": "Bachelor",
+     "name": "Palestine and Arabic Studies",
+     "prefix": "ARSK"
+    },
+    {
+     "id": "201",
+     "level": "Bachelor",
+     "name": "Women's Studies",
+     "prefix": "WOMS"
+    }
+   ]
+  },
+  {
+   "id": "113",
+   "name": "Faculty of Business and Economics",
+   "departments": [
+    {
+     "id": "100",
+     "name": "Department of Accounting",
+     "programs": [
+      {
+       "id": "268",
+       "level": "Bachelor",
+       "name": "Accounting",
+       "prefix": "ACCT"
+      },
+      {
+       "id": "15059",
+       "level": "Masters",
+       "name": "Accounting and Auditing",
+       "prefix": "ACCA"
+      }
+     ]
+    },
+    {
+     "id": "108",
+     "name": "Department of Business Administration",
+     "programs": [
+      {
+       "id": "324",
+       "level": "Bachelor",
+       "name": "Business Administration",
+       "prefix": "BUSA"
+      },
+      {
+       "id": "662",
+       "level": "Bachelor",
+       "name": "Marketing",
+       "prefix": "MKET"
+      },
+      {
+       "id": "17482",
+       "level": "Bachelor",
+       "name": "Entrepreneurship and Society",
+       "prefix": "ENTR"
+      }
+     ]
+    },
+    {
+     "id": "123",
+     "name": "Department of Economics",
+     "programs": [
+      {
+       "id": "159",
+       "level": "Masters",
+       "name": "Economics",
+       "prefix": "ECON"
+      },
+      {
+       "id": "275",
+       "level": "Bachelor",
+       "name": "Economics",
+       "prefix": "ECON"
+      }
+     ]
+    },
+    {
+     "id": "560",
+     "name": "Department of Finance and Banking",
+     "programs": [
+      {
+       "id": "325",
+       "level": "Bachelor",
+       "name": "Finance and Banking",
+       "prefix": "FINN"
+      },
+      {
+       "id": "18402",
+       "level": "Bachelor",
+       "name": "Risk Analytics and Actuarial Science",
+       "prefix": "ACFI"
+      }
+     ]
+    }
+   ],
+   "programs": [
+    {
+     "id": "156",
+     "level": "Masters",
+     "name": "Business Administration",
+     "prefix": "BUSA"
+    },
+    {
+     "id": "15301",
+     "level": "Masters",
+     "name": "Supply Chain Management",
+     "prefix": "MSCM"
+    },
+    {
+     "id": "18463",
+     "level": "Masters",
+     "name": "Data Analytics for Business",
+     "prefix": "MDAB"
+    }
+   ]
+  },
+  {
+   "id": "138",
+   "name": "Faculty of Graduate Studies",
+   "departments": [],
+   "programs": [
+    {
+     "id": "133",
+     "level": "Masters",
+     "name": "Water and Environmental Engineering",
+     "prefix": "WEEN"
+    },
+    {
+     "id": "149",
+     "level": "Masters",
+     "name": "Community and Public Health",
+     "prefix": "HLTH"
+    },
+    {
+     "id": "152",
+     "level": "Masters",
+     "name": "International Studies",
+     "prefix": "INST"
+    },
+    {
+     "id": "158",
+     "level": "Masters",
+     "name": "Democracy and Human Rights",
+     "prefix": "DMHR"
+    },
+    {
+     "id": "480",
+     "level": "Masters",
+     "name": "Gender and Development Studies",
+     "prefix": "GADS"
+    },
+    {
+     "id": "7069",
+     "level": "PhD",
+     "name": "Social Sciences",
+     "prefix": "PHSS"
+    },
+    {
+     "id": "7572",
+     "level": "Masters",
+     "name": "Israeli Studies",
+     "prefix": "ISST"
+    },
+    {
+     "id": "11500",
+     "level": "Masters",
+     "name": "Applied Statistics and Data Science",
+     "prefix": "ASDS"
+    },
+    {
+     "id": "13879",
+     "level": "Masters",
+     "name": "International Migration and Refugee Studies",
+     "prefix": "IMRS"
+    },
+    {
+     "id": "14379",
+     "level": "Masters",
+     "name": "Renewable Energy Management",
+     "prefix": "RENE"
+    },
+    {
+     "id": "14699",
+     "level": "Masters",
+     "name": "Community Development",
+     "prefix": "CODE"
+    },
+    {
+     "id": "14700",
+     "level": "Masters",
+     "name": "Humanitarian Action in International Conflicts",
+     "prefix": "HAIC"
+    },
+    {
+     "id": "14879",
+     "level": "PhD",
+     "name": "Computer Science",
+     "prefix": "COMP"
+    },
+    {
+     "id": "15970",
+     "level": "Masters",
+     "name": "Law and Information Technology",
+     "prefix": "LAIT"
+    },
+    {
+     "id": "15971",
+     "level": "PhD",
+     "name": "Mathematics",
+     "prefix": "MATH"
+    },
+    {
+     "id": "16865",
+     "level": "PhD",
+     "name": "Educational Development",
+     "prefix": "EDUC"
+    },
+    {
+     "id": "18102",
+     "level": "PhD",
+     "name": "Energy and Environment Technology",
+     "prefix": "ENET"
+    },
+    {
+     "id": "18744",
+     "level": "PhD",
+     "name": "Law",
+     "prefix": "JURI"
+    },
+    {
+     "id": "19322",
+     "level": "Masters",
+     "name": "Project Management, Monitoring and Evaluation",
+     "prefix": "MPME"
+    },
+    {
+     "id": "19702",
+     "level": "PhD",
+     "name": "Pharmaceutical and Pharmacological Sciences",
+     "prefix": "DPPS"
+    }
+   ]
+  },
+  {
+   "id": "174",
+   "name": "Faculty of Science",
+   "departments": [
+    {
+     "id": "106",
+     "name": "Department of Biology and Biochemistry",
+     "programs": [
+      {
+       "id": "270",
+       "level": "Bachelor",
+       "name": "Biology",
+       "prefix": "BIOL"
+      },
+      {
+       "id": "298",
+       "level": "Bachelor",
+       "name": "Biochemistry",
+       "prefix": "BIOC"
+      },
+      {
+       "id": "323",
+       "level": "Bachelor",
+       "name": "Genral Science Courses",
+       "prefix": "GENS"
+      },
+      {
+       "id": "17402",
+       "level": "Bachelor",
+       "name": "Biology and Biotechnology",
+       "prefix": "BIOT"
+      }
+     ]
+    },
+    {
+     "id": "110",
+     "name": "Department of Chemistry",
+     "programs": [
+      {
+       "id": "272",
+       "level": "Bachelor",
+       "name": "Chemistry",
+       "prefix": "CHEM"
+      },
+      {
+       "id": "328",
+       "level": "Bachelor",
+       "name": "General Science Courses",
+       "prefix": "GENS"
+      },
+      {
+       "id": "16602",
+       "level": "Bachelor",
+       "name": "Forensic Sciences",
+       "prefix": "FRSC"
+      },
+      {
+       "id": "19442",
+       "level": "Masters",
+       "name": "Applied and Industrial Chemistry",
+       "prefix": "CHEM"
+      }
+     ]
+    },
+    {
+     "id": "155",
+     "name": "Department of Mathematics",
+     "programs": [
+      {
+       "id": "284",
+       "level": "Bachelor",
+       "name": "Mathematics",
+       "prefix": "MATH"
+      },
+      {
+       "id": "352",
+       "level": "Bachelor",
+       "name": "Statistics",
+       "prefix": "STAT"
+      },
+      {
+       "id": "742",
+       "level": "Masters",
+       "name": "Mathematics",
+       "prefix": "MATH"
+      }
+     ]
+    },
+    {
+     "id": "168",
+     "name": "Department of Physics",
+     "programs": [
+      {
+       "id": "286",
+       "level": "Bachelor",
+       "name": "Physics",
+       "prefix": "PHYS"
+      },
+      {
+       "id": "1703",
+       "level": "Masters",
+       "name": "Physics",
+       "prefix": "PHYS"
+      }
+     ]
+    }
+   ],
+   "programs": []
+  },
+  {
+   "id": "212",
+   "name": "Faculty of Law and Public Administration",
+   "departments": [
+    {
+     "id": "191",
+     "name": "Department of Public Administration",
+     "programs": [
+      {
+       "id": "266",
+       "level": "Bachelor",
+       "name": "Public Administration",
+       "prefix": "PUBA"
+      },
+      {
+       "id": "18383",
+       "level": "Bachelor",
+       "name": "Public Administration and Cybersecurity",
+       "prefix": "PACS"
+      }
+     ]
+    },
+    {
+     "id": "192",
+     "name": "Department of Law",
+     "programs": [
+      {
+       "id": "163",
+       "level": "Masters",
+       "name": "Law",
+       "prefix": "JURI"
+      },
+      {
+       "id": "267",
+       "level": "Bachelor",
+       "name": "Law",
+       "prefix": "JURI"
+      },
+      {
+       "id": "13599",
+       "level": "Masters",
+       "name": "Private Law",
+       "prefix": "PRLW"
+      }
+     ]
+    },
+    {
+     "id": "210",
+     "name": "Department of Political Science",
+     "programs": [
+      {
+       "id": "289",
+       "level": "Bachelor",
+       "name": "Political Science",
+       "prefix": "POLS"
+      },
+      {
+       "id": "14066",
+       "level": "Bachelor",
+       "name": "International Relations",
+       "prefix": "INRE"
+      },
+      {
+       "id": "18522",
+       "level": "Masters",
+       "name": "International Relations, Diplomacy and Global Security",
+       "prefix": "IRDS"
+      }
+     ]
+    }
+   ],
+   "programs": [
+    {
+     "id": "9594",
+     "level": "Masters",
+     "name": "Law and Economics",
+     "prefix": "LECO"
+    },
+    {
+     "id": "10317",
+     "level": "Masters",
+     "name": "Government and Local Government",
+     "prefix": "GOVS"
+    },
+    {
+     "id": "17302",
+     "level": "Masters",
+     "name": "Public Administration and Strategic Planning",
+     "prefix": "MPAS"
+    }
+   ]
+  },
+  {
+   "id": "664",
+   "name": "Faculty of Pharmacy, Nursing and Health Professions",
+   "departments": [
+    {
+     "id": "666",
+     "name": "Department of Nursing",
+     "programs": [
+      {
+       "id": "842",
+       "level": "Bachelor",
+       "name": "Nursing",
+       "prefix": "NURS"
+      },
+      {
+       "id": "18602",
+       "level": "Masters",
+       "name": "Nursing Science",
+       "prefix": "MONS"
+      }
+     ]
+    },
+    {
+     "id": "668",
+     "name": "Department of Nutrition and Dietetics",
+     "programs": [
+      {
+       "id": "841",
+       "level": "Bachelor",
+       "name": "Nutrition and Dietetics",
+       "prefix": "NUTD"
+      }
+     ]
+    },
+    {
+     "id": "672",
+     "name": "Department of Pharmacy",
+     "programs": [
+      {
+       "id": "3029",
+       "level": "Bachelor",
+       "name": "Doctor of Pharmacy",
+       "prefix": "PHAR"
+      },
+      {
+       "id": "8239",
+       "level": "Masters",
+       "name": "Industrial Pharmaceutical Technology",
+       "prefix": "MIPT"
+      },
+      {
+       "id": "16622",
+       "level": "Bachelor",
+       "name": "Pharmacy",
+       "prefix": "PHRB"
+      }
+     ]
+    },
+    {
+     "id": "4268",
+     "name": "Department of Audiology and Speech Therapy",
+     "programs": [
+      {
+       "id": "4269",
+       "level": "Bachelor",
+       "name": "Audiology and Speech Therapy",
+       "prefix": "SPAU"
+      }
+     ]
+    },
+    {
+     "id": "18763",
+     "name": "Department of Medical Laboratory Sciences",
+     "programs": [
+      {
+       "id": "157",
+       "level": "Masters",
+       "name": "Clinical Laboratory Sciences",
+       "prefix": "MCLS"
+      },
+      {
+       "id": "16222",
+       "level": "Bachelor",
+       "name": "Medical Laboratory Science",
+       "prefix": "BCLS"
+      }
+     ]
+    }
+   ],
+   "programs": [
+    {
+     "id": "15842",
+     "level": "Masters",
+     "name": "Women’s Health",
+     "prefix": "WOHE"
+    },
+    {
+     "id": "17362",
+     "level": "Bachelor",
+     "name": "Public Health",
+     "prefix": "PUBH"
+    }
+   ]
+  },
+  {
+   "id": "2186",
+   "name": "Faculty of Education",
+   "departments": [
+    {
+     "id": "2770",
+     "name": "Department of Curriculum & Instruction",
+     "programs": [
+      {
+       "id": "2787",
+       "level": "Bachelor",
+       "name": "Education",
+       "prefix": "EDUC"
+      },
+      {
+       "id": "2789",
+       "level": "Masters",
+       "name": "Education",
+       "prefix": "EDUC"
+      },
+      {
+       "id": "14945",
+       "level": "Bachelor",
+       "name": "Inclusive and Special Education",
+       "prefix": "INED"
+      }
+     ]
+    },
+    {
+     "id": "9354",
+     "name": "Department of Physical Education",
+     "programs": [
+      {
+       "id": "7992",
+       "level": "Bachelor",
+       "name": "Physical Education",
+       "prefix": "PHED"
+      },
+      {
+       "id": "16024",
+       "level": "Masters",
+       "name": "Physical Education and Sports Sciences",
+       "prefix": "PHED"
+      }
+     ]
+    }
+   ],
+   "programs": []
+  },
+  {
+   "id": "7253",
+   "name": "Faculty of Engineering and Technology",
+   "departments": [
+    {
+     "id": "124",
+     "name": "Department of Architectural Engineering and Planning",
+     "programs": [
+      {
+       "id": "276",
+       "level": "Bachelor",
+       "name": "Architectural Engineering",
+       "prefix": "ENAR"
+      },
+      {
+       "id": "8295",
+       "level": "Bachelor",
+       "name": "Engineering in Urban Planning and Design",
+       "prefix": "ENPL"
+      }
+     ]
+    },
+    {
+     "id": "125",
+     "name": "Department of Civil and Environmental Engineering",
+     "programs": [
+      {
+       "id": "277",
+       "level": "Bachelor",
+       "name": "Civil Engineering",
+       "prefix": "ENCE"
+      },
+      {
+       "id": "12779",
+       "level": "Masters",
+       "name": "Civil Engineering",
+       "prefix": "ENCE"
+      }
+     ]
+    },
+    {
+     "id": "131",
+     "name": "Department of Mechanical and Mechatronics Engineering",
+     "programs": [
+      {
+       "id": "281",
+       "level": "Bachelor",
+       "name": "Mechanical Engineering",
+       "prefix": "ENME"
+      },
+      {
+       "id": "2225",
+       "level": "Bachelor",
+       "name": "Mechatronics Engineering",
+       "prefix": "ENMC"
+      },
+      {
+       "id": "13939",
+       "level": "Masters",
+       "name": "Mechanical Engineering",
+       "prefix": "ENME"
+      }
+     ]
+    },
+    {
+     "id": "605",
+     "name": "Department of Computer Science",
+     "programs": [
+      {
+       "id": "273",
+       "level": "Bachelor",
+       "name": "Computer Science",
+       "prefix": "COMP"
+      },
+      {
+       "id": "7953",
+       "level": "Masters",
+       "name": "Software Engineering",
+       "prefix": "SWEN"
+      },
+      {
+       "id": "15968",
+       "level": "Bachelor",
+       "name": "Cyber Security",
+       "prefix": "CSEC"
+      }
+     ]
+    },
+    {
+     "id": "7261",
+     "name": "Department of Electrical and Computer Engineering",
+     "programs": [
+      {
+       "id": "278",
+       "level": "Bachelor",
+       "name": "Electrical Engineering",
+       "prefix": "ENEE"
+      },
+      {
+       "id": "10759",
+       "level": "Bachelor",
+       "name": "Computer Engineering",
+       "prefix": "ENCS"
+      },
+      {
+       "id": "14219",
+       "level": "Masters",
+       "name": "Computer Engineering",
+       "prefix": "MSCE"
+      }
+     ]
+    }
+   ],
+   "programs": [
+    {
+     "id": "8555",
+     "level": "Masters",
+     "name": "Electrical Engineering",
+     "prefix": "JMEE"
+    },
+    {
+     "id": "19002",
+     "level": "Masters",
+     "name": "Artificial Intelligence",
+     "prefix": "MSAI"
+    }
+   ]
+  },
+  {
+   "id": "10568",
+   "name": "Faculty of Art & Music & Design",
+   "departments": [],
+   "programs": [
+    {
+     "id": "9193",
+     "level": "Bachelor",
+     "name": "Music",
+     "prefix": "MUSI"
+    },
+    {
+     "id": "10276",
+     "level": "Bachelor",
+     "name": "Contemporary Visual Art",
+     "prefix": "COVA"
+    },
+    {
+     "id": "11699",
+     "level": "Bachelor",
+     "name": "Design",
+     "prefix": "DSGN"
+    },
+    {
+     "id": "15279",
+     "level": "Bachelor",
+     "name": "Interior Design",
+     "prefix": "DSIN"
+    },
+    {
+     "id": "17922",
+     "level": "Bachelor",
+     "name": "Animation and Cinema Production",
+     "prefix": "ANIM"
+    }
+   ]
+  }
+ ],
+ "programs": [
+  {
+   "id": "19582",
+   "level": "Bachelor",
+   "name": "General University Courses",
+   "prefix": "UNIV"
+  }
+ ]
+}

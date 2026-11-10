@@ -52,6 +52,12 @@ def fetch_term(term: str) -> tuple[str, str]:
     return url, fetch(url)
 
 
+def fetch_hierarchy() -> tuple[str, str]:
+    """Ritaj's tree of faculties, departments and their programs."""
+    from .parse import HIERARCHY_URL
+    return HIERARCHY_URL, fetch(HIERARCHY_URL, marker="treeview_div")
+
+
 def fetch_calendar(start: int, end: int) -> tuple[str, str]:
     """Ritaj's public academic calendar for one academic year, e.g. 2026/2027."""
     from .parse import CALENDAR_URL
