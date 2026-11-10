@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -193,7 +193,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
-     "enrolled": 94,
+     "enrolled": 96,
      "capacity": null,
      "meetings": [
       {
@@ -241,7 +241,7 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Mahmoud Ahmed Mahmoud Issa",
-     "enrolled": 22,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -264,7 +264,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ismail Salama Ismail Iriqat",
-     "enrolled": 27,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -317,7 +317,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad So'Ud Salim Hamo",
-     "enrolled": 18,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -395,7 +395,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
-     "enrolled": 55,
+     "enrolled": 56,
      "capacity": null,
      "meetings": [
       {
@@ -508,7 +508,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman Elias Yousef Zaru",
-     "enrolled": 52,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -584,7 +584,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
-     "enrolled": 33,
+     "enrolled": 34,
      "capacity": null,
      "meetings": [
       {
@@ -757,7 +757,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nour Hatem Ahmad Mattour",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -780,7 +780,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rola A. M. Alfatafta",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -833,7 +833,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ayman Elias Yousef Zaru",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -923,7 +923,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Sufyan Abdeqader Musleh",
-     "enrolled": 38,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -976,7 +976,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
-     "enrolled": 40,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -1112,7 +1112,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
-     "enrolled": 60,
+     "enrolled": 61,
      "capacity": null,
      "meetings": [
       {
@@ -1126,7 +1126,7 @@
        "day": "R",
        "start": "14:00",
        "end": "15:20",
-       "room": "ALSADIK408",
+       "room": "ALSADIK103",
        "building": "ALSADIK"
       }
      ]
@@ -1142,7 +1142,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ismail Salama Ismail Iriqat",
-     "enrolled": 39,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {

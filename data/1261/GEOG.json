@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Said Naji Herzallah",
-     "enrolled": 44,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -44,7 +44,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Othman Ali Othman Sharkas",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -76,7 +76,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Omar Lee Loren Tesdell",
-     "enrolled": 46,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -108,7 +108,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Othman Ali Othman Sharkas",
-     "enrolled": 42,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -147,7 +147,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar Lee Loren Tesdell",
-     "enrolled": 48,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -340,7 +340,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Othman Ali Othman Sharkas",
-     "enrolled": 50,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {

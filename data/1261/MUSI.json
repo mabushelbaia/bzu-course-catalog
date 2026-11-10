@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "prefix": "MUSI",
  "counts": {
-  "courses": 22,
-  "sections": 47,
+  "courses": 17,
+  "sections": 36,
   "instructors": 6,
   "rooms": 2
  },
@@ -184,15 +184,15 @@
        "day": "T",
        "start": "14:00",
        "end": "15:20",
-       "room": null,
-       "building": null
+       "room": "Aweidah305",
+       "building": "Aweidah"
       },
       {
        "day": "R",
        "start": "14:00",
        "end": "15:20",
-       "room": null,
-       "building": null
+       "room": "Aweidah305",
+       "building": "Aweidah"
       }
      ]
     }
@@ -249,14 +249,6 @@
      "enrolled": 1,
      "capacity": null,
      "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "4",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
     }
    ]
   },
@@ -278,22 +270,6 @@
      "number": "2",
      "instructor": "Naseem Anton  Dakwer",
      "enrolled": 1,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "3",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "4",
-     "instructor": null,
-     "enrolled": 0,
      "capacity": null,
      "meetings": []
     }
@@ -346,29 +322,6 @@
    ]
   },
   {
-   "code": "MUSI230",
-   "prefix": "MUSI",
-   "name": "SOUND ENGINEERING 1",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "W",
-       "start": "14:00",
-       "end": "16:50",
-       "room": null,
-       "building": null
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "MUSI231",
    "prefix": "MUSI",
    "name": "INTRODUCTION TO MUSIC",
@@ -400,7 +353,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed I. M. Sulaiman",
-     "enrolled": 57,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -423,7 +376,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed I. M. Sulaiman",
-     "enrolled": 53,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -486,14 +439,6 @@
      "enrolled": 1,
      "capacity": null,
      "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "2",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
     }
    ]
   },
@@ -513,14 +458,6 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "3",
      "instructor": null,
      "enrolled": 0,
      "capacity": null,
@@ -567,29 +504,6 @@
        "day": "M",
        "start": "10:00",
        "end": "11:50",
-       "room": null,
-       "building": null
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "MUSI3281",
-   "prefix": "MUSI",
-   "name": "HARMONY",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:00",
-       "end": "13:50",
        "room": null,
        "building": null
       }
@@ -648,82 +562,6 @@
      "enrolled": 0,
      "capacity": null,
      "meetings": []
-    }
-   ]
-  },
-  {
-   "code": "MUSI418",
-   "prefix": "MUSI",
-   "name": "GRADUATION PROJECT",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "2",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
-    }
-   ]
-  },
-  {
-   "code": "MUSI420",
-   "prefix": "MUSI",
-   "name": "COMPOSITION AND ARRANGING 1",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "W",
-       "start": "12:00",
-       "end": "13:50",
-       "room": null,
-       "building": null
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "MUSI435",
-   "prefix": "MUSI",
-   "name": "HISTORY OF WESTERN MUSIC",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "T",
-       "start": "09:30",
-       "end": "10:50",
-       "room": "Aweidah305",
-       "building": "Aweidah"
-      },
-      {
-       "day": "W",
-       "start": "09:30",
-       "end": "10:50",
-       "room": "Aweidah305",
-       "building": "Aweidah"
-      }
-     ]
     }
    ]
   }

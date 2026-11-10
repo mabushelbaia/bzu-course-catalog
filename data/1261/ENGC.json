@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -212,7 +212,7 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Tagreed Bajes Butros Abed",
-     "enrolled": 29,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -396,7 +396,7 @@
      "type": "Lecture",
      "number": "18",
      "instructor": "Amira Mohammad Awad Abu Zeed",
-     "enrolled": 35,
+     "enrolled": 34,
      "capacity": null,
      "meetings": [
       {
@@ -442,7 +442,7 @@
      "type": "Lecture",
      "number": "20",
      "instructor": "Faten Mohamad Abdoulah Khalaf",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -488,7 +488,7 @@
      "type": "Lecture",
      "number": "22",
      "instructor": "Hanaa H. I. Falah",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -557,7 +557,7 @@
      "type": "Lecture",
      "number": "25",
      "instructor": "Osama Mahmoud Khaled Abu-Baha",
-     "enrolled": 31,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -695,7 +695,7 @@
      "type": "Lecture",
      "number": "31",
      "instructor": "Yasser Mohawesh Hussein Amro",
-     "enrolled": 28,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {
@@ -907,7 +907,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed, Afaf R. A. Said",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -1495,7 +1495,7 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Andira A. M. Abdallah",
-     "enrolled": 37,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -1555,7 +1555,7 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Mahmoud Mustafa Ali Bsharat",
-     "enrolled": 40,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -1615,7 +1615,7 @@
      "type": "Lecture",
      "number": "15",
      "instructor": "Ruba Abdul_Latif Mustafa Khalaf",
-     "enrolled": 44,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -1765,7 +1765,7 @@
      "type": "Lecture",
      "number": "21",
      "instructor": "Ahmad Shukri Ahmad Shayeb",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -1855,7 +1855,7 @@
      "type": "Lecture",
      "number": "24",
      "instructor": "Rania Mohammad Nu'Man Qassrawi",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -2298,7 +2298,7 @@
      "type": "Lecture",
      "number": "45",
      "instructor": "Fatima Yacoub Jum'Ah Qarash",
-     "enrolled": 39,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -2388,7 +2388,7 @@
      "type": "Lecture",
      "number": "48",
      "instructor": "Tina Yaser Kostandi Rafidi",
-     "enrolled": 39,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -2455,7 +2455,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Andira A. M. Abdallah, Afaf R. A. Said",
-     "enrolled": 25,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -2515,7 +2515,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Nadim M. Y. Ihshaish",
-     "enrolled": 24,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {

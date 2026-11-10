@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sumaia Mohammad Ahmad Haj Mohammad",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -97,7 +97,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Maen Hussam Abdlatife Saa",
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -233,7 +233,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Abed Lafi Abdeen",
-     "enrolled": 19,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -385,7 +385,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
-     "enrolled": 29,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -475,7 +475,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Laila K. I Shikaki",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -694,15 +694,15 @@
        "day": "T",
        "start": "09:30",
        "end": "10:50",
-       "room": "Al-Juraysi025",
-       "building": null
+       "room": "A.Shaheen216",
+       "building": "A.Shaheen"
       },
       {
        "day": "W",
        "start": "09:30",
        "end": "10:50",
-       "room": "Al-Juraysi025",
-       "building": null
+       "room": "Khoury005",
+       "building": "Khoury"
       }
      ]
     }

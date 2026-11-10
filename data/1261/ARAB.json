@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 24,
   "sections": 82,
   "instructors": 31,
-  "rooms": 42
+  "rooms": 41
  },
  "courses": [
   {
@@ -127,7 +127,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Manal Salah Ibrahim Hassan",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -196,22 +196,22 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Tasneem Abdallah Abd Almajeed Barakat",
-     "enrolled": 42,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
        "day": "T",
        "start": "11:00",
        "end": "12:20",
-       "room": "SCI112",
-       "building": "SCI"
+       "room": "A.Shaheen266",
+       "building": "A.Shaheen"
       },
       {
        "day": "R",
        "start": "11:00",
        "end": "12:20",
-       "room": "SCI112",
-       "building": "SCI"
+       "room": "A.Shaheen112",
+       "building": "A.Shaheen"
       }
      ]
     },
@@ -311,7 +311,7 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Ammar Abed Elqader Mohammad Shibli",
-     "enrolled": 44,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -334,7 +334,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Abdalmajid A. A. Hamed",
-     "enrolled": 44,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -587,7 +587,7 @@
      "type": "Lecture",
      "number": "23",
      "instructor": "Abdalmajid A. A. Hamed",
-     "enrolled": 44,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -633,7 +633,7 @@
      "type": "Lecture",
      "number": "25",
      "instructor": "Baheya Ahmed Abdallah Daoud",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -702,7 +702,7 @@
      "type": "Lecture",
      "number": "28",
      "instructor": "Samir Mohammad Nimer Mouqada",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -955,7 +955,7 @@
      "type": "Lecture",
      "number": "40",
      "instructor": "Thabit Muhammad Khalil Hamed",
-     "enrolled": 40,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -1093,7 +1093,7 @@
      "type": "Lecture",
      "number": "47",
      "instructor": "Sami Ehmedan Rasheed Sha\"Th",
-     "enrolled": 46,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -1139,7 +1139,7 @@
      "type": "Lecture",
      "number": "49",
      "instructor": "Samir Mohammad Nimer Mouqada",
-     "enrolled": 43,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -1395,7 +1395,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -1455,7 +1455,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mashhour Mousa Mashhour Mshahreh",
-     "enrolled": 12,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
@@ -1508,7 +1508,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nasralla Mohammad Ahmad Alshaier",
-     "enrolled": 58,
+     "enrolled": 57,
      "capacity": null,
      "meetings": [
       {
@@ -1531,7 +1531,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Nasralla Mohammad Ahmad Alshaier",
-     "enrolled": 52,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -1554,7 +1554,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mashhour Mousa Mashhour Mshahreh",
-     "enrolled": 54,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {

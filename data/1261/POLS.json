@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 177,
+     "enrolled": 178,
      "capacity": null,
      "meetings": [
       {
@@ -44,7 +44,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 143,
+     "enrolled": 145,
      "capacity": null,
      "meetings": [
       {
@@ -108,7 +108,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Abedalkreem Ibrahem Abedalkreem Qawareeq",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -156,7 +156,7 @@
      "type": "Discussion",
      "number": "7",
      "instructor": "Raghad Abd Elhameed Mohammad Mohammad",
-     "enrolled": 47,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -299,7 +299,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 104,
+     "enrolled": 106,
      "capacity": null,
      "meetings": [
       {
@@ -315,7 +315,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Aya Amjad Omar Dahadha",
-     "enrolled": 22,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -331,7 +331,7 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Abedalkreem Ibrahem Abedalkreem Qawareeq",
-     "enrolled": 39,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -347,7 +347,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Qamar Eyad Mahmmoud Barghouthi",
-     "enrolled": 43,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -490,7 +490,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {

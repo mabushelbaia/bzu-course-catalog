@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "GEOI",
  "counts": {
   "courses": 11,
-  "sections": 26,
+  "sections": 24,
   "instructors": 8,
   "rooms": 12
  },
@@ -415,14 +415,6 @@
     },
     {
      "type": "Lecture",
-     "number": "2",
-     "instructor": null,
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
      "number": "3",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
      "enrolled": 3,
@@ -442,14 +434,6 @@
      "number": "5",
      "instructor": "Abdullah Said Naji Herzallah",
      "enrolled": 3,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "6",
-     "instructor": "Abdullah Said Naji Herzallah",
-     "enrolled": 0,
      "capacity": null,
      "meetings": []
     }

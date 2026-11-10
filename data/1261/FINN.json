@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -74,7 +74,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Katya N. M. Hussary",
-     "enrolled": 144,
+     "enrolled": 145,
      "capacity": null,
      "meetings": [
       {
@@ -120,7 +120,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
-     "enrolled": 55,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -150,7 +150,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
-     "enrolled": 34,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -173,7 +173,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Osama M. Y. Sanadaah",
-     "enrolled": 131,
+     "enrolled": 133,
      "capacity": null,
      "meetings": [
       {
@@ -256,7 +256,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sajed Y. M. Sharif",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -392,7 +392,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bayan M. M. Arqawi",
-     "enrolled": 39,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -445,7 +445,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bayan M. M. Arqawi",
-     "enrolled": 25,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -551,7 +551,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Diyama Khaled Khamees Abu Laban",
-     "enrolled": 54,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {

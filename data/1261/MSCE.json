@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,8 +14,8 @@
  "prefix": "MSCE",
  "counts": {
   "courses": 3,
-  "sections": 13,
-  "instructors": 8,
+  "sections": 15,
+  "instructors": 10,
   "rooms": 2
  },
  "courses": [
@@ -70,6 +70,22 @@
    "prefix": "MSCE",
    "name": "THESIS",
    "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Ismail Mohammad Mousa Khater",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Ibrahim Ahmed Abdallah Nemer",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
     {
      "type": "Lecture",
      "number": "3",

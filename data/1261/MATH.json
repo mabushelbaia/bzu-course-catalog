@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -390,7 +390,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muna Khaled Khaleel Abu Alhalawa",
-     "enrolled": 170,
+     "enrolled": 171,
      "capacity": null,
      "meetings": [
       {
@@ -406,7 +406,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Muna Khaled Khaleel Abu Alhalawa",
-     "enrolled": 55,
+     "enrolled": 56,
      "capacity": null,
      "meetings": [
       {
@@ -438,7 +438,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Rasha Mohammad Amin Shadid",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -486,7 +486,7 @@
      "type": "Discussion",
      "number": "5",
      "instructor": "Mohammad W. K. Adarbeh",
-     "enrolled": 55,
+     "enrolled": 56,
      "capacity": null,
      "meetings": [
       {
@@ -578,7 +578,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Batool Mohammad Moustafa Raddad",
-     "enrolled": 158,
+     "enrolled": 160,
      "capacity": null,
      "meetings": [
       {
@@ -809,7 +809,7 @@
      "type": "Discussion",
      "number": "14",
      "instructor": "Salam Badir Yousef Shriteh",
-     "enrolled": 56,
+     "enrolled": 58,
      "capacity": null,
      "meetings": [
       {
@@ -832,7 +832,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaleel I. K. Anaya",
-     "enrolled": 158,
+     "enrolled": 157,
      "capacity": null,
      "meetings": [
       {
@@ -878,7 +878,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Khaleel I. K. Anaya",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -1075,7 +1075,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Yousef Rateb Al-Dweik",
-     "enrolled": 31,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -1181,7 +1181,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muna Khaled Khaleel Abu Alhalawa",
-     "enrolled": 130,
+     "enrolled": 131,
      "capacity": null,
      "meetings": [
       {
@@ -1204,7 +1204,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Yousef Hejaze Madiah",
-     "enrolled": 93,
+     "enrolled": 94,
      "capacity": null,
      "meetings": [
       {
@@ -1227,7 +1227,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Amal Abdulhakim Sader Awadallah",
-     "enrolled": 53,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -1275,7 +1275,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Mohammad Tahseen Mustafa Ishtayeh",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -1337,7 +1337,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Farah Gh. S. Omar",
-     "enrolled": 55,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -1729,7 +1729,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Ali Deib Saleh",
-     "enrolled": 10,
+     "enrolled": 11,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -571,7 +571,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ni'Meh Own Ibrahim Alshami",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -774,7 +774,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Khalil Salem Rabba",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -827,7 +827,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Khalil Salem Rabba",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -917,7 +917,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Bader Nael Abdaljaleel Remawi",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {

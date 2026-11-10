@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
-     "enrolled": 73,
+     "enrolled": 74,
      "capacity": null,
      "meetings": [
       {
@@ -111,7 +111,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maisoon Hussam Ali Zoubi",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -244,7 +244,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nashaat A. A. Aqtash",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -412,7 +412,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Walid Omar Awad Shurafa",
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -511,7 +511,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -527,7 +527,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
-     "enrolled": 13,
+     "enrolled": 12,
      "capacity": null,
      "meetings": [
       {
@@ -795,7 +795,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
-     "enrolled": 38,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {

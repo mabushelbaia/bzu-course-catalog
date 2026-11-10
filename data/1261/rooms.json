@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -952,6 +952,14 @@
     "R",
     "09:30",
     "10:50"
+   ],
+   [
+    "ARAB1360",
+    "6",
+    "Tasneem Abdallah Abd Almajeed Barakat",
+    "R",
+    "11:00",
+    "12:20"
    ],
    [
     "ENGC2400",
@@ -2154,6 +2162,14 @@
     "09:20"
    ],
    [
+    "ENGL337",
+    "4",
+    "Maen Hussam Abdlatife Saa",
+    "T",
+    "09:30",
+    "10:50"
+   ],
+   [
     "CULS331",
     "10",
     "Wasim Abdelqader Mohammed Abu Fasheh",
@@ -2978,6 +2994,14 @@
     "10:50"
    ],
    [
+    "ARAB1360",
+    "6",
+    "Tasneem Abdallah Abd Almajeed Barakat",
+    "T",
+    "11:00",
+    "12:20"
+   ],
+   [
     "CULS331",
     "16",
     "Abdul Karim Majed Mustafa Barghothi",
@@ -3396,6 +3420,14 @@
     "R",
     "12:30",
     "13:50"
+   ],
+   [
+    "PUBA436",
+    "1",
+    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+    "R",
+    "14:00",
+    "15:20"
    ]
   ],
   "ALSADIK202": [
@@ -4880,14 +4912,6 @@
     "R",
     "12:30",
     "13:50"
-   ],
-   [
-    "PUBA436",
-    "1",
-    "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
-    "R",
-    "14:00",
-    "15:20"
    ]
   ],
   "ALSADIK409": [
@@ -7072,6 +7096,14 @@
     "10:50"
    ],
    [
+    "ENCE2330",
+    "1",
+    "Ghada Jamil Husni Karaki",
+    "T",
+    "11:00",
+    "12:20"
+   ],
+   [
     "ENMC5331",
     "1",
     "Ahmad Ismael Abd Al-Hafith Balasie",
@@ -7102,6 +7134,14 @@
     "R",
     "09:30",
     "10:50"
+   ],
+   [
+    "ENCE2330",
+    "1",
+    "Ghada Jamil Husni Karaki",
+    "R",
+    "11:00",
+    "12:20"
    ]
   ],
   "Aggad407": [
@@ -8438,14 +8478,6 @@
     "13:50"
    ],
    [
-    "ENGL337",
-    "4",
-    "Maen Hussam Abdlatife Saa",
-    "T",
-    "09:30",
-    "10:50"
-   ],
-   [
     "FINN331",
     "1",
     "Habib I. H. Hinn",
@@ -8468,14 +8500,6 @@
     "W",
     "08:00",
     "09:20"
-   ],
-   [
-    "ENGL337",
-    "4",
-    "Maen Hussam Abdlatife Saa",
-    "W",
-    "09:30",
-    "10:50"
    ],
    [
     "ENGC2400",
@@ -8584,6 +8608,14 @@
     "12:20"
    ],
    [
+    "ECON3311",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
     "FINN2331",
     "1",
     "Seri Mohammad Jamil Khalil Ghanem",
@@ -8614,6 +8646,14 @@
     "R",
     "11:00",
     "12:20"
+   ],
+   [
+    "ECON3311",
+    "1",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "R",
+    "12:30",
+    "13:50"
    ]
   ],
   "Al-Juraysi121": [
@@ -9164,6 +9204,14 @@
     "M",
     "09:30",
     "10:50"
+   ],
+   [
+    "ECON3311",
+    "2",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "M",
+    "11:00",
+    "12:20"
    ],
    [
     "FINN4302",
@@ -10774,20 +10822,20 @@
   ],
   "Aweidah305": [
    [
-    "MUSI435",
+    "MUSI1310",
     "1",
-    null,
+    "Mahmoud Hassan Mahmoud Awad",
     "T",
-    "09:30",
-    "10:50"
+    "14:00",
+    "15:20"
    ],
    [
-    "MUSI435",
+    "MUSI1310",
     "1",
-    null,
-    "W",
-    "09:30",
-    "10:50"
+    "Mahmoud Hassan Mahmoud Awad",
+    "R",
+    "14:00",
+    "15:20"
    ]
   ],
   "Aweidah309": [
@@ -13822,7 +13870,7 @@
    [
     "IRDS6300",
     "1",
-    "Hani Mahmoud Abed Mousa",
+    "Hani Mahmoud Abed Mousa, Ahmad Jamil Ahmad Hamad",
     "T",
     "14:00",
     "16:50"
@@ -14142,6 +14190,14 @@
     "T",
     "14:00",
     "15:50"
+   ],
+   [
+    "ENGL337",
+    "4",
+    "Maen Hussam Abdlatife Saa",
+    "W",
+    "09:30",
+    "10:50"
    ],
    [
     "HIST3371",
@@ -22628,14 +22684,6 @@
     "10:50"
    ],
    [
-    "ARAB1360",
-    "6",
-    "Tasneem Abdallah Abd Almajeed Barakat",
-    "T",
-    "11:00",
-    "12:20"
-   ],
-   [
     "PHYS332",
     "1",
     "Abdallah Salahedin Saleh Sayyed Ahmad",
@@ -22690,14 +22738,6 @@
     "R",
     "09:30",
     "10:50"
-   ],
-   [
-    "ARAB1360",
-    "6",
-    "Tasneem Abdallah Abd Almajeed Barakat",
-    "R",
-    "11:00",
-    "12:20"
    ],
    [
     "PHYS332",

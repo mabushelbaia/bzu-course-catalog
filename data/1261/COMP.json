@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -131,7 +131,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Alaa Sh. A. Nairat",
-     "enrolled": 50,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -243,7 +243,7 @@
      "type": "Lab",
      "number": "6",
      "instructor": "Alaa Sh. A. Nairat",
-     "enrolled": 29,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -1619,7 +1619,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Naimeh \"Mohammad Salem\" Saleh Hirbawi",
-     "enrolled": 55,
+     "enrolled": 56,
      "capacity": null,
      "meetings": [
       {
@@ -2095,7 +2095,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Asad Fares Hassouneh",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -2224,7 +2224,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hisham W. Y. Ihshaish",
-     "enrolled": 35,
+     "enrolled": 34,
      "capacity": null,
      "meetings": [
       {
@@ -2817,7 +2817,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Yousef W. S. Sabbah",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -2999,7 +2999,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hisham W. Y. Ihshaish",
-     "enrolled": 53,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -3045,7 +3045,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohammed A. A. Husseinali",
-     "enrolled": 54,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
@@ -3075,7 +3075,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -3264,7 +3264,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Refat T. A. Othman",
-     "enrolled": 62,
+     "enrolled": 63,
      "capacity": null,
      "meetings": [
       {

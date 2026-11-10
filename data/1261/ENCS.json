@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -92,7 +92,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Wasel Tahsin Ahmad Ghanem",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -319,7 +319,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohammed Ahmed Abdelrahman Khalil",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -742,7 +742,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ibrahim Ahmed Abdallah Nemer",
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -765,7 +765,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdalkarim Ishaq Ibraheem Awad",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -841,7 +841,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khader Shehadeh Nassar Mohammad",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -864,7 +864,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khader Shehadeh Nassar Mohammad",
-     "enrolled": 53,
+     "enrolled": 52,
      "capacity": null,
      "meetings": [
       {
@@ -1145,7 +1145,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abualseoud Ahmad Abualseoud Hanani",
-     "enrolled": 16,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -1264,7 +1264,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ibrahim Ahmed Abdallah Nemer",
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -1296,7 +1296,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Amr Tahseen Abdel Haleem Slimi",
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -1344,7 +1344,7 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ibrahim Ahmed Abdallah Nemer",
-     "enrolled": 16,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -1376,7 +1376,7 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Ahmed I. A. Shawahna",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -1424,7 +1424,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Reda I. M. Daifallah",
-     "enrolled": 15,
+     "enrolled": 14,
      "capacity": null,
      "meetings": [
       {
@@ -1616,7 +1616,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed I. A. Shawahna",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -1791,7 +1791,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ahmad Suhail Ahmad Afaneh",
-     "enrolled": 20,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -1844,7 +1844,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Wasel Tahsin Ahmad Ghanem",
-     "enrolled": 52,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -1867,7 +1867,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Wasel Tahsin Ahmad Ghanem",
-     "enrolled": 56,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
@@ -2643,7 +2643,7 @@
      "type": "Lecture",
      "number": "53",
      "instructor": "Tareq Adnan Saleem Daghamin",
-     "enrolled": 2,
+     "enrolled": 3,
      "capacity": null,
      "meetings": []
     },
@@ -3069,7 +3069,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdalkarim Ishaq Ibraheem Awad",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {

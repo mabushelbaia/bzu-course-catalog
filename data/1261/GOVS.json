@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,8 +14,8 @@
  "prefix": "GOVS",
  "counts": {
   "courses": 1,
-  "sections": 2,
-  "instructors": 1,
+  "sections": 4,
+  "instructors": 2,
   "rooms": 0
  },
  "courses": [
@@ -24,6 +24,14 @@
    "prefix": "GOVS",
    "name": "THESIS",
    "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
     {
      "type": "Lecture",
      "number": "2",
@@ -35,6 +43,14 @@
     {
      "type": "Lecture",
      "number": "3",
+     "instructor": "Ayman Elias Yousef Zaru",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
      "instructor": "Ayman Elias Yousef Zaru",
      "enrolled": 1,
      "capacity": null,

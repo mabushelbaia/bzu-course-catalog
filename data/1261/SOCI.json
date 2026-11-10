@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "SOCI",
  "counts": {
   "courses": 16,
-  "sections": 22,
+  "sections": 23,
   "instructors": 11,
   "rooms": 10
  },
@@ -58,7 +58,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amirah Mohammad Faraj Silmi",
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -81,7 +81,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Amirah Mohammad Faraj Silmi",
-     "enrolled": 15,
+     "enrolled": 14,
      "capacity": null,
      "meetings": [
       {
@@ -201,7 +201,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar M. H. Qassis",
-     "enrolled": 25,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -231,7 +231,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majdi Mohammad Ibraheim Al-Malki",
-     "enrolled": 12,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
@@ -314,7 +314,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Ahmad Soliman Ladadweh",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -504,6 +504,14 @@
      "number": "2",
      "instructor": "Abaher Ibrahim Arafat El-Sakka",
      "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Abaher Ibrahim Arafat El-Sakka",
+     "enrolled": 1,
      "capacity": null,
      "meetings": []
     },

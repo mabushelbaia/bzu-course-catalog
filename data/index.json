@@ -3,12 +3,12 @@
  "terms": {
   "1261": {
    "name": "First Semester 2026/2027",
-   "updated_at": "2026-11-09T11:34:55+00:00",
-   "hash": "53d8c6b3760e563c4fd9f3cd5dcc12034fb56d554d880e3a7f936f709a9241f6",
+   "updated_at": "2026-11-10T11:15:11+00:00",
+   "hash": "93781f99489bfc17a8968ffb4b3981e5b9f9228d9bf80f1c0949a52e318b80a5",
    "counts": {
-    "courses": 1175,
-    "sections": 2818,
-    "instructors": 743,
+    "courses": 1171,
+    "sections": 2828,
+    "instructors": 745,
     "rooms": 260
    },
    "prefixes": [
@@ -117,6 +117,7 @@
     "TRAN",
     "TURK",
     "UNIV",
+    "WEEN",
     "WOHE",
     "WOMS"
    ],
@@ -623,7 +624,7 @@
   "1253",
   "1252"
  ],
- "checked_at": "2026-11-09T11:36:10+00:00",
+ "checked_at": "2026-11-10T11:16:14+00:00",
  "current": {
   "term": "1261",
   "name": "First Semester 2026/2027",

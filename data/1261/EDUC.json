@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "EDUC",
  "counts": {
   "courses": 44,
-  "sections": 69,
+  "sections": 71,
   "instructors": 20,
   "rooms": 18
  },
@@ -127,7 +127,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mousa Mohammed Mousa Khaldi",
-     "enrolled": 31,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -316,7 +316,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -339,7 +339,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamal Saleh Salem Salem",
-     "enrolled": 30,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -788,7 +788,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Mahmoud Ali Abdelkareem",
-     "enrolled": 13,
+     "enrolled": 12,
      "capacity": null,
      "meetings": [
       {
@@ -811,7 +811,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
-     "enrolled": 18,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {
@@ -834,7 +834,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": []
     }
@@ -1084,6 +1084,14 @@
     },
     {
      "type": "Lecture",
+     "number": "2",
+     "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
      "number": "3",
      "instructor": "Jehad Abdel Hamid Othman Alshwaikh",
      "enrolled": 1,
@@ -1174,6 +1182,14 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Mousa Mohammed Mousa Khaldi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "15",
+     "instructor": "Anwar Ahmad Mohammad Abdel Razeq",
      "enrolled": 1,
      "capacity": null,
      "meetings": []

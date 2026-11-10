@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "PHSS",
  "counts": {
   "courses": 1,
-  "sections": 8,
+  "sections": 16,
   "instructors": 7,
   "rooms": 0
  },
@@ -84,6 +84,70 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Abaher Ibrahim Arafat El-Sakka",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "15",
+     "instructor": null,
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "16",
+     "instructor": null,
      "enrolled": 1,
      "capacity": null,
      "meetings": []

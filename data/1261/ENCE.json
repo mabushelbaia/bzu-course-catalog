@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -265,15 +265,15 @@
        "day": "T",
        "start": "11:00",
        "end": "12:20",
-       "room": null,
-       "building": null
+       "room": "Aggad403",
+       "building": "Aggad"
       },
       {
        "day": "R",
        "start": "11:00",
        "end": "12:20",
-       "room": null,
-       "building": null
+       "room": "Aggad403",
+       "building": "Aggad"
       }
      ]
     }
@@ -541,7 +541,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ghada Jamil Husni Karaki",
-     "enrolled": 19,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -587,7 +587,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -686,7 +686,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
-     "enrolled": 18,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -716,7 +716,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
-     "enrolled": 18,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -776,7 +776,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farhat M. M. Majadba",
-     "enrolled": 17,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -905,7 +905,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdul Naser Amin Ahed Arafat",
-     "enrolled": 33,
+     "enrolled": 34,
      "capacity": null,
      "meetings": [
       {
@@ -935,7 +935,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
-     "enrolled": 23,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -988,7 +988,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
-     "enrolled": 39,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -1018,7 +1018,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar Rabah Raghib Zimmo",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -1078,7 +1078,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
-     "enrolled": 27,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {

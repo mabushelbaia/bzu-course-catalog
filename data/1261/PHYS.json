@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
-     "enrolled": 23,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -204,7 +204,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Wafaa Khaled Yehya Khater",
-     "enrolled": 24,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {
@@ -708,7 +708,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Isma'El Daoud Mohummad Badran",
-     "enrolled": 124,
+     "enrolled": 125,
      "capacity": null,
      "meetings": [
       {
@@ -731,7 +731,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Eman Abd Alrahem Dawod Raddad",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -816,7 +816,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Abedalqader Ismail T.Amawi",
-     "enrolled": 164,
+     "enrolled": 163,
      "capacity": null,
      "meetings": [
       {
@@ -839,7 +839,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Mohammad Abedalqader Ismail T.Amawi",
-     "enrolled": 36,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -855,7 +855,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Rula Imad Al-Din Said Bakeer",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -871,7 +871,7 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Khalid Fathi Abdalrazzaq Eid",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -933,7 +933,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hazem Sadee Abdul Rahman Abu Sara",
-     "enrolled": 61,
+     "enrolled": 62,
      "capacity": null,
      "meetings": [
       {

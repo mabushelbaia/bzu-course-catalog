@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -97,7 +97,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Bashar Shukri Hanna Al Qara'",
-     "enrolled": 128,
+     "enrolled": 127,
      "capacity": null,
      "meetings": [
       {
@@ -120,7 +120,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Zeyad Fawaz Fouzi Munawer",
-     "enrolled": 135,
+     "enrolled": 136,
      "capacity": null,
      "meetings": [
       {
@@ -143,7 +143,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Yousef Mohammad Yousef Hassan",
-     "enrolled": 59,
+     "enrolled": 60,
      "capacity": null,
      "meetings": [
       {
@@ -295,7 +295,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Suha Mohammad Tayseir Ya'Qoub Zalloum",
-     "enrolled": 54,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
@@ -325,7 +325,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hatem Yousef Ahmad Daoud",
-     "enrolled": 124,
+     "enrolled": 125,
      "capacity": null,
      "meetings": [
       {
@@ -348,7 +348,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamal Fadel Daoud Fawadleh",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -424,7 +424,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Shadi Ahmad Fayez Alhaj",
-     "enrolled": 53,
+     "enrolled": 52,
      "capacity": null,
      "meetings": [
       {
@@ -530,7 +530,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Bashar Shukri Hanna Al Qara'",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -689,7 +689,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Jamil Mohammad Milhem",
-     "enrolled": 59,
+     "enrolled": 58,
      "capacity": null,
      "meetings": [
       {

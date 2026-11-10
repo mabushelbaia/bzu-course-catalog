@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -124,7 +124,7 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Beesan Nooraddeen Mohammed Arda",
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -140,7 +140,7 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Haya Jamal Issa Hamdat",
-     "enrolled": 19,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -204,7 +204,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Lama Khaled Hammad Abu Saleh",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -303,7 +303,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed Majed Abdallatif Milhim",
-     "enrolled": 90,
+     "enrolled": 91,
      "capacity": null,
      "meetings": [
       {

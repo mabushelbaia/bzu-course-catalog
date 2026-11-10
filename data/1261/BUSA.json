@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "BUSA",
  "counts": {
   "courses": 36,
-  "sections": 69,
+  "sections": 70,
   "instructors": 28,
   "rooms": 31
  },
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rania Yaser Qostande Jaber",
-     "enrolled": 128,
+     "enrolled": 130,
      "capacity": null,
      "meetings": [
       {
@@ -120,7 +120,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Suzan Jamal Mousa Shkukani",
-     "enrolled": 131,
+     "enrolled": 132,
      "capacity": null,
      "meetings": [
       {
@@ -173,7 +173,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maisa Yacoub Naoum Burbar",
-     "enrolled": 127,
+     "enrolled": 130,
      "capacity": null,
      "meetings": [
       {
@@ -196,7 +196,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Maisa Yacoub Naoum Burbar",
-     "enrolled": 123,
+     "enrolled": 124,
      "capacity": null,
      "meetings": [
       {
@@ -219,7 +219,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Anton Robert Anton Sabella",
-     "enrolled": 81,
+     "enrolled": 82,
      "capacity": null,
      "meetings": [
       {
@@ -484,7 +484,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muna Musa Tawfiq Khoury",
-     "enrolled": 56,
+     "enrolled": 57,
      "capacity": null,
      "meetings": [
       {
@@ -560,7 +560,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abeer Abdallah Ahmad Dirbas",
-     "enrolled": 59,
+     "enrolled": 61,
      "capacity": null,
      "meetings": [
       {
@@ -590,7 +590,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hada Salem Issa Al-Eryan",
-     "enrolled": 39,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -733,7 +733,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hada Salem Issa Al-Eryan",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -915,7 +915,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Hada Salem Issa Al-Eryan",
-     "enrolled": 14,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -1308,7 +1308,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amal Wasef Mousa Nazzal",
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -1377,7 +1377,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Anton Robert Anton Sabella",
-     "enrolled": 17,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -1492,6 +1492,14 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samah Ahmad Hamed Abu Assab",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "2",
+     "instructor": "Samir Daoud Khalil Baidoun",
      "enrolled": 1,
      "capacity": null,
      "meetings": []

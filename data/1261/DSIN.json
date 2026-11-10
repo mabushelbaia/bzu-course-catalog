@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -159,7 +159,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman S. I. Zaid",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -175,7 +175,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nihal L. H. Shamieh",
-     "enrolled": 36,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -221,7 +221,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Zeinat J. M. Qadamani",
-     "enrolled": 19,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -290,7 +290,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": null,
-     "enrolled": 11,
+     "enrolled": 12,
      "capacity": null,
      "meetings": [
       {
@@ -435,7 +435,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farah S. S. Barham",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -992,7 +992,7 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Haider Fadel Nasereddin Nasereddin",
-     "enrolled": 2,
+     "enrolled": 3,
      "capacity": null,
      "meetings": []
     },
@@ -1063,7 +1063,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mai Ibrahim Elias Hanna",
-     "enrolled": 26,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {
@@ -1086,7 +1086,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farah S. S. Barham",
-     "enrolled": 16,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {

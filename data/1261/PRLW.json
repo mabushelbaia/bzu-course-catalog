@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hussein Ahed Hussein Ayaseh",
-     "enrolled": 14,
+     "enrolled": 12,
      "capacity": null,
      "meetings": [
       {
@@ -44,7 +44,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
-     "enrolled": 16,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {
@@ -90,7 +90,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled I. A. Talahma",
-     "enrolled": 12,
+     "enrolled": 11,
      "capacity": null,
      "meetings": [
       {

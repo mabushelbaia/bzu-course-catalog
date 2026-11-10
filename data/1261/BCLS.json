@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -241,7 +241,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Suzan Khamees Hussein Edkaidek",
-     "enrolled": 14,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -273,7 +273,7 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Suzan Khamees Hussein Edkaidek",
-     "enrolled": 20,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-10T11:15:11+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 18,
   "sections": 38,
   "instructors": 13,
-  "rooms": 22
+  "rooms": 23
  },
  "courses": [
   {
@@ -74,7 +74,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohanad Oudah Mohammed Ismael",
-     "enrolled": 129,
+     "enrolled": 131,
      "capacity": null,
      "meetings": [
       {
@@ -127,7 +127,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
-     "enrolled": 151,
+     "enrolled": 153,
      "capacity": null,
      "meetings": [
       {
@@ -157,7 +157,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
-     "enrolled": 80,
+     "enrolled": 81,
      "capacity": null,
      "meetings": [
       {
@@ -507,14 +507,14 @@
        "day": "T",
        "start": "12:30",
        "end": "13:50",
-       "room": null,
+       "room": "Al-Juraysi027",
        "building": null
       },
       {
        "day": "R",
        "start": "12:30",
        "end": "13:50",
-       "room": null,
+       "room": "Al-Juraysi027",
        "building": null
       }
      ]
@@ -537,7 +537,7 @@
        "day": "M",
        "start": "11:00",
        "end": "12:20",
-       "room": null,
+       "room": "Al-Juraysi221",
        "building": null
       }
      ]
@@ -546,7 +546,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sana' Jamil Abdallah Atari",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -576,7 +576,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shireen Mustafa Kamel Al Basha",
-     "enrolled": 57,
+     "enrolled": 58,
      "capacity": null,
      "meetings": [
       {
@@ -652,7 +652,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Jamil Abdallah Atari",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
