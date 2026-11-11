@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -22,7 +22,7 @@
   {
    "code": "DMKD1300",
    "prefix": "DMKD",
-   "name": "INTRODUCTION TO MARKETING",
+   "name": "PRINCIPLES OF MARKETING",
    "sections": [
     {
      "type": "Lecture",
@@ -66,7 +66,7 @@
   {
    "code": "DMKD1311",
    "prefix": "DMKD",
-   "name": "CUSTOMER CARE",
+   "name": "CUSTOMER RELATIONSHIP MANAGEMENT",
    "sections": [
     {
      "type": "Lecture",
@@ -81,7 +81,7 @@
   {
    "code": "DMKD2300",
    "prefix": "DMKD",
-   "name": "LEGAL AND ETHICAL ISSUES IN MARKETING",
+   "name": "ETHICS AND LEGAL ASPECTS OF E-MARKETING",
    "sections": [
     {
      "type": "Lecture",

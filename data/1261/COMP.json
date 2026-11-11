@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -1679,7 +1679,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mamoun I. A. Nawahdah",
-     "enrolled": 45,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -1725,7 +1725,7 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Mamoun I. A. Nawahdah",
-     "enrolled": 18,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {

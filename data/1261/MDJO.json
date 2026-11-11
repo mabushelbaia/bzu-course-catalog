@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -111,7 +111,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maisoon Hussam Ali Zoubi",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -134,7 +134,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -150,7 +150,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -189,7 +189,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
-     "enrolled": 34,
+     "enrolled": 35,
      "capacity": null,
      "meetings": [
       {
@@ -205,7 +205,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
-     "enrolled": 13,
+     "enrolled": 14,
      "capacity": null,
      "meetings": [
       {
@@ -297,7 +297,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Fatima M. A. Hreash",
-     "enrolled": 24,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {
@@ -327,7 +327,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Duha Abdulatif Rateb Abu Hijjleh",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -495,7 +495,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
-     "enrolled": 28,
+     "enrolled": 30,
      "capacity": null,
      "meetings": [
       {
@@ -511,7 +511,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
-     "enrolled": 16,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {
@@ -527,7 +527,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
-     "enrolled": 12,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
@@ -565,7 +565,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -595,7 +595,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bassam Rizeq Mofleh Ewaida",
-     "enrolled": 39,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -749,7 +749,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nashaat A. A. Aqtash",
-     "enrolled": 14,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -795,7 +795,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {

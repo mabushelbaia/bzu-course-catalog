@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -81,7 +81,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Duaa Wajdi Saleem Shuaibi",
-     "enrolled": 42,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -127,7 +127,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Manal Salah Ibrahim Hassan",
-     "enrolled": 43,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -150,7 +150,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ibrahim Nimer Hassan Mousa",
-     "enrolled": 44,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -380,7 +380,7 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Manal Salah Ibrahim Hassan",
-     "enrolled": 45,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -449,7 +449,7 @@
      "type": "Lecture",
      "number": "17",
      "instructor": "Suhaib Jalal Abdel Majeed Wadi",
-     "enrolled": 43,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -472,7 +472,7 @@
      "type": "Lecture",
      "number": "18",
      "instructor": "Jamal Abdeljaber Abdelmuti Assi",
-     "enrolled": 42,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -702,7 +702,7 @@
      "type": "Lecture",
      "number": "28",
      "instructor": "Samir Mohammad Nimer Mouqada",
-     "enrolled": 46,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -932,7 +932,7 @@
      "type": "Lecture",
      "number": "39",
      "instructor": "Thabit Muhammad Khalil Hamed",
-     "enrolled": 40,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -1162,7 +1162,7 @@
      "type": "Lecture",
      "number": "50",
      "instructor": "Gadeer Othman Taha Kharoubi",
-     "enrolled": 41,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {

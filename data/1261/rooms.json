@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -3140,6 +3140,14 @@
     "15:20"
    ],
    [
+    "JURI431",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "T",
+    "08:00",
+    "09:20"
+   ],
+   [
     "PUBA3311",
     "1",
     "Jehad Yousif Abd-Alrahman Alayasa",
@@ -3180,9 +3188,9 @@
     "16:50"
    ],
    [
-    "JURI232",
-    "2",
-    "Ashraf Azmi Abdel Jabar Siam",
+    "JURI431",
+    "1",
+    "Mahmoud Mohammad Mahmoud Abu Sawi",
     "W",
     "08:00",
     "09:20"
@@ -4282,6 +4290,14 @@
     "11:50"
    ],
    [
+    "PRLW6300",
+    "2",
+    "Mohammed Ibrahim Mohammed Alqaisi",
+    "W",
+    "14:30",
+    "17:20"
+   ],
+   [
     "JURI433",
     "1",
     "Mohammed Ibrahim Mohammed Alqaisi",
@@ -4518,14 +4534,6 @@
     "15:20"
    ],
    [
-    "JURI431",
-    "1",
-    "Mahmoud Mohammad Mahmoud Abu Sawi",
-    "T",
-    "08:00",
-    "09:20"
-   ],
-   [
     "JURI421",
     "2",
     "Nidal Nadeem Hana Freij",
@@ -4550,9 +4558,9 @@
     "15:50"
    ],
    [
-    "JURI431",
-    "1",
-    "Mahmoud Mohammad Mahmoud Abu Sawi",
+    "JURI232",
+    "2",
+    "Ashraf Azmi Abdel Jabar Siam",
     "W",
     "08:00",
     "09:20"
@@ -13874,14 +13882,6 @@
     "T",
     "14:00",
     "16:50"
-   ],
-   [
-    "PRLW6300",
-    "2",
-    "Mohammed Ibrahim Mohammed Alqaisi",
-    "W",
-    "14:30",
-    "17:20"
    ],
    [
     "EDUC9303",

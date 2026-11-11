@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -349,7 +349,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mueen A. M. Barghouthi",
-     "enrolled": 52,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {
@@ -418,7 +418,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rinad Kamal Al-Deen Hasan Abdallah",
-     "enrolled": 84,
+     "enrolled": 85,
      "capacity": null,
      "meetings": [
       {
@@ -450,7 +450,7 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Reenad Ahmed Ismail Battash",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -473,7 +473,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Abdallah Ahmad Dirbas",
-     "enrolled": 23,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -533,7 +533,7 @@
        "day": "W",
        "start": "08:00",
        "end": "09:20",
-       "room": "ALSADIK102",
+       "room": "ALSADIK406",
        "building": "ALSADIK"
       },
       {
@@ -673,7 +673,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Fayez Mohummad Ahmad Ibkairat",
-     "enrolled": 51,
+     "enrolled": 52,
      "capacity": null,
      "meetings": [
       {
@@ -986,7 +986,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hussein Ahed Hussein Ayaseh",
-     "enrolled": 58,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -1016,7 +1016,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Ali Hussain Khaled",
-     "enrolled": 40,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -1039,7 +1039,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmad Ali Hussain Khaled",
-     "enrolled": 53,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -1175,7 +1175,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dana H. Y. Farraj",
-     "enrolled": 54,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
@@ -1281,7 +1281,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Mohammad Mahmoud Abu Sawi",
-     "enrolled": 33,
+     "enrolled": 34,
      "capacity": null,
      "meetings": [
       {
@@ -1564,14 +1564,14 @@
        "day": "T",
        "start": "08:00",
        "end": "09:20",
-       "room": "ALSADIK406",
+       "room": "ALSADIK102",
        "building": "ALSADIK"
       },
       {
        "day": "W",
        "start": "08:00",
        "end": "09:20",
-       "room": "ALSADIK406",
+       "room": "ALSADIK102",
        "building": "ALSADIK"
       }
      ]
@@ -1677,7 +1677,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem Mahmoud Ahmed Albatmah",
-     "enrolled": 13,
+     "enrolled": 14,
      "capacity": null,
      "meetings": [
       {

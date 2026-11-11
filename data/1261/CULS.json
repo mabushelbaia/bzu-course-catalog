@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -166,7 +166,7 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Hanada Mahmoud Ahmad Kharama",
-     "enrolled": 47,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -327,7 +327,7 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Abdul Karim Majed Mustafa Barghothi",
-     "enrolled": 47,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {
@@ -350,7 +350,7 @@
      "type": "Lecture",
      "number": "17",
      "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
-     "enrolled": 49,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {
@@ -495,7 +495,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Munir Kamal Hani Fakher Eldin",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -518,7 +518,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdul Karim Majed Mustafa Barghothi",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -771,7 +771,7 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Jamal Mahmoud Yousef Daher",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {

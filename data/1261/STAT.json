@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -104,7 +104,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Yousef Hejaze Madiah",
-     "enrolled": 87,
+     "enrolled": 88,
      "capacity": null,
      "meetings": [
       {
@@ -127,7 +127,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hani Majed Izzo Kabajah",
-     "enrolled": 88,
+     "enrolled": 87,
      "capacity": null,
      "meetings": [
       {
@@ -173,7 +173,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Hassan Mohmmed Odeh Abu Hassan",
-     "enrolled": 69,
+     "enrolled": 70,
      "capacity": null,
      "meetings": [
       {

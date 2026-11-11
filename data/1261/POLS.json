@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -44,7 +44,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 145,
+     "enrolled": 144,
      "capacity": null,
      "meetings": [
       {
@@ -156,7 +156,7 @@
      "type": "Discussion",
      "number": "7",
      "instructor": "Raghad Abd Elhameed Mohammad Mohammad",
-     "enrolled": 49,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {

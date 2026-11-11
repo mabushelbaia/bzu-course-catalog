@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -1285,7 +1285,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Rania Mohammad Nu'Man Qassrawi",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -1495,7 +1495,7 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Andira A. M. Abdallah",
-     "enrolled": 36,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -1645,7 +1645,7 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Ruba Abdul_Latif Mustafa Khalaf",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -1705,7 +1705,7 @@
      "type": "Lecture",
      "number": "18",
      "instructor": "Salam A. A. Affoneh",
-     "enrolled": 40,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -2088,7 +2088,7 @@
      "type": "Lecture",
      "number": "36",
      "instructor": "Atiyyeh Hussein Atiyyeh Ismael",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -2238,7 +2238,7 @@
      "type": "Lecture",
      "number": "43",
      "instructor": "Rula Tony Jabra Yousef",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -2418,7 +2418,7 @@
      "type": "Lecture",
      "number": "50",
      "instructor": "Ahmad Shukri Ahmad Shayeb",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {

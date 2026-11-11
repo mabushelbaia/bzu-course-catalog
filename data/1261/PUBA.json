@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-11T11:00:20+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
-     "enrolled": 193,
+     "enrolled": 194,
      "capacity": null,
      "meetings": [
       {
@@ -154,7 +154,7 @@
      "type": "Discussion",
      "number": "6",
      "instructor": "Hadil R. O. Allawi",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -478,7 +478,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
-     "enrolled": 24,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {
@@ -561,7 +561,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -614,7 +614,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
-     "enrolled": 44,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -757,7 +757,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nour Hatem Ahmad Mattour",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -780,7 +780,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rola A. M. Alfatafta",
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -923,7 +923,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Sufyan Abdeqader Musleh",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -946,7 +946,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abeer Sufyan Abdeqader Musleh",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -1029,7 +1029,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Farid Mohammad Farid Irshaid",
-     "enrolled": 41,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
