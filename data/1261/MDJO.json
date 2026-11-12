@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -357,7 +357,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
-     "enrolled": 43,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -389,7 +389,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Belal A. S. Doufesh",
-     "enrolled": 21,
+     "enrolled": 22,
      "capacity": null,
      "meetings": [
       {
@@ -772,7 +772,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Walid Omar Awad Shurafa",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -417,7 +417,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ihab Basheer Mohammed Alshaer",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -609,7 +609,7 @@
      "type": "Lab",
      "number": "5",
      "instructor": "Ihab Basheer Mohammed Alshaer",
-     "enrolled": 23,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -1238,7 +1238,7 @@
      "type": "Lab",
      "number": "9",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -1254,7 +1254,7 @@
      "type": "Lab",
      "number": "10",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
-     "enrolled": 26,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {
@@ -3128,7 +3128,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tasnim M. A. Zayet",
-     "enrolled": 52,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {
@@ -3264,7 +3264,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Refat T. A. Othman",
-     "enrolled": 63,
+     "enrolled": 64,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -250,7 +250,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Mohammed H. M. Aljabari",
-     "enrolled": 54,
+     "enrolled": 52,
      "capacity": null,
      "meetings": [
       {
@@ -266,7 +266,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Mohammed H. M. Aljabari",
-     "enrolled": 49,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {

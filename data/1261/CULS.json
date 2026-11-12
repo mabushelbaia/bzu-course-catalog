@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -120,7 +120,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Hanada Mahmoud Ahmad Kharama",
-     "enrolled": 45,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -419,7 +419,7 @@
      "type": "Lecture",
      "number": "21",
      "instructor": "Manar Mohammad Afif Kawasmi",
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -771,7 +771,7 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Jamal Mahmoud Yousef Daher",
-     "enrolled": 47,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {

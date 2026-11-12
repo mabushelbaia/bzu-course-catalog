@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -12486,14 +12486,6 @@
     "15:20"
    ],
    [
-    "UNIV1110",
-    "7",
-    "Sahar Mahmoud Mosa El_Jallad",
-    "W",
-    "08:00",
-    "09:20"
-   ],
-   [
     "COMP431",
     "1",
     "Mohammad Y. M. Alkhanafseh",
@@ -18896,6 +18888,14 @@
     "T",
     "14:00",
     "15:20"
+   ],
+   [
+    "UNIV1110",
+    "7",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "W",
+    "08:00",
+    "09:20"
    ],
    [
     "ARAB1360",

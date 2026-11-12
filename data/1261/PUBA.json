@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -209,7 +209,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Mahmoud Ahmed Mahmoud Issa",
-     "enrolled": 32,
+     "enrolled": 33,
      "capacity": null,
      "meetings": [
       {
@@ -241,7 +241,7 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Mahmoud Ahmed Mahmoud Issa",
-     "enrolled": 24,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -372,7 +372,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
-     "enrolled": 42,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -395,7 +395,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
-     "enrolled": 56,
+     "enrolled": 57,
      "capacity": null,
      "meetings": [
       {
@@ -478,7 +478,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
-     "enrolled": 25,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -697,7 +697,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Farid Mohammad Farid Irshaid",
-     "enrolled": 50,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -780,7 +780,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rola A. M. Alfatafta",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -923,7 +923,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Sufyan Abdeqader Musleh",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -1112,7 +1112,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
-     "enrolled": 61,
+     "enrolled": 63,
      "capacity": null,
      "meetings": [
       {

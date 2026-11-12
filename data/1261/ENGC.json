@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -1285,7 +1285,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Rania Mohammad Nu'Man Qassrawi",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -1315,7 +1315,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Rami Mahmoud Mohammed Abu Shamma",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -1495,7 +1495,7 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Andira A. M. Abdallah",
-     "enrolled": 39,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -1525,7 +1525,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
-     "enrolled": 40,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -1555,7 +1555,7 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Mahmoud Mustafa Ali Bsharat",
-     "enrolled": 39,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -1735,7 +1735,7 @@
      "type": "Lecture",
      "number": "19",
      "instructor": "Suzan Musa Asad Shehada",
-     "enrolled": 38,
+     "enrolled": 39,
      "capacity": null,
      "meetings": [
       {
@@ -1795,7 +1795,7 @@
      "type": "Lecture",
      "number": "22",
      "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -2328,7 +2328,7 @@
      "type": "Lecture",
      "number": "46",
      "instructor": "Mohammed S. K. Zaid",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -2418,7 +2418,7 @@
      "type": "Lecture",
      "number": "50",
      "instructor": "Ahmad Shukri Ahmad Shayeb",
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {

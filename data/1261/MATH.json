@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -1227,7 +1227,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Amal Abdulhakim Sader Awadallah",
-     "enrolled": 54,
+     "enrolled": 53,
      "capacity": null,
      "meetings": [
       {
@@ -1259,7 +1259,7 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Rama Waddah Mubtasem Irhimi",
-     "enrolled": 51,
+     "enrolled": 52,
      "capacity": null,
      "meetings": [
       {
@@ -1503,7 +1503,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ala Ata Abdelhady Talahmeh",
-     "enrolled": 54,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {

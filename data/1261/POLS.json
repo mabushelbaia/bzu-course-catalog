@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -299,7 +299,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Imad Hassan Musa Ghayathah",
-     "enrolled": 106,
+     "enrolled": 107,
      "capacity": null,
      "meetings": [
       {
@@ -347,7 +347,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Qamar Eyad Mahmmoud Barghouthi",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -400,7 +400,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ghada Adnan Kathem Almadbouh",
-     "enrolled": 23,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -460,7 +460,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Mahmoud Abed Mousa",
-     "enrolled": 24,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -490,7 +490,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -520,7 +520,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Murad Abdel-Majid Abdel-Qader Shaheen",
-     "enrolled": 29,
+     "enrolled": 32,
      "capacity": null,
      "meetings": [
       {
@@ -580,7 +580,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Mahmoud Abed Mousa",
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": [
       {

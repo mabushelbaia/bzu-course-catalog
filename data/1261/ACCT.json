@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Bashar Shukri Hanna Al Qara'",
-     "enrolled": 131,
+     "enrolled": 130,
      "capacity": null,
      "meetings": [
       {
@@ -120,7 +120,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Zeyad Fawaz Fouzi Munawer",
-     "enrolled": 136,
+     "enrolled": 137,
      "capacity": null,
      "meetings": [
       {
@@ -143,7 +143,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Yousef Mohammad Yousef Hassan",
-     "enrolled": 60,
+     "enrolled": 61,
      "capacity": null,
      "meetings": [
       {
@@ -325,7 +325,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hatem Yousef Ahmad Daoud",
-     "enrolled": 125,
+     "enrolled": 126,
      "capacity": null,
      "meetings": [
       {
@@ -825,7 +825,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samia George Issa Shammas",
-     "enrolled": 53,
+     "enrolled": 55,
      "capacity": null,
      "meetings": [
       {
@@ -848,7 +848,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mirabo Nael Bolous Shammas",
-     "enrolled": 49,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {

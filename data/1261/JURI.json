@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -225,7 +225,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rinad Kamal Al-Deen Hasan Abdallah",
-     "enrolled": 142,
+     "enrolled": 144,
      "capacity": null,
      "meetings": [
       {
@@ -241,7 +241,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Sarah Waled Ibrahim Alhajabed",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -273,7 +273,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Sarah Waled Ibrahim Alhajabed",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -418,7 +418,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rinad Kamal Al-Deen Hasan Abdallah",
-     "enrolled": 85,
+     "enrolled": 86,
      "capacity": null,
      "meetings": [
       {
@@ -434,7 +434,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Reenad Ahmed Ismail Battash",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -763,7 +763,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hala Ezzat Saleh Shoaibi",
-     "enrolled": 102,
+     "enrolled": 103,
      "capacity": null,
      "meetings": [
       {
@@ -811,7 +811,7 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Tala Isam Wadi Nasir",
-     "enrolled": 28,
+     "enrolled": 29,
      "capacity": null,
      "meetings": [
       {
@@ -1875,7 +1875,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Newar M. M. Bdair",
-     "enrolled": 15,
+     "enrolled": 14,
      "capacity": null,
      "meetings": [
       {
@@ -1921,7 +1921,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rinad Kamal Al-Deen Hasan Abdallah",
-     "enrolled": 10,
+     "enrolled": 9,
      "capacity": null,
      "meetings": [
       {

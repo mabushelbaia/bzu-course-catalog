@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -74,7 +74,7 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Mohand M. B. Tuffaha",
-     "enrolled": 129,
+     "enrolled": 130,
      "capacity": null,
      "meetings": [
       {
@@ -219,7 +219,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Anton Robert Anton Sabella",
-     "enrolled": 82,
+     "enrolled": 81,
      "capacity": null,
      "meetings": [
       {
@@ -431,7 +431,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rashid Nidal Rashid Sabri",
-     "enrolled": 39,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -484,7 +484,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muna Musa Tawfiq Khoury",
-     "enrolled": 57,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -507,7 +507,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Muna Musa Tawfiq Khoury",
-     "enrolled": 52,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -786,7 +786,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mira K. J. Almukarker",
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {

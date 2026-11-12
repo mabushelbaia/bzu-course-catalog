@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-12T11:13:23+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -131,8 +131,8 @@
        "day": "W",
        "start": "08:00",
        "end": "09:20",
-       "room": "Bamieh105",
-       "building": "Bamieh"
+       "room": "O.Abdulhadi151",
+       "building": "O.Abdulhadi"
       }
      ]
     },
