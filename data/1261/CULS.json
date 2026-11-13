@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-13T11:00:40+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -304,7 +304,7 @@
      "type": "Lecture",
      "number": "15",
      "instructor": "Omar M. H. Qassis",
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -396,7 +396,7 @@
      "type": "Lecture",
      "number": "19",
      "instructor": "Imad Sami Ahmad Sayrafi",
-     "enrolled": 45,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -449,7 +449,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rami Fawzi Issa Salameh",
-     "enrolled": 50,
+     "enrolled": 51,
      "capacity": null,
      "meetings": [
       {
@@ -472,7 +472,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamal Mahmoud Yousef Daher",
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -771,7 +771,7 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Jamal Mahmoud Yousef Daher",
-     "enrolled": 48,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {

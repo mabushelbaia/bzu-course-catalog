@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-13T11:00:40+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Marian Zaki Basil Petro",
-     "enrolled": 134,
+     "enrolled": 135,
      "capacity": null,
      "meetings": [
       {
@@ -74,7 +74,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Dana Khaled Kamal Qaimary Siaj",
-     "enrolled": 128,
+     "enrolled": 127,
      "capacity": null,
      "meetings": [
       {

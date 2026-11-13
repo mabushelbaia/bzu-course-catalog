@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-13T11:00:40+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,7 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Said Naji Herzallah",
-     "enrolled": 44,
+     "enrolled": 45,
      "capacity": null,
      "meetings": [
       {
@@ -232,7 +232,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
-     "enrolled": 18,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -248,7 +248,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
-     "enrolled": 18,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -317,7 +317,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Othman Ali Othman Sharkas",
-     "enrolled": 51,
+     "enrolled": 52,
      "capacity": null,
      "meetings": [
       {

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-13T11:00:40+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -291,7 +291,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khader Mahmoud Ahmad Rasras",
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -344,7 +344,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Maurice F. B. Backleh",
-     "enrolled": 35,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -464,7 +464,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
-     "enrolled": 14,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -487,7 +487,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nedaa M. I. Awad",
-     "enrolled": 26,
+     "enrolled": 27,
      "capacity": null,
      "meetings": [
       {

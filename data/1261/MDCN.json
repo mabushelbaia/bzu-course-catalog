@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-13T11:00:40+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -44,7 +44,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
-     "enrolled": 21,
+     "enrolled": 22,
      "capacity": null,
      "meetings": []
     },
@@ -67,7 +67,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed A. R. Twam",
-     "enrolled": 86,
+     "enrolled": 87,
      "capacity": null,
      "meetings": [
       {
@@ -90,7 +90,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Mustafa Saleh Swaileh",
-     "enrolled": 86,
+     "enrolled": 87,
      "capacity": null,
      "meetings": [
       {
@@ -129,7 +129,7 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Maen Khader Shehadah Mohammad",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -152,7 +152,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saleh Mohammad Sulaiman Sulaiman",
-     "enrolled": 86,
+     "enrolled": 87,
      "capacity": null,
      "meetings": [
       {
@@ -175,7 +175,7 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Hammam M. D. Abdalrazeq",
-     "enrolled": 43,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -214,7 +214,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maysaa Yousef Khaled Nemer",
-     "enrolled": 86,
+     "enrolled": 87,
      "capacity": null,
      "meetings": [
       {
@@ -237,7 +237,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Zeina Osama Mohammad Amro, Aisha Abdel Munem Omran Shalash",
-     "enrolled": 86,
+     "enrolled": 87,
      "capacity": null,
      "meetings": [
       {

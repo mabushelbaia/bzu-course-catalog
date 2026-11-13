@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-13T11:00:40+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -51,7 +51,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thabit Muhammad Khalil Hamed",
-     "enrolled": 37,
+     "enrolled": 36,
      "capacity": null,
      "meetings": [
       {
@@ -81,7 +81,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Duaa Wajdi Saleem Shuaibi",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -1192,7 +1192,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Ahmad Abu Hashhash",
-     "enrolled": 77,
+     "enrolled": 78,
      "capacity": null,
      "meetings": [
       {
@@ -1372,7 +1372,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
-     "enrolled": 41,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
