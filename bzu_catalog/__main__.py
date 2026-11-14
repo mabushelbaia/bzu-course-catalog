@@ -22,6 +22,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from . import fetch as fetching
+from .check import problems
 from .parse import CALENDAR_URL, DAYS, HIERARCHY_URL, academic_year, parse_calendar, parse_courses, parse_hierarchy, parse_terms, shown_term, term_dates
 
 
@@ -43,7 +44,7 @@ def counts(courses: list[dict]) -> dict:
     return {
         "courses": len(courses),
         "sections": len(sections),
-        "instructors": len({s["instructor"] for s in sections if s["instructor"]}),
+        "instructors": len({name for s in sections for name in s["instructors"]}),
         "rooms": len({m["room"] for s in sections for m in s["meetings"] if m["room"]}),
     }
 
@@ -68,9 +69,11 @@ def write_term(out: Path, index: dict, term: dict, courses: list[dict], source: 
     """Writes one semester if its data changed. Returns True when files were written."""
     code = term["code"]
     old = index["terms"].get(code, {})
-    if not courses and old.get("counts", {}).get("courses"):
-        # A page that suddenly parses to nothing is a broken fetch or a layout change, not an empty semester.
-        raise SystemExit(f"Refusing to replace {code}: parsed 0 courses, previously {old['counts']['courses']}")
+    # A page that suddenly parses to nothing, or to far less than before, is a broken fetch or a
+    # change to Ritaj's layout, not a real semester: fail the run and keep the last good data
+    found = problems(courses, old.get("counts"))
+    if found:
+        raise SystemExit(f"Refusing to replace {code}, the parsed page looks wrong:\n" + "\n".join(f"  - {p}" for p in found))
     h = digest(courses)
     if h == old.get("hash"):
         print(f"  {code}: unchanged")
