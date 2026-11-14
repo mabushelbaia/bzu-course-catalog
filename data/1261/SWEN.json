@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Asad Fares Hassouneh",
+     "instructors": [
+      "Yousef Asad Fares Hassouneh"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -143,6 +156,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -151,6 +167,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yousef Asad Fares Hassouneh",
+     "instructors": [
+      "Yousef Asad Fares Hassouneh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -159,6 +178,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -167,6 +189,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -175,6 +200,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -183,6 +211,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -191,6 +222,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -199,6 +233,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Abdel Salam Muhammad Khader Sayyad",
+     "instructors": [
+      "Abdel Salam Muhammad Khader Sayyad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

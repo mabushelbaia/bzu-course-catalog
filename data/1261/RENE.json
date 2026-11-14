@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashed M. Y. Al-Sa'Ed",
+     "instructors": [
+      "Rashed M. Y. Al-Sa'Ed"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahran S. R. Quraan",
+     "instructors": [
+      "Mahran S. R. Quraan"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Afif A. M. Akel",
+     "instructors": [
+      "Afif A. M. Akel"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -82,6 +91,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "instructors": [
+      "Ahmed Mohammed Ahmed Abu Hanieh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -90,6 +102,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "instructors": [
+      "Ahmed Mohammed Ahmed Abu Hanieh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -98,6 +113,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Afif A. M. Akel",
+     "instructors": [
+      "Afif A. M. Akel"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

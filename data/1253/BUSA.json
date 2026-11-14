@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rania Yaser Qostande Jaber",
+     "instructors": [
+      "Rania Yaser Qostande Jaber"
+     ],
      "enrolled": 59,
      "capacity": null,
      "meetings": [
@@ -72,6 +75,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maisa Yacoub Naoum Burbar",
+     "instructors": [
+      "Maisa Yacoub Naoum Burbar"
+     ],
      "enrolled": 101,
      "capacity": null,
      "meetings": [
@@ -109,6 +115,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Maisa Yacoub Naoum Burbar",
+     "instructors": [
+      "Maisa Yacoub Naoum Burbar"
+     ],
      "enrolled": 94,
      "capacity": null,
      "meetings": [
@@ -153,6 +162,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rania Yaser Qostande Jaber",
+     "instructors": [
+      "Rania Yaser Qostande Jaber"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -197,6 +209,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mira Taysir Ibrahim El-Far",
+     "instructors": [
+      "Mira Taysir Ibrahim El-Far"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -241,6 +256,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohand M. B. Tuffaha",
+     "instructors": [
+      "Mohand M. B. Tuffaha"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -278,6 +296,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohand M. B. Tuffaha",
+     "instructors": [
+      "Mohand M. B. Tuffaha"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -322,6 +343,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Alaa Mohammad Fares Hamad",
+     "instructors": [
+      "Alaa Mohammad Fares Hamad"
+     ],
      "enrolled": 103,
      "capacity": null,
      "meetings": [
@@ -366,6 +390,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mira Taysir Ibrahim El-Far",
+     "instructors": [
+      "Mira Taysir Ibrahim El-Far"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -410,6 +437,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohand M. B. Tuffaha",
+     "instructors": [
+      "Mohand M. B. Tuffaha"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -454,6 +484,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashid Nidal Rashid Sabri",
+     "instructors": [
+      "Rashid Nidal Rashid Sabri"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -498,6 +531,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mira Taysir Ibrahim El-Far",
+     "instructors": [
+      "Mira Taysir Ibrahim El-Far"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -542,6 +578,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rania Yaser Qostande Jaber",
+     "instructors": [
+      "Rania Yaser Qostande Jaber"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -586,6 +625,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samir Daoud Khalil Baidoun",
+     "instructors": [
+      "Samir Daoud Khalil Baidoun"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -630,6 +672,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "instructors": [
+      "Tareq Mohammad Tallat Abdulfatah Ashour"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -660,6 +705,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samir Daoud Khalil Baidoun",
+     "instructors": [
+      "Samir Daoud Khalil Baidoun"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -690,6 +738,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samir Daoud Khalil Baidoun",
+     "instructors": [
+      "Samir Daoud Khalil Baidoun"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -720,6 +771,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amal Wasef Mousa Nazzal",
+     "instructors": [
+      "Amal Wasef Mousa Nazzal"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "instructors": [
+      "Abdallah Taha Suleiman Abu Taha"
+     ],
      "enrolled": 93,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Asem M. A. Mubarak",
+     "instructors": [
+      "Asem M. A. Mubarak"
+     ],
      "enrolled": 78,
      "capacity": null,
      "meetings": [
@@ -88,6 +94,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 52,
      "capacity": null,
      "meetings": [
@@ -118,6 +127,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Johnny Butros Hanna Stiban",
+     "instructors": [
+      "Johnny Butros Hanna Stiban"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [

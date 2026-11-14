@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T10:28:13+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -36,6 +37,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -44,6 +46,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -52,6 +55,7 @@
      "type": "Lecture",
      "number": "4",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -60,6 +64,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -68,6 +73,7 @@
      "type": "Lecture",
      "number": "6",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -76,6 +82,7 @@
      "type": "Lecture",
      "number": "7",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -84,6 +91,7 @@
      "type": "Lecture",
      "number": "8",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -92,6 +100,7 @@
      "type": "Lecture",
      "number": "9",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -100,6 +109,7 @@
      "type": "Lecture",
      "number": "10",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -108,6 +118,7 @@
      "type": "Lecture",
      "number": "11",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -116,6 +127,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -131,6 +143,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -154,6 +167,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -177,6 +191,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Hassan Mahmoud Awad",
+     "instructors": [
+      "Mahmoud Hassan Mahmoud Awad"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -207,6 +224,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -229,7 +247,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -238,6 +259,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -245,7 +269,10 @@
     {
      "type": "Lecture",
      "number": "3",
-     "instructor": "Habib   Hanna",
+     "instructor": "Habib Hanna",
+     "instructors": [
+      "Habib Hanna"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -261,6 +288,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed I. M. Sulaiman",
+     "instructors": [
+      "Mohammed I. M. Sulaiman"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -268,7 +298,10 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -284,6 +317,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -307,6 +343,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -330,6 +369,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed I. M. Sulaiman",
+     "instructors": [
+      "Mohammed I. M. Sulaiman"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -353,6 +395,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed I. M. Sulaiman",
+     "instructors": [
+      "Mohammed I. M. Sulaiman"
+     ],
      "enrolled": 60,
      "capacity": null,
      "meetings": [
@@ -376,6 +421,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed I. M. Sulaiman",
+     "instructors": [
+      "Mohammed I. M. Sulaiman"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -406,6 +454,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -436,6 +487,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -450,7 +504,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -459,6 +516,7 @@
      "type": "Lecture",
      "number": "2",
      "instructor": null,
+     "instructors": [],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -474,6 +532,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -496,7 +557,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Habib   Hanna",
+     "instructor": "Habib Hanna",
+     "instructors": [
+      "Habib Hanna"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -519,7 +583,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Habib   Hanna",
+     "instructor": "Habib Hanna",
+     "instructors": [
+      "Habib Hanna"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -543,6 +610,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Heather Macdonald Campbell Bursheh",
+     "instructors": [
+      "Heather Macdonald Campbell Bursheh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -550,7 +620,10 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -559,6 +632,7 @@
      "type": "Lecture",
      "number": "3",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

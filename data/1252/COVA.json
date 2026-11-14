@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 19,
   "sections": 30,
-  "instructors": 10,
+  "instructors": 9,
   "rooms": 3
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem N. A. Masri",
+     "instructors": [
+      "Reem N. A. Masri"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. M. Khalil",
+     "instructors": [
+      "Mohammed S. M. Khalil"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Mohammed S. M. Khalil",
+     "instructors": [
+      "Mohammed S. M. Khalil"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majd N. A. Masri, Mohammed S. M. Khalil",
+     "instructors": [
+      "Majd N. A. Masri",
+      "Mohammed S. M. Khalil"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -157,6 +173,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Muneir Bols Martha",
+     "instructors": [
+      "Samar Muneir Bols Martha"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -180,6 +199,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saed G. A. Mahfuth",
+     "instructors": [
+      "Saed G. A. Mahfuth"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -202,7 +224,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Hamad A.  Maddah",
+     "instructor": "Hamad A. Maddah",
+     "instructors": [
+      "Hamad A. Maddah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -232,7 +257,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Yasmine A.  Omari",
+     "instructor": "Yasmine A. Omari",
+     "instructors": [
+      "Yasmine A. Omari"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -248,7 +276,10 @@
     {
      "type": "Lab",
      "number": "1",
-     "instructor": "Yasmine A.  Omari",
+     "instructor": "Yasmine A. Omari",
+     "instructors": [
+      "Yasmine A. Omari"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -279,6 +310,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Noorah A. M. Baker",
+     "instructors": [
+      "Noorah A. M. Baker"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -295,6 +329,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Noorah A. M. Baker",
+     "instructors": [
+      "Noorah A. M. Baker"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -325,6 +362,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Muneir Bols Martha",
+     "instructors": [
+      "Samar Muneir Bols Martha"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -355,6 +395,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saed G. A. Mahfuth, Reem N. A. Masri",
+     "instructors": [
+      "Saed G. A. Mahfuth",
+      "Reem N. A. Masri"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -385,6 +429,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -415,6 +462,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []
@@ -423,6 +473,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -452,7 +505,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Hamad A.  Maddah",
+     "instructor": "Hamad A. Maddah",
+     "instructors": [
+      "Hamad A. Maddah"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -483,6 +539,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. M. Khalil",
+     "instructors": [
+      "Mohammed S. M. Khalil"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -499,6 +558,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Mohammed S. M. Khalil",
+     "instructors": [
+      "Mohammed S. M. Khalil"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -528,7 +590,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Yasmine A.  Omari",
+     "instructor": "Yasmine A. Omari",
+     "instructors": [
+      "Yasmine A. Omari"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -544,7 +609,10 @@
     {
      "type": "Lab",
      "number": "1",
-     "instructor": "Yasmine A.  Omari",
+     "instructor": "Yasmine A. Omari",
+     "instructors": [
+      "Yasmine A. Omari"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -575,6 +643,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -583,6 +654,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -598,6 +672,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Muneir Bols Martha",
+     "instructors": [
+      "Samar Muneir Bols Martha"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -628,6 +705,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. M. Khalil",
+     "instructors": [
+      "Mohammed S. M. Khalil"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -636,6 +716,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Saed G. A. Mahfuth",
+     "instructors": [
+      "Saed G. A. Mahfuth"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -644,6 +727,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Saed G. A. Mahfuth",
+     "instructors": [
+      "Saed G. A. Mahfuth"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -652,6 +738,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Samar Muneir Bols Martha",
+     "instructors": [
+      "Samar Muneir Bols Martha"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -660,6 +749,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Reem N. A. Masri",
+     "instructors": [
+      "Reem N. A. Masri"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

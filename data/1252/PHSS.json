@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rema Hasan Ahmad Hammami",
+     "instructors": [
+      "Rema Hasan Ahmad Hammami"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -50,7 +53,11 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Munir Kamal Hani Fakher Eldin, Rana Daher  Barakat",
+     "instructor": "Munir Kamal Hani Fakher Eldin, Rana Daher Barakat",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin",
+      "Rana Daher Barakat"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -74,6 +81,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Salim Edmon Elias Tamari",
+     "instructors": [
+      "Salim Edmon Elias Tamari"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -89,6 +99,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Mahmoud Yousef Daher",
+     "instructors": [
+      "Jamal Mahmoud Yousef Daher"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -97,6 +110,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hosnia M. H. Jad",
+     "instructors": [
+      "Hosnia M. H. Jad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -105,6 +121,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hosnia M. H. Jad",
+     "instructors": [
+      "Hosnia M. H. Jad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -113,6 +132,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abaher Ibrahim Arafat El-Sakka",
+     "instructors": [
+      "Abaher Ibrahim Arafat El-Sakka"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -121,6 +143,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Rema Hasan Ahmad Hammami",
+     "instructors": [
+      "Rema Hasan Ahmad Hammami"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -128,7 +153,10 @@
     {
      "type": "Lecture",
      "number": "6",
-     "instructor": "Rana Daher  Barakat",
+     "instructor": "Rana Daher Barakat",
+     "instructors": [
+      "Rana Daher Barakat"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -137,6 +165,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Abdulrahim M. A. Al Shaikh",
+     "instructors": [
+      "Abdulrahim M. A. Al Shaikh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -145,6 +176,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Mudar Fuad Khalil Kassis",
+     "instructors": [
+      "Mudar Fuad Khalil Kassis"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed A. R. Twam",
+     "instructors": [
+      "Ahmed A. R. Twam"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -72,6 +75,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed A. R. Twam",
+     "instructors": [
+      "Ahmed A. R. Twam"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -116,6 +122,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "instructors": [
+      "Mutaz Mohammed Mohammed Jamil Dredei"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -132,6 +141,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "instructors": [
+      "Mutaz Mohammed Mohammed Jamil Dredei"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -148,6 +160,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "instructors": [
+      "Mutaz Mohammed Mohammed Jamil Dredei"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -171,6 +186,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "instructors": [
+      "Omar Hasan Abdulghani Almahmoud"
+     ],
      "enrolled": 68,
      "capacity": null,
      "meetings": [
@@ -201,6 +219,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khalid Samer Ahmad Yaseen",
+     "instructors": [
+      "Khalid Samer Ahmad Yaseen"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -231,6 +252,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "instructors": [
+      "Omar Hasan Abdulghani Almahmoud"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -261,6 +285,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Khalid Samer Ahmad Yaseen",
+     "instructors": [
+      "Khalid Samer Ahmad Yaseen"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -291,6 +318,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Imad Tawfiq Mohammad Asmar",
+     "instructors": [
+      "Imad Tawfiq Mohammad Asmar"
+     ],
      "enrolled": 56,
      "capacity": null,
      "meetings": [
@@ -328,6 +358,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Imad Tawfiq Mohammad Asmar",
+     "instructors": [
+      "Imad Tawfiq Mohammad Asmar"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -372,6 +405,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibtisam Shaqour Mohammad Shawer",
+     "instructors": [
+      "Ibtisam Shaqour Mohammad Shawer"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": []
@@ -380,6 +416,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ibtisam Shaqour Mohammad Shawer",
+     "instructors": [
+      "Ibtisam Shaqour Mohammad Shawer"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": []
@@ -395,6 +434,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Tawfiq Mohammad Asmar",
+     "instructors": [
+      "Imad Tawfiq Mohammad Asmar"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": []
@@ -403,6 +445,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Imad Tawfiq Mohammad Asmar",
+     "instructors": [
+      "Imad Tawfiq Mohammad Asmar"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": []

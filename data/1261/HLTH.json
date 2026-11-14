@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mai Salem Hanna Alkaila",
+     "instructors": [
+      "Mai Salem Hanna Alkaila"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Zeina Osama Mohammad Amro",
+     "instructors": [
+      "Zeina Osama Mohammad Amro"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Aisha Abdel Munem Omran Shalash",
+     "instructors": [
+      "Aisha Abdel Munem Omran Shalash"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maysaa Yousef Khaled Nemer",
+     "instructors": [
+      "Maysaa Yousef Khaled Nemer"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullatif Said Abdullatif Husseini",
+     "instructors": [
+      "Abdullatif Said Abdullatif Husseini"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -143,6 +158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Said F. S. Abukhattab",
+     "instructors": [
+      "Said F. S. Abukhattab"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -166,6 +184,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maysaa Yousef Khaled Nemer",
+     "instructors": [
+      "Maysaa Yousef Khaled Nemer"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -189,6 +210,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\"",
+     "instructors": [
+      "Rula Abdul Karim Mustafa \"Ghandour Daoud\""
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -212,6 +236,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Said F. S. Abukhattab",
+     "instructors": [
+      "Said F. S. Abukhattab"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -220,6 +247,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Aisha Abdel Munem Omran Shalash",
+     "instructors": [
+      "Aisha Abdel Munem Omran Shalash"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -228,6 +258,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Maysaa Yousef Khaled Nemer",
+     "instructors": [
+      "Maysaa Yousef Khaled Nemer"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -236,6 +269,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Said F. S. Abukhattab",
+     "instructors": [
+      "Said F. S. Abukhattab"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -244,6 +280,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Aisha Abdel Munem Omran Shalash",
+     "instructors": [
+      "Aisha Abdel Munem Omran Shalash"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -252,6 +291,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\"",
+     "instructors": [
+      "Rula Abdul Karim Mustafa \"Ghandour Daoud\""
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -260,6 +302,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Said F. S. Abukhattab",
+     "instructors": [
+      "Said F. S. Abukhattab"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -268,6 +313,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Said F. S. Abukhattab",
+     "instructors": [
+      "Said F. S. Abukhattab"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -276,6 +324,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\"",
+     "instructors": [
+      "Rula Abdul Karim Mustafa \"Ghandour Daoud\""
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -284,6 +335,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Maysaa Yousef Khaled Nemer",
+     "instructors": [
+      "Maysaa Yousef Khaled Nemer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

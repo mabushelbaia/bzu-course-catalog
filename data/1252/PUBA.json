@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 134,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Hadil R. O. Allawi",
+     "instructors": [
+      "Hadil R. O. Allawi"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Hadil R. O. Allawi",
+     "instructors": [
+      "Hadil R. O. Allawi"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -83,6 +92,9 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Hadil R. O. Allawi",
+     "instructors": [
+      "Hadil R. O. Allawi"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -106,6 +118,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
+     "instructors": [
+      "Mayyada Ismae'L Hasan Badawi"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -129,6 +144,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
+     "instructors": [
+      "Mayyada Ismae'L Hasan Badawi"
+     ],
      "enrolled": 74,
      "capacity": null,
      "meetings": [
@@ -152,6 +170,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Mahmoud Ahmed Mahmoud Issa",
+     "instructors": [
+      "Mahmoud Ahmed Mahmoud Issa"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -168,6 +189,9 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Mahmoud Ahmed Mahmoud Issa",
+     "instructors": [
+      "Mahmoud Ahmed Mahmoud Issa"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -184,6 +208,9 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Mahmoud Ahmed Mahmoud Issa",
+     "instructors": [
+      "Mahmoud Ahmed Mahmoud Issa"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -200,6 +227,9 @@
      "type": "Discussion",
      "number": "5",
      "instructor": "Mahmoud Ahmed Mahmoud Issa",
+     "instructors": [
+      "Mahmoud Ahmed Mahmoud Issa"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -223,6 +253,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lina Musa Salameh Alswaiti",
+     "instructors": [
+      "Lina Musa Salameh Alswaiti"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -246,6 +279,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rola A. M. Alfatafta",
+     "instructors": [
+      "Rola A. M. Alfatafta"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -276,6 +312,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rola A. M. Alfatafta",
+     "instructors": [
+      "Rola A. M. Alfatafta"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -306,6 +345,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ismail Salama Ismail Iriqat",
+     "instructors": [
+      "Ismail Salama Ismail Iriqat"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -336,6 +378,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
+     "instructors": [
+      "Abdelrahman Naser Ali Hamarsha"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -359,6 +404,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
+     "instructors": [
+      "Abdelrahman Naser Ali Hamarsha"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -382,6 +430,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ahmad So'Ud Salim Hamo",
+     "instructors": [
+      "Ahmad So'Ud Salim Hamo"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -412,6 +463,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
+     "instructors": [
+      "Mayyada Ismae'L Hasan Badawi"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -435,6 +489,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
+     "instructors": [
+      "Mayyada Ismae'L Hasan Badawi"
+     ],
      "enrolled": 63,
      "capacity": null,
      "meetings": [
@@ -465,6 +522,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -495,6 +555,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -532,6 +595,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -562,6 +628,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman Elias Yousef Zaru",
+     "instructors": [
+      "Ayman Elias Yousef Zaru"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -585,6 +654,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Omar Mohammad As'Ad Rahal",
+     "instructors": [
+      "Omar Mohammad As'Ad Rahal"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -622,6 +694,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -645,6 +720,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -675,6 +753,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Sufyan Abdeqader Musleh",
+     "instructors": [
+      "Abeer Sufyan Abdeqader Musleh"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -705,6 +786,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -728,6 +812,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -765,6 +852,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Farid Mohammad Farid Irshaid",
+     "instructors": [
+      "Farid Mohammad Farid Irshaid"
+     ],
      "enrolled": 57,
      "capacity": null,
      "meetings": [
@@ -802,6 +892,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman Elias Yousef Zaru",
+     "instructors": [
+      "Ayman Elias Yousef Zaru"
+     ],
      "enrolled": 58,
      "capacity": null,
      "meetings": [
@@ -832,6 +925,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lina Musa Salameh Alswaiti",
+     "instructors": [
+      "Lina Musa Salameh Alswaiti"
+     ],
      "enrolled": 59,
      "capacity": null,
      "meetings": [
@@ -855,6 +951,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -892,6 +991,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rola A. M. Alfatafta",
+     "instructors": [
+      "Rola A. M. Alfatafta"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -929,6 +1031,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Odeh Hasan Abu Thaher",
+     "instructors": [
+      "Hasan Odeh Hasan Abu Thaher"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -952,6 +1057,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ayman Elias Yousef Zaru",
+     "instructors": [
+      "Ayman Elias Yousef Zaru"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -982,6 +1090,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasser M. R. Shaikhali",
+     "instructors": [
+      "Nasser M. R. Shaikhali"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -1005,6 +1116,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -1035,6 +1149,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lina Musa Salameh Alswaiti",
+     "instructors": [
+      "Lina Musa Salameh Alswaiti"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -1065,6 +1182,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Sufyan Abdeqader Musleh",
+     "instructors": [
+      "Abeer Sufyan Abdeqader Musleh"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -1088,6 +1208,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abeer Sufyan Abdeqader Musleh",
+     "instructors": [
+      "Abeer Sufyan Abdeqader Musleh"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -1118,6 +1241,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -1155,6 +1281,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farid Mohammad Farid Irshaid",
+     "instructors": [
+      "Farid Mohammad Farid Irshaid"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -1178,6 +1307,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Farid Mohammad Farid Irshaid",
+     "instructors": [
+      "Farid Mohammad Farid Irshaid"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -1215,6 +1347,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar Mohammad As'Ad Rahal",
+     "instructors": [
+      "Omar Mohammad As'Ad Rahal"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -1252,6 +1387,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Haitham H. Z. Zeidan",
+     "instructors": [
+      "Haitham H. Z. Zeidan"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -1282,6 +1420,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ismail Salama Ismail Iriqat",
+     "instructors": [
+      "Ismail Salama Ismail Iriqat"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -1298,6 +1439,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ismail Salama Ismail Iriqat",
+     "instructors": [
+      "Ismail Salama Ismail Iriqat"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1314,6 +1458,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -1337,6 +1484,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ayman Elias Yousef Zaru",
+     "instructors": [
+      "Ayman Elias Yousef Zaru"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -1353,6 +1503,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1376,6 +1529,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bahjat Mahmoud Salameh Ladadweh",
+     "instructors": [
+      "Bahjat Mahmoud Salameh Ladadweh"
+     ],
      "enrolled": 60,
      "capacity": null,
      "meetings": [

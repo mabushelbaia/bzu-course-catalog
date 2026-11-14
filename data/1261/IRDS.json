@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 5,
   "sections": 6,
-  "instructors": 6,
+  "instructors": 13,
   "rooms": 4
  },
  "courses": [
@@ -28,6 +28,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Mahmoud Abed Mousa, Ahmad Jamil Ahmad Hamad",
+     "instructors": [
+      "Hani Mahmoud Abed Mousa",
+      "Ahmad Jamil Ahmad Hamad"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -44,6 +48,12 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Lourdes B. A. Habash, Hani Jalal Salim Awad, Bader Seetan Mujham Almadi, Ali Bassam Ali Jarbawi",
+     "instructors": [
+      "Lourdes B. A. Habash",
+      "Hani Jalal Salim Awad",
+      "Bader Seetan Mujham Almadi",
+      "Ali Bassam Ali Jarbawi"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -67,6 +77,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lourdes B. A. Habash, Ali Bassam Ali Jarbawi",
+     "instructors": [
+      "Lourdes B. A. Habash",
+      "Ali Bassam Ali Jarbawi"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -89,7 +103,12 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Ghassan A. I. Khatib, Faed Khaled Abed Mustafa, Marwan A.  Alkabalan",
+     "instructor": "Ghassan A. I. Khatib, Faed Khaled Abed Mustafa, Marwan A. Alkabalan",
+     "instructors": [
+      "Ghassan A. I. Khatib",
+      "Faed Khaled Abed Mustafa",
+      "Marwan A. Alkabalan"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -112,7 +131,12 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Lourdes B. A. Habash, Ahmed Shebl  Morsy, May Ayman Hassan Darwich",
+     "instructor": "Lourdes B. A. Habash, Ahmed Shebl Morsy, May Ayman Hassan Darwich",
+     "instructors": [
+      "Lourdes B. A. Habash",
+      "Ahmed Shebl Morsy",
+      "May Ayman Hassan Darwich"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -135,7 +159,11 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah, Billal A.  Salayme",
+     "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah, Billal A. Salayme",
+     "instructors": [
+      "Ibrahim Sameeh Ibrahim Rabai'Ah",
+      "Billal A. Salayme"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [

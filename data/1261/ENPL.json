@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -60,6 +66,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Amir Z. J. Abu Aisheh",
+     "instructors": [
+      "Amir Z. J. Abu Aisheh"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -76,6 +85,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Muain Abedl Aziz Qasem Jawabrah",
+     "instructors": [
+      "Muain Abedl Aziz Qasem Jawabrah"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -92,6 +104,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -108,6 +123,9 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -131,6 +149,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -147,6 +168,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -177,6 +201,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -200,6 +227,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Ali Abdel Fattah Numan",
+     "instructors": [
+      "Jamal Ali Abdel Fattah Numan"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -223,6 +253,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -239,6 +272,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -262,6 +298,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "instructors": [
+      "Nidal Jawdat Masoud Mahmoud"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -292,6 +331,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 59,
      "capacity": null,
      "meetings": [
@@ -308,6 +350,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -331,6 +376,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Shaden S. O. Awad",
+     "instructors": [
+      "Shaden S. O. Awad"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -361,6 +409,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -369,6 +420,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -377,6 +431,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -385,6 +442,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -393,6 +453,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -401,6 +464,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Rula M. S. Elkhalili",
+     "instructors": [
+      "Rula M. S. Elkhalili"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -416,6 +482,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Manal Ahmad Mohammad Al Bishawi",
+     "instructors": [
+      "Manal Ahmad Mohammad Al Bishawi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -432,6 +501,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Manal Ahmad Mohammad Al Bishawi",
+     "instructors": [
+      "Manal Ahmad Mohammad Al Bishawi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -462,6 +534,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -478,6 +553,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -501,6 +579,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [

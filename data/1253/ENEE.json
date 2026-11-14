@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "instructors": [
+      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "instructors": [
+      "Nasser Abdel Jaleel Muhammad Ismail"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -60,6 +66,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "instructors": [
+      "Nasser Abdel Jaleel Muhammad Ismail"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -76,6 +85,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "instructors": [
+      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -92,6 +104,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "instructors": [
+      "Muhammad Sharif Mustafa Abu-Khaizaran"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -115,6 +130,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "instructors": [
+      "Jaser Abdel Mon'En Fayiz Sa'Ed"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -138,6 +156,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "instructors": [
+      "Muhammad Sharif Mustafa Abu-Khaizaran"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -182,6 +203,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "instructors": [
+      "Jaser Abdel Mon'En Fayiz Sa'Ed"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -219,6 +243,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "instructors": [
+      "Jaser Abdel Mon'En Fayiz Sa'Ed"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -263,6 +290,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "instructors": [
+      "Nasser Abdel Jaleel Muhammad Ismail"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -307,6 +337,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Othman Hosen Seyam",
+     "instructors": [
+      "Jamal Othman Hosen Seyam"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -344,6 +377,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi"
+     ],
      "enrolled": 79,
      "capacity": null,
      "meetings": [
@@ -388,6 +424,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "instructors": [
+      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
+     ],
      "enrolled": 58,
      "capacity": null,
      "meetings": [
@@ -425,6 +464,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+     "instructors": [
+      "Nasser Abdel Jaleel Muhammad Ismail"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -469,6 +511,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -506,6 +551,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Qadri A. A. Mayyala",
+     "instructors": [
+      "Qadri A. A. Mayyala"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -550,6 +598,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+     "instructors": [
+      "Muhammad Sharif Mustafa Abu-Khaizaran"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -573,6 +624,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -589,6 +643,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Qadri A. A. Mayyala",
+     "instructors": [
+      "Qadri A. A. Mayyala"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -605,6 +662,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -621,6 +681,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -637,6 +700,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Qadri A. A. Mayyala",
+     "instructors": [
+      "Qadri A. A. Mayyala"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -653,6 +719,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Rawan M. S. Soboh",
+     "instructors": [
+      "Rawan M. S. Soboh"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -669,6 +738,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Wasel Tahsin Ahmad Ghanem",
+     "instructors": [
+      "Wasel Tahsin Ahmad Ghanem"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -685,6 +757,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Wasel Tahsin Ahmad Ghanem",
+     "instructors": [
+      "Wasel Tahsin Ahmad Ghanem"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -708,6 +783,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ali Hasan Moath Abdo",
+     "instructors": [
+      "Ali Hasan Moath Abdo"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": []
@@ -723,6 +801,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "instructors": [
+      "Jaser Abdel Mon'En Fayiz Sa'Ed"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -738,6 +819,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ali Hasan Moath Abdo",
+     "instructors": [
+      "Ali Hasan Moath Abdo"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -746,6 +830,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+     "instructors": [
+      "Hakam Suleiman Nu'Man Shehadeh"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 3,
   "sections": 3,
-  "instructors": 3,
+  "instructors": 5,
   "rooms": 2
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Moammal S. H. Qurt",
+     "instructors": [
+      "Moammal S. H. Qurt"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,11 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Khalil Salem Rabba, Lina Ibrahim Ahmed Adwan, Johnny Butros Hanna Stiban",
+     "instructors": [
+      "Abdullah Khalil Salem Rabba",
+      "Lina Ibrahim Ahmed Adwan",
+      "Johnny Butros Hanna Stiban"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 6,
   "sections": 11,
-  "instructors": 8,
+  "instructors": 7,
   "rooms": 1
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majida \"Mohammed Yousef\" Fahmi Dajani",
+     "instructors": [
+      "Majida \"Mohammed Yousef\" Fahmi Dajani"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed Fouad Ahmed Attaallah",
+     "instructors": [
+      "Ahmed Fouad Ahmed Attaallah"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tahreer Abdallah Hasan A'Raj",
+     "instructors": [
+      "Tahreer Abdallah Hasan A'Raj"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "instructors": [
+      "Lena Mohammad Abdel-Hamid Meari"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lena Mohammad Abdel-Hamid Meari, Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Lena Mohammad Abdel-Hamid Meari",
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -143,6 +159,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -151,6 +168,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tahreer Abdallah Hasan A'Raj",
+     "instructors": [
+      "Tahreer Abdallah Hasan A'Raj"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -159,6 +179,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -167,6 +190,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -175,6 +201,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -183,6 +212,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Rema Hasan Ahmad Hammami",
+     "instructors": [
+      "Rema Hasan Ahmad Hammami"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "instructors": [
+      "Abdallah Salahedin Saleh Sayyed Ahmad"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sarah H. M. Najar",
+     "instructors": [
+      "Sarah H. M. Najar"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -60,6 +66,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Wafaa Khaled Yehya Khater",
+     "instructors": [
+      "Wafaa Khaled Yehya Khater"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -76,6 +85,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "instructors": [
+      "Abdallah Salahedin Saleh Sayyed Ahmad"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -92,6 +104,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Rula Imad Al-Din Said Bakeer",
+     "instructors": [
+      "Rula Imad Al-Din Said Bakeer"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -108,6 +123,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Wael Ishaq Hasan Karain",
+     "instructors": [
+      "Wael Ishaq Hasan Karain"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -124,6 +142,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Wafaa Khaled Yehya Khater",
+     "instructors": [
+      "Wafaa Khaled Yehya Khater"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -140,6 +161,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Sarah H. M. Najar",
+     "instructors": [
+      "Sarah H. M. Najar"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -156,6 +180,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "instructors": [
+      "Abdallah Salahedin Saleh Sayyed Ahmad"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -179,6 +206,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "instructors": [
+      "Khalid Fathi Abdalrazzaq Eid"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -195,6 +225,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Isma'El Daoud Mohummad Badran",
+     "instructors": [
+      "Isma'El Daoud Mohummad Badran"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -211,6 +244,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "instructors": [
+      "Khalid Fathi Abdalrazzaq Eid"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -227,6 +263,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Isma'El Daoud Mohummad Badran",
+     "instructors": [
+      "Isma'El Daoud Mohummad Badran"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -243,6 +282,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "instructors": [
+      "Khalid Fathi Abdalrazzaq Eid"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -259,6 +301,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -275,6 +320,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -291,6 +339,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Isma'El Daoud Mohummad Badran",
+     "instructors": [
+      "Isma'El Daoud Mohummad Badran"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -314,6 +365,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Ishaq Hasan Karain",
+     "instructors": [
+      "Wael Ishaq Hasan Karain"
+     ],
      "enrolled": 161,
      "capacity": null,
      "meetings": [
@@ -337,6 +391,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 151,
      "capacity": null,
      "meetings": [
@@ -360,6 +417,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdalaziz A. A. Shawabka",
+     "instructors": [
+      "Abdalaziz A. A. Shawabka"
+     ],
      "enrolled": 158,
      "capacity": null,
      "meetings": [
@@ -383,6 +443,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Hazem Sadee Abdul Rahman Abu Sara",
+     "instructors": [
+      "Hazem Sadee Abdul Rahman Abu Sara"
+     ],
      "enrolled": 119,
      "capacity": null,
      "meetings": [
@@ -406,6 +469,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Sarah H. M. Najar",
+     "instructors": [
+      "Sarah H. M. Najar"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -422,6 +488,9 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Rula Imad Al-Din Said Bakeer",
+     "instructors": [
+      "Rula Imad Al-Din Said Bakeer"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -438,6 +507,9 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Rula Imad Al-Din Said Bakeer",
+     "instructors": [
+      "Rula Imad Al-Din Said Bakeer"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -454,6 +526,9 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Hanan \"Mohammad Kamel\" Nafez Taha",
+     "instructors": [
+      "Hanan \"Mohammad Kamel\" Nafez Taha"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -470,6 +545,9 @@
      "type": "Discussion",
      "number": "5",
      "instructor": "Hanan \"Mohammad Kamel\" Nafez Taha",
+     "instructors": [
+      "Hanan \"Mohammad Kamel\" Nafez Taha"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -486,6 +564,9 @@
      "type": "Discussion",
      "number": "6",
      "instructor": "Hanan \"Mohammad Kamel\" Nafez Taha",
+     "instructors": [
+      "Hanan \"Mohammad Kamel\" Nafez Taha"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -502,6 +583,9 @@
      "type": "Discussion",
      "number": "7",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -518,6 +602,9 @@
      "type": "Discussion",
      "number": "8",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -534,6 +621,9 @@
      "type": "Discussion",
      "number": "9",
      "instructor": "Sarah H. M. Najar",
+     "instructors": [
+      "Sarah H. M. Najar"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -550,6 +640,9 @@
      "type": "Discussion",
      "number": "10",
      "instructor": "Hanan \"Mohammad Kamel\" Nafez Taha",
+     "instructors": [
+      "Hanan \"Mohammad Kamel\" Nafez Taha"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -566,6 +659,9 @@
      "type": "Discussion",
      "number": "11",
      "instructor": "Rula Imad Al-Din Said Bakeer",
+     "instructors": [
+      "Rula Imad Al-Din Said Bakeer"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -582,6 +678,9 @@
      "type": "Discussion",
      "number": "12",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -598,6 +697,9 @@
      "type": "Discussion",
      "number": "13",
      "instructor": "Wael Ishaq Hasan Karain",
+     "instructors": [
+      "Wael Ishaq Hasan Karain"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -614,6 +716,9 @@
      "type": "Discussion",
      "number": "14",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -630,6 +735,9 @@
      "type": "Discussion",
      "number": "15",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -653,6 +761,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Isma'El Daoud Mohummad Badran",
+     "instructors": [
+      "Isma'El Daoud Mohummad Badran"
+     ],
      "enrolled": 150,
      "capacity": null,
      "meetings": [
@@ -676,6 +787,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abdalaziz A. A. Shawabka",
+     "instructors": [
+      "Abdalaziz A. A. Shawabka"
+     ],
      "enrolled": 152,
      "capacity": null,
      "meetings": [
@@ -699,6 +813,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Isma'El Daoud Mohummad Badran",
+     "instructors": [
+      "Isma'El Daoud Mohummad Badran"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -715,6 +832,9 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Sarah H. M. Najar",
+     "instructors": [
+      "Sarah H. M. Najar"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -731,6 +851,9 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Isma'El Daoud Mohummad Badran",
+     "instructors": [
+      "Isma'El Daoud Mohummad Badran"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -747,6 +870,9 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Rula Imad Al-Din Said Bakeer",
+     "instructors": [
+      "Rula Imad Al-Din Said Bakeer"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -763,6 +889,9 @@
      "type": "Discussion",
      "number": "5",
      "instructor": "Rula Imad Al-Din Said Bakeer",
+     "instructors": [
+      "Rula Imad Al-Din Said Bakeer"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -779,6 +908,9 @@
      "type": "Discussion",
      "number": "6",
      "instructor": "Sarah H. M. Najar",
+     "instructors": [
+      "Sarah H. M. Najar"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -795,6 +927,9 @@
      "type": "Discussion",
      "number": "7",
      "instructor": "Rula Imad Al-Din Said Bakeer",
+     "instructors": [
+      "Rula Imad Al-Din Said Bakeer"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -818,6 +953,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hanan \"Mohammad Kamel\" Nafez Taha",
+     "instructors": [
+      "Hanan \"Mohammad Kamel\" Nafez Taha"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -855,6 +993,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Ishaq Hasan Karain",
+     "instructors": [
+      "Wael Ishaq Hasan Karain"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -878,6 +1019,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdalaziz A. A. Shawabka",
+     "instructors": [
+      "Abdalaziz A. A. Shawabka"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -908,6 +1052,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wafaa Khaled Yehya Khater",
+     "instructors": [
+      "Wafaa Khaled Yehya Khater"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -938,6 +1085,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wafaa Khaled Yehya Khater",
+     "instructors": [
+      "Wafaa Khaled Yehya Khater"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -975,6 +1125,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "instructors": [
+      "Abdallah Salahedin Saleh Sayyed Ahmad"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -1005,6 +1158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Isma'El Daoud Mohummad Badran",
+     "instructors": [
+      "Isma'El Daoud Mohummad Badran"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -1042,6 +1198,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -1065,6 +1224,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "instructors": [
+      "Khalid Fathi Abdalrazzaq Eid"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -1081,6 +1243,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "instructors": [
+      "Khalid Fathi Abdalrazzaq Eid"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -1111,6 +1276,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Ishaq Hasan Karain",
+     "instructors": [
+      "Wael Ishaq Hasan Karain"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -1148,6 +1316,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -1178,6 +1349,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "instructors": [
+      "Abdallah Salahedin Saleh Sayyed Ahmad"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -1201,6 +1375,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Ishaq Hasan Karain",
+     "instructors": [
+      "Wael Ishaq Hasan Karain"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -1231,6 +1408,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Fathi Abdalrazzaq Eid",
+     "instructors": [
+      "Khalid Fathi Abdalrazzaq Eid"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -1261,6 +1441,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+     "instructors": [
+      "Abdallah Salahedin Saleh Sayyed Ahmad"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -1277,6 +1460,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -1300,6 +1486,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wafaa Khaled Yehya Khater",
+     "instructors": [
+      "Wafaa Khaled Yehya Khater"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1308,6 +1497,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Wael Ishaq Hasan Karain",
+     "instructors": [
+      "Wael Ishaq Hasan Karain"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1316,6 +1508,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Wafaa Khaled Yehya Khater",
+     "instructors": [
+      "Wafaa Khaled Yehya Khater"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1324,6 +1519,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Zafer M. A. Hawash",
+     "instructors": [
+      "Zafer M. A. Hawash"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

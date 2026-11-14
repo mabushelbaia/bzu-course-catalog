@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lina Yaser Jalal El_Khairy",
+     "instructors": [
+      "Lina Yaser Jalal El_Khairy"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Arwa Abdel Rahman Yousef Abu Khweek",
+     "instructors": [
+      "Arwa Abdel Rahman Yousef Abu Khweek"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Arwa Abdel Rahman Yousef Abu Khweek",
+     "instructors": [
+      "Arwa Abdel Rahman Yousef Abu Khweek"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -90,6 +99,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ola Talal Abdallah Karmei",
+     "instructors": [
+      "Ola Talal Abdallah Karmei"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -113,6 +125,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -136,6 +151,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -159,6 +177,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -167,6 +188,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "instructors": [
+      "Abdallah Taha Suleiman Abu Taha"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -175,6 +199,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "instructors": [
+      "Abdallah Taha Suleiman Abu Taha"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -183,6 +210,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -191,6 +221,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -199,6 +232,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "instructors": [
+      "Abdallah Taha Suleiman Abu Taha"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

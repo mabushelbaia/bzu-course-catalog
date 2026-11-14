@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem N. A. Masri",
+     "instructors": [
+      "Reem N. A. Masri"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. M. Khalil",
+     "instructors": [
+      "Mohammed S. M. Khalil"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -81,6 +87,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majd N. A. Masri",
+     "instructors": [
+      "Majd N. A. Masri"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Majd N. A. Masri",
+     "instructors": [
+      "Majd N. A. Masri"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. M. Khalil",
+     "instructors": [
+      "Mohammed S. M. Khalil"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -157,6 +172,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem N. A. Masri",
+     "instructors": [
+      "Reem N. A. Masri"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -187,6 +205,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud M. A. Abu Hashhash",
+     "instructors": [
+      "Mahmoud M. A. Abu Hashhash"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -216,7 +237,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Hamad A.  Maddah",
+     "instructor": "Hamad A. Maddah",
+     "instructors": [
+      "Hamad A. Maddah"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -247,6 +271,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -277,6 +304,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majd N. A. Masri",
+     "instructors": [
+      "Majd N. A. Masri"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -293,6 +323,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Majd N. A. Masri",
+     "instructors": [
+      "Majd N. A. Masri"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -323,6 +356,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "instructors": [
+      "Bashar Mustafa Mohammed Khalaf"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -353,6 +389,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -375,7 +414,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Hamad A.  Maddah",
+     "instructor": "Hamad A. Maddah",
+     "instructors": [
+      "Hamad A. Maddah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -406,6 +448,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -429,6 +474,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -459,6 +505,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "instructors": [
+      "Bashar Mustafa Mohammed Khalaf"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -467,6 +516,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -475,6 +527,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -483,6 +538,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Rula Helmi Sadeq Halawani",
+     "instructors": [
+      "Rula Helmi Sadeq Halawani"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -491,6 +549,7 @@
      "type": "Lecture",
      "number": "5",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -506,6 +565,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hana A. A. Irshaid",
+     "instructors": [
+      "Hana A. A. Irshaid"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -536,6 +598,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem N. A. Masri",
+     "instructors": [
+      "Reem N. A. Masri"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [

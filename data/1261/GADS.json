@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ghada Adnan Kathem Almadbouh",
+     "instructors": [
+      "Ghada Adnan Kathem Almadbouh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tahreer Abdallah Hasan A'Raj",
+     "instructors": [
+      "Tahreer Abdallah Hasan A'Raj"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -59,6 +65,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rema Hasan Ahmad Hammami",
+     "instructors": [
+      "Rema Hasan Ahmad Hammami"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -67,6 +76,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -75,6 +87,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -83,6 +98,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

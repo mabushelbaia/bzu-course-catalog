@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saheem Kamel Abdullah Murshid",
+     "instructors": [
+      "Saheem Kamel Abdullah Murshid"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -88,6 +94,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -125,6 +134,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -162,6 +174,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -199,6 +214,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -243,6 +261,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saheem Kamel Abdullah Murshid",
+     "instructors": [
+      "Saheem Kamel Abdullah Murshid"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -287,6 +308,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -303,6 +327,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -319,6 +346,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -342,6 +372,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -372,6 +405,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -409,6 +445,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -453,6 +492,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": []
@@ -468,6 +510,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Raed Abdul Min'Em Mahmoud Hanafia",
+     "instructors": [
+      "Raed Abdul Min'Em Mahmoud Hanafia"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -484,6 +529,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Raed Abdul Min'Em Mahmoud Hanafia",
+     "instructors": [
+      "Raed Abdul Min'Em Mahmoud Hanafia"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed I. A. Shawahna",
+     "instructors": [
+      "Ahmed I. A. Shawahna"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yazan Jamal Ibrahim Abu Farha",
+     "instructors": [
+      "Yazan Jamal Ibrahim Abu Farha"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tasnim M. A. Zayet",
+     "instructors": [
+      "Tasnim M. A. Zayet"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [

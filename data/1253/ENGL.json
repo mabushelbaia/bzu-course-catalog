@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maen Hussam Abdlatife Saa",
+     "instructors": [
+      "Maen Hussam Abdlatife Saa"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -72,6 +75,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maen Hussam Abdlatife Saa",
+     "instructors": [
+      "Maen Hussam Abdlatife Saa"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -116,6 +122,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Abed Lafi Abdeen",
+     "instructors": [
+      "Wael Abed Lafi Abdeen"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -160,6 +169,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Abed Lafi Abdeen",
+     "instructors": [
+      "Wael Abed Lafi Abdeen"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -204,6 +216,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shams Wael I. Karain",
+     "instructors": [
+      "Shams Wael I. Karain"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -248,6 +263,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shams Wael I. Karain",
+     "instructors": [
+      "Shams Wael I. Karain"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -292,6 +310,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Habib I. M. Abu Hashhash",
+     "instructors": [
+      "Habib I. M. Abu Hashhash"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -336,6 +357,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Abed Lafi Abdeen",
+     "instructors": [
+      "Wael Abed Lafi Abdeen"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -380,6 +404,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Habib I. M. Abu Hashhash",
+     "instructors": [
+      "Habib I. M. Abu Hashhash"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -424,6 +451,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lloyd Howard James Precious",
+     "instructors": [
+      "Lloyd Howard James Precious"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -468,6 +498,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maen Hussam Abdlatife Saa",
+     "instructors": [
+      "Maen Hussam Abdlatife Saa"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [

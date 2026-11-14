@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maher Mohammad Abdallah Abdallatif",
+     "instructors": [
+      "Maher Mohammad Abdallah Abdallatif"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Batool Mohammad Moustafa Raddad",
+     "instructors": [
+      "Batool Mohammad Moustafa Raddad"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -81,6 +87,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Maher Mohammad Abdallah Abdallatif",
+     "instructors": [
+      "Maher Mohammad Abdallah Abdallatif"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -118,6 +127,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Yousef Hejaze Madiah",
+     "instructors": [
+      "Mohammad Yousef Hejaze Madiah"
+     ],
      "enrolled": 82,
      "capacity": null,
      "meetings": [
@@ -148,6 +160,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Yousef Hejaze Madiah",
+     "instructors": [
+      "Mohammad Yousef Hejaze Madiah"
+     ],
      "enrolled": 70,
      "capacity": null,
      "meetings": [
@@ -171,6 +186,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Maher Mohammad Abdallah Abdallatif",
+     "instructors": [
+      "Maher Mohammad Abdallah Abdallatif"
+     ],
      "enrolled": 73,
      "capacity": null,
      "meetings": [
@@ -208,6 +226,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rasha Mohammad Amin Shadid",
+     "instructors": [
+      "Rasha Mohammad Amin Shadid"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -238,6 +259,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rasha Mohammad Amin Shadid",
+     "instructors": [
+      "Rasha Mohammad Amin Shadid"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -275,6 +299,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Yousef Hejaze Madiah",
+     "instructors": [
+      "Mohammad Yousef Hejaze Madiah"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -305,6 +332,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Majed Izzo Kabajah",
+     "instructors": [
+      "Hani Majed Izzo Kabajah"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -342,6 +372,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Majed Izzo Kabajah",
+     "instructors": [
+      "Hani Majed Izzo Kabajah"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -379,6 +412,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Majed Izzo Kabajah",
+     "instructors": [
+      "Hani Majed Izzo Kabajah"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Suleiman Yousef Daoud",
+     "instructors": [
+      "Yousef Suleiman Yousef Daoud"
+     ],
      "enrolled": 104,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 109,
      "capacity": null,
      "meetings": [
@@ -88,6 +94,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 117,
      "capacity": null,
      "meetings": [
@@ -111,6 +120,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Shireen Mustafa Kamel Al Basha",
+     "instructors": [
+      "Shireen Mustafa Kamel Al Basha"
+     ],
      "enrolled": 120,
      "capacity": null,
      "meetings": [
@@ -148,6 +160,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Suleiman Yousef Daoud",
+     "instructors": [
+      "Yousef Suleiman Yousef Daoud"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -178,6 +193,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "instructors": [
+      "Samia Mahmoud Ahmad Al-Botmeh"
+     ],
      "enrolled": 124,
      "capacity": null,
      "meetings": [
@@ -208,6 +226,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "instructors": [
+      "Yasser Mahmoud Abdul Rahim Abu Hijleh"
+     ],
      "enrolled": 117,
      "capacity": null,
      "meetings": [
@@ -238,6 +259,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "instructors": [
+      "Yasser Mahmoud Abdul Rahim Abu Hijleh"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -268,6 +292,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shireen Mustafa Kamel Al Basha",
+     "instructors": [
+      "Shireen Mustafa Kamel Al Basha"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -298,6 +325,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Najibeh Mohammad Saleh Morar",
+     "instructors": [
+      "Najibeh Mohammad Saleh Morar"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -328,6 +358,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "instructors": [
+      "Yasser Mahmoud Abdul Rahim Abu Hijleh"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -358,6 +391,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ahmad A. M. Jarrar",
+     "instructors": [
+      "Ahmad A. M. Jarrar"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -381,6 +417,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "instructors": [
+      "Mahmoud Othman Yousef Khaseeb"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -404,6 +443,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "instructors": [
+      "Samia Mahmoud Ahmad Al-Botmeh"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -434,6 +476,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Najibeh Mohammad Saleh Morar",
+     "instructors": [
+      "Najibeh Mohammad Saleh Morar"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -464,6 +509,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "instructors": [
+      "Mahmoud Othman Yousef Khaseeb"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -487,6 +535,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Sameera M. I. Awawda",
+     "instructors": [
+      "Sameera M. I. Awawda"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -510,6 +561,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -533,6 +587,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Ahmad A. M. Jarrar",
+     "instructors": [
+      "Ahmad A. M. Jarrar"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -556,6 +613,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Najibeh Mohammad Saleh Morar",
+     "instructors": [
+      "Najibeh Mohammad Saleh Morar"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -586,6 +646,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Shireen Mustafa Kamel Al Basha",
+     "instructors": [
+      "Shireen Mustafa Kamel Al Basha"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -623,6 +686,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -646,6 +712,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Adel Said Fares Zagha",
+     "instructors": [
+      "Adel Said Fares Zagha"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -669,6 +738,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -692,6 +764,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -729,6 +804,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -759,6 +837,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "instructors": [
+      "Mahmoud Othman Yousef Khaseeb"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -782,6 +863,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -812,6 +896,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Said Fares Zagha",
+     "instructors": [
+      "Adel Said Fares Zagha"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -842,6 +929,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "instructors": [
+      "Tareq Mohammad Tallat Abdulfatah Ashour"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -865,6 +955,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -888,6 +981,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -911,6 +1007,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "instructors": [
+      "Tareq Mohammad Tallat Abdulfatah Ashour"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -934,6 +1033,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Sahar Mahmoud Mosa El_Jallad",
+     "instructors": [
+      "Sahar Mahmoud Mosa El_Jallad"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -964,6 +1066,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "instructors": [
+      "Yasser Mahmoud Abdul Rahim Abu Hijleh"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -994,6 +1099,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shaker Abdallah Mohammad Sarsour",
+     "instructors": [
+      "Shaker Abdallah Mohammad Sarsour"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -1017,6 +1125,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Said Fares Zagha",
+     "instructors": [
+      "Adel Said Fares Zagha"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -1047,6 +1158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shireen Mustafa Kamel Al Basha",
+     "instructors": [
+      "Shireen Mustafa Kamel Al Basha"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -1077,6 +1191,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -1100,6 +1217,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -1123,6 +1243,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -1146,6 +1269,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Suleiman Yousef Daoud",
+     "instructors": [
+      "Yousef Suleiman Yousef Daoud"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -1169,6 +1295,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -1192,6 +1321,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "instructors": [
+      "Samia Mahmoud Ahmad Al-Botmeh"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -1215,6 +1347,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Suleiman Yousef Daoud",
+     "instructors": [
+      "Yousef Suleiman Yousef Daoud"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -1238,6 +1373,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

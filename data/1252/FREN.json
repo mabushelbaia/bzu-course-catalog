@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Said Hilmi Mohammad Kalil",
+     "instructors": [
+      "Said Hilmi Mohammad Kalil"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Said Hilmi Mohammad Kalil",
+     "instructors": [
+      "Said Hilmi Mohammad Kalil"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -88,6 +94,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Said Hilmi Mohammad Kalil",
+     "instructors": [
+      "Said Hilmi Mohammad Kalil"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -118,6 +127,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Said Hilmi Mohammad Kalil",
+     "instructors": [
+      "Said Hilmi Mohammad Kalil"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -148,6 +160,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Said Hilmi Mohammad Kalil",
+     "instructors": [
+      "Said Hilmi Mohammad Kalil"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -185,6 +200,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed Youssef Odeh Jawaada",
+     "instructors": [
+      "Ahmed Youssef Odeh Jawaada"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -215,6 +233,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmed Youssef Odeh Jawaada",
+     "instructors": [
+      "Ahmed Youssef Odeh Jawaada"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -238,6 +259,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Bissan Mohammed Ahmed Abu-Zaid",
+     "instructors": [
+      "Bissan Mohammed Ahmed Abu-Zaid"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -268,6 +292,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Bissan Mohammed Ahmed Abu-Zaid",
+     "instructors": [
+      "Bissan Mohammed Ahmed Abu-Zaid"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -298,6 +325,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Dalia M. A. Afifi",
+     "instructors": [
+      "Dalia M. A. Afifi"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -321,6 +351,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Muna Mohammad Ahmad Ibayyeh",
+     "instructors": [
+      "Muna Mohammad Ahmad Ibayyeh"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -344,6 +377,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ahmed Youssef Odeh Jawaada",
+     "instructors": [
+      "Ahmed Youssef Odeh Jawaada"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -374,6 +410,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Hanine J. M. Hmouz",
+     "instructors": [
+      "Hanine J. M. Hmouz"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -404,6 +443,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Hanine J. M. Hmouz",
+     "instructors": [
+      "Hanine J. M. Hmouz"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -441,6 +483,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hanine J. M. Hmouz",
+     "instructors": [
+      "Hanine J. M. Hmouz"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -471,6 +516,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bissan Mohammed Ahmed Abu-Zaid",
+     "instructors": [
+      "Bissan Mohammed Ahmed Abu-Zaid"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -501,6 +549,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bissan Mohammed Ahmed Abu-Zaid",
+     "instructors": [
+      "Bissan Mohammed Ahmed Abu-Zaid"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -531,6 +582,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dalia M. A. Afifi",
+     "instructors": [
+      "Dalia M. A. Afifi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -568,6 +622,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basma Fawzi Ali El Omari",
+     "instructors": [
+      "Basma Fawzi Ali El Omari"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -612,6 +669,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muna Mohammad Ahmad Ibayyeh",
+     "instructors": [
+      "Muna Mohammad Ahmad Ibayyeh"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -642,6 +702,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dalia M. A. Afifi",
+     "instructors": [
+      "Dalia M. A. Afifi"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -672,6 +735,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basma Fawzi Ali El Omari",
+     "instructors": [
+      "Basma Fawzi Ali El Omari"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -702,6 +768,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dalia M. A. Afifi",
+     "instructors": [
+      "Dalia M. A. Afifi"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -739,6 +808,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basma Fawzi Ali El Omari",
+     "instructors": [
+      "Basma Fawzi Ali El Omari"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -769,6 +841,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bissan Mohammed Ahmed Abu-Zaid",
+     "instructors": [
+      "Bissan Mohammed Ahmed Abu-Zaid"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -799,6 +874,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muna Mohammad Ahmad Ibayyeh",
+     "instructors": [
+      "Muna Mohammad Ahmad Ibayyeh"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [

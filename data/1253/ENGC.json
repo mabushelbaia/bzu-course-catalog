@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "instructors": [
+      "Yaseen Nour Al_Din Mohammad Al_Sayyed"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -65,6 +68,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+     "instructors": [
+      "Mohamed Kamel Ahmad Ishnaiwer"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -109,6 +115,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tina Yaser Kostandi Rafidi",
+     "instructors": [
+      "Tina Yaser Kostandi Rafidi"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -153,6 +162,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Shukri Ahmad Shayeb",
+     "instructors": [
+      "Ahmad Shukri Ahmad Shayeb"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -190,6 +202,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmad Shukri Ahmad Shayeb",
+     "instructors": [
+      "Ahmad Shukri Ahmad Shayeb"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -234,6 +249,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ahmad Shukri Ahmad Shayeb",
+     "instructors": [
+      "Ahmad Shukri Ahmad Shayeb"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -278,6 +296,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -315,6 +336,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -352,6 +376,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+     "instructors": [
+      "Mohamed Kamel Ahmad Ishnaiwer"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -389,6 +416,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Silvia Henry Anton Nassar",
+     "instructors": [
+      "Silvia Henry Anton Nassar"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -433,6 +463,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Tamara Mohammad Salah Barakat",
+     "instructors": [
+      "Tamara Mohammad Salah Barakat"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -477,6 +510,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+     "instructors": [
+      "Ruba Abdul_Latif Mustafa Khalaf"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -521,6 +557,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+     "instructors": [
+      "Mohamed Kamel Ahmad Ishnaiwer"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -565,6 +604,9 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+     "instructors": [
+      "Haya Abdulrahman Abdulrahman Abuhussein"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -609,6 +651,9 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+     "instructors": [
+      "Haya Abdulrahman Abdulrahman Abuhussein"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -646,6 +691,9 @@
      "type": "Lecture",
      "number": "15",
      "instructor": "Tina Yaser Kostandi Rafidi",
+     "instructors": [
+      "Tina Yaser Kostandi Rafidi"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -683,6 +731,9 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+     "instructors": [
+      "Ruba Abdul_Latif Mustafa Khalaf"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -727,6 +778,9 @@
      "type": "Lecture",
      "number": "17",
      "instructor": "Silvia Henry Anton Nassar",
+     "instructors": [
+      "Silvia Henry Anton Nassar"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -771,6 +825,9 @@
      "type": "Lecture",
      "number": "18",
      "instructor": "Nadim M. Y. Ihshaish",
+     "instructors": [
+      "Nadim M. Y. Ihshaish"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -815,6 +872,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nadim M. Y. Ihshaish",
+     "instructors": [
+      "Nadim M. Y. Ihshaish"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ijtiead A. H. Abu Thabet",
+     "instructors": [
+      "Ijtiead A. H. Abu Thabet"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Katya N. M. Hussary",
+     "instructors": [
+      "Katya N. M. Hussary"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sameera M. I. Awawda",
+     "instructors": [
+      "Sameera M. I. Awawda"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -82,6 +91,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Radi A. R. Jarrar",
+     "instructors": [
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -97,6 +109,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Diyama Khaled Khamees Abu Laban",
+     "instructors": [
+      "Diyama Khaled Khamees Abu Laban"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -105,6 +120,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Najibeh Mohammad Saleh Morar",
+     "instructors": [
+      "Najibeh Mohammad Saleh Morar"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

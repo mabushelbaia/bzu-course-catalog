@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 65,
      "capacity": null,
      "meetings": [
@@ -72,6 +75,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 151,
      "capacity": null,
      "meetings": [
@@ -116,6 +122,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Najibeh Mohammad Saleh Morar",
+     "instructors": [
+      "Najibeh Mohammad Saleh Morar"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -160,6 +169,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sameera M. I. Awawda",
+     "instructors": [
+      "Sameera M. I. Awawda"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -197,6 +209,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sameera M. I. Awawda",
+     "instructors": [
+      "Sameera M. I. Awawda"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -234,6 +249,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Najibeh Mohammad Saleh Morar",
+     "instructors": [
+      "Najibeh Mohammad Saleh Morar"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -278,6 +296,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 60,
      "capacity": null,
      "meetings": [
@@ -322,6 +343,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 79,
      "capacity": null,
      "meetings": [
@@ -366,6 +390,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "instructors": [
+      "Tareq Mohammad Tallat Abdulfatah Ashour"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -410,6 +437,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "instructors": [
+      "Tareq Mohammad Tallat Abdulfatah Ashour"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -454,6 +484,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -484,6 +517,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

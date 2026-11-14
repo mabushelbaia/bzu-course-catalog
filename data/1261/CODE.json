@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Sami Ahmad Sayrafi",
+     "instructors": [
+      "Imad Sami Ahmad Sayrafi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -36,6 +39,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -44,6 +50,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "instructors": [
+      "Samia Mahmoud Ahmad Al-Botmeh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -52,6 +61,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "instructors": [
+      "Lena Mohammad Abdel-Hamid Meari"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 6,
   "sections": 6,
-  "instructors": 4,
+  "instructors": 5,
   "rooms": 4
  },
  "courses": [
@@ -28,6 +28,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sameera M. I. Awawda, Mahmoud Tayseer Mahmoud Alawna",
+     "instructors": [
+      "Sameera M. I. Awawda",
+      "Mahmoud Tayseer Mahmoud Alawna"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -51,6 +55,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -74,6 +81,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bashar A. A. Abuzarour",
+     "instructors": [
+      "Bashar A. A. Abuzarour"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -97,6 +107,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+     "instructors": [
+      "Mohammed Ibrahim Mohammed Alqaisi"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -120,6 +133,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+     "instructors": [
+      "Mohammed Ibrahim Mohammed Alqaisi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -143,6 +159,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-13T11:00:40+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
+     "instructors": [
+      "Fairouz Sa'Eed Mouhamed Darwish"
+     ],
      "enrolled": 128,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jawana Abed Al-Hadi Odeh Awwad",
+     "instructors": [
+      "Jawana Abed Al-Hadi Odeh Awwad"
+     ],
      "enrolled": 150,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Katya N. M. Hussary",
+     "instructors": [
+      "Katya N. M. Hussary"
+     ],
      "enrolled": 146,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Seri Mohammad Jamil Khalil Ghanem",
+     "instructors": [
+      "Seri Mohammad Jamil Khalil Ghanem"
+     ],
      "enrolled": 164,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
+     "instructors": [
+      "Fairouz Sa'Eed Mouhamed Darwish"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -150,6 +165,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
+     "instructors": [
+      "Fairouz Sa'Eed Mouhamed Darwish"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -173,6 +191,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Osama M. Y. Sanadaah",
+     "instructors": [
+      "Osama M. Y. Sanadaah"
+     ],
      "enrolled": 133,
      "capacity": null,
      "meetings": [
@@ -203,6 +224,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Seri Mohammad Jamil Khalil Ghanem",
+     "instructors": [
+      "Seri Mohammad Jamil Khalil Ghanem"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -233,6 +257,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sajed Y. M. Sharif",
+     "instructors": [
+      "Sajed Y. M. Sharif"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -256,6 +283,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sajed Y. M. Sharif",
+     "instructors": [
+      "Sajed Y. M. Sharif"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -286,6 +316,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Seri Mohammad Jamil Khalil Ghanem",
+     "instructors": [
+      "Seri Mohammad Jamil Khalil Ghanem"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -309,6 +342,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Seri Mohammad Jamil Khalil Ghanem",
+     "instructors": [
+      "Seri Mohammad Jamil Khalil Ghanem"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -339,6 +375,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Habib I. H. Hinn",
+     "instructors": [
+      "Habib I. H. Hinn"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -362,6 +401,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Habib I. H. Hinn",
+     "instructors": [
+      "Habib I. H. Hinn"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -392,6 +434,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bayan M. M. Arqawi",
+     "instructors": [
+      "Bayan M. M. Arqawi"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -415,6 +460,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Osama M. Y. Sanadaah",
+     "instructors": [
+      "Osama M. Y. Sanadaah"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -445,6 +493,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bayan M. M. Arqawi",
+     "instructors": [
+      "Bayan M. M. Arqawi"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -468,6 +519,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Katya N. M. Hussary",
+     "instructors": [
+      "Katya N. M. Hussary"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -498,6 +552,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Habib I. H. Hinn",
+     "instructors": [
+      "Habib I. H. Hinn"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -521,6 +578,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Habib I. H. Hinn",
+     "instructors": [
+      "Habib I. H. Hinn"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -551,6 +611,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Diyama Khaled Khamees Abu Laban",
+     "instructors": [
+      "Diyama Khaled Khamees Abu Laban"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -581,6 +644,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
+     "instructors": [
+      "Fairouz Sa'Eed Mouhamed Darwish"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -604,6 +670,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Katya N. M. Hussary",
+     "instructors": [
+      "Katya N. M. Hussary"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -634,6 +703,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jawana Abed Al-Hadi Odeh Awwad",
+     "instructors": [
+      "Jawana Abed Al-Hadi Odeh Awwad"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -657,6 +729,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jawana Abed Al-Hadi Odeh Awwad",
+     "instructors": [
+      "Jawana Abed Al-Hadi Odeh Awwad"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -687,6 +762,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
+     "instructors": [
+      "Fairouz Sa'Eed Mouhamed Darwish"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -710,6 +788,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Bayan M. M. Arqawi",
+     "instructors": [
+      "Bayan M. M. Arqawi"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -740,6 +821,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Osama M. Y. Sanadaah",
+     "instructors": [
+      "Osama M. Y. Sanadaah"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -770,6 +854,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Seri Mohammad Jamil Khalil Ghanem",
+     "instructors": [
+      "Seri Mohammad Jamil Khalil Ghanem"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -800,6 +887,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Habib I. H. Hinn",
+     "instructors": [
+      "Habib I. H. Hinn"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -823,6 +913,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Monther Mohammad Mifleh Nijim",
+     "instructors": [
+      "Monther Mohammad Mifleh Nijim"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -853,6 +946,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Habib I. H. Hinn",
+     "instructors": [
+      "Habib I. H. Hinn"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": []

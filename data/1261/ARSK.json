@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "instructors": [
+      "Sami Ehmedan Rasheed Sha\"Th"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "instructors": [
+      "Sami Ehmedan Rasheed Sha\"Th"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+     "instructors": [
+      "Sami Ehmedan Rasheed Sha\"Th"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -104,6 +113,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad B. N. Qadri",
+     "instructors": [
+      "Mohammad B. N. Qadri"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -148,6 +160,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samer Abdelrahim Mohammed Qot",
+     "instructors": [
+      "Samer Abdelrahim Mohammed Qot"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 14,
   "sections": 21,
-  "instructors": 11,
+  "instructors": 10,
   "rooms": 10
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -95,6 +101,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hadeel Mousa Metri Khoury",
+     "instructors": [
+      "Hadeel Mousa Metri Khoury"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -125,6 +134,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
+     "instructors": [
+      "Safaa M. A. Muhanna"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -162,6 +174,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -192,6 +207,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hadeel Mousa Metri Khoury, Monia Omar Izat Kittana",
+     "instructors": [
+      "Hadeel Mousa Metri Khoury",
+      "Monia Omar Izat Kittana"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -229,6 +248,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayah M. H. Alfar",
+     "instructors": [
+      "Ayah M. H. Alfar"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -259,6 +281,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
+     "instructors": [
+      "Safaa M. A. Muhanna"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -289,6 +314,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Monia Omar Izat Kittana",
+     "instructors": [
+      "Monia Omar Izat Kittana"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -305,6 +333,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Monia Omar Izat Kittana",
+     "instructors": [
+      "Monia Omar Izat Kittana"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -321,6 +352,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Safaa M. A. Muhanna",
+     "instructors": [
+      "Safaa M. A. Muhanna"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -337,6 +371,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Lina Yaser Jalal El_Khairy",
+     "instructors": [
+      "Lina Yaser Jalal El_Khairy"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -360,6 +397,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basil \"Mohammad Yasser\" Badwi Abu Rass",
+     "instructors": [
+      "Basil \"Mohammad Yasser\" Badwi Abu Rass"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []
@@ -368,6 +408,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Basil \"Mohammad Yasser\" Badwi Abu Rass",
+     "instructors": [
+      "Basil \"Mohammad Yasser\" Badwi Abu Rass"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -376,6 +419,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Maisa Rifat Fathi Shaik Ibrahim",
+     "instructors": [
+      "Maisa Rifat Fathi Shaik Ibrahim"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []
@@ -384,6 +430,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Maisa Rifat Fathi Shaik Ibrahim",
+     "instructors": [
+      "Maisa Rifat Fathi Shaik Ibrahim"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -399,6 +448,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "instructors": [
+      "Sana' Mohammad Mahmoud Liftawi"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -429,6 +481,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Walaa M. M. Idries",
+     "instructors": [
+      "Walaa M. M. Idries"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []
@@ -444,6 +499,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Monia Omar Izat Kittana",
+     "instructors": [
+      "Monia Omar Izat Kittana"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -474,6 +532,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Monia Omar Izat Kittana",
+     "instructors": [
+      "Monia Omar Izat Kittana"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -511,6 +572,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [

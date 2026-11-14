@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T10:28:13+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -3166,7 +3166,7 @@
    [
     "SPAN131",
     "3",
-    "Samuel Eduardo  Martin",
+    "Samuel Eduardo Martin",
     "T",
     "12:30",
     "13:50"
@@ -3392,7 +3392,7 @@
    [
     "SPAN131",
     "3",
-    "Samuel Eduardo  Martin",
+    "Samuel Eduardo Martin",
     "W",
     "12:30",
     "13:50"
@@ -4764,7 +4764,7 @@
    [
     "IRDS6360",
     "1",
-    "Lourdes B. A. Habash, Ahmed Shebl  Morsy, May Ayman Hassan Darwich",
+    "Lourdes B. A. Habash, Ahmed Shebl Morsy, May Ayman Hassan Darwich",
     "S",
     "14:00",
     "16:50"
@@ -5046,7 +5046,7 @@
    [
     "IRDS6330",
     "1",
-    "Ghassan A. I. Khatib, Faed Khaled Abed Mustafa, Marwan A.  Alkabalan",
+    "Ghassan A. I. Khatib, Faed Khaled Abed Mustafa, Marwan A. Alkabalan",
     "W",
     "14:00",
     "16:50"
@@ -8298,7 +8298,7 @@
    [
     "SPAN131",
     "1",
-    "Samuel Eduardo  Martin",
+    "Samuel Eduardo Martin",
     "W",
     "09:30",
     "10:50"
@@ -9212,14 +9212,6 @@
     "M",
     "09:30",
     "10:50"
-   ],
-   [
-    "ECON3311",
-    "2",
-    "Mohammad Nassar Ahmad Amreyeh",
-    "M",
-    "11:00",
-    "12:20"
    ],
    [
     "FINN4302",
@@ -18908,7 +18900,7 @@
    [
     "SPAN131",
     "2",
-    "Samuel Eduardo  Martin",
+    "Samuel Eduardo Martin",
     "W",
     "11:00",
     "12:20"
@@ -19054,7 +19046,7 @@
    [
     "SPAN131",
     "2",
-    "Samuel Eduardo  Martin",
+    "Samuel Eduardo Martin",
     "R",
     "11:00",
     "12:20"
@@ -19216,7 +19208,7 @@
    [
     "SPAN131",
     "1",
-    "Samuel Eduardo  Martin",
+    "Samuel Eduardo Martin",
     "R",
     "09:30",
     "10:50"
@@ -19706,7 +19698,7 @@
    [
     "SPAN132",
     "1",
-    "Samuel Eduardo  Martin",
+    "Samuel Eduardo Martin",
     "T",
     "14:00",
     "15:20"
@@ -19722,7 +19714,7 @@
    [
     "SPAN132",
     "1",
-    "Samuel Eduardo  Martin",
+    "Samuel Eduardo Martin",
     "W",
     "14:00",
     "15:20"
@@ -24230,6 +24222,14 @@
     "M",
     "09:30",
     "10:50"
+   ],
+   [
+    "ECON3311",
+    "2",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "M",
+    "11:00",
+    "12:20"
    ],
    [
     "CHEM241",

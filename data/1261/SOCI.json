@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T10:28:13+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+     "instructors": [
+      "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\""
+     ],
      "enrolled": 130,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -81,6 +87,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -111,6 +120,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+     "instructors": [
+      "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\""
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -141,6 +153,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Ahmad Soliman Ladadweh",
+     "instructors": [
+      "Hasan Ahmad Soliman Ladadweh"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -171,6 +186,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Majdi Mohammad Ibraheim Al-Malki",
+     "instructors": [
+      "Majdi Mohammad Ibraheim Al-Malki"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -201,6 +219,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar M. H. Qassis",
+     "instructors": [
+      "Omar M. H. Qassis"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -231,6 +252,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majdi Mohammad Ibraheim Al-Malki",
+     "instructors": [
+      "Majdi Mohammad Ibraheim Al-Malki"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -254,6 +278,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Majdi Mohammad Ibraheim Al-Malki",
+     "instructors": [
+      "Majdi Mohammad Ibraheim Al-Malki"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -284,6 +311,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaldun Atef Mahmoud Bshara",
+     "instructors": [
+      "Khaldun Atef Mahmoud Bshara"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -314,6 +344,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Ahmad Soliman Ladadweh",
+     "instructors": [
+      "Hasan Ahmad Soliman Ladadweh"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -344,6 +377,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+     "instructors": [
+      "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\""
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -374,6 +410,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Ahmad Soliman Ladadweh",
+     "instructors": [
+      "Hasan Ahmad Soliman Ladadweh"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -411,6 +450,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Ahmad Soliman Ladadweh",
+     "instructors": [
+      "Hasan Ahmad Soliman Ladadweh"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": []
@@ -426,6 +468,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majdi Mohammad Ibraheim Al-Malki",
+     "instructors": [
+      "Majdi Mohammad Ibraheim Al-Malki"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -449,6 +494,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Ahmad Soliman Ladadweh",
+     "instructors": [
+      "Hasan Ahmad Soliman Ladadweh"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -472,6 +520,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+     "instructors": [
+      "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\""
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -495,6 +546,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mai T. M. Albzour",
+     "instructors": [
+      "Mai T. M. Albzour"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -503,6 +557,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abaher Ibrahim Arafat El-Sakka",
+     "instructors": [
+      "Abaher Ibrahim Arafat El-Sakka"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -511,6 +568,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abaher Ibrahim Arafat El-Sakka",
+     "instructors": [
+      "Abaher Ibrahim Arafat El-Sakka"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -519,6 +579,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -527,6 +590,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Hosnia M. H. Jad",
+     "instructors": [
+      "Hosnia M. H. Jad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -535,6 +601,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Ala Mahmoud Younis Alazzeh",
+     "instructors": [
+      "Ala Mahmoud Younis Alazzeh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

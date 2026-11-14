@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-13T11:00:40+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 18,
   "sections": 28,
-  "instructors": 16,
+  "instructors": 15,
   "rooms": 18
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dana Khaled Kamal Qaimary Siaj",
+     "instructors": [
+      "Dana Khaled Kamal Qaimary Siaj"
+     ],
      "enrolled": 132,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Marian Zaki Basil Petro",
+     "instructors": [
+      "Marian Zaki Basil Petro"
+     ],
      "enrolled": 135,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Dana Khaled Kamal Qaimary Siaj",
+     "instructors": [
+      "Dana Khaled Kamal Qaimary Siaj"
+     ],
      "enrolled": 127,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Samer Anton Estaphan Salameh",
+     "instructors": [
+      "Samer Anton Estaphan Salameh"
+     ],
      "enrolled": 167,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Suzan Jamal Mousa Shkukani",
+     "instructors": [
+      "Suzan Jamal Mousa Shkukani"
+     ],
      "enrolled": 130,
      "capacity": null,
      "meetings": [
@@ -150,6 +165,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Dahouk Husain Abdel Afo Dawoudi",
+     "instructors": [
+      "Dahouk Husain Abdel Afo Dawoudi"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -180,6 +198,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adnan Sufian Muawiya Asali",
+     "instructors": [
+      "Adnan Sufian Muawiya Asali"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -203,6 +224,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Adnan Sufian Muawiya Asali",
+     "instructors": [
+      "Adnan Sufian Muawiya Asali"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -226,6 +250,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Samah Ahmad Hamed Abu Assab",
+     "instructors": [
+      "Samah Ahmad Hamed Abu Assab"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -256,6 +283,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Syrina Khaled Kamal Qamery",
+     "instructors": [
+      "Syrina Khaled Kamal Qamery"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -286,6 +316,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rania Yaser Qostande Jaber",
+     "instructors": [
+      "Rania Yaser Qostande Jaber"
+     ],
      "enrolled": 61,
      "capacity": null,
      "meetings": [
@@ -316,6 +349,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hanin S. J. Ramahi",
+     "instructors": [
+      "Hanin S. J. Ramahi"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -346,6 +382,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Arwa B. Y. Abed",
+     "instructors": [
+      "Arwa B. Y. Abed"
+     ],
      "enrolled": 60,
      "capacity": null,
      "meetings": [
@@ -376,6 +415,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dahouk Husain Abdel Afo Dawoudi",
+     "instructors": [
+      "Dahouk Husain Abdel Afo Dawoudi"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -406,6 +448,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shadi Ismail Taha Abu Rmailah, Dana Khaled Kamal Qaimary Siaj",
+     "instructors": [
+      "Shadi Ismail Taha Abu Rmailah",
+      "Dana Khaled Kamal Qaimary Siaj"
+     ],
      "enrolled": 62,
      "capacity": null,
      "meetings": [
@@ -436,6 +482,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dahouk Husain Abdel Afo Dawoudi",
+     "instructors": [
+      "Dahouk Husain Abdel Afo Dawoudi"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -466,6 +515,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mira K. J. Almukarker",
+     "instructors": [
+      "Mira K. J. Almukarker"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -496,6 +548,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nadine Asa'D Said Sinokrot",
+     "instructors": [
+      "Nadine Asa'D Said Sinokrot"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -526,6 +581,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samah Ahmad Hamed Abu Assab",
+     "instructors": [
+      "Samah Ahmad Hamed Abu Assab"
+     ],
      "enrolled": 52,
      "capacity": null,
      "meetings": [
@@ -556,6 +614,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samer Anton Estaphan Salameh",
+     "instructors": [
+      "Samer Anton Estaphan Salameh"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -579,6 +640,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Samer Anton Estaphan Salameh",
+     "instructors": [
+      "Samer Anton Estaphan Salameh"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -609,6 +673,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Syrina Khaled Kamal Qamery",
+     "instructors": [
+      "Syrina Khaled Kamal Qamery"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -632,6 +699,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adnan Sufian Muawiya Asali, Dana Khaled Kamal Qaimary Siaj",
+     "instructors": [
+      "Adnan Sufian Muawiya Asali",
+      "Dana Khaled Kamal Qaimary Siaj"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -655,6 +726,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shadi Ismail Taha Abu Rmailah, Dana Khaled Kamal Qaimary Siaj",
+     "instructors": [
+      "Shadi Ismail Taha Abu Rmailah",
+      "Dana Khaled Kamal Qaimary Siaj"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -685,6 +760,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amal Wasef Mousa Nazzal",
+     "instructors": [
+      "Amal Wasef Mousa Nazzal"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -708,6 +786,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Amal Wasef Mousa Nazzal",
+     "instructors": [
+      "Amal Wasef Mousa Nazzal"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -738,6 +819,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Suzan Jamal Mousa Shkukani",
+     "instructors": [
+      "Suzan Jamal Mousa Shkukani"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -768,6 +852,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dahouk Husain Abdel Afo Dawoudi",
+     "instructors": [
+      "Dahouk Husain Abdel Afo Dawoudi"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": []

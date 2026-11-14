@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "instructors": [
+      "Mutaz Mohammed Mohammed Jamil Dredei"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "instructors": [
+      "Mutaz Mohammed Mohammed Jamil Dredei"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lina Ibrahim Ahmed Adwan",
+     "instructors": [
+      "Lina Ibrahim Ahmed Adwan"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Samer Ahmad Yaseen",
+     "instructors": [
+      "Khalid Samer Ahmad Yaseen"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "instructors": [
+      "Mutaz Mohammed Mohammed Jamil Dredei"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -143,6 +158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Haya N. H. Nofal",
+     "instructors": [
+      "Haya N. H. Nofal"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []
@@ -158,6 +176,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "instructors": [
+      "Omar Hasan Abdulghani Almahmoud"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -181,6 +202,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "instructors": [
+      "Mutaz Mohammed Mohammed Jamil Dredei"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -189,6 +213,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+     "instructors": [
+      "Mutaz Mohammed Mohammed Jamil Dredei"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

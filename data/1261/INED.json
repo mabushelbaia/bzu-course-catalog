@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "instructors": [
+      "Bihan Ahmad Taher Al_Qaimari"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khader Mahmoud Ahmad Rasras",
+     "instructors": [
+      "Khader Mahmoud Ahmad Rasras"
+     ],
      "enrolled": 56,
      "capacity": null,
      "meetings": [
@@ -88,6 +94,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "instructors": [
+      "Bihan Ahmad Taher Al_Qaimari"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -118,6 +127,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman Abdelmajeed Saleem Rezeqallah",
+     "instructors": [
+      "Ayman Abdelmajeed Saleem Rezeqallah"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -148,6 +160,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman Abdelmajeed Saleem Rezeqallah",
+     "instructors": [
+      "Ayman Abdelmajeed Saleem Rezeqallah"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -178,6 +193,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Mahmoud Ali Abdelkareem",
+     "instructors": [
+      "Hasan Mahmoud Ali Abdelkareem"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -208,6 +226,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Mahmoud Fteiha Fteiha",
+     "instructors": [
+      "Ahmad Mahmoud Fteiha Fteiha"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -231,6 +252,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rola Jamal Abdalhafeez Abu Shamma",
+     "instructors": [
+      "Rola Jamal Abdalhafeez Abu Shamma"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -254,6 +278,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nariman Issa Ibrahim Rojoob",
+     "instructors": [
+      "Nariman Issa Ibrahim Rojoob"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -277,6 +304,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Suhair Moustafa Mohammad Morar",
+     "instructors": [
+      "Suhair Moustafa Mohammad Morar"
+     ],
      "enrolled": 63,
      "capacity": null,
      "meetings": [
@@ -300,6 +330,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fatma K. M. Mohammed",
+     "instructors": [
+      "Fatma K. M. Mohammed"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -330,6 +363,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nihal Adel Ibrahim Zurbah",
+     "instructors": [
+      "Nihal Adel Ibrahim Zurbah"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -353,6 +389,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Mohamad Hamdan Abu-Shama",
+     "instructors": [
+      "Mahmoud Mohamad Hamdan Abu-Shama"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -376,6 +415,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mousa Mohammed Mousa Khaldi",
+     "instructors": [
+      "Mousa Mohammed Mousa Khaldi"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [

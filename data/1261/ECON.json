@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-13T11:00:40+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 18,
   "sections": 38,
   "instructors": 13,
-  "rooms": 23
+  "rooms": 24
  },
  "courses": [
   {
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "instructors": [
+      "Samia Mahmoud Ahmad Al-Botmeh"
+     ],
      "enrolled": 152,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Shireen Mustafa Kamel Al Basha",
+     "instructors": [
+      "Shireen Mustafa Kamel Al Basha"
+     ],
      "enrolled": 133,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 131,
      "capacity": null,
      "meetings": [
@@ -104,6 +113,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 128,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "instructors": [
+      "Yasser Mahmoud Abdul Rahim Abu Hijleh"
+     ],
      "enrolled": 155,
      "capacity": null,
      "meetings": [
@@ -157,6 +172,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "instructors": [
+      "Yasser Mahmoud Abdul Rahim Abu Hijleh"
+     ],
      "enrolled": 83,
      "capacity": null,
      "meetings": [
@@ -187,6 +205,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "instructors": [
+      "Mahmoud Othman Yousef Khaseeb"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -210,6 +231,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "instructors": [
+      "Mahmoud Othman Yousef Khaseeb"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -233,6 +257,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Najibeh Mohammad Saleh Morar",
+     "instructors": [
+      "Najibeh Mohammad Saleh Morar"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -256,6 +283,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -279,6 +309,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ijtiead A. H. Abu Thabet",
+     "instructors": [
+      "Ijtiead A. H. Abu Thabet"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -302,6 +335,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Shireen Mustafa Kamel Al Basha",
+     "instructors": [
+      "Shireen Mustafa Kamel Al Basha"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -325,6 +361,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -348,6 +387,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Yousef Suleiman Yousef Daoud",
+     "instructors": [
+      "Yousef Suleiman Yousef Daoud"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -371,6 +413,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Mahmoud Othman Yousef Khaseeb",
+     "instructors": [
+      "Mahmoud Othman Yousef Khaseeb"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -394,6 +439,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "instructors": [
+      "Samia Mahmoud Ahmad Al-Botmeh"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -417,6 +465,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -440,6 +491,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Tareq Mohummad Abdul_Rahim Sadeq",
+     "instructors": [
+      "Tareq Mohummad Abdul_Rahim Sadeq"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -470,6 +524,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ijtiead A. H. Abu Thabet",
+     "instructors": [
+      "Ijtiead A. H. Abu Thabet"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -500,6 +557,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 52,
      "capacity": null,
      "meetings": [
@@ -523,6 +583,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Nassar Ahmad Amreyeh",
+     "instructors": [
+      "Mohammad Nassar Ahmad Amreyeh"
+     ],
      "enrolled": 58,
      "capacity": null,
      "meetings": [
@@ -537,8 +600,8 @@
        "day": "M",
        "start": "11:00",
        "end": "12:20",
-       "room": "Al-Juraysi221",
-       "building": null
+       "room": "SCI214",
+       "building": "SCI"
       }
      ]
     },
@@ -546,6 +609,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 52,
      "capacity": null,
      "meetings": [
@@ -576,6 +642,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shireen Mustafa Kamel Al Basha",
+     "instructors": [
+      "Shireen Mustafa Kamel Al Basha"
+     ],
      "enrolled": 58,
      "capacity": null,
      "meetings": [
@@ -599,6 +668,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -629,6 +701,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "instructors": [
+      "Tareq Mohammad Tallat Abdulfatah Ashour"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -652,6 +727,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -675,6 +753,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sana' Jamil Abdallah Atari",
+     "instructors": [
+      "Sana' Jamil Abdallah Atari"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -698,6 +779,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "instructors": [
+      "Tareq Mohammad Tallat Abdulfatah Ashour"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -728,6 +812,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yasser Mahmoud Abdul Rahim Abu Hijleh",
+     "instructors": [
+      "Yasser Mahmoud Abdul Rahim Abu Hijleh"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -758,6 +845,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Suleiman Yousef Daoud",
+     "instructors": [
+      "Yousef Suleiman Yousef Daoud"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -788,6 +878,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+     "instructors": [
+      "Tareq Mohammad Tallat Abdulfatah Ashour"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -818,6 +911,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -841,6 +937,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -864,6 +963,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Said Fares Zagha",
+     "instructors": [
+      "Adel Said Fares Zagha"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -894,6 +996,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Suleiman Yousef Daoud",
+     "instructors": [
+      "Yousef Suleiman Yousef Daoud"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -917,6 +1022,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Najibeh Mohammad Saleh Morar",
+     "instructors": [
+      "Najibeh Mohammad Saleh Morar"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -940,6 +1048,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+     "instructors": [
+      "Samia Mahmoud Ahmad Al-Botmeh"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -963,6 +1074,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [

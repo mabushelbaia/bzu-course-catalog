@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -72,6 +75,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ismail Salama Ismail Iriqat",
+     "instructors": [
+      "Ismail Salama Ismail Iriqat"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -116,6 +122,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -160,6 +169,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farid Mohammad Farid Irshaid",
+     "instructors": [
+      "Farid Mohammad Farid Irshaid"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -204,6 +216,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farid Mohammad Farid Irshaid",
+     "instructors": [
+      "Farid Mohammad Farid Irshaid"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -248,6 +263,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -285,6 +303,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -329,6 +350,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -373,6 +397,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -417,6 +444,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -461,6 +491,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ismail Salama Ismail Iriqat",
+     "instructors": [
+      "Ismail Salama Ismail Iriqat"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": []
@@ -469,6 +502,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ismail Salama Ismail Iriqat",
+     "instructors": [
+      "Ismail Salama Ismail Iriqat"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": []
@@ -477,6 +513,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": []
@@ -485,6 +524,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
+     "instructors": [
+      "Mayyada Ismae'L Hasan Badawi"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": []
@@ -493,6 +535,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
+     "instructors": [
+      "Mayyada Ismae'L Hasan Badawi"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": []
@@ -501,6 +546,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": []
@@ -509,6 +557,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Mayyada Ismae'L Hasan Badawi",
+     "instructors": [
+      "Mayyada Ismae'L Hasan Badawi"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": []
@@ -524,6 +575,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ismail Salama Ismail Iriqat",
+     "instructors": [
+      "Ismail Salama Ismail Iriqat"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [

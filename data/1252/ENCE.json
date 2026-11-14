@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Faisal I. A. Awadallah",
+     "instructors": [
+      "Faisal I. A. Awadallah"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Saheem Kamel Abdullah Murshid",
+     "instructors": [
+      "Saheem Kamel Abdullah Murshid"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -90,6 +99,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -113,6 +125,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -143,6 +158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Faisal I. A. Awadallah",
+     "instructors": [
+      "Faisal I. A. Awadallah"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -173,6 +191,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -196,6 +217,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -226,6 +250,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Omar Rabah Raghib Zimmo",
+     "instructors": [
+      "Omar Rabah Raghib Zimmo"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -249,6 +276,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "instructors": [
+      "Jamal-Aldin Hisham Mohammad Zalatimo"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -272,6 +302,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -309,6 +342,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saheem Kamel Abdullah Murshid",
+     "instructors": [
+      "Saheem Kamel Abdullah Murshid"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -346,6 +382,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farhat M. M. Majadba",
+     "instructors": [
+      "Farhat M. M. Majadba"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -376,6 +415,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farhat M. M. Majadba",
+     "instructors": [
+      "Farhat M. M. Majadba"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -406,6 +448,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saheem Kamel Abdullah Murshid",
+     "instructors": [
+      "Saheem Kamel Abdullah Murshid"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -429,6 +474,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -452,6 +500,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Faisal I. A. Awadallah",
+     "instructors": [
+      "Faisal I. A. Awadallah"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -475,6 +526,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalil Mosab Khalil Qatu",
+     "instructors": [
+      "Khalil Mosab Khalil Qatu"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -498,6 +552,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abdul Naser Amin Ahed Arafat",
+     "instructors": [
+      "Abdul Naser Amin Ahed Arafat"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -521,6 +578,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdul Naser Amin Ahed Arafat",
+     "instructors": [
+      "Abdul Naser Amin Ahed Arafat"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -551,6 +611,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saheem Kamel Abdullah Murshid",
+     "instructors": [
+      "Saheem Kamel Abdullah Murshid"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -588,6 +651,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -625,6 +691,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -655,6 +724,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "instructors": [
+      "Jamal-Aldin Hisham Mohammad Zalatimo"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -685,6 +757,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farhat M. M. Majadba",
+     "instructors": [
+      "Farhat M. M. Majadba"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -708,6 +783,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "instructors": [
+      "Jamal-Aldin Hisham Mohammad Zalatimo"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -738,6 +816,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -775,6 +856,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farhat M. M. Majadba",
+     "instructors": [
+      "Farhat M. M. Majadba"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -805,6 +889,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdul Naser Amin Ahed Arafat",
+     "instructors": [
+      "Abdul Naser Amin Ahed Arafat"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -835,6 +922,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -858,6 +948,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Omar Rabah Raghib Zimmo",
+     "instructors": [
+      "Omar Rabah Raghib Zimmo"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -881,6 +974,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "instructors": [
+      "Nidal Jawdat Masoud Mahmoud"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -904,6 +1000,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -934,6 +1033,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Faisal I. A. Awadallah",
+     "instructors": [
+      "Faisal I. A. Awadallah"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -964,6 +1066,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -994,6 +1099,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -1024,6 +1132,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "instructors": [
+      "Jamal-Aldin Hisham Mohammad Zalatimo"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -1054,6 +1165,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -1091,6 +1205,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -1128,6 +1245,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar Rabah Raghib Zimmo",
+     "instructors": [
+      "Omar Rabah Raghib Zimmo"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -1158,6 +1278,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saheem Kamel Abdullah Murshid",
+     "instructors": [
+      "Saheem Kamel Abdullah Murshid"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -1195,6 +1318,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farhat M. M. Majadba",
+     "instructors": [
+      "Farhat M. M. Majadba"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -1225,6 +1351,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalil Mosab Khalil Qatu",
+     "instructors": [
+      "Khalil Mosab Khalil Qatu"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -1233,6 +1362,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1241,6 +1373,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Khalil Mosab Khalil Qatu",
+     "instructors": [
+      "Khalil Mosab Khalil Qatu"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1249,6 +1384,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "instructors": [
+      "Jamal-Aldin Hisham Mohammad Zalatimo"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1257,6 +1395,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "instructors": [
+      "Nidal Jawdat Masoud Mahmoud"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1272,6 +1413,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdul Naser Amin Ahed Arafat",
+     "instructors": [
+      "Abdul Naser Amin Ahed Arafat"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1280,6 +1424,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abdul Naser Amin Ahed Arafat",
+     "instructors": [
+      "Abdul Naser Amin Ahed Arafat"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1288,6 +1435,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1296,6 +1446,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Nizar Abdul-Hamid Yousef Assi",
+     "instructors": [
+      "Nizar Abdul-Hamid Yousef Assi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1304,6 +1457,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Jamal-Aldin Hisham Mohammad Zalatimo",
+     "instructors": [
+      "Jamal-Aldin Hisham Mohammad Zalatimo"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1312,6 +1468,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Khaled Adeeb Zaki Abaza",
+     "instructors": [
+      "Khaled Adeeb Zaki Abaza"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1320,6 +1479,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Saheem Kamel Abdullah Murshid",
+     "instructors": [
+      "Saheem Kamel Abdullah Murshid"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -1328,6 +1490,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Nidal Jawdat Masoud Mahmoud",
+     "instructors": [
+      "Nidal Jawdat Masoud Mahmoud"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -1343,6 +1508,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalil Mosab Khalil Qatu",
+     "instructors": [
+      "Khalil Mosab Khalil Qatu"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -1366,6 +1534,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar Rabah Raghib Zimmo",
+     "instructors": [
+      "Omar Rabah Raghib Zimmo"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -1396,6 +1567,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdul Naser Amin Ahed Arafat",
+     "instructors": [
+      "Abdul Naser Amin Ahed Arafat"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -1419,6 +1593,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalil Mosab Khalil Qatu",
+     "instructors": [
+      "Khalil Mosab Khalil Qatu"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -1442,6 +1619,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalil Mosab Khalil Qatu",
+     "instructors": [
+      "Khalil Mosab Khalil Qatu"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1450,6 +1630,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khalil Mosab Khalil Qatu",
+     "instructors": [
+      "Khalil Mosab Khalil Qatu"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []

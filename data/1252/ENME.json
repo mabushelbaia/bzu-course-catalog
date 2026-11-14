@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rashad Irsan Hassan Mustafa",
+     "instructors": [
+      "Rashad Irsan Hassan Mustafa"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lab",
      "number": "13",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -90,6 +99,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Allan S. E. Tubaileh",
+     "instructors": [
+      "Allan S. E. Tubaileh"
+     ],
      "enrolled": 86,
      "capacity": null,
      "meetings": [
@@ -106,6 +118,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Allan S. E. Tubaileh",
+     "instructors": [
+      "Allan S. E. Tubaileh"
+     ],
      "enrolled": 85,
      "capacity": null,
      "meetings": [
@@ -122,6 +137,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "instructors": [
+      "Sameh Nabil Abdel Jabbar Abu Awad"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -138,6 +156,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "instructors": [
+      "Ahmad Ismael Abd Al-Hafith Balasie"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -154,6 +175,9 @@
      "type": "Lab",
      "number": "6",
      "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "instructors": [
+      "Ahmad Ismael Abd Al-Hafith Balasie"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -170,6 +194,9 @@
      "type": "Lab",
      "number": "7",
      "instructor": "Nedal Abd Alaziz Farid Aburub",
+     "instructors": [
+      "Nedal Abd Alaziz Farid Aburub"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -186,6 +213,9 @@
      "type": "Lab",
      "number": "8",
      "instructor": "Allan S. E. Tubaileh",
+     "instructors": [
+      "Allan S. E. Tubaileh"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -202,6 +232,9 @@
      "type": "Lab",
      "number": "10",
      "instructor": "Rashad Irsan Hassan Mustafa",
+     "instructors": [
+      "Rashad Irsan Hassan Mustafa"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -218,6 +251,9 @@
      "type": "Lab",
      "number": "11",
      "instructor": "Adel Abd Elkader Atef Dweik",
+     "instructors": [
+      "Adel Abd Elkader Atef Dweik"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -234,6 +270,9 @@
      "type": "Lab",
      "number": "12",
      "instructor": "Falah Hamdi Falah Dmeri",
+     "instructors": [
+      "Falah Hamdi Falah Dmeri"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -257,6 +296,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -273,6 +315,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rashad Irsan Hassan Mustafa",
+     "instructors": [
+      "Rashad Irsan Hassan Mustafa"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -296,6 +341,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nidal Mohammad Abdel Qader Farhat",
+     "instructors": [
+      "Nidal Mohammad Abdel Qader Farhat"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -319,6 +367,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rashad Irsan Hassan Mustafa",
+     "instructors": [
+      "Rashad Irsan Hassan Mustafa"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -349,6 +400,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -364,6 +418,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Basel Tahsen Qasim Yaseen",
+     "instructors": [
+      "Basel Tahsen Qasim Yaseen"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -387,6 +444,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -417,6 +477,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nidal Mohammad Abdel Qader Farhat",
+     "instructors": [
+      "Nidal Mohammad Abdel Qader Farhat"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -454,6 +517,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+     "instructors": [
+      "Mohammad Mahmoud Hasan Al Karaeen"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -484,6 +550,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+     "instructors": [
+      "Mohammad Mahmoud Hasan Al Karaeen"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -514,6 +583,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "instructors": [
+      "Sameh Nabil Abdel Jabbar Abu Awad"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -551,6 +623,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Abd Elkader Atef Dweik",
+     "instructors": [
+      "Adel Abd Elkader Atef Dweik"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -574,6 +649,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashad Irsan Hassan Mustafa",
+     "instructors": [
+      "Rashad Irsan Hassan Mustafa"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -597,6 +675,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -612,6 +693,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Abd Elkader Atef Dweik",
+     "instructors": [
+      "Adel Abd Elkader Atef Dweik"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -635,6 +719,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Adel Abd Elkader Atef Dweik",
+     "instructors": [
+      "Adel Abd Elkader Atef Dweik"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -665,6 +752,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Abd Elkader Atef Dweik",
+     "instructors": [
+      "Adel Abd Elkader Atef Dweik"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -695,6 +785,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Allan S. E. Tubaileh",
+     "instructors": [
+      "Allan S. E. Tubaileh"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -732,6 +825,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Allan S. E. Tubaileh",
+     "instructors": [
+      "Allan S. E. Tubaileh"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -769,6 +865,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mamon Mohammad Abedalqader Horoub",
+     "instructors": [
+      "Mamon Mohammad Abedalqader Horoub"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -799,6 +898,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+     "instructors": [
+      "Mohammad Mahmoud Hasan Al Karaeen"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -822,6 +924,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+     "instructors": [
+      "Mohammad Mahmoud Hasan Al Karaeen"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -830,6 +935,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nedal Abd Alaziz Farid Aburub",
+     "instructors": [
+      "Nedal Abd Alaziz Farid Aburub"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -845,6 +953,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "instructors": [
+      "Sameh Nabil Abdel Jabbar Abu Awad"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -875,6 +986,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashad Irsan Hassan Mustafa",
+     "instructors": [
+      "Rashad Irsan Hassan Mustafa"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -905,6 +1019,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -928,6 +1045,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashad Irsan Hassan Mustafa",
+     "instructors": [
+      "Rashad Irsan Hassan Mustafa"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -936,6 +1056,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ihab Mohammad Said Abu Ajamieh",
+     "instructors": [
+      "Ihab Mohammad Said Abu Ajamieh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

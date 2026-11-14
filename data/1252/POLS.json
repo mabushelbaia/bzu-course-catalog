@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
+     "instructors": [
+      "Imad Hassan Musa Ghayathah"
+     ],
      "enrolled": 189,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Wadi'E A. I. Abusunina",
+     "instructors": [
+      "Wadi'E A. I. Abusunina"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Nada N. B. Barakat",
+     "instructors": [
+      "Nada N. B. Barakat"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -83,6 +92,9 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Wadi'E A. I. Abusunina",
+     "instructors": [
+      "Wadi'E A. I. Abusunina"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -99,6 +111,9 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Nada N. B. Barakat",
+     "instructors": [
+      "Nada N. B. Barakat"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -115,6 +130,9 @@
      "type": "Discussion",
      "number": "5",
      "instructor": "Wadi'E A. I. Abusunina",
+     "instructors": [
+      "Wadi'E A. I. Abusunina"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -138,6 +156,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Mahmoud Abed Mousa",
+     "instructors": [
+      "Hani Mahmoud Abed Mousa"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -175,6 +196,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ghada Adnan Kathem Almadbouh",
+     "instructors": [
+      "Ghada Adnan Kathem Almadbouh"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -205,6 +229,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
+     "instructors": [
+      "Imad Hassan Musa Ghayathah"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -235,6 +262,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ghada Adnan Kathem Almadbouh",
+     "instructors": [
+      "Ghada Adnan Kathem Almadbouh"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -265,6 +295,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
+     "instructors": [
+      "Imad Hassan Musa Ghayathah"
+     ],
      "enrolled": 115,
      "capacity": null,
      "meetings": [
@@ -288,6 +321,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Wadi'E A. I. Abusunina",
+     "instructors": [
+      "Wadi'E A. I. Abusunina"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -304,6 +340,9 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Wadi'E A. I. Abusunina",
+     "instructors": [
+      "Wadi'E A. I. Abusunina"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -320,6 +359,9 @@
      "type": "Discussion",
      "number": "3",
      "instructor": "Nada N. B. Barakat",
+     "instructors": [
+      "Nada N. B. Barakat"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -336,6 +378,9 @@
      "type": "Discussion",
      "number": "4",
      "instructor": "Nada N. B. Barakat",
+     "instructors": [
+      "Nada N. B. Barakat"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -359,6 +404,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Sameeh Ibrahim Rabai'Ah",
+     "instructors": [
+      "Ibrahim Sameeh Ibrahim Rabai'Ah"
+     ],
      "enrolled": 56,
      "capacity": null,
      "meetings": [
@@ -396,6 +444,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Murad Abdel-Majid Abdel-Qader Shaheen",
+     "instructors": [
+      "Murad Abdel-Majid Abdel-Qader Shaheen"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -426,6 +477,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Mahmoud Abdl Fatah Mesleh",
+     "instructors": [
+      "Ahmad Mahmoud Abdl Fatah Mesleh"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -463,6 +517,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Mahmoud Abdl Fatah Mesleh",
+     "instructors": [
+      "Ahmad Mahmoud Abdl Fatah Mesleh"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -500,6 +557,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
+     "instructors": [
+      "Imad Hassan Musa Ghayathah"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -530,6 +590,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Mahmoud Abed Mousa",
+     "instructors": [
+      "Hani Mahmoud Abed Mousa"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -567,6 +630,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Imad Hassan Musa Ghayathah",
+     "instructors": [
+      "Imad Hassan Musa Ghayathah"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -604,6 +670,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -634,6 +703,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Mahmoud Abed Mousa",
+     "instructors": [
+      "Hani Mahmoud Abed Mousa"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [

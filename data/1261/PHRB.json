@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Feras Imad Rafeq Qanaze",
+     "instructors": [
+      "Feras Imad Rafeq Qanaze"
+     ],
      "enrolled": 59,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Ramzi H. M. Muqedi",
+     "instructors": [
+      "Ramzi H. M. Muqedi"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -60,6 +66,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Feras Imad Rafeq Qanaze",
+     "instructors": [
+      "Feras Imad Rafeq Qanaze"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -76,6 +85,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Ramzi H. M. Muqedi",
+     "instructors": [
+      "Ramzi H. M. Muqedi"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -92,6 +104,9 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Feras Imad Rafeq Qanaze",
+     "instructors": [
+      "Feras Imad Rafeq Qanaze"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -115,6 +130,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Marwa Ahmed Mohammed Alimari",
+     "instructors": [
+      "Marwa Ahmed Mohammed Alimari"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [

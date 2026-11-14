@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -65,6 +68,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -95,6 +101,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -132,6 +141,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -162,6 +174,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -185,6 +200,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -201,6 +219,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -224,6 +245,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashid F. R. Yousef",
+     "instructors": [
+      "Rashid F. R. Yousef"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -254,6 +278,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -291,6 +318,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -299,6 +329,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -314,6 +347,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -322,6 +358,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -330,6 +369,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rashid F. R. Yousef",
+     "instructors": [
+      "Rashid F. R. Yousef"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -338,6 +380,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Rashid F. R. Yousef",
+     "instructors": [
+      "Rashid F. R. Yousef"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -346,6 +391,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -354,6 +402,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -362,6 +413,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -370,6 +424,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -385,6 +442,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -408,6 +468,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -424,6 +487,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -447,6 +513,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -484,6 +553,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-09T11:34:55+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 4,
   "sections": 4,
-  "instructors": 4,
+  "instructors": 6,
   "rooms": 4
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Afif A. M. Akel",
+     "instructors": [
+      "Afif A. M. Akel"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashed M. Y. Al-Sa'Ed",
+     "instructors": [
+      "Rashed M. Y. Al-Sa'Ed"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Khaleel Issa Jubran, Jaser Abdel Mon'En Fayiz Sa'Ed",
+     "instructors": [
+      "Mohammad Khaleel Issa Jubran",
+      "Jaser Abdel Mon'En Fayiz Sa'Ed"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -97,6 +107,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed Mohammed Ahmed Abu Hanieh, Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Ahmed Mohammed Ahmed Abu Hanieh",
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [

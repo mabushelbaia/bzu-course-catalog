@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -81,6 +87,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -111,6 +120,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -134,6 +146,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -157,6 +172,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -173,6 +191,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -189,6 +210,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -212,6 +236,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -235,6 +262,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -265,6 +295,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -273,6 +306,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -281,6 +317,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -289,6 +328,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -297,6 +339,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Refat T. A. Othman",
+     "instructors": [
+      "Refat T. A. Othman"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -305,6 +350,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -313,6 +361,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -321,6 +372,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -329,6 +383,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -337,6 +394,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -345,6 +405,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -353,6 +416,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -361,6 +427,9 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -369,6 +438,9 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Rashid F. R. Yousef",
+     "instructors": [
+      "Rashid F. R. Yousef"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -377,6 +449,9 @@
      "type": "Lecture",
      "number": "15",
      "instructor": "Hisham W. Y. Ihshaish",
+     "instructors": [
+      "Hisham W. Y. Ihshaish"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -392,6 +467,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -400,6 +478,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -415,6 +496,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -445,6 +529,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashid F. R. Yousef",
+     "instructors": [
+      "Rashid F. R. Yousef"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -475,6 +562,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [

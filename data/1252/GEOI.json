@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Othman Ali Othman Sharkas",
+     "instructors": [
+      "Othman Ali Othman Sharkas"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Said Naji Herzallah",
+     "instructors": [
+      "Abdullah Said Naji Herzallah"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -81,6 +87,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdullah Said Naji Herzallah",
+     "instructors": [
+      "Abdullah Said Naji Herzallah"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -104,6 +113,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Said Naji Herzallah",
+     "instructors": [
+      "Abdullah Said Naji Herzallah"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Abdullah Said Naji Herzallah",
+     "instructors": [
+      "Abdullah Said Naji Herzallah"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -150,6 +165,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdullah Said Naji Herzallah",
+     "instructors": [
+      "Abdullah Said Naji Herzallah"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -173,6 +191,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdullah Said Naji Herzallah",
+     "instructors": [
+      "Abdullah Said Naji Herzallah"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -189,6 +210,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Abdullah Said Naji Herzallah",
+     "instructors": [
+      "Abdullah Said Naji Herzallah"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -212,6 +236,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -235,6 +262,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -251,6 +281,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -274,6 +307,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -297,6 +333,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdallah Mahmoud Issa Al-Manasra",
+     "instructors": [
+      "Abdallah Mahmoud Issa Al-Manasra"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -313,6 +352,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -336,6 +378,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -352,6 +397,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Abdallah Khalil Abdallah Amro",
+     "instructors": [
+      "Abdallah Khalil Abdallah Amro"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -375,6 +423,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -398,6 +449,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -421,6 +475,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Marwan Ghaleb Abdulmuhsen Ghanem",
+     "instructors": [
+      "Marwan Ghaleb Abdulmuhsen Ghanem"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -437,6 +494,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdallah Khalil Abdallah Amro",
+     "instructors": [
+      "Abdallah Khalil Abdallah Amro"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -453,6 +513,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Abdallah Mahmoud Issa Al-Manasra",
+     "instructors": [
+      "Abdallah Mahmoud Issa Al-Manasra"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -476,6 +539,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -484,6 +550,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khalil Abdullah Mutawe' Amro",
+     "instructors": [
+      "Khalil Abdullah Mutawe' Amro"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -492,6 +561,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -500,6 +572,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdullah Said Naji Herzallah",
+     "instructors": [
+      "Abdullah Said Naji Herzallah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -508,6 +583,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -516,6 +594,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -524,6 +605,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Marwan Ghaleb Abdulmuhsen Ghanem",
+     "instructors": [
+      "Marwan Ghaleb Abdulmuhsen Ghanem"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -532,6 +616,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -540,6 +627,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -548,6 +638,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -556,6 +649,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+     "instructors": [
+      "Mohammad Tayseer Ahmad Kittaneh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -564,6 +660,9 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -572,6 +671,9 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Ahmad Refa'T Mohammad Alnoubani",
+     "instructors": [
+      "Ahmad Refa'T Mohammad Alnoubani"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
