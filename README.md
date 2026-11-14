@@ -28,12 +28,14 @@ A course looks like this (`capacity` is `null` when Ritaj shows enrolment only):
  "code": "ENCS3320", "prefix": "ENCS", "name": "COMPUTER NETWORKS",
  "sections": [
   {
-   "type": "Lecture", "number": "1", "instructor": "…", "enrolled": 19, "capacity": null,
+   "type": "Lecture", "number": "1", "instructor": "…", "instructors": ["…"], "enrolled": 19, "capacity": null,
    "meetings": [{ "day": "M", "start": "10:00", "end": "10:50", "room": "Masri109", "building": "Masri" }]
   }
  ]
 }
 ```
+
+`instructor` is Ritaj's cell as shown; co-taught sections list several people in it, split by commas. `instructors` has them one per entry, and the `instructors` counts in `index.json` count people, not pairings.
 
 Days use Ritaj's letters: `S` Sat, `U` Sun, `M` Mon, `T` Tue, `W` Wed, `R` Thu. Times are 24-hour.
 
@@ -42,7 +44,7 @@ Days use Ritaj's letters: `S` Sat, `U` Sun, `M` Mon, `T` Tue, `W` Wed, `R` Thu. 
 - `bzu_catalog/fetch.py` asks [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) for the page, since Ritaj is behind a bot check. `bu=182` returns the whole university in one page per semester.
 - `bzu_catalog/parse.py` reads the page, and Ritaj's unit tree for `departments.json` (`python -m bzu_catalog departments saved-tree.html` parses a saved copy). It is ported from dept-ops' catalog importer.
 - Ritaj lists semesters that aren't published yet; asking for one shows the current semester instead. The scraper notices and skips them, so "newest 3" means the newest 3 published semesters.
-- A semester's files are rewritten only when its data changed. Every run stamps `checked_at` in `data/index.json`, so there is one small commit a day even when nothing changed: it shows the data is current, and it keeps GitHub from pausing the schedule (it pauses scheduled workflows in repos with 60 days of no activity). If a page that used to have courses suddenly parses to none, the run fails instead of wiping the data.
+- A semester's files are rewritten only when its data changed. Every run stamps `checked_at` in `data/index.json`, so there is one small commit a day even when nothing changed: it shows the data is current, and it keeps GitHub from pausing the schedule (it pauses scheduled workflows in repos with 60 days of no activity). Before a semester replaces its published files, `bzu_catalog/check.py` looks for the shapes a broken parse takes: no courses where there were some, courses or sections down by half since the last run, or a column gone missing across the board (meeting times, rooms, instructors, enrolment, well-formed course codes). If any turn up, that semester keeps its last good files and the run fails, so GitHub emails the repo owner instead of the site showing a broken schedule.
 
 `.github/workflows/scrape.yml` runs once a day at 03:17 UTC (and on demand, with optional semester codes). It starts FlareSolverr as a service container, runs the parser tests, scrapes, and commits `data/` if anything changed.
 

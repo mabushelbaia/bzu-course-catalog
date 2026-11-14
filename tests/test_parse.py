@@ -2,7 +2,7 @@
 
 from pathlib import Path
 
-from bzu_catalog.parse import parse_courses, parse_days, parse_enrolment, parse_terms, parse_time
+from bzu_catalog.parse import parse_courses, parse_days, parse_enrolment, parse_terms, parse_time, split_instructors
 
 HTML = (Path(__file__).parent / "fixtures" / "1253.html").read_text(encoding="utf-8", errors="ignore")
 
@@ -79,3 +79,13 @@ def test_departments():
     assert {p["prefix"] for p in eng["programs"]} == {"JMEE", "MSAI"}
     assert [p["prefix"] for p in tree["programs"]] == ["UNIV"]
     assert len(tree["faculties"]) == 9
+
+
+def test_co_taught_instructors():
+    assert split_instructors("A B, C D") == ["A B", "C D"]
+    assert split_instructors("A B") == ["A B"]
+    assert split_instructors(None) == []
+    sections = [s for c in parse_courses(HTML) for s in c["sections"]]
+    # Every name in a combined cell is counted once, on its own
+    assert all(s["instructors"] == split_instructors(s["instructor"]) for s in sections)
+    assert not any("  " in (s["instructor"] or "") for s in sections)

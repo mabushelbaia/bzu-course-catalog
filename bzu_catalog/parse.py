@@ -72,6 +72,12 @@ def shown_term(html: str) -> str | None:
     return (opt.get("value") or "").strip() or None if opt else None
 
 
+def split_instructors(text: str | None) -> list[str]:
+    """The people in an instructor cell. Co-taught sections list them in one cell, split by commas
+    ("A, B"), so counting the cell as one name would count every pairing as a new instructor."""
+    return [p.strip() for p in (text or "").split(",") if p.strip()]
+
+
 def parse_courses(html: str) -> list[dict]:
     """Every course on the page, each with its sections and their weekly meetings."""
     soup = BeautifulSoup(html, "lxml")
@@ -101,10 +107,12 @@ def parse_courses(html: str) -> list[dict]:
             if not ({"gc", "alc"} <= classes) or "light_header" in classes:
                 continue
             enrolled, capacity = parse_enrolment(cells[3].get_text(strip=True))
+            instructor = " ".join(cells[2].get_text(" ", strip=True).split()) or None
             section = {
                 "type": cells[0].get_text(strip=True),
                 "number": cells[1].get_text(strip=True),
-                "instructor": cells[2].get_text(" ", strip=True) or None,
+                "instructor": instructor,
+                "instructors": split_instructors(instructor),
                 "enrolled": enrolled,
                 "capacity": capacity,
                 "meetings": [],
