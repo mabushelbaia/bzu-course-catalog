@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-14T10:28:13+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,8 +14,8 @@
  "prefix": "LAIT",
  "counts": {
   "courses": 3,
-  "sections": 4,
-  "instructors": 4,
+  "sections": 5,
+  "instructors": 5,
   "rooms": 2
  },
  "courses": [
@@ -82,6 +82,14 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mueen A. M. Barghouthi",
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Diab Mohammad Diab Alshikh",
      "enrolled": 1,
      "capacity": null,
      "meetings": []

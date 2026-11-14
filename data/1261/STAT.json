@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-14T10:28:13+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -203,21 +203,21 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Maher Mohammad Abdallah Abdallatif",
-     "enrolled": 56,
+     "enrolled": 57,
      "capacity": null,
      "meetings": [
       {
        "day": "T",
        "start": "08:00",
        "end": "09:20",
-       "room": "SCI115",
+       "room": "SCI114",
        "building": "SCI"
       },
       {
        "day": "R",
        "start": "08:00",
        "end": "09:20",
-       "room": "SCI115",
+       "room": "SCI114",
        "building": "SCI"
       }
      ]

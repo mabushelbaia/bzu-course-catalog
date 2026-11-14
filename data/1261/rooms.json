@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-13T11:00:40+00:00",
+ "updated_at": "2026-11-14T10:28:13+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -22960,6 +22960,14 @@
     "13:50"
    ],
    [
+    "STAT2371",
+    "2",
+    "Maher Mohammad Abdallah Abdallatif",
+    "T",
+    "08:00",
+    "09:20"
+   ],
+   [
     "BIOL243",
     "1",
     "Emilia Joseph Antonio Rappocciolo",
@@ -23006,6 +23014,14 @@
     "W",
     "12:30",
     "13:50"
+   ],
+   [
+    "STAT2371",
+    "2",
+    "Maher Mohammad Abdallah Abdallatif",
+    "R",
+    "08:00",
+    "09:20"
    ],
    [
     "BIOL243",
@@ -23130,14 +23146,6 @@
     "16:50"
    ],
    [
-    "STAT2371",
-    "2",
-    "Maher Mohammad Abdallah Abdallatif",
-    "T",
-    "08:00",
-    "09:20"
-   ],
-   [
     "PHYS1310",
     "12",
     "Rula Imad Al-Din Said Bakeer",
@@ -23176,14 +23184,6 @@
     "W",
     "14:00",
     "14:50"
-   ],
-   [
-    "STAT2371",
-    "2",
-    "Maher Mohammad Abdallah Abdallatif",
-    "R",
-    "08:00",
-    "09:20"
    ],
    [
     "PHYS1310",
