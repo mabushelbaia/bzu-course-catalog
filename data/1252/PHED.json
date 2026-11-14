@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem Mustafa Mohammad Hamad",
+     "instructors": [
+      "Reem Mustafa Mohammad Hamad"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -150,6 +165,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Reem Mustafa Mohammad Hamad",
+     "instructors": [
+      "Reem Mustafa Mohammad Hamad"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -173,6 +191,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Reem Mustafa Mohammad Hamad",
+     "instructors": [
+      "Reem Mustafa Mohammad Hamad"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -203,6 +224,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Z. R. Ilaiwi",
+     "instructors": [
+      "Mohammed Z. R. Ilaiwi"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -226,6 +250,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "instructors": [
+      "Sana' Mohammad Mahmoud Liftawi"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -249,6 +276,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -265,6 +295,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -295,6 +328,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -318,6 +354,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -341,6 +380,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -371,6 +413,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -394,6 +439,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -417,6 +465,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -447,6 +498,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -477,6 +531,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -500,6 +557,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -530,6 +590,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -553,6 +616,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -576,6 +642,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -606,6 +675,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -629,6 +701,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -659,6 +734,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -682,6 +760,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Reem Mustafa Mohammad Hamad",
+     "instructors": [
+      "Reem Mustafa Mohammad Hamad"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -705,6 +786,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -735,6 +819,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Z. R. Ilaiwi",
+     "instructors": [
+      "Mohammed Z. R. Ilaiwi"
+     ],
      "enrolled": 59,
      "capacity": null,
      "meetings": [
@@ -765,6 +852,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Waleed Mohammad Hassan Shaheen",
+     "instructors": [
+      "Waleed Mohammad Hassan Shaheen"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -788,6 +878,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -811,6 +904,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem Mustafa Mohammad Hamad",
+     "instructors": [
+      "Reem Mustafa Mohammad Hamad"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -834,6 +930,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Reem Mustafa Mohammad Hamad",
+     "instructors": [
+      "Reem Mustafa Mohammad Hamad"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -864,6 +963,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "instructors": [
+      "Sana' Mohammad Mahmoud Liftawi"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -894,6 +996,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "instructors": [
+      "Sana' Mohammad Mahmoud Liftawi"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -931,6 +1036,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "instructors": [
+      "Sana' Mohammad Mahmoud Liftawi"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": []
@@ -946,6 +1054,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -954,6 +1065,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -962,6 +1076,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -970,6 +1087,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -978,6 +1098,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -986,6 +1109,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -994,6 +1120,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -1002,6 +1131,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -1010,6 +1142,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": []
@@ -1018,6 +1153,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -1033,6 +1171,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Z. R. Ilaiwi",
+     "instructors": [
+      "Mohammed Z. R. Ilaiwi"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -1063,6 +1204,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Waleed Mohammad Hassan Shaheen",
+     "instructors": [
+      "Waleed Mohammad Hassan Shaheen"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -1086,6 +1230,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Waleed Mohammad Hassan Shaheen",
+     "instructors": [
+      "Waleed Mohammad Hassan Shaheen"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -1109,6 +1256,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Waleed Mohammad Hassan Shaheen",
+     "instructors": [
+      "Waleed Mohammad Hassan Shaheen"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -1139,6 +1289,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "instructors": [
+      "Sana' Mohammad Mahmoud Liftawi"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -1162,6 +1315,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled Ali Mahmoud Mallouh",
+     "instructors": [
+      "Khaled Ali Mahmoud Mallouh"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -1192,6 +1348,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Waleed Mohammad Hassan Shaheen",
+     "instructors": [
+      "Waleed Mohammad Hassan Shaheen"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -1215,6 +1374,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Waleed Mohammad Hassan Shaheen",
+     "instructors": [
+      "Waleed Mohammad Hassan Shaheen"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -1245,6 +1407,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -1268,6 +1433,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -1298,6 +1466,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -1321,6 +1492,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -1344,6 +1518,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -1367,6 +1544,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sana' Mohammad Mahmoud Liftawi",
+     "instructors": [
+      "Sana' Mohammad Mahmoud Liftawi"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": []
@@ -1382,6 +1562,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1390,6 +1573,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tareq Gazi Ayesh Raja",
+     "instructors": [
+      "Tareq Gazi Ayesh Raja"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1398,6 +1584,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1406,6 +1595,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Iyad Abdallh Hassan Yousef",
+     "instructors": [
+      "Iyad Abdallh Hassan Yousef"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -1414,6 +1606,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

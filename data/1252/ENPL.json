@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -113,6 +125,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -143,6 +158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -173,6 +191,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shaden S. O. Awad",
+     "instructors": [
+      "Shaden S. O. Awad"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -189,6 +210,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Shaden S. O. Awad",
+     "instructors": [
+      "Shaden S. O. Awad"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -219,6 +243,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -235,6 +262,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -258,6 +288,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -274,6 +307,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -290,6 +326,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -306,6 +345,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Amir Z. J. Abu Aisheh",
+     "instructors": [
+      "Amir Z. J. Abu Aisheh"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -322,6 +364,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Muain Abedl Aziz Qasem Jawabrah",
+     "instructors": [
+      "Muain Abedl Aziz Qasem Jawabrah"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -345,6 +390,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula M. S. Elkhalili",
+     "instructors": [
+      "Rula M. S. Elkhalili"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -375,6 +423,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amir Z. J. Abu Aisheh",
+     "instructors": [
+      "Amir Z. J. Abu Aisheh"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -391,6 +442,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Amir Z. J. Abu Aisheh",
+     "instructors": [
+      "Amir Z. J. Abu Aisheh"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -414,6 +468,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amir Z. J. Abu Aisheh",
+     "instructors": [
+      "Amir Z. J. Abu Aisheh"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -437,6 +494,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Shireen B. A. Alqade",
+     "instructors": [
+      "Shireen B. A. Alqade"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -460,6 +520,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farouq Mohammad Yousef Kittani",
+     "instructors": [
+      "Farouq Mohammad Yousef Kittani"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -476,6 +539,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Farouq Mohammad Yousef Kittani",
+     "instructors": [
+      "Farouq Mohammad Yousef Kittani"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -499,6 +565,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -515,6 +584,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Sanaa Maher Wasef Anabtawi",
+     "instructors": [
+      "Sanaa Maher Wasef Anabtawi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -545,6 +617,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -568,6 +643,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -576,6 +654,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Salem Abdul Latif Abdul Karim Thawaba",
+     "instructors": [
+      "Salem Abdul Latif Abdul Karim Thawaba"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -584,6 +665,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Shireen B. A. Alqade",
+     "instructors": [
+      "Shireen B. A. Alqade"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -592,6 +676,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Meral G. K. Abuaita",
+     "instructors": [
+      "Meral G. K. Abuaita"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -600,6 +687,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Amir Z. J. Abu Aisheh",
+     "instructors": [
+      "Amir Z. J. Abu Aisheh"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -608,6 +698,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Shireen B. A. Alqade",
+     "instructors": [
+      "Shireen B. A. Alqade"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -623,6 +716,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samar Wadi Husain Alnazer",
+     "instructors": [
+      "Samar Wadi Husain Alnazer"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 6,
   "sections": 11,
-  "instructors": 3,
+  "instructors": 2,
   "rooms": 3
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -90,6 +99,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya, Moammal S. H. Qurt",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya",
+      "Moammal S. H. Qurt"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -113,6 +126,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -128,6 +144,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -136,6 +155,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -144,6 +166,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Moammal S. H. Qurt",
+     "instructors": [
+      "Moammal S. H. Qurt"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -159,6 +184,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -167,6 +195,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -175,6 +206,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hani Abul Hafez Ibrahim Shtaya",
+     "instructors": [
+      "Hani Abul Hafez Ibrahim Shtaya"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 32,
   "sections": 213,
-  "instructors": 49,
+  "instructors": 47,
   "rooms": 37
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rana Hussam Moh'D Said Salameh",
+     "instructors": [
+      "Rana Hussam Moh'D Said Salameh"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdallah S. M. Abusalah",
+     "instructors": [
+      "Abdallah S. M. Abusalah"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -83,6 +92,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Abdallah S. M. Abusalah",
+     "instructors": [
+      "Abdallah S. M. Abusalah"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -99,6 +111,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Doha M. A. Hmeid",
+     "instructors": [
+      "Doha M. A. Hmeid"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -122,6 +137,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah S. M. Alnatsha",
+     "instructors": [
+      "Abdallah S. M. Alnatsha"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -145,6 +163,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -168,6 +189,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdallah S. M. Alnatsha",
+     "instructors": [
+      "Abdallah S. M. Alnatsha"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -191,6 +215,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdallah S. M. Alnatsha",
+     "instructors": [
+      "Abdallah S. M. Alnatsha"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -207,6 +234,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -223,6 +253,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -239,6 +272,9 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -255,6 +291,9 @@
      "type": "Lab",
      "number": "5",
      "instructor": "Abdallah S. M. Alnatsha",
+     "instructors": [
+      "Abdallah S. M. Alnatsha"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -278,6 +317,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nael Ishaq Hasan Qaraeen",
+     "instructors": [
+      "Nael Ishaq Hasan Qaraeen"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -301,6 +343,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tasnim M. A. Zayet",
+     "instructors": [
+      "Tasnim M. A. Zayet"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -324,6 +369,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Nael Ishaq Hasan Qaraeen",
+     "instructors": [
+      "Nael Ishaq Hasan Qaraeen"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -340,6 +388,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Tasnim M. A. Zayet",
+     "instructors": [
+      "Tasnim M. A. Zayet"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -363,6 +414,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Alaa Sh. A. Nairat",
+     "instructors": [
+      "Alaa Sh. A. Nairat"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -386,6 +440,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -409,6 +466,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -432,6 +492,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohammed A. A. Husseinali",
+     "instructors": [
+      "Mohammed A. A. Husseinali"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -455,6 +518,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -478,6 +544,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Israa Raja Issa Hamed",
+     "instructors": [
+      "Israa Raja Issa Hamed"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -501,6 +570,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -524,6 +596,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Fadi Atta Aredi Khalil",
+     "instructors": [
+      "Fadi Atta Aredi Khalil"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -547,6 +622,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Ahmed J. A. Fahal",
+     "instructors": [
+      "Ahmed J. A. Fahal"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -570,6 +648,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Abdurrahman F. A. Juma",
+     "instructors": [
+      "Abdurrahman F. A. Juma"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -593,6 +674,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Abdallah S. M. Alnatsha",
+     "instructors": [
+      "Abdallah S. M. Alnatsha"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -616,6 +700,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Alaa Sh. A. Nairat",
+     "instructors": [
+      "Alaa Sh. A. Nairat"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -632,6 +719,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Alaa Sh. A. Nairat",
+     "instructors": [
+      "Alaa Sh. A. Nairat"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -648,6 +738,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -664,6 +757,9 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -680,6 +776,9 @@
      "type": "Lab",
      "number": "5",
      "instructor": "Israa Raja Issa Hamed",
+     "instructors": [
+      "Israa Raja Issa Hamed"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -696,6 +795,9 @@
      "type": "Lab",
      "number": "6",
      "instructor": "Mohammed A. A. Husseinali",
+     "instructors": [
+      "Mohammed A. A. Husseinali"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -712,6 +814,9 @@
      "type": "Lab",
      "number": "7",
      "instructor": "Israa Raja Issa Hamed",
+     "instructors": [
+      "Israa Raja Issa Hamed"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -728,6 +833,9 @@
      "type": "Lab",
      "number": "8",
      "instructor": "Mohammed A. A. Husseinali",
+     "instructors": [
+      "Mohammed A. A. Husseinali"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -744,6 +852,9 @@
      "type": "Lab",
      "number": "9",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -760,6 +871,9 @@
      "type": "Lab",
      "number": "10",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -776,6 +890,9 @@
      "type": "Lab",
      "number": "11",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -792,6 +909,9 @@
      "type": "Lab",
      "number": "12",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -808,6 +928,9 @@
      "type": "Lab",
      "number": "13",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -824,6 +947,9 @@
      "type": "Lab",
      "number": "14",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -840,6 +966,9 @@
      "type": "Lab",
      "number": "15",
      "instructor": "Niveen Omar Saleh Jaffal",
+     "instructors": [
+      "Niveen Omar Saleh Jaffal"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -856,6 +985,9 @@
      "type": "Lab",
      "number": "16",
      "instructor": "Niveen Omar Saleh Jaffal",
+     "instructors": [
+      "Niveen Omar Saleh Jaffal"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -872,6 +1004,9 @@
      "type": "Lab",
      "number": "17",
      "instructor": "Ahmed J. A. Fahal",
+     "instructors": [
+      "Ahmed J. A. Fahal"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -888,6 +1023,9 @@
      "type": "Lab",
      "number": "18",
      "instructor": "Ahmed J. A. Fahal",
+     "instructors": [
+      "Ahmed J. A. Fahal"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -904,6 +1042,9 @@
      "type": "Lab",
      "number": "19",
      "instructor": "Monther A. M. Salahat",
+     "instructors": [
+      "Monther A. M. Salahat"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -920,6 +1061,9 @@
      "type": "Lab",
      "number": "20",
      "instructor": "Monther A. M. Salahat",
+     "instructors": [
+      "Monther A. M. Salahat"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -936,6 +1080,9 @@
      "type": "Lab",
      "number": "21",
      "instructor": "Abdallah S. M. Alnatsha",
+     "instructors": [
+      "Abdallah S. M. Alnatsha"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -952,6 +1099,9 @@
      "type": "Lab",
      "number": "22",
      "instructor": "Abdallah S. M. Alnatsha",
+     "instructors": [
+      "Abdallah S. M. Alnatsha"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -975,6 +1125,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bassem Sami Ahmad Sayrafi",
+     "instructors": [
+      "Bassem Sami Ahmad Sayrafi"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -998,6 +1151,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nael Ishaq Hasan Qaraeen",
+     "instructors": [
+      "Nael Ishaq Hasan Qaraeen"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -1021,6 +1177,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -1044,6 +1203,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Karmel F. M. Shehadeh",
+     "instructors": [
+      "Karmel F. M. Shehadeh"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -1067,6 +1229,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Bassem Sami Ahmad Sayrafi",
+     "instructors": [
+      "Bassem Sami Ahmad Sayrafi"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -1083,6 +1248,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Bassem Sami Ahmad Sayrafi",
+     "instructors": [
+      "Bassem Sami Ahmad Sayrafi"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -1099,6 +1267,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1115,6 +1286,9 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Nael Ishaq Hasan Qaraeen",
+     "instructors": [
+      "Nael Ishaq Hasan Qaraeen"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -1131,6 +1305,9 @@
      "type": "Lab",
      "number": "5",
      "instructor": "Karmel F. M. Shehadeh",
+     "instructors": [
+      "Karmel F. M. Shehadeh"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -1147,6 +1324,9 @@
      "type": "Lab",
      "number": "6",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -1163,6 +1343,9 @@
      "type": "Lab",
      "number": "7",
      "instructor": "Karmel F. M. Shehadeh",
+     "instructors": [
+      "Karmel F. M. Shehadeh"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -1179,6 +1362,9 @@
      "type": "Lab",
      "number": "8",
      "instructor": "Nael Ishaq Hasan Qaraeen",
+     "instructors": [
+      "Nael Ishaq Hasan Qaraeen"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1202,6 +1388,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ola I. R. Rayyan",
+     "instructors": [
+      "Ola I. R. Rayyan"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -1225,6 +1414,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Ola I. R. Rayyan",
+     "instructors": [
+      "Ola I. R. Rayyan"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -1241,6 +1433,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Israa Raja Issa Hamed",
+     "instructors": [
+      "Israa Raja Issa Hamed"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1264,6 +1459,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -1287,6 +1485,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed A. A. Husseinali",
+     "instructors": [
+      "Mohammed A. A. Husseinali"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -1310,6 +1511,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -1326,6 +1530,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -1342,6 +1549,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Mohammed A. A. Husseinali",
+     "instructors": [
+      "Mohammed A. A. Husseinali"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -1365,6 +1575,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -1388,6 +1601,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
+     "instructors": [
+      "Faisal Reyad Abd Allah Shehadeh"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -1411,6 +1627,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -1427,6 +1646,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -1443,6 +1665,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
+     "instructors": [
+      "Faisal Reyad Abd Allah Shehadeh"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -1466,6 +1691,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Karmel F. M. Shehadeh",
+     "instructors": [
+      "Karmel F. M. Shehadeh"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -1496,6 +1724,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yousef W. S. Sabbah",
+     "instructors": [
+      "Yousef W. S. Sabbah"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -1526,6 +1757,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -1556,6 +1790,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ruwa' Fayeq Suliman Abu Hweidi",
+     "instructors": [
+      "Ruwa' Fayeq Suliman Abu Hweidi"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -1579,6 +1816,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ahmad So'Ud Salim Hamo",
+     "instructors": [
+      "Ahmad So'Ud Salim Hamo"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -1609,6 +1849,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Naimeh \"Mohammad Salem\" Saleh Hirbawi",
+     "instructors": [
+      "Naimeh \"Mohammad Salem\" Saleh Hirbawi"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -1632,6 +1875,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Mohammed A. A. Husseinali",
+     "instructors": [
+      "Mohammed A. A. Husseinali"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -1662,6 +1908,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Ola I. R. Rayyan",
+     "instructors": [
+      "Ola I. R. Rayyan"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -1685,6 +1934,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Hisham W. Y. Ihshaish",
+     "instructors": [
+      "Hisham W. Y. Ihshaish"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -1715,6 +1967,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -1738,6 +1993,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -1761,6 +2019,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
+     "instructors": [
+      "Abdelrahman Naser Ali Hamarsha"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -1791,6 +2052,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -1821,6 +2085,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -1837,6 +2104,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -1853,6 +2123,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1869,6 +2142,9 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
+     "instructors": [
+      "Abdelrahman Naser Ali Hamarsha"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1885,6 +2161,9 @@
      "type": "Lab",
      "number": "5",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -1901,6 +2180,9 @@
      "type": "Lab",
      "number": "6",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -1917,6 +2199,9 @@
      "type": "Lab",
      "number": "7",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -1933,6 +2218,9 @@
      "type": "Lab",
      "number": "8",
      "instructor": "Abdelrahman Naser Ali Hamarsha",
+     "instructors": [
+      "Abdelrahman Naser Ali Hamarsha"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -1956,6 +2244,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed A. A. Abusnaina",
+     "instructors": [
+      "Ahmed A. A. Abusnaina"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -1979,6 +2270,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tasnim M. A. Zayet",
+     "instructors": [
+      "Tasnim M. A. Zayet"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -2002,6 +2296,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Radi A. R. Jarrar",
+     "instructors": [
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -2039,6 +2336,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Radi A. R. Jarrar",
+     "instructors": [
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -2062,6 +2362,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ahmed A. A. Abusnaina",
+     "instructors": [
+      "Ahmed A. A. Abusnaina"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -2092,6 +2395,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed A. A. Abusnaina",
+     "instructors": [
+      "Ahmed A. A. Abusnaina"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -2108,6 +2414,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nael Ishaq Hasan Qaraeen",
+     "instructors": [
+      "Nael Ishaq Hasan Qaraeen"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -2124,6 +2433,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Nael Ishaq Hasan Qaraeen",
+     "instructors": [
+      "Nael Ishaq Hasan Qaraeen"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -2140,6 +2452,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ahmed A. A. Abusnaina",
+     "instructors": [
+      "Ahmed A. A. Abusnaina"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -2156,6 +2471,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -2179,6 +2497,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": []
@@ -2194,6 +2515,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hisham W. Y. Ihshaish",
+     "instructors": [
+      "Hisham W. Y. Ihshaish"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -2231,6 +2555,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bassem Sami Ahmad Sayrafi",
+     "instructors": [
+      "Bassem Sami Ahmad Sayrafi"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -2254,6 +2581,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Bassem Sami Ahmad Sayrafi",
+     "instructors": [
+      "Bassem Sami Ahmad Sayrafi"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -2284,6 +2614,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 58,
      "capacity": null,
      "meetings": [
@@ -2314,6 +2647,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Yousef Asad Fares Hassouneh",
+     "instructors": [
+      "Yousef Asad Fares Hassouneh"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -2344,6 +2680,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Yousef Asad Fares Hassouneh",
+     "instructors": [
+      "Yousef Asad Fares Hassouneh"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -2374,6 +2713,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yousef Asad Fares Hassouneh",
+     "instructors": [
+      "Yousef Asad Fares Hassouneh"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -2404,6 +2746,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yousef Asad Fares Hassouneh",
+     "instructors": [
+      "Yousef Asad Fares Hassouneh"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -2427,6 +2772,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Fadi Atta Aredi Khalil",
+     "instructors": [
+      "Fadi Atta Aredi Khalil"
+     ],
      "enrolled": 57,
      "capacity": null,
      "meetings": [
@@ -2457,6 +2805,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -2487,6 +2838,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -2517,6 +2871,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Iyad Fawzi Sabri Jaber",
+     "instructors": [
+      "Iyad Fawzi Sabri Jaber"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -2540,6 +2897,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Iyad Fawzi Sabri Jaber",
+     "instructors": [
+      "Iyad Fawzi Sabri Jaber"
+     ],
      "enrolled": 56,
      "capacity": null,
      "meetings": [
@@ -2563,6 +2923,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Iyad Fawzi Sabri Jaber",
+     "instructors": [
+      "Iyad Fawzi Sabri Jaber"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -2593,6 +2956,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Radi A. R. Jarrar",
+     "instructors": [
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -2616,6 +2982,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -2646,6 +3015,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hisham W. Y. Ihshaish",
+     "instructors": [
+      "Hisham W. Y. Ihshaish"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -2683,6 +3055,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Iyad Fawzi Sabri Jaber",
+     "instructors": [
+      "Iyad Fawzi Sabri Jaber"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2691,6 +3066,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2699,6 +3077,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Radi A. R. Jarrar",
+     "instructors": [
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2707,6 +3088,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdallah Haidar Mohammad Karakra",
+     "instructors": [
+      "Abdallah Haidar Mohammad Karakra"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2715,6 +3099,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ruba N. S. Awadallah",
+     "instructors": [
+      "Ruba N. S. Awadallah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2723,6 +3110,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Murad Subhi Abdelkareem Njoum",
+     "instructors": [
+      "Murad Subhi Abdelkareem Njoum"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2731,6 +3121,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2739,6 +3132,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Yousef Asad Fares Hassouneh",
+     "instructors": [
+      "Yousef Asad Fares Hassouneh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2747,6 +3143,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Ahmed A. A. Abusnaina",
+     "instructors": [
+      "Ahmed A. A. Abusnaina"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -2755,6 +3154,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Bassem Sami Ahmad Sayrafi",
+     "instructors": [
+      "Bassem Sami Ahmad Sayrafi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2763,6 +3165,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2771,6 +3176,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Tasnim M. A. Zayet",
+     "instructors": [
+      "Tasnim M. A. Zayet"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2779,6 +3187,9 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2787,6 +3198,9 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2795,6 +3209,9 @@
      "type": "Lecture",
      "number": "15",
      "instructor": "Abdallah S. M. Alnatsha",
+     "instructors": [
+      "Abdallah S. M. Alnatsha"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2803,6 +3220,9 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Tasnim M. A. Zayet",
+     "instructors": [
+      "Tasnim M. A. Zayet"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2811,6 +3231,9 @@
      "type": "Lecture",
      "number": "17",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2826,6 +3249,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Iyad Fawzi Sabri Jaber",
+     "instructors": [
+      "Iyad Fawzi Sabri Jaber"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2834,6 +3260,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2842,6 +3271,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ala Abed Alhaleem Suleiman Hashesh",
+     "instructors": [
+      "Ala Abed Alhaleem Suleiman Hashesh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2850,6 +3282,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2858,6 +3293,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
+     "instructors": [
+      "Faisal Reyad Abd Allah Shehadeh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2866,6 +3304,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2874,6 +3315,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Fadi Atta Aredi Khalil",
+     "instructors": [
+      "Fadi Atta Aredi Khalil"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2882,6 +3326,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2890,6 +3337,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Ahmed A. A. Abusnaina",
+     "instructors": [
+      "Ahmed A. A. Abusnaina"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2898,6 +3348,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Rashid F. R. Yousef",
+     "instructors": [
+      "Rashid F. R. Yousef"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2906,6 +3359,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Ahmed A. A. Abusnaina",
+     "instructors": [
+      "Ahmed A. A. Abusnaina"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2914,6 +3370,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Ihab Basheer Mohammed Alshaer",
+     "instructors": [
+      "Ihab Basheer Mohammed Alshaer"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2922,6 +3381,9 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Naimeh \"Mohammad Salem\" Saleh Hirbawi",
+     "instructors": [
+      "Naimeh \"Mohammad Salem\" Saleh Hirbawi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2930,6 +3392,9 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Fadi Atta Aredi Khalil",
+     "instructors": [
+      "Fadi Atta Aredi Khalil"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2938,6 +3403,9 @@
      "type": "Lecture",
      "number": "15",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2946,6 +3414,9 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Radi A. R. Jarrar",
+     "instructors": [
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2954,6 +3425,9 @@
      "type": "Lecture",
      "number": "17",
      "instructor": "Ahmed J. A. Fahal",
+     "instructors": [
+      "Ahmed J. A. Fahal"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2962,6 +3436,9 @@
      "type": "Lecture",
      "number": "18",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2970,6 +3447,9 @@
      "type": "Lecture",
      "number": "19",
      "instructor": "Ahmad F. Y. Sabbah",
+     "instructors": [
+      "Ahmad F. Y. Sabbah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2978,6 +3458,9 @@
      "type": "Lecture",
      "number": "20",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2986,6 +3469,9 @@
      "type": "Lecture",
      "number": "21",
      "instructor": "Bassem Sami Ahmad Sayrafi",
+     "instructors": [
+      "Bassem Sami Ahmad Sayrafi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -2994,6 +3480,9 @@
      "type": "Lecture",
      "number": "22",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
+     "instructors": [
+      "Faisal Reyad Abd Allah Shehadeh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3002,6 +3491,9 @@
      "type": "Lecture",
      "number": "23",
      "instructor": "Naimeh \"Mohammad Salem\" Saleh Hirbawi",
+     "instructors": [
+      "Naimeh \"Mohammad Salem\" Saleh Hirbawi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3010,6 +3502,9 @@
      "type": "Lecture",
      "number": "24",
      "instructor": "Naimeh \"Mohammad Salem\" Saleh Hirbawi",
+     "instructors": [
+      "Naimeh \"Mohammad Salem\" Saleh Hirbawi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3018,6 +3513,9 @@
      "type": "Lecture",
      "number": "25",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3026,6 +3524,9 @@
      "type": "Lecture",
      "number": "26",
      "instructor": "Sobhi Ghassen Sobhi Ahmed",
+     "instructors": [
+      "Sobhi Ghassen Sobhi Ahmed"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3034,6 +3535,9 @@
      "type": "Lecture",
      "number": "27",
      "instructor": "Ahmed J. A. Fahal",
+     "instructors": [
+      "Ahmed J. A. Fahal"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3042,6 +3546,9 @@
      "type": "Lecture",
      "number": "28",
      "instructor": "Bassem Sami Ahmad Sayrafi",
+     "instructors": [
+      "Bassem Sami Ahmad Sayrafi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3050,6 +3557,9 @@
      "type": "Lecture",
      "number": "29",
      "instructor": "Iyad Fawzi Sabri Jaber",
+     "instructors": [
+      "Iyad Fawzi Sabri Jaber"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3058,6 +3568,9 @@
      "type": "Lecture",
      "number": "30",
      "instructor": "Tasnim M. A. Zayet",
+     "instructors": [
+      "Tasnim M. A. Zayet"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3066,6 +3579,9 @@
      "type": "Lecture",
      "number": "31",
      "instructor": "Mamoun I. A. Nawahdah",
+     "instructors": [
+      "Mamoun I. A. Nawahdah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3074,6 +3590,9 @@
      "type": "Lecture",
      "number": "32",
      "instructor": "Ala Abed Alhaleem Suleiman Hashesh",
+     "instructors": [
+      "Ala Abed Alhaleem Suleiman Hashesh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3082,6 +3601,9 @@
      "type": "Lecture",
      "number": "33",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3090,6 +3612,9 @@
      "type": "Lecture",
      "number": "34",
      "instructor": "Yousef Asad Fares Hassouneh",
+     "instructors": [
+      "Yousef Asad Fares Hassouneh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3098,6 +3623,9 @@
      "type": "Lecture",
      "number": "35",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3106,6 +3634,9 @@
      "type": "Lecture",
      "number": "36",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
+     "instructors": [
+      "Faisal Reyad Abd Allah Shehadeh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3114,6 +3645,9 @@
      "type": "Lecture",
      "number": "37",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3122,6 +3656,9 @@
      "type": "Lecture",
      "number": "38",
      "instructor": "Ahmad F. Y. Sabbah",
+     "instructors": [
+      "Ahmad F. Y. Sabbah"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -3137,6 +3674,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ali Mousa Ali Jaber",
+     "instructors": [
+      "Ali Mousa Ali Jaber"
+     ],
      "enrolled": 58,
      "capacity": null,
      "meetings": [
@@ -3167,6 +3707,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ali Mousa Ali Jaber",
+     "instructors": [
+      "Ali Mousa Ali Jaber"
+     ],
      "enrolled": 68,
      "capacity": null,
      "meetings": [
@@ -3197,6 +3740,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -3220,6 +3766,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
+     "instructors": [
+      "Faisal Reyad Abd Allah Shehadeh"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -3243,6 +3792,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -3273,6 +3825,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -3296,6 +3851,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hafez Ali Hafez Barghouthi",
+     "instructors": [
+      "Hafez Ali Hafez Barghouthi"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -3326,6 +3884,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed A. A. Husseinali",
+     "instructors": [
+      "Mohammed A. A. Husseinali"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -3356,6 +3917,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -3379,6 +3943,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -3402,6 +3969,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Tasnim M. A. Zayet",
+     "instructors": [
+      "Tasnim M. A. Zayet"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -3432,6 +4002,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Hisham W. Y. Ihshaish",
+     "instructors": [
+      "Hisham W. Y. Ihshaish"
+     ],
      "enrolled": 60,
      "capacity": null,
      "meetings": [
@@ -3462,6 +4035,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Hisham W. Y. Ihshaish",
+     "instructors": [
+      "Hisham W. Y. Ihshaish"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -3492,6 +4068,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -3522,6 +4101,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -3552,6 +4134,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Faisal Reyad Abd Allah Shehadeh",
+     "instructors": [
+      "Faisal Reyad Abd Allah Shehadeh"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -3582,6 +4167,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Samer Mas'Oud Ahmad Zein",
+     "instructors": [
+      "Samer Mas'Oud Ahmad Zein"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -3612,6 +4200,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed H. S. Helal",
+     "instructors": [
+      "Mohammed H. S. Helal"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -3649,6 +4240,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad F. Y. Sabbah",
+     "instructors": [
+      "Ahmad F. Y. Sabbah"
+     ],
      "enrolled": 52,
      "capacity": null,
      "meetings": [
@@ -3672,6 +4266,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmad F. Y. Sabbah",
+     "instructors": [
+      "Ahmad F. Y. Sabbah"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -3702,6 +4299,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad So'Ud Salim Hamo",
+     "instructors": [
+      "Ahmad So'Ud Salim Hamo"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -3732,6 +4332,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmad So'Ud Salim Hamo",
+     "instructors": [
+      "Ahmad So'Ud Salim Hamo"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -3769,6 +4372,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ali Mousa Ali Jaber",
+     "instructors": [
+      "Ali Mousa Ali Jaber"
+     ],
      "enrolled": 71,
      "capacity": null,
      "meetings": [
@@ -3792,6 +4398,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ali Mousa Ali Jaber",
+     "instructors": [
+      "Ali Mousa Ali Jaber"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -3829,6 +4438,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adel Abdul Mughani Abdul Ghani Taweel",
+     "instructors": [
+      "Adel Abdul Mughani Abdul Ghani Taweel"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3837,6 +4449,10 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mustafa Irsan Abdallah Jarrar, Mohammed A. T. Khalilia",
+     "instructors": [
+      "Mustafa Irsan Abdallah Jarrar",
+      "Mohammed A. T. Khalilia"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3844,7 +4460,11 @@
     {
      "type": "Lecture",
      "number": "3",
-     "instructor": "Mohammad Y. M. Alkhanafseh, David A.  Mohaisen",
+     "instructor": "Mohammad Y. M. Alkhanafseh, David A. Mohaisen",
+     "instructors": [
+      "Mohammad Y. M. Alkhanafseh",
+      "David A. Mohaisen"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3852,7 +4472,12 @@
     {
      "type": "Lecture",
      "number": "4",
-     "instructor": "David A.  Mohaisen, Samer Mas'Oud Ahmad Zein, Radi A. R. Jarrar",
+     "instructor": "David A. Mohaisen, Samer Mas'Oud Ahmad Zein, Radi A. R. Jarrar",
+     "instructors": [
+      "David A. Mohaisen",
+      "Samer Mas'Oud Ahmad Zein",
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3860,7 +4485,12 @@
     {
      "type": "Lecture",
      "number": "7",
-     "instructor": "David A.  Mohaisen, Radi A. R. Jarrar, Mohammad Y. M. Alkhanafseh",
+     "instructor": "David A. Mohaisen, Radi A. R. Jarrar, Mohammad Y. M. Alkhanafseh",
+     "instructors": [
+      "David A. Mohaisen",
+      "Radi A. R. Jarrar",
+      "Mohammad Y. M. Alkhanafseh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3869,6 +4499,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Radi A. R. Jarrar",
+     "instructors": [
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3877,6 +4510,10 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Mustafa Irsan Abdallah Jarrar, Yazan Jamal Ibrahim Abu Farha",
+     "instructors": [
+      "Mustafa Irsan Abdallah Jarrar",
+      "Yazan Jamal Ibrahim Abu Farha"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3885,6 +4522,10 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Mustafa Irsan Abdallah Jarrar, Radi A. R. Jarrar",
+     "instructors": [
+      "Mustafa Irsan Abdallah Jarrar",
+      "Radi A. R. Jarrar"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3893,6 +4534,10 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Mustafa Irsan Abdallah Jarrar, Mohammed A. T. Khalilia",
+     "instructors": [
+      "Mustafa Irsan Abdallah Jarrar",
+      "Mohammed A. T. Khalilia"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -3901,6 +4546,10 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Mustafa Irsan Abdallah Jarrar, Mohammed A. T. Khalilia",
+     "instructors": [
+      "Mustafa Irsan Abdallah Jarrar",
+      "Mohammed A. T. Khalilia"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

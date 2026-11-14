@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wasim Abdelqader Mohammed Abu Fasheh, Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Wasim Abdelqader Mohammed Abu Fasheh",
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -51,6 +55,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -74,6 +81,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Ahmad Abu Hashhash",
+     "instructors": [
+      "Ibrahim Mohammad Ahmad Abu Hashhash"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -82,6 +92,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -90,6 +103,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdaljawad Omar Abdaljawad Hamayel",
+     "instructors": [
+      "Abdaljawad Omar Abdaljawad Hamayel"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -98,6 +114,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdaljawad Omar Abdaljawad Hamayel",
+     "instructors": [
+      "Abdaljawad Omar Abdaljawad Hamayel"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -106,6 +125,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Abdaljawad Omar Abdaljawad Hamayel",
+     "instructors": [
+      "Abdaljawad Omar Abdaljawad Hamayel"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -114,6 +136,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Wasim Abdelqader Mohammed Abu Fasheh",
+     "instructors": [
+      "Wasim Abdelqader Mohammed Abu Fasheh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -122,6 +147,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Abdulrahim M. A. Al Shaikh",
+     "instructors": [
+      "Abdulrahim M. A. Al Shaikh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -130,6 +158,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Abdulrahim M. A. Al Shaikh",
+     "instructors": [
+      "Abdulrahim M. A. Al Shaikh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

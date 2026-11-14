@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Ya'Qoub Sam'An Abu Duhou",
+     "instructors": [
+      "Rula Ya'Qoub Sam'An Abu Duhou"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rula Ya'Qoub Sam'An Abu Duhou",
+     "instructors": [
+      "Rula Ya'Qoub Sam'An Abu Duhou"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Samar Anton Eskander Kassis",
+     "instructors": [
+      "Samar Anton Eskander Kassis"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -111,6 +120,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -148,6 +160,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Ya'Qoub Sam'An Abu Duhou",
+     "instructors": [
+      "Rula Ya'Qoub Sam'An Abu Duhou"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -185,6 +200,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Ya'Qoub Sam'An Abu Duhou",
+     "instructors": [
+      "Rula Ya'Qoub Sam'An Abu Duhou"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -222,6 +240,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [

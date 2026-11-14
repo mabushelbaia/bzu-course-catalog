@@ -3,12 +3,12 @@
  "terms": {
   "1261": {
    "name": "First Semester 2026/2027",
-   "updated_at": "2026-11-14T10:28:13+00:00",
-   "hash": "efed975a65c0195f7f92e57de5fea09a44501f88827caaa2c2559ad46d24637a",
+   "updated_at": "2026-11-14T16:23:19+00:00",
+   "hash": "c55396d08d28f4743e56f2e7fd3e764f1e78816ea7e6e91b4ce3dfeb73e1acdf",
    "counts": {
     "courses": 1171,
     "sections": 2835,
-    "instructors": 745,
+    "instructors": 714,
     "rooms": 260
    },
    "prefixes": [
@@ -131,12 +131,12 @@
   },
   "1253": {
    "name": "Summer Course 2025/2026",
-   "updated_at": "2026-11-07T05:31:35+00:00",
-   "hash": "169c4af4c72a8bc02a52af412993f9606ca15e4f1093703c7f2768cd6e43640b",
+   "updated_at": "2026-11-14T16:23:34+00:00",
+   "hash": "b2c133dfbf24de36ad6ab4b95f386b116a6ad08de793292fa130cbe5b8862457",
    "counts": {
     "courses": 328,
     "sections": 592,
-    "instructors": 223,
+    "instructors": 222,
     "rooms": 153
    },
    "prefixes": [
@@ -215,12 +215,12 @@
   },
   "1252": {
    "name": "Second Semester 2025/2026",
-   "updated_at": "2026-11-07T05:31:56+00:00",
-   "hash": "9b04505b5765633a1d5edebfbc35a6a728cdb30de11cbbca85fafceae8297f33",
+   "updated_at": "2026-11-14T16:23:57+00:00",
+   "hash": "fa4fed7c4af2744c66954b81aaf000b68c726b5a700ee6f02a356377c507cf5d",
    "counts": {
     "courses": 1165,
     "sections": 2811,
-    "instructors": 754,
+    "instructors": 720,
     "rooms": 261
    },
    "prefixes": [
@@ -624,7 +624,7 @@
   "1253",
   "1252"
  ],
- "checked_at": "2026-11-14T10:29:40+00:00",
+ "checked_at": "2026-11-14T16:24:35+00:00",
  "current": {
   "term": "1261",
   "name": "First Semester 2026/2027",

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Mahmoud Yousef Daher",
+     "instructors": [
+      "Jamal Mahmoud Yousef Daher"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -36,6 +39,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hosnia M. H. Jad",
+     "instructors": [
+      "Hosnia M. H. Jad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -44,6 +50,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rema Hasan Ahmad Hammami",
+     "instructors": [
+      "Rema Hasan Ahmad Hammami"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -51,7 +60,10 @@
     {
      "type": "Lecture",
      "number": "4",
-     "instructor": "Rana Daher  Barakat",
+     "instructor": "Rana Daher Barakat",
+     "instructors": [
+      "Rana Daher Barakat"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -60,6 +72,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Mudar Fuad Khalil Kassis",
+     "instructors": [
+      "Mudar Fuad Khalil Kassis"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -68,6 +83,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Hosnia M. H. Jad",
+     "instructors": [
+      "Hosnia M. H. Jad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -76,6 +94,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Abdulrahim M. A. Al Shaikh",
+     "instructors": [
+      "Abdulrahim M. A. Al Shaikh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -84,6 +105,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Abaher Ibrahim Arafat El-Sakka",
+     "instructors": [
+      "Abaher Ibrahim Arafat El-Sakka"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -92,6 +116,7 @@
      "type": "Lecture",
      "number": "9",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -100,6 +125,7 @@
      "type": "Lecture",
      "number": "10",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -108,6 +134,7 @@
      "type": "Lecture",
      "number": "11",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -116,6 +143,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -124,6 +152,7 @@
      "type": "Lecture",
      "number": "13",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -132,6 +161,7 @@
      "type": "Lecture",
      "number": "14",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -140,6 +170,7 @@
      "type": "Lecture",
      "number": "15",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -148,6 +179,7 @@
      "type": "Lecture",
      "number": "16",
      "instructor": null,
+     "instructors": [],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

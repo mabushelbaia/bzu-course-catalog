@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Aseel A. J. Abusada",
+     "instructors": [
+      "Aseel A. J. Abusada"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Aseel A. J. Abusada",
+     "instructors": [
+      "Aseel A. J. Abusada"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yara A. Y. Hussein",
+     "instructors": [
+      "Yara A. Y. Hussein"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -90,6 +99,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem N. A. Masri",
+     "instructors": [
+      "Reem N. A. Masri"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -106,6 +118,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "instructors": [
+      "Bashar Mustafa Mohammed Khalaf"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -129,6 +144,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Reem N. A. Masri",
+     "instructors": [
+      "Reem N. A. Masri"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -159,6 +177,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yaqeen A. S. Alyamani",
+     "instructors": [
+      "Yaqeen A. S. Alyamani"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -175,6 +196,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Yaqeen A. S. Alyamani",
+     "instructors": [
+      "Yaqeen A. S. Alyamani"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -198,6 +222,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Yaqeen A. S. Alyamani",
+     "instructors": [
+      "Yaqeen A. S. Alyamani"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -228,6 +255,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yara A. Y. Hussein",
+     "instructors": [
+      "Yara A. Y. Hussein"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -244,6 +274,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Yara A. Y. Hussein",
+     "instructors": [
+      "Yara A. Y. Hussein"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -267,6 +300,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": null,
+     "instructors": [],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -297,6 +331,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yara A. Y. Hussein",
+     "instructors": [
+      "Yara A. Y. Hussein"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -320,6 +357,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -336,6 +374,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Dana Zeyad Mohammad Idries",
+     "instructors": [
+      "Dana Zeyad Mohammad Idries"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -359,6 +400,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": null,
+     "instructors": [],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -389,6 +431,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "instructors": [
+      "Ibrahim Mustafa Ibrahim Khamis"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -405,6 +450,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Aseel A. J. Abusada",
+     "instructors": [
+      "Aseel A. J. Abusada"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -428,6 +476,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "instructors": [
+      "Ibrahim Mustafa Ibrahim Khamis"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -458,6 +509,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -474,6 +526,7 @@
      "type": "Lab",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -497,6 +550,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Hafez Mu'En Hafez Omar",
+     "instructors": [
+      "Hafez Mu'En Hafez Omar"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -527,6 +583,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -550,6 +607,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hafez Mu'En Hafez Omar",
+     "instructors": [
+      "Hafez Mu'En Hafez Omar"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -566,6 +626,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Hafez Mu'En Hafez Omar",
+     "instructors": [
+      "Hafez Mu'En Hafez Omar"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -596,6 +659,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -612,6 +676,7 @@
      "type": "Lab",
      "number": "2",
      "instructor": null,
+     "instructors": [],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -642,6 +707,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "instructors": [
+      "Ibrahim Mustafa Ibrahim Khamis"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -658,6 +726,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "instructors": [
+      "Ibrahim Mustafa Ibrahim Khamis"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -688,6 +759,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Aseel A. J. Abusada",
+     "instructors": [
+      "Aseel A. J. Abusada"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -704,6 +778,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Aseel A. J. Abusada",
+     "instructors": [
+      "Aseel A. J. Abusada"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -720,6 +797,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Aseel A. J. Abusada",
+     "instructors": [
+      "Aseel A. J. Abusada"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -743,6 +823,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dana S. G. Durr",
+     "instructors": [
+      "Dana S. G. Durr"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -759,6 +842,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "instructors": [
+      "Ibrahim Mustafa Ibrahim Khamis"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -782,6 +868,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hafez Mu'En Hafez Omar",
+     "instructors": [
+      "Hafez Mu'En Hafez Omar"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -790,6 +879,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hafez Mu'En Hafez Omar",
+     "instructors": [
+      "Hafez Mu'En Hafez Omar"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -798,6 +890,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ibrahim Mustafa Ibrahim Khamis",
+     "instructors": [
+      "Ibrahim Mustafa Ibrahim Khamis"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -806,6 +901,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Aseel A. J. Abusada",
+     "instructors": [
+      "Aseel A. J. Abusada"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -814,6 +912,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Dana S. G. Durr",
+     "instructors": [
+      "Dana S. G. Durr"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -822,6 +923,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Dana S. G. Durr",
+     "instructors": [
+      "Dana S. G. Durr"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -830,6 +934,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Yara A. Y. Hussein",
+     "instructors": [
+      "Yara A. Y. Hussein"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -838,6 +945,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Amer Majdi Yacoub Alshomali",
+     "instructors": [
+      "Amer Majdi Yacoub Alshomali"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -846,6 +956,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Muath Y. Kh. Surakji",
+     "instructors": [
+      "Muath Y. Kh. Surakji"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -854,6 +967,7 @@
      "type": "Lecture",
      "number": "10",
      "instructor": null,
+     "instructors": [],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -862,6 +976,7 @@
      "type": "Lecture",
      "number": "11",
      "instructor": null,
+     "instructors": [],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -870,6 +985,7 @@
      "type": "Lecture",
      "number": "12",
      "instructor": null,
+     "instructors": [],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -878,6 +994,7 @@
      "type": "Lecture",
      "number": "13",
      "instructor": null,
+     "instructors": [],
      "enrolled": 3,
      "capacity": null,
      "meetings": []

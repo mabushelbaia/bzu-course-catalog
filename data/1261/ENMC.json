@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "instructors": [
+      "Ahmed Mohammed Ahmed Abu Hanieh"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "instructors": [
+      "Sameh Nabil Abdel Jabbar Abu Awad"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ihab Mohammad Said Abu Ajamieh",
+     "instructors": [
+      "Ihab Mohammad Said Abu Ajamieh"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ihab Mohammad Said Abu Ajamieh",
+     "instructors": [
+      "Ihab Mohammad Said Abu Ajamieh"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -157,6 +172,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "instructors": [
+      "Sameh Nabil Abdel Jabbar Abu Awad"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -194,6 +212,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rashad Irsan Hassan Mustafa",
+     "instructors": [
+      "Rashad Irsan Hassan Mustafa"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -231,6 +252,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mamon Mohammad Abedalqader Horoub",
+     "instructors": [
+      "Mamon Mohammad Abedalqader Horoub"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -254,6 +278,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "instructors": [
+      "Ahmad Ismael Abd Al-Hafith Balasie"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -277,6 +304,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "instructors": [
+      "Ahmad Ismael Abd Al-Hafith Balasie"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -285,6 +315,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mamon Mohammad Abedalqader Horoub",
+     "instructors": [
+      "Mamon Mohammad Abedalqader Horoub"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -293,6 +326,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+     "instructors": [
+      "Sameh Nabil Abdel Jabbar Abu Awad"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -301,6 +337,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Shadi Abd Al-Aleim Younis Daana",
+     "instructors": [
+      "Shadi Abd Al-Aleim Younis Daana"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -309,6 +348,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "instructors": [
+      "Ahmad Ismael Abd Al-Hafith Balasie"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": []
@@ -317,6 +359,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Shadi Abd Al-Aleim Younis Daana",
+     "instructors": [
+      "Shadi Abd Al-Aleim Younis Daana"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -325,6 +370,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ihab Mohammad Said Abu Ajamieh",
+     "instructors": [
+      "Ihab Mohammad Said Abu Ajamieh"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -340,6 +388,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ihab Mohammad Said Abu Ajamieh",
+     "instructors": [
+      "Ihab Mohammad Said Abu Ajamieh"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -348,6 +399,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "instructors": [
+      "Ahmad Ismael Abd Al-Hafith Balasie"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -356,6 +410,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ibrahim Mohammad Othman Hammad",
+     "instructors": [
+      "Ibrahim Mohammad Othman Hammad"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -371,6 +428,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "instructors": [
+      "Ahmad Ismael Abd Al-Hafith Balasie"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -401,6 +461,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Ismael Abd Al-Hafith Balasie",
+     "instructors": [
+      "Ahmad Ismael Abd Al-Hafith Balasie"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -431,6 +494,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mamon Mohammad Abedalqader Horoub",
+     "instructors": [
+      "Mamon Mohammad Abedalqader Horoub"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [

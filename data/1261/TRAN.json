@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-13T11:00:40+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samir Mohammad Nimer Mouqada",
+     "instructors": [
+      "Samir Mohammad Nimer Mouqada"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -88,6 +94,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "instructors": [
+      "Yaseen Nour Al_Din Mohammad Al_Sayyed"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -111,6 +120,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "instructors": [
+      "Yaseen Nour Al_Din Mohammad Al_Sayyed"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -141,6 +153,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -164,6 +179,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -194,6 +212,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -224,6 +245,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nadim M. Y. Ihshaish",
+     "instructors": [
+      "Nadim M. Y. Ihshaish"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -254,6 +278,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -291,6 +318,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid, Afaf R. A. Said",
+     "instructors": [
+      "Mohammed S. K. Zaid",
+      "Afaf R. A. Said"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": []
@@ -299,6 +330,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nadim M. Y. Ihshaish",
+     "instructors": [
+      "Nadim M. Y. Ihshaish"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": []
@@ -314,6 +348,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tamara Mohammad Salah Barakat",
+     "instructors": [
+      "Tamara Mohammad Salah Barakat"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -337,6 +374,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Tamara Mohammad Salah Barakat",
+     "instructors": [
+      "Tamara Mohammad Salah Barakat"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -367,6 +407,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -390,6 +433,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nadim M. Y. Ihshaish",
+     "instructors": [
+      "Nadim M. Y. Ihshaish"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -420,6 +466,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "instructors": [
+      "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -450,6 +499,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tamara Mohammad Salah Barakat",
+     "instructors": [
+      "Tamara Mohammad Salah Barakat"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -473,6 +525,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "instructors": [
+      "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -503,6 +558,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -533,6 +591,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "instructors": [
+      "Yaseen Nour Al_Din Mohammad Al_Sayyed"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -563,6 +624,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yasser Mohawesh Hussein Amro",
+     "instructors": [
+      "Yasser Mohawesh Hussein Amro"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -593,6 +657,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tamara Mohammad Salah Barakat",
+     "instructors": [
+      "Tamara Mohammad Salah Barakat"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -616,6 +683,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "instructors": [
+      "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [

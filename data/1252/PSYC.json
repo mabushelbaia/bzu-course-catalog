@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maurice F. B. Backleh",
+     "instructors": [
+      "Maurice F. B. Backleh"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Suhair Awdah Nade Najjar",
+     "instructors": [
+      "Suhair Awdah Nade Najjar"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -95,6 +101,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maurice F. B. Backleh",
+     "instructors": [
+      "Maurice F. B. Backleh"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -125,6 +134,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fardous Mohammad Hussien Salameh",
+     "instructors": [
+      "Fardous Mohammad Hussien Salameh"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -155,6 +167,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fardous Mohammad Hussien Salameh",
+     "instructors": [
+      "Fardous Mohammad Hussien Salameh"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -178,6 +193,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Fardous Mohammad Hussien Salameh",
+     "instructors": [
+      "Fardous Mohammad Hussien Salameh"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -208,6 +226,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khader Mahmoud Ahmad Rasras",
+     "instructors": [
+      "Khader Mahmoud Ahmad Rasras"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -238,6 +259,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Khader Mahmoud Ahmad Rasras",
+     "instructors": [
+      "Khader Mahmoud Ahmad Rasras"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -275,6 +299,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hasan Ahmad Soliman Ladadweh",
+     "instructors": [
+      "Hasan Ahmad Soliman Ladadweh"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -305,6 +332,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -335,6 +365,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -358,6 +391,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -388,6 +424,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lama Ahmad Abed Sharif",
+     "instructors": [
+      "Lama Ahmad Abed Sharif"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -411,6 +450,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Lama Ahmad Abed Sharif",
+     "instructors": [
+      "Lama Ahmad Abed Sharif"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -441,6 +483,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Najla A. I. Atamnah",
+     "instructors": [
+      "Najla A. I. Atamnah"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -464,6 +509,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maurice F. B. Backleh",
+     "instructors": [
+      "Maurice F. B. Backleh"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -487,6 +535,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "instructors": [
+      "Lena Mohammad Abdel-Hamid Meari"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -517,6 +568,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "instructors": [
+      "Lena Mohammad Abdel-Hamid Meari"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -533,6 +587,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "instructors": [
+      "Lena Mohammad Abdel-Hamid Meari"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -549,6 +606,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Maurice F. B. Backleh",
+     "instructors": [
+      "Maurice F. B. Backleh"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -572,6 +632,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nedaa M. I. Awad",
+     "instructors": [
+      "Nedaa M. I. Awad"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -588,6 +651,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nedaa M. I. Awad",
+     "instructors": [
+      "Nedaa M. I. Awad"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [

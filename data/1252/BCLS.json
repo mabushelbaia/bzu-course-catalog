@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Suzan Khamees Hussein Edkaidek",
+     "instructors": [
+      "Suzan Khamees Hussein Edkaidek"
+     ],
      "enrolled": 42,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Suzan Khamees Hussein Edkaidek",
+     "instructors": [
+      "Suzan Khamees Hussein Edkaidek"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Suzan Khamees Hussein Edkaidek",
+     "instructors": [
+      "Suzan Khamees Hussein Edkaidek"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -90,6 +99,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jaber Jamil Ibrahim Hajali",
+     "instructors": [
+      "Jaber Jamil Ibrahim Hajali"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -106,6 +118,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Firas A. M. Qunneis",
+     "instructors": [
+      "Firas A. M. Qunneis"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -122,6 +137,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Firas A. M. Qunneis",
+     "instructors": [
+      "Firas A. M. Qunneis"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -138,6 +156,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Jaber Jamil Ibrahim Hajali",
+     "instructors": [
+      "Jaber Jamil Ibrahim Hajali"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -161,6 +182,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Firas A. M. Qunneis",
+     "instructors": [
+      "Firas A. M. Qunneis"
+     ],
      "enrolled": 56,
      "capacity": null,
      "meetings": [
@@ -184,6 +208,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Firas A. M. Qunneis",
+     "instructors": [
+      "Firas A. M. Qunneis"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -200,6 +227,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Firas A. M. Qunneis",
+     "instructors": [
+      "Firas A. M. Qunneis"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -216,6 +246,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Firas A. M. Qunneis",
+     "instructors": [
+      "Firas A. M. Qunneis"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -239,6 +272,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jaber Jamil Ibrahim Hajali",
+     "instructors": [
+      "Jaber Jamil Ibrahim Hajali"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -262,6 +298,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Jaber Jamil Ibrahim Hajali",
+     "instructors": [
+      "Jaber Jamil Ibrahim Hajali"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -278,6 +317,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Jaber Jamil Ibrahim Hajali",
+     "instructors": [
+      "Jaber Jamil Ibrahim Hajali"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -294,6 +336,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Jaber Jamil Ibrahim Hajali",
+     "instructors": [
+      "Jaber Jamil Ibrahim Hajali"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -317,6 +362,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Firas A. M. Qunneis",
+     "instructors": [
+      "Firas A. M. Qunneis"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [

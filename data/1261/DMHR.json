@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Eman R. Y. Alasah",
+     "instructors": [
+      "Eman R. Y. Alasah"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed Fouad Ahmed Attaallah",
+     "instructors": [
+      "Ahmed Fouad Ahmed Attaallah"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "George Hanna George Giacaman",
+     "instructors": [
+      "George Hanna George Giacaman"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mudar Fuad Khalil Kassis",
+     "instructors": [
+      "Mudar Fuad Khalil Kassis"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Reem Mahmoud Ahmed Albatmah",
+     "instructors": [
+      "Reem Mahmoud Ahmed Albatmah"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -143,6 +158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed Fouad Ahmed Attaallah",
+     "instructors": [
+      "Ahmed Fouad Ahmed Attaallah"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []
@@ -158,6 +176,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mudar Fuad Khalil Kassis",
+     "instructors": [
+      "Mudar Fuad Khalil Kassis"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -174,6 +195,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -197,6 +221,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -220,6 +247,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mudar Fuad Khalil Kassis",
+     "instructors": [
+      "Mudar Fuad Khalil Kassis"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -228,6 +258,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "George Hanna George Giacaman",
+     "instructors": [
+      "George Hanna George Giacaman"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -236,6 +269,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mudar Fuad Khalil Kassis",
+     "instructors": [
+      "Mudar Fuad Khalil Kassis"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -244,6 +280,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mudar Fuad Khalil Kassis",
+     "instructors": [
+      "Mudar Fuad Khalil Kassis"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

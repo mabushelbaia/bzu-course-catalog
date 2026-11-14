@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -27,7 +27,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -43,6 +46,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -50,7 +56,10 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -58,7 +67,10 @@
     {
      "type": "Lecture",
      "number": "3",
-     "instructor": "Habib   Hanna",
+     "instructor": "Habib Hanna",
+     "instructors": [
+      "Habib Hanna"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -74,6 +86,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -97,6 +112,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -105,6 +123,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Heather Macdonald Campbell Bursheh",
+     "instructors": [
+      "Heather Macdonald Campbell Bursheh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -112,7 +133,10 @@
     {
      "type": "Lecture",
      "number": "3",
-     "instructor": "Razan Joel  Theodory",
+     "instructor": "Razan Joel Theodory",
+     "instructors": [
+      "Razan Joel Theodory"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -121,6 +145,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -136,6 +163,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed I. M. Sulaiman",
+     "instructors": [
+      "Mohammed I. M. Sulaiman"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -159,6 +189,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Heather Macdonald Campbell Bursheh",
+     "instructors": [
+      "Heather Macdonald Campbell Bursheh"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -182,6 +215,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed I. M. Sulaiman",
+     "instructors": [
+      "Mohammed I. M. Sulaiman"
+     ],
      "enrolled": 55,
      "capacity": null,
      "meetings": [
@@ -205,6 +241,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed I. M. Sulaiman",
+     "instructors": [
+      "Mohammed I. M. Sulaiman"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -228,6 +267,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed I. M. Sulaiman",
+     "instructors": [
+      "Mohammed I. M. Sulaiman"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -257,7 +299,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Razan Joel  Theodory",
+     "instructor": "Razan Joel Theodory",
+     "instructors": [
+      "Razan Joel Theodory"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -265,7 +310,10 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -281,6 +329,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Heather Macdonald Campbell Bursheh",
+     "instructors": [
+      "Heather Macdonald Campbell Bursheh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -288,7 +339,10 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -297,6 +351,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -312,6 +369,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -334,7 +394,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Habib   Hanna",
+     "instructor": "Habib Hanna",
+     "instructors": [
+      "Habib Hanna"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -358,6 +421,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yacoub Mohammad Yacoub Hammouda",
+     "instructors": [
+      "Yacoub Mohammad Yacoub Hammouda"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -380,7 +446,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Habib   Hanna",
+     "instructor": "Habib Hanna",
+     "instructors": [
+      "Habib Hanna"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -403,7 +472,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Naseem Anton  Dakwer",
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -418,7 +490,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Habib   Hanna",
+     "instructor": "Habib Hanna",
+     "instructors": [
+      "Habib Hanna"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -442,6 +517,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jiries Raja'I Jiries Boullata",
+     "instructors": [
+      "Jiries Raja'I Jiries Boullata"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [

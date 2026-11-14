@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 8,
   "sections": 10,
-  "instructors": 5,
+  "instructors": 4,
   "rooms": 10
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amer Najeeb Mousa Barakat",
+     "instructors": [
+      "Amer Najeeb Mousa Barakat"
+     ],
      "enrolled": 71,
      "capacity": null,
      "meetings": [
@@ -65,6 +68,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nazmi Amin Muhammad Al Jubeh",
+     "instructors": [
+      "Nazmi Amin Muhammad Al Jubeh"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -102,6 +108,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amer Najeeb Mousa Barakat",
+     "instructors": [
+      "Amer Najeeb Mousa Barakat"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -132,6 +141,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Amer Najeeb Mousa Barakat",
+     "instructors": [
+      "Amer Najeeb Mousa Barakat"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -162,6 +174,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Musa Abdelmuti Isaa Sroor",
+     "instructors": [
+      "Musa Abdelmuti Isaa Sroor"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -192,6 +207,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Raed Taleb Bader Bader, Amer Najeeb Mousa Barakat",
+     "instructors": [
+      "Raed Taleb Bader Bader",
+      "Amer Najeeb Mousa Barakat"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -222,6 +241,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amer Najeeb Mousa Barakat",
+     "instructors": [
+      "Amer Najeeb Mousa Barakat"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -252,6 +274,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amer Najeeb Mousa Barakat",
+     "instructors": [
+      "Amer Najeeb Mousa Barakat"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -289,6 +314,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Raed Taleb Bader Bader",
+     "instructors": [
+      "Raed Taleb Bader Bader"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -326,6 +354,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Raed Taleb Bader Bader",
+     "instructors": [
+      "Raed Taleb Bader Bader"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [

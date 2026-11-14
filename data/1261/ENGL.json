@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-13T11:00:40+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Shams Wael I. Karain",
+     "instructors": [
+      "Shams Wael I. Karain"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Sumaia Mohammad Ahmad Haj Mohammad",
+     "instructors": [
+      "Sumaia Mohammad Ahmad Haj Mohammad"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Shams Wael I. Karain",
+     "instructors": [
+      "Shams Wael I. Karain"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Maen Hussam Abdlatife Saa",
+     "instructors": [
+      "Maen Hussam Abdlatife Saa"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Habib I. M. Abu Hashhash",
+     "instructors": [
+      "Habib I. M. Abu Hashhash"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -150,6 +165,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+     "instructors": [
+      "Lubna \"Muhammad Ahed Diab Dikeidek"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -180,6 +198,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Fadel Ahmad Al-Alem",
+     "instructors": [
+      "Mohammad Fadel Ahmad Al-Alem"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -203,6 +224,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammad Fadel Ahmad Al-Alem",
+     "instructors": [
+      "Mohammad Fadel Ahmad Al-Alem"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -233,6 +257,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Abed Lafi Abdeen",
+     "instructors": [
+      "Wael Abed Lafi Abdeen"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -256,6 +283,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammad Fadel Ahmad Al-Alem",
+     "instructors": [
+      "Mohammad Fadel Ahmad Al-Alem"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -279,6 +309,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Wael Abed Lafi Abdeen",
+     "instructors": [
+      "Wael Abed Lafi Abdeen"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -309,6 +342,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wael Abed Lafi Abdeen",
+     "instructors": [
+      "Wael Abed Lafi Abdeen"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -332,6 +368,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Wael Abed Lafi Abdeen",
+     "instructors": [
+      "Wael Abed Lafi Abdeen"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -362,6 +401,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+     "instructors": [
+      "Lubna \"Muhammad Ahed Diab Dikeidek"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -385,6 +427,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+     "instructors": [
+      "Lubna \"Muhammad Ahed Diab Dikeidek"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -415,6 +460,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Laila K. I Shikaki",
+     "instructors": [
+      "Laila K. I Shikaki"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -445,6 +493,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Habib I. M. Abu Hashhash",
+     "instructors": [
+      "Habib I. M. Abu Hashhash"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -475,6 +526,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Laila K. I Shikaki",
+     "instructors": [
+      "Laila K. I Shikaki"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -498,6 +552,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Laila K. I Shikaki",
+     "instructors": [
+      "Laila K. I Shikaki"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -528,6 +585,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sumaia Mohammad Ahmad Haj Mohammad",
+     "instructors": [
+      "Sumaia Mohammad Ahmad Haj Mohammad"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -551,6 +611,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sumaia Mohammad Ahmad Haj Mohammad",
+     "instructors": [
+      "Sumaia Mohammad Ahmad Haj Mohammad"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -581,6 +644,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Fadel Ahmad Al-Alem",
+     "instructors": [
+      "Mohammad Fadel Ahmad Al-Alem"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -611,6 +677,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Mahmoud Abdulhafez Abu Awad",
+     "instructors": [
+      "Ahmad Mahmoud Abdulhafez Abu Awad"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -634,6 +703,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmad Mahmoud Abdulhafez Abu Awad",
+     "instructors": [
+      "Ahmad Mahmoud Abdulhafez Abu Awad"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -664,6 +736,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Mahmoud Abdulhafez Abu Awad",
+     "instructors": [
+      "Ahmad Mahmoud Abdulhafez Abu Awad"
+     ],
      "enrolled": 36,
      "capacity": null,
      "meetings": [
@@ -687,6 +762,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Maen Hussam Abdlatife Saa",
+     "instructors": [
+      "Maen Hussam Abdlatife Saa"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -717,6 +795,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Laila K. I Shikaki",
+     "instructors": [
+      "Laila K. I Shikaki"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -740,6 +821,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Maen Hussam Abdlatife Saa",
+     "instructors": [
+      "Maen Hussam Abdlatife Saa"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -763,6 +847,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ahmad Mahmoud Abdulhafez Abu Awad",
+     "instructors": [
+      "Ahmad Mahmoud Abdulhafez Abu Awad"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -793,6 +880,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dolly Wadi' Farah Nammour",
+     "instructors": [
+      "Dolly Wadi' Farah Nammour"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -823,6 +913,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dolly Wadi' Farah Nammour",
+     "instructors": [
+      "Dolly Wadi' Farah Nammour"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -853,6 +946,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+     "instructors": [
+      "Lubna \"Muhammad Ahed Diab Dikeidek"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -883,6 +979,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dolly Wadi' Farah Nammour",
+     "instructors": [
+      "Dolly Wadi' Farah Nammour"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -913,6 +1012,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maen Hussam Abdlatife Saa",
+     "instructors": [
+      "Maen Hussam Abdlatife Saa"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -943,6 +1045,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lloyd Howard James Precious",
+     "instructors": [
+      "Lloyd Howard James Precious"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -966,6 +1071,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Dolly Wadi' Farah Nammour",
+     "instructors": [
+      "Dolly Wadi' Farah Nammour"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maher Tayseer Mohammad Daoud",
+     "instructors": [
+      "Maher Tayseer Mohammad Daoud"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -65,6 +68,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nabih Ibrahim Mohammad Bashir",
+     "instructors": [
+      "Nabih Ibrahim Mohammad Bashir"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -88,6 +94,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hiba Mahmoud Abed Yazbak",
+     "instructors": [
+      "Hiba Mahmoud Abed Yazbak"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -111,6 +120,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hunaida Omar Mohummad Ghanim",
+     "instructors": [
+      "Hunaida Omar Mohummad Ghanim"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -134,6 +146,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -157,6 +172,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -173,6 +191,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hunaida Omar Mohummad Ghanim",
+     "instructors": [
+      "Hunaida Omar Mohummad Ghanim"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -196,6 +217,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Fadi Sami Kamil Nahhas",
+     "instructors": [
+      "Fadi Sami Kamil Nahhas"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -204,6 +228,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ghada Adnan Kathem Almadbouh",
+     "instructors": [
+      "Ghada Adnan Kathem Almadbouh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -212,6 +239,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hala Ezzat Saleh Shoaibi",
+     "instructors": [
+      "Hala Ezzat Saleh Shoaibi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -220,6 +250,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -228,6 +261,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ghada Adnan Kathem Almadbouh",
+     "instructors": [
+      "Ghada Adnan Kathem Almadbouh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -236,6 +272,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Ghada Adnan Kathem Almadbouh",
+     "instructors": [
+      "Ghada Adnan Kathem Almadbouh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -244,6 +283,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -252,6 +294,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Ghada Adnan Kathem Almadbouh",
+     "instructors": [
+      "Ghada Adnan Kathem Almadbouh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -260,6 +305,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Nabih Ibrahim Mohammad Bashir",
+     "instructors": [
+      "Nabih Ibrahim Mohammad Bashir"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -268,6 +316,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Hunaida Omar Mohummad Ghanim",
+     "instructors": [
+      "Hunaida Omar Mohummad Ghanim"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -276,6 +327,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Hala Ezzat Saleh Shoaibi",
+     "instructors": [
+      "Hala Ezzat Saleh Shoaibi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -284,6 +338,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Nabih Ibrahim Mohammad Bashir",
+     "instructors": [
+      "Nabih Ibrahim Mohammad Bashir"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

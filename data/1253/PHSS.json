@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 2,
   "sections": 2,
-  "instructors": 1,
+  "instructors": 2,
   "rooms": 1
  },
  "courses": [
@@ -28,6 +28,7 @@
      "type": "Lecture",
      "number": "1",
      "instructor": null,
+     "instructors": [],
      "enrolled": 8,
      "capacity": null,
      "meetings": []
@@ -42,7 +43,11 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Rema Hasan Ahmad Hammami, Samera Nimr  Esmeir",
+     "instructor": "Rema Hasan Ahmad Hammami, Samera Nimr Esmeir",
+     "instructors": [
+      "Rema Hasan Ahmad Hammami",
+      "Samera Nimr Esmeir"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "instructors": [
+      "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": []
@@ -43,6 +46,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nadim M. Y. Ihshaish",
+     "instructors": [
+      "Nadim M. Y. Ihshaish"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -73,6 +79,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -110,6 +119,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [
@@ -140,6 +152,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yasser Mohawesh Hussein Amro",
+     "instructors": [
+      "Yasser Mohawesh Hussein Amro"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -170,6 +185,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samir Mohammad Nimer Mouqada",
+     "instructors": [
+      "Samir Mohammad Nimer Mouqada"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -200,6 +218,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Samir Mohammad Nimer Mouqada",
+     "instructors": [
+      "Samir Mohammad Nimer Mouqada"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -237,6 +258,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "instructors": [
+      "Yaseen Nour Al_Din Mohammad Al_Sayyed"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -274,6 +298,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Afaf R. A. Said",
+     "instructors": [
+      "Afaf R. A. Said"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -311,6 +338,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Afaf R. A. Said",
+     "instructors": [
+      "Afaf R. A. Said"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -341,6 +371,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Afaf R. A. Said",
+     "instructors": [
+      "Afaf R. A. Said"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -371,6 +404,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -408,6 +444,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "instructors": [
+      "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -445,6 +484,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nadim M. Y. Ihshaish",
+     "instructors": [
+      "Nadim M. Y. Ihshaish"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -482,6 +524,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Nadim M. Y. Ihshaish",
+     "instructors": [
+      "Nadim M. Y. Ihshaish"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -519,6 +564,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": []
@@ -534,6 +582,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": []
@@ -549,6 +600,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "instructors": [
+      "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -572,6 +626,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "instructors": [
+      "Yaseen Nour Al_Din Mohammad Al_Sayyed"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -609,6 +666,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -639,6 +699,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -669,6 +732,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -706,6 +772,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "instructors": [
+      "Yaseen Nour Al_Din Mohammad Al_Sayyed"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -729,6 +798,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+     "instructors": [
+      "Yaseen Nour Al_Din Mohammad Al_Sayyed"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -759,6 +831,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+     "instructors": [
+      "Majdi Jehad Ahmad Abu_Zahra"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -796,6 +871,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yasser Mohawesh Hussein Amro",
+     "instructors": [
+      "Yasser Mohawesh Hussein Amro"
+     ],
      "enrolled": 26,
      "capacity": null,
      "meetings": [
@@ -826,6 +904,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yasser Mohawesh Hussein Amro",
+     "instructors": [
+      "Yasser Mohawesh Hussein Amro"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -856,6 +937,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+     "instructors": [
+      "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -879,6 +963,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Afaf R. A. Said",
+     "instructors": [
+      "Afaf R. A. Said"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -902,6 +989,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mohammed S. K. Zaid",
+     "instructors": [
+      "Mohammed S. K. Zaid"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [

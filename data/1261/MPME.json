@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Suhail Sami Sadeq Sultan",
+     "instructors": [
+      "Suhail Sami Sadeq Sultan"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+     "instructors": [
+      "Mustafa Shaban Mas'Oud Abed Musa"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -60,6 +66,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Fouad Majed Mustafa Barghouthi",
+     "instructors": [
+      "Fouad Majed Mustafa Barghouthi"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -83,6 +92,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maysaa Yousef Khaled Nemer",
+     "instructors": [
+      "Maysaa Yousef Khaled Nemer"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -99,6 +111,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abdul Naser Amin Ahed Arafat",
+     "instructors": [
+      "Abdul Naser Amin Ahed Arafat"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -122,6 +137,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bayan M. M. Arqawi",
+     "instructors": [
+      "Bayan M. M. Arqawi"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -138,6 +156,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Sameera M. I. Awawda",
+     "instructors": [
+      "Sameera M. I. Awawda"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [

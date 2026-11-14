@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T10:28:13+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Huda Ribhi Hassan Awad",
+     "instructors": [
+      "Huda Ribhi Hassan Awad"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdul Karim Majed Mustafa Barghothi",
+     "instructors": [
+      "Abdul Karim Majed Mustafa Barghothi"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+     "instructors": [
+      "Qasam Theeb Qassim \"Haj Mohammad\""
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Hanada Mahmoud Ahmad Kharama",
+     "instructors": [
+      "Hanada Mahmoud Ahmad Kharama"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -143,6 +158,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Hanada Mahmoud Ahmad Kharama",
+     "instructors": [
+      "Hanada Mahmoud Ahmad Kharama"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -166,6 +184,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Hanada Mahmoud Ahmad Kharama",
+     "instructors": [
+      "Hanada Mahmoud Ahmad Kharama"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -189,6 +210,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Imad Sami Ahmad Sayrafi",
+     "instructors": [
+      "Imad Sami Ahmad Sayrafi"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -212,6 +236,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Wasim Abdelqader Mohammed Abu Fasheh",
+     "instructors": [
+      "Wasim Abdelqader Mohammed Abu Fasheh"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -235,6 +262,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Omar M. H. Qassis",
+     "instructors": [
+      "Omar M. H. Qassis"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -258,6 +288,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Manar Mohammad Afif Kawasmi",
+     "instructors": [
+      "Manar Mohammad Afif Kawasmi"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -281,6 +314,9 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Rana Adeeb Abdullah Kherawish",
+     "instructors": [
+      "Rana Adeeb Abdullah Kherawish"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -304,6 +340,9 @@
      "type": "Lecture",
      "number": "15",
      "instructor": "Omar M. H. Qassis",
+     "instructors": [
+      "Omar M. H. Qassis"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -327,6 +366,9 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Abdul Karim Majed Mustafa Barghothi",
+     "instructors": [
+      "Abdul Karim Majed Mustafa Barghothi"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -350,6 +392,9 @@
      "type": "Lecture",
      "number": "17",
      "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+     "instructors": [
+      "Qasam Theeb Qassim \"Haj Mohammad\""
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -373,6 +418,9 @@
      "type": "Lecture",
      "number": "18",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -396,6 +444,9 @@
      "type": "Lecture",
      "number": "19",
      "instructor": "Imad Sami Ahmad Sayrafi",
+     "instructors": [
+      "Imad Sami Ahmad Sayrafi"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -419,6 +470,9 @@
      "type": "Lecture",
      "number": "21",
      "instructor": "Manar Mohammad Afif Kawasmi",
+     "instructors": [
+      "Manar Mohammad Afif Kawasmi"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -449,6 +503,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -472,6 +529,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamal Mahmoud Yousef Daher",
+     "instructors": [
+      "Jamal Mahmoud Yousef Daher"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -495,6 +555,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -518,6 +581,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdul Karim Majed Mustafa Barghothi",
+     "instructors": [
+      "Abdul Karim Majed Mustafa Barghothi"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -541,6 +607,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Huda Ribhi Hassan Awad",
+     "instructors": [
+      "Huda Ribhi Hassan Awad"
+     ],
      "enrolled": 37,
      "capacity": null,
      "meetings": [
@@ -564,6 +633,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Raed Taleb Bader Bader",
+     "instructors": [
+      "Raed Taleb Bader Bader"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -587,6 +659,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Bashir Rizeqallah Abd Alraziq Doha",
+     "instructors": [
+      "Bashir Rizeqallah Abd Alraziq Doha"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -610,6 +685,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Huda Ribhi Hassan Awad",
+     "instructors": [
+      "Huda Ribhi Hassan Awad"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -633,6 +711,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Hanada Mahmoud Ahmad Kharama",
+     "instructors": [
+      "Hanada Mahmoud Ahmad Kharama"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -656,6 +737,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Sa'D Fathi Said Nimer",
+     "instructors": [
+      "Sa'D Fathi Said Nimer"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -679,6 +763,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Abdul Karim Majed Mustafa Barghothi",
+     "instructors": [
+      "Abdul Karim Majed Mustafa Barghothi"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -702,6 +789,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Sa'D Fathi Said Nimer",
+     "instructors": [
+      "Sa'D Fathi Said Nimer"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -725,6 +815,9 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Raed Taleb Bader Bader",
+     "instructors": [
+      "Raed Taleb Bader Bader"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -748,6 +841,9 @@
      "type": "Lecture",
      "number": "14",
      "instructor": "Huda Ribhi Hassan Awad",
+     "instructors": [
+      "Huda Ribhi Hassan Awad"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -771,6 +867,9 @@
      "type": "Lecture",
      "number": "16",
      "instructor": "Jamal Mahmoud Yousef Daher",
+     "instructors": [
+      "Jamal Mahmoud Yousef Daher"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -794,6 +893,9 @@
      "type": "Lecture",
      "number": "17",
      "instructor": "Jamal Mahmoud Yousef Daher",
+     "instructors": [
+      "Jamal Mahmoud Yousef Daher"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -817,6 +919,9 @@
      "type": "Lecture",
      "number": "18",
      "instructor": "Sa'D Fathi Said Nimer",
+     "instructors": [
+      "Sa'D Fathi Said Nimer"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -840,6 +945,9 @@
      "type": "Lecture",
      "number": "19",
      "instructor": "Rana Adeeb Abdullah Kherawish",
+     "instructors": [
+      "Rana Adeeb Abdullah Kherawish"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -863,6 +971,9 @@
      "type": "Lecture",
      "number": "20",
      "instructor": "Amirah Mohammad Faraj Silmi",
+     "instructors": [
+      "Amirah Mohammad Faraj Silmi"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -886,6 +997,9 @@
      "type": "Lecture",
      "number": "22",
      "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -916,6 +1030,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdulrahim M. A. Al Shaikh",
+     "instructors": [
+      "Abdulrahim M. A. Al Shaikh"
+     ],
      "enrolled": 60,
      "capacity": null,
      "meetings": [
@@ -932,6 +1049,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+     "instructors": [
+      "Qasam Theeb Qassim \"Haj Mohammad\""
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -948,6 +1068,9 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+     "instructors": [
+      "Qasam Theeb Qassim \"Haj Mohammad\""
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [

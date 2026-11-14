@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
+     "instructors": [
+      "Safaa M. A. Muhanna"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
+     "instructors": [
+      "Safaa M. A. Muhanna"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -83,6 +92,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -106,6 +118,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
+     "instructors": [
+      "Safaa M. A. Muhanna"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -136,6 +151,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayah M. H. Alfar",
+     "instructors": [
+      "Ayah M. H. Alfar"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": []
@@ -144,6 +162,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ayah M. H. Alfar",
+     "instructors": [
+      "Ayah M. H. Alfar"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": []
@@ -152,6 +173,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ayah M. H. Alfar",
+     "instructors": [
+      "Ayah M. H. Alfar"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": []
@@ -160,6 +184,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ayah M. H. Alfar",
+     "instructors": [
+      "Ayah M. H. Alfar"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []
@@ -175,6 +202,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -198,6 +228,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Monia Omar Izat Kittana",
+     "instructors": [
+      "Monia Omar Izat Kittana"
+     ],
      "enrolled": 47,
      "capacity": null,
      "meetings": [
@@ -228,6 +261,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Safaa M. A. Muhanna",
+     "instructors": [
+      "Safaa M. A. Muhanna"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -258,6 +294,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Monia Omar Izat Kittana",
+     "instructors": [
+      "Monia Omar Izat Kittana"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -288,6 +327,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Kamal A. K. Hamayel",
+     "instructors": [
+      "Kamal A. K. Hamayel"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -311,6 +353,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Israr Nizar Mohammad Sabri",
+     "instructors": [
+      "Israr Nizar Mohammad Sabri"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -327,6 +372,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Israr Nizar Mohammad Sabri",
+     "instructors": [
+      "Israr Nizar Mohammad Sabri"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -350,6 +398,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
+     "instructors": [
+      "Emilia Joseph Antonio Rappocciolo"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -373,6 +424,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Israr Nizar Mohammad Sabri",
+     "instructors": [
+      "Israr Nizar Mohammad Sabri"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -389,6 +443,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Israr Nizar Mohammad Sabri",
+     "instructors": [
+      "Israr Nizar Mohammad Sabri"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -412,6 +469,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hadeel Mousa Metri Khoury",
+     "instructors": [
+      "Hadeel Mousa Metri Khoury"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": []
@@ -420,6 +480,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Basil \"Mohammad Yasser\" Badwi Abu Rass",
+     "instructors": [
+      "Basil \"Mohammad Yasser\" Badwi Abu Rass"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": []
@@ -435,6 +498,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lina Yaser Jalal El_Khairy",
+     "instructors": [
+      "Lina Yaser Jalal El_Khairy"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [
@@ -451,6 +517,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ola Talal Abdallah Karmei",
+     "instructors": [
+      "Ola Talal Abdallah Karmei"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -474,6 +543,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -497,6 +569,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amal Kaleel Abdelrazeq Deheidel",
+     "instructors": [
+      "Amal Kaleel Abdelrazeq Deheidel"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -527,6 +602,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Monia Omar Izat Kittana",
+     "instructors": [
+      "Monia Omar Izat Kittana"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -550,6 +628,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [

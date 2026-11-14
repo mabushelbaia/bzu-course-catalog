@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 1,
   "sections": 1,
-  "instructors": 1,
+  "instructors": 3,
   "rooms": 1
  },
  "courses": [
@@ -28,6 +28,11 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi, Ahmad Ali Hussain Khaled, Tina Yaser Kostandi Rafidi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi",
+      "Ahmad Ali Hussain Khaled",
+      "Tina Yaser Kostandi Rafidi"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nashaat A. A. Aqtash",
+     "instructors": [
+      "Nashaat A. A. Aqtash"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -65,6 +68,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
+     "instructors": [
+      "Belal A. S. Doufesh"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -81,6 +87,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
+     "instructors": [
+      "Belal A. S. Doufesh"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Belal A. S. Doufesh",
+     "instructors": [
+      "Belal A. S. Doufesh"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -113,6 +125,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Alaaeddin T. R. Badarna",
+     "instructors": [
+      "Alaaeddin T. R. Badarna"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -136,6 +151,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
+     "instructors": [
+      "Belal A. S. Doufesh"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -152,6 +170,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
+     "instructors": [
+      "Belal A. S. Doufesh"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -168,6 +189,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Abeer Midhat Ahmad Ismail",
+     "instructors": [
+      "Abeer Midhat Ahmad Ismail"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -191,6 +215,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
+     "instructors": [
+      "Belal A. S. Doufesh"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -221,6 +248,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "instructors": [
+      "Jumane Ali Mustafa Qunnaisse"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -237,6 +267,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Abeer Midhat Ahmad Ismail",
+     "instructors": [
+      "Abeer Midhat Ahmad Ismail"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -253,6 +286,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "instructors": [
+      "Jumane Ali Mustafa Qunnaisse"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -269,6 +305,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Abeer Midhat Ahmad Ismail",
+     "instructors": [
+      "Abeer Midhat Ahmad Ismail"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -292,6 +331,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
+     "instructors": [
+      "Belal A. S. Doufesh"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -308,6 +350,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
+     "instructors": [
+      "Nasser Aldden J. K. Khasib"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -331,6 +376,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
+     "instructors": [
+      "Nasser Aldden J. K. Khasib"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -354,6 +402,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
+     "instructors": [
+      "Nasser Aldden J. K. Khasib"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -377,6 +428,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nashaat A. A. Aqtash",
+     "instructors": [
+      "Nashaat A. A. Aqtash"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -414,6 +468,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bassam Rizeq Mofleh Ewaida",
+     "instructors": [
+      "Bassam Rizeq Mofleh Ewaida"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -430,6 +487,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Bassam Rizeq Mofleh Ewaida",
+     "instructors": [
+      "Bassam Rizeq Mofleh Ewaida"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -446,6 +506,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Laura Yousif Issa Sayej",
+     "instructors": [
+      "Laura Yousif Issa Sayej"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -469,6 +532,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saleh Badawi Audeh Allah Masharqeh",
+     "instructors": [
+      "Saleh Badawi Audeh Allah Masharqeh"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -485,6 +551,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Saleh Badawi Audeh Allah Masharqeh",
+     "instructors": [
+      "Saleh Badawi Audeh Allah Masharqeh"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -501,6 +570,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Saleh Badawi Audeh Allah Masharqeh",
+     "instructors": [
+      "Saleh Badawi Audeh Allah Masharqeh"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -524,6 +596,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Duha Abdulatif Rateb Abu Hijjleh",
+     "instructors": [
+      "Duha Abdulatif Rateb Abu Hijjleh"
+     ],
      "enrolled": 34,
      "capacity": null,
      "meetings": [
@@ -554,6 +629,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samir Mohammad Nimer Mouqada",
+     "instructors": [
+      "Samir Mohammad Nimer Mouqada"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -577,6 +655,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Samir Mohammad Nimer Mouqada",
+     "instructors": [
+      "Samir Mohammad Nimer Mouqada"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -600,6 +681,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Fatima M. A. Hreash",
+     "instructors": [
+      "Fatima M. A. Hreash"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -616,6 +700,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Khalid Saleem Yousif Salameh",
+     "instructors": [
+      "Khalid Saleem Yousif Salameh"
+     ],
      "enrolled": 29,
      "capacity": null,
      "meetings": [
@@ -639,6 +726,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Walid Omar Awad Shurafa",
+     "instructors": [
+      "Walid Omar Awad Shurafa"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -669,6 +759,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Walid Omar Awad Shurafa",
+     "instructors": [
+      "Walid Omar Awad Shurafa"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -699,6 +792,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Midhat Ahmad Ismail",
+     "instructors": [
+      "Abeer Midhat Ahmad Ismail"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -715,6 +811,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Bassam Rizeq Mofleh Ewaida",
+     "instructors": [
+      "Bassam Rizeq Mofleh Ewaida"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -738,6 +837,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "instructors": [
+      "Jumane Ali Mustafa Qunnaisse"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -754,6 +856,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "instructors": [
+      "Jumane Ali Mustafa Qunnaisse"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -770,6 +875,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "instructors": [
+      "Jumane Ali Mustafa Qunnaisse"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -793,6 +901,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "instructors": [
+      "Jumane Ali Mustafa Qunnaisse"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": []
@@ -808,6 +919,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
+     "instructors": [
+      "Nasser Aldden J. K. Khasib"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -831,6 +945,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Nasser Aldden J. K. Khasib",
+     "instructors": [
+      "Nasser Aldden J. K. Khasib"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -861,6 +978,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jumane Ali Mustafa Qunnaisse",
+     "instructors": [
+      "Jumane Ali Mustafa Qunnaisse"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -891,6 +1011,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Tala Jamal Rida Halawa",
+     "instructors": [
+      "Tala Jamal Rida Halawa"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -907,6 +1030,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Tala Jamal Rida Halawa",
+     "instructors": [
+      "Tala Jamal Rida Halawa"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -930,6 +1056,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Belal A. S. Doufesh",
+     "instructors": [
+      "Belal A. S. Doufesh"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -946,6 +1075,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Nasser Aldden J. K. Khasib",
+     "instructors": [
+      "Nasser Aldden J. K. Khasib"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -969,6 +1101,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abeer Midhat Ahmad Ismail",
+     "instructors": [
+      "Abeer Midhat Ahmad Ismail"
+     ],
      "enrolled": 25,
      "capacity": null,
      "meetings": [
@@ -992,6 +1127,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Walid Omar Awad Shurafa",
+     "instructors": [
+      "Walid Omar Awad Shurafa"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -1015,6 +1153,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bassam Rizeq Mofleh Ewaida",
+     "instructors": [
+      "Bassam Rizeq Mofleh Ewaida"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -1031,6 +1172,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Walid Omar Awad Shurafa",
+     "instructors": [
+      "Walid Omar Awad Shurafa"
+     ],
      "enrolled": 39,
      "capacity": null,
      "meetings": [

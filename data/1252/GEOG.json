@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yasmin Omar Hasan Shamasneh",
+     "instructors": [
+      "Yasmin Omar Hasan Shamasneh"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Yasmin Omar Hasan Shamasneh",
+     "instructors": [
+      "Yasmin Omar Hasan Shamasneh"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -60,6 +66,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdallah Mahmoud Issa Al-Manasra",
+     "instructors": [
+      "Abdallah Mahmoud Issa Al-Manasra"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -76,6 +85,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Hadeel J. M. Fawadleh",
+     "instructors": [
+      "Hadeel J. M. Fawadleh"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -92,6 +104,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Khalil Abdullah Mutawe' Amro",
+     "instructors": [
+      "Khalil Abdullah Mutawe' Amro"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -115,6 +130,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalil Abdullah Mutawe' Amro",
+     "instructors": [
+      "Khalil Abdullah Mutawe' Amro"
+     ],
      "enrolled": 56,
      "capacity": null,
      "meetings": [
@@ -138,6 +156,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Omar Lee Loren Tesdell",
+     "instructors": [
+      "Omar Lee Loren Tesdell"
+     ],
      "enrolled": 92,
      "capacity": null,
      "meetings": [
@@ -175,6 +196,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Marwan Ghaleb Abdulmuhsen Ghanem",
+     "instructors": [
+      "Marwan Ghaleb Abdulmuhsen Ghanem"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -205,6 +229,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hadeel J. M. Fawadleh",
+     "instructors": [
+      "Hadeel J. M. Fawadleh"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -242,6 +269,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Marwan Ghaleb Abdulmuhsen Ghanem",
+     "instructors": [
+      "Marwan Ghaleb Abdulmuhsen Ghanem"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -272,6 +302,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Othman Ali Othman Sharkas",
+     "instructors": [
+      "Othman Ali Othman Sharkas"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -302,6 +335,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Marwan Ghaleb Abdulmuhsen Ghanem",
+     "instructors": [
+      "Marwan Ghaleb Abdulmuhsen Ghanem"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -332,6 +368,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Othman Ali Othman Sharkas",
+     "instructors": [
+      "Othman Ali Othman Sharkas"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -362,6 +401,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Othman Ali Othman Sharkas",
+     "instructors": [
+      "Othman Ali Othman Sharkas"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -392,6 +434,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Khalil Abdullah Mutawe' Amro",
+     "instructors": [
+      "Khalil Abdullah Mutawe' Amro"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -422,6 +467,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalil Abdullah Mutawe' Amro",
+     "instructors": [
+      "Khalil Abdullah Mutawe' Amro"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -452,6 +500,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Omar Lee Loren Tesdell",
+     "instructors": [
+      "Omar Lee Loren Tesdell"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [

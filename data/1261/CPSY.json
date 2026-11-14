@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 10,
   "sections": 12,
-  "instructors": 6,
+  "instructors": 7,
   "rooms": 5
  },
  "courses": [
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Razzan H. A. Quran",
+     "instructors": [
+      "Razzan H. A. Quran"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rula Abdul Karim Mustafa \"Ghandour Daoud\", Aisha Abdel Munem Omran Shalash",
+     "instructors": [
+      "Rula Abdul Karim Mustafa \"Ghandour Daoud\"",
+      "Aisha Abdel Munem Omran Shalash"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -97,6 +107,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -120,6 +133,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Razzan H. A. Quran",
+     "instructors": [
+      "Razzan H. A. Quran"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -143,6 +159,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Razzan H. A. Quran",
+     "instructors": [
+      "Razzan H. A. Quran"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -159,6 +178,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Razzan H. A. Quran",
+     "instructors": [
+      "Razzan H. A. Quran"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -182,6 +204,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Razzan H. A. Quran",
+     "instructors": [
+      "Razzan H. A. Quran"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -205,6 +230,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "instructors": [
+      "Lena Mohammad Abdel-Hamid Meari"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -228,6 +256,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\"",
+     "instructors": [
+      "Bader Mohummad Mahmuod \"Abdalrahman Alaraj\""
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -251,6 +282,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mai T. M. Albzour",
+     "instructors": [
+      "Mai T. M. Albzour"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -259,6 +293,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
+     "instructors": [
+      "Lena Mohammad Abdel-Hamid Meari"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

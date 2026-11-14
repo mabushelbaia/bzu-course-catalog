@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T10:28:13+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maher Mohammad Abdallah Abdallatif",
+     "instructors": [
+      "Maher Mohammad Abdallah Abdallatif"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hassan Mohmmed Odeh Abu Hassan",
+     "instructors": [
+      "Hassan Mohmmed Odeh Abu Hassan"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Hassan Mohmmed Odeh Abu Hassan",
+     "instructors": [
+      "Hassan Mohmmed Odeh Abu Hassan"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -104,6 +113,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Yousef Hejaze Madiah",
+     "instructors": [
+      "Mohammad Yousef Hejaze Madiah"
+     ],
      "enrolled": 88,
      "capacity": null,
      "meetings": [
@@ -127,6 +139,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hani Majed Izzo Kabajah",
+     "instructors": [
+      "Hani Majed Izzo Kabajah"
+     ],
      "enrolled": 87,
      "capacity": null,
      "meetings": [
@@ -150,6 +165,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hani Majed Izzo Kabajah",
+     "instructors": [
+      "Hani Majed Izzo Kabajah"
+     ],
      "enrolled": 90,
      "capacity": null,
      "meetings": [
@@ -173,6 +191,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Hassan Mohmmed Odeh Abu Hassan",
+     "instructors": [
+      "Hassan Mohmmed Odeh Abu Hassan"
+     ],
      "enrolled": 70,
      "capacity": null,
      "meetings": [
@@ -203,6 +224,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Maher Mohammad Abdallah Abdallatif",
+     "instructors": [
+      "Maher Mohammad Abdallah Abdallatif"
+     ],
      "enrolled": 57,
      "capacity": null,
      "meetings": [
@@ -233,6 +257,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maher Mohammad Abdallah Abdallatif",
+     "instructors": [
+      "Maher Mohammad Abdallah Abdallatif"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -263,6 +290,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hani Majed Izzo Kabajah",
+     "instructors": [
+      "Hani Majed Izzo Kabajah"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -293,6 +323,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hassan Mohmmed Odeh Abu Hassan",
+     "instructors": [
+      "Hassan Mohmmed Odeh Abu Hassan"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [

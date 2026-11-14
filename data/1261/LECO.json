@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael, Mahmoud Tayseer Mahmoud Alawna",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael",
+      "Mahmoud Tayseer Mahmoud Alawna"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -51,6 +55,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+     "instructors": [
+      "Mohammed Ibrahim Mohammed Alqaisi"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -74,6 +81,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bashar A. A. Abuzarour",
+     "instructors": [
+      "Bashar A. A. Abuzarour"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -97,6 +107,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amir M. M. Khalil",
+     "instructors": [
+      "Amir M. M. Khalil"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": [
@@ -120,6 +133,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amir M. M. Khalil",
+     "instructors": [
+      "Amir M. M. Khalil"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -143,6 +159,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohanad Oudah Mohammed Ismael",
+     "instructors": [
+      "Mohanad Oudah Mohammed Ismael"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -151,6 +170,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ahmad Ali Hussain Khaled",
+     "instructors": [
+      "Ahmad Ali Hussain Khaled"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

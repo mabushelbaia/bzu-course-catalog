@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Alaa Rafie Zahran Taweel",
+     "instructors": [
+      "Alaa Rafie Zahran Taweel"
+     ],
      "enrolled": 111,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Lina Elias Bandaly Fawadleh",
+     "instructors": [
+      "Lina Elias Bandaly Fawadleh"
+     ],
      "enrolled": 66,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Karim Sani Nasib Al-Bitar",
+     "instructors": [
+      "Karim Sani Nasib Al-Bitar"
+     ],
      "enrolled": 130,
      "capacity": null,
      "meetings": [
@@ -104,6 +113,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Bashar Shukri Hanna Al Qara'",
+     "instructors": [
+      "Bashar Shukri Hanna Al Qara'"
+     ],
      "enrolled": 119,
      "capacity": null,
      "meetings": [
@@ -134,6 +146,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Karim Sani Nasib Al-Bitar",
+     "instructors": [
+      "Karim Sani Nasib Al-Bitar"
+     ],
      "enrolled": 87,
      "capacity": null,
      "meetings": [
@@ -164,6 +179,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Bashar Shukri Hanna Al Qara'",
+     "instructors": [
+      "Bashar Shukri Hanna Al Qara'"
+     ],
      "enrolled": 89,
      "capacity": null,
      "meetings": [
@@ -194,6 +212,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Bashar Shukri Hanna Al Qara'",
+     "instructors": [
+      "Bashar Shukri Hanna Al Qara'"
+     ],
      "enrolled": 81,
      "capacity": null,
      "meetings": [
@@ -217,6 +238,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Karim Sani Nasib Al-Bitar",
+     "instructors": [
+      "Karim Sani Nasib Al-Bitar"
+     ],
      "enrolled": 106,
      "capacity": null,
      "meetings": [
@@ -254,6 +278,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "instructors": [
+      "Hind Mohammad Bashir Helmi Almohtasib"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -277,6 +304,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "instructors": [
+      "Zeyad Fawaz Fouzi Munawer"
+     ],
      "enrolled": 54,
      "capacity": null,
      "meetings": [
@@ -307,6 +337,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hatem Yousef Ahmad Daoud",
+     "instructors": [
+      "Hatem Yousef Ahmad Daoud"
+     ],
      "enrolled": 131,
      "capacity": null,
      "meetings": [
@@ -330,6 +363,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamal Fadel Daoud Fawadleh",
+     "instructors": [
+      "Jamal Fadel Daoud Fawadleh"
+     ],
      "enrolled": 95,
      "capacity": null,
      "meetings": [
@@ -360,6 +396,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Musa G. M. Bajjali",
+     "instructors": [
+      "Musa G. M. Bajjali"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -383,6 +422,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Huthayfa N. I. Jabari",
+     "instructors": [
+      "Huthayfa N. I. Jabari"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -406,6 +448,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "instructors": [
+      "Hind Mohammad Bashir Helmi Almohtasib"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -443,6 +488,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Huthayfa N. I. Jabari",
+     "instructors": [
+      "Huthayfa N. I. Jabari"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -473,6 +521,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bashar Shukri Hanna Al Qara'",
+     "instructors": [
+      "Bashar Shukri Hanna Al Qara'"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -503,6 +554,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "instructors": [
+      "Zeyad Fawaz Fouzi Munawer"
+     ],
      "enrolled": 27,
      "capacity": null,
      "meetings": [
@@ -533,6 +587,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samia George Issa Shammas",
+     "instructors": [
+      "Samia George Issa Shammas"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -556,6 +613,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mirabo Nael Bolous Shammas",
+     "instructors": [
+      "Mirabo Nael Bolous Shammas"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -579,6 +639,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Samia George Issa Shammas",
+     "instructors": [
+      "Samia George Issa Shammas"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -602,6 +665,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mirabo Nael Bolous Shammas",
+     "instructors": [
+      "Mirabo Nael Bolous Shammas"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -625,6 +691,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Samia George Issa Shammas",
+     "instructors": [
+      "Samia George Issa Shammas"
+     ],
      "enrolled": 57,
      "capacity": null,
      "meetings": [
@@ -662,6 +731,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamal Jamil Mohammad Milhem",
+     "instructors": [
+      "Jamal Jamil Mohammad Milhem"
+     ],
      "enrolled": 64,
      "capacity": null,
      "meetings": [
@@ -692,6 +764,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Moath Hassan Mohammad Balout",
+     "instructors": [
+      "Moath Hassan Mohammad Balout"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -715,6 +790,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Saher Mohammad Abdallah Aqel",
+     "instructors": [
+      "Saher Mohammad Abdallah Aqel"
+     ],
      "enrolled": 52,
      "capacity": null,
      "meetings": [
@@ -738,6 +816,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Saher Mohammad Abdallah Aqel",
+     "instructors": [
+      "Saher Mohammad Abdallah Aqel"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -768,6 +849,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Samia George Issa Shammas",
+     "instructors": [
+      "Samia George Issa Shammas"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -798,6 +882,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Samia George Issa Shammas",
+     "instructors": [
+      "Samia George Issa Shammas"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -828,6 +915,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mirabo Nael Bolous Shammas",
+     "instructors": [
+      "Mirabo Nael Bolous Shammas"
+     ],
      "enrolled": 49,
      "capacity": null,
      "meetings": [
@@ -865,6 +955,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Karim Sani Nasib Al-Bitar",
+     "instructors": [
+      "Karim Sani Nasib Al-Bitar"
+     ],
      "enrolled": 66,
      "capacity": null,
      "meetings": [
@@ -895,6 +988,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adnan M. A. Humos",
+     "instructors": [
+      "Adnan M. A. Humos"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -925,6 +1021,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Adnan M. A. Humos",
+     "instructors": [
+      "Adnan M. A. Humos"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -955,6 +1054,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Suha Mohammad Tayseir Ya'Qoub Zalloum",
+     "instructors": [
+      "Suha Mohammad Tayseir Ya'Qoub Zalloum"
+     ],
      "enrolled": 31,
      "capacity": null,
      "meetings": [
@@ -985,6 +1087,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Moath Hassan Mohammad Balout",
+     "instructors": [
+      "Moath Hassan Mohammad Balout"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -1015,6 +1120,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "instructors": [
+      "Zeyad Fawaz Fouzi Munawer"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1038,6 +1146,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "instructors": [
+      "Hind Mohammad Bashir Helmi Almohtasib"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -1061,6 +1172,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Adnan M. A. Humos",
+     "instructors": [
+      "Adnan M. A. Humos"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1084,6 +1198,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Hind Mohammad Bashir Helmi Almohtasib",
+     "instructors": [
+      "Hind Mohammad Bashir Helmi Almohtasib"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -1114,6 +1231,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "instructors": [
+      "Zeyad Fawaz Fouzi Munawer"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -1137,6 +1257,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Adnan M. A. Humos",
+     "instructors": [
+      "Adnan M. A. Humos"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1160,6 +1283,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Saher Mohammad Abdallah Aqel",
+     "instructors": [
+      "Saher Mohammad Abdallah Aqel"
+     ],
      "enrolled": 23,
      "capacity": null,
      "meetings": [
@@ -1190,6 +1316,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Saher Mohammad Abdallah Aqel",
+     "instructors": [
+      "Saher Mohammad Abdallah Aqel"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -1220,6 +1349,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Miltiadi Issa Salem Habash",
+     "instructors": [
+      "Miltiadi Issa Salem Habash"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -1250,6 +1382,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Adnan M. A. Humos",
+     "instructors": [
+      "Adnan M. A. Humos"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T17:45:06+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ghada Adnan Kathem Almadbouh",
+     "instructors": [
+      "Ghada Adnan Kathem Almadbouh"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Wasim Abdelqader Mohammed Abu Fasheh",
+     "instructors": [
+      "Wasim Abdelqader Mohammed Abu Fasheh"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Husam Na'Em Abdul Aziz Shakhshir",
+     "instructors": [
+      "Husam Na'Em Abdul Aziz Shakhshir"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -143,6 +158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -158,6 +176,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": []
@@ -173,6 +194,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Husam Na'Em Abdul Aziz Shakhshir",
+     "instructors": [
+      "Husam Na'Em Abdul Aziz Shakhshir"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -196,6 +220,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -204,6 +231,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -212,6 +242,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Lourdes B. A. Habash",
+     "instructors": [
+      "Lourdes B. A. Habash"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -220,6 +253,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Fadi Sami Kamil Nahhas",
+     "instructors": [
+      "Fadi Sami Kamil Nahhas"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -228,6 +264,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Lourdes B. A. Habash",
+     "instructors": [
+      "Lourdes B. A. Habash"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -236,6 +275,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Fadi Sami Kamil Nahhas",
+     "instructors": [
+      "Fadi Sami Kamil Nahhas"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -244,6 +286,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Ghassan A. I. Khatib",
+     "instructors": [
+      "Ghassan A. I. Khatib"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -252,6 +297,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Murad Abdel-Majid Abdel-Qader Shaheen",
+     "instructors": [
+      "Murad Abdel-Majid Abdel-Qader Shaheen"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -260,6 +308,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

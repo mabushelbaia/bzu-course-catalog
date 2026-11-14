@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-12T11:13:23+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Aqel Mohammed Halsa",
+     "instructors": [
+      "Mohammed Aqel Mohammed Halsa"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jalal Abed Alruhman Musa Rommaneh",
+     "instructors": [
+      "Jalal Abed Alruhman Musa Rommaneh"
+     ],
      "enrolled": 44,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Jalal Abed Alruhman Musa Rommaneh",
+     "instructors": [
+      "Jalal Abed Alruhman Musa Rommaneh"
+     ],
      "enrolled": 53,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohammed Aqel Mohammed Halsa",
+     "instructors": [
+      "Mohammed Aqel Mohammed Halsa"
+     ],
      "enrolled": 48,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Jalal Abed Alruhman Musa Rommaneh",
+     "instructors": [
+      "Jalal Abed Alruhman Musa Rommaneh"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -150,6 +165,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Aqel Mohammed Halsa",
+     "instructors": [
+      "Mohammed Aqel Mohammed Halsa"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [

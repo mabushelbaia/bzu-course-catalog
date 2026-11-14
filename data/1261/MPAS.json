@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-07T05:31:34+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammad Wajeeh Mohammad Hanini",
+     "instructors": [
+      "Mohammad Wajeeh Mohammad Hanini"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman Elias Yousef Zaru",
+     "instructors": [
+      "Ayman Elias Yousef Zaru"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farid Mohammad Farid Irshaid",
+     "instructors": [
+      "Farid Mohammad Farid Irshaid"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -135,6 +150,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Farid Mohammad Farid Irshaid",
+     "instructors": [
+      "Farid Mohammad Farid Irshaid"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -150,6 +168,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman Elias Yousef Zaru",
+     "instructors": [
+      "Ayman Elias Yousef Zaru"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -173,6 +194,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -181,6 +205,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+     "instructors": [
+      "Jehad Yousif Abd-Alrahman Alayasa"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -189,6 +216,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ayman Elias Yousef Zaru",
+     "instructors": [
+      "Ayman Elias Yousef Zaru"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -197,6 +227,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Ayman Elias Yousef Zaru",
+     "instructors": [
+      "Ayman Elias Yousef Zaru"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -205,6 +238,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

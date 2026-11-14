@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman A. M. Najjar",
+     "instructors": [
+      "Ayman A. M. Najjar"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ola Talal Abdallah Karmei",
+     "instructors": [
+      "Ola Talal Abdallah Karmei"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ayman A. M. Najjar",
+     "instructors": [
+      "Ayman A. M. Najjar"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -97,6 +106,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ola Talal Abdallah Karmei",
+     "instructors": [
+      "Ola Talal Abdallah Karmei"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Firas A. M. Qunneis",
+     "instructors": [
+      "Firas A. M. Qunneis"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": [
@@ -143,6 +158,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -151,6 +169,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -159,6 +180,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "instructors": [
+      "Abdallah Taha Suleiman Abu Taha"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -167,6 +191,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "instructors": [
+      "Abdallah Taha Suleiman Abu Taha"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

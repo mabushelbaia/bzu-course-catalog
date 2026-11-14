@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 5,
   "sections": 11,
-  "instructors": 6,
+  "instructors": 7,
   "rooms": 3
  },
  "courses": [
@@ -28,6 +28,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Muneer Zaki H.Z Nuseibah, Dana H. Y. Farraj",
+     "instructors": [
+      "Muneer Zaki H.Z Nuseibah",
+      "Dana H. Y. Farraj"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -51,6 +55,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -74,6 +81,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basil Abdelrazeq Yaseen Farraj",
+     "instructors": [
+      "Basil Abdelrazeq Yaseen Farraj"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": []
@@ -89,6 +99,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -112,6 +125,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Lourdes B. A. Habash",
+     "instructors": [
+      "Lourdes B. A. Habash"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -120,6 +136,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -128,6 +147,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Basem M. T. Ezbidi",
+     "instructors": [
+      "Basem M. T. Ezbidi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -136,6 +158,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Fadi Sami Kamil Nahhas",
+     "instructors": [
+      "Fadi Sami Kamil Nahhas"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -144,6 +169,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ghassan A. I. Khatib",
+     "instructors": [
+      "Ghassan A. I. Khatib"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -152,6 +180,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Fadi Sami Kamil Nahhas",
+     "instructors": [
+      "Fadi Sami Kamil Nahhas"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -160,6 +191,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Lourdes B. A. Habash",
+     "instructors": [
+      "Lourdes B. A. Habash"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

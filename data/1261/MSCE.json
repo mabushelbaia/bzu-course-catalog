@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-10T11:15:11+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi"
+     ],
      "enrolled": 3,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "instructors": [
+      "Aziz Mohammed Ahmad Qaroush"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ismail Mohammad Mousa Khater",
+     "instructors": [
+      "Ismail Mohammad Mousa Khater"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -82,6 +91,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Ibrahim Ahmed Abdallah Nemer",
+     "instructors": [
+      "Ibrahim Ahmed Abdallah Nemer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -90,6 +102,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Ashraf Sulieman Awad Al-Rimawi",
+     "instructors": [
+      "Ashraf Sulieman Awad Al-Rimawi"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -98,6 +113,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Yazan Jamal Ibrahim Abu Farha",
+     "instructors": [
+      "Yazan Jamal Ibrahim Abu Farha"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -106,6 +124,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Ayman Ali Mohammad Hroub",
+     "instructors": [
+      "Ayman Ali Mohammad Hroub"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -114,6 +135,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Mohammad Khaleel Issa Jubran",
+     "instructors": [
+      "Mohammad Khaleel Issa Jubran"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -122,6 +146,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "instructors": [
+      "Aziz Mohammed Ahmad Qaroush"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -130,6 +157,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Ayman Ali Mohammad Hroub",
+     "instructors": [
+      "Ayman Ali Mohammad Hroub"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -138,6 +168,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Abdallatif S. A. Abuissa",
+     "instructors": [
+      "Abdallatif S. A. Abuissa"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -146,6 +179,9 @@
      "type": "Lecture",
      "number": "10",
      "instructor": "Khader Shehadeh Nassar Mohammad",
+     "instructors": [
+      "Khader Shehadeh Nassar Mohammad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -154,6 +190,9 @@
      "type": "Lecture",
      "number": "11",
      "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "instructors": [
+      "Aziz Mohammed Ahmad Qaroush"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -162,6 +201,9 @@
      "type": "Lecture",
      "number": "12",
      "instructor": "Abualseoud Ahmad Abualseoud Hanani",
+     "instructors": [
+      "Abualseoud Ahmad Abualseoud Hanani"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -170,6 +212,9 @@
      "type": "Lecture",
      "number": "13",
      "instructor": "Aziz Mohammed Ahmad Qaroush",
+     "instructors": [
+      "Aziz Mohammed Ahmad Qaroush"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

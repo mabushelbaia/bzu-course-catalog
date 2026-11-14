@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-13T11:00:40+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rateb Mohammad Abdul Rahman Hussein",
+     "instructors": [
+      "Rateb Mohammad Abdul Rahman Hussein"
+     ],
      "enrolled": 158,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Beesan Nooraddeen Mohammed Arda",
+     "instructors": [
+      "Beesan Nooraddeen Mohammed Arda"
+     ],
      "enrolled": 140,
      "capacity": null,
      "meetings": [
@@ -81,6 +87,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Asem M. A. Mubarak",
+     "instructors": [
+      "Asem M. A. Mubarak"
+     ],
      "enrolled": 120,
      "capacity": null,
      "meetings": [
@@ -111,6 +120,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Thekra B. M. Hweih",
+     "instructors": [
+      "Thekra B. M. Hweih"
+     ],
      "enrolled": 122,
      "capacity": null,
      "meetings": [
@@ -141,6 +153,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Johnny Butros Hanna Stiban",
+     "instructors": [
+      "Johnny Butros Hanna Stiban"
+     ],
      "enrolled": 32,
      "capacity": null,
      "meetings": [

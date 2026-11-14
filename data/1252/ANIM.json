@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Bashar Mustafa Mohammed Khalaf",
+     "instructors": [
+      "Bashar Mustafa Mohammed Khalaf"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -58,6 +61,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saed G. A. Mahfuth",
+     "instructors": [
+      "Saed G. A. Mahfuth"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -80,7 +86,11 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Behzad Khosravi  Noori, Dana S. G. Durr",
+     "instructor": "Behzad Khosravi Noori, Dana S. G. Durr",
+     "instructors": [
+      "Behzad Khosravi Noori",
+      "Dana S. G. Durr"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -104,6 +114,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Yaqeen A. S. Alyamani",
+     "instructors": [
+      "Yaqeen A. S. Alyamani"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -134,6 +147,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Dana S. G. Durr",
+     "instructors": [
+      "Dana S. G. Durr"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -164,6 +180,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Sami Sameer Mahmoud Sabra",
+     "instructors": [
+      "Sami Sameer Mahmoud Sabra"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [

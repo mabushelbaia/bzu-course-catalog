@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "instructors": [
+      "Saleh Mohammad Sulaiman Sulaiman"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -43,6 +46,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed H. M. Aljabari",
+     "instructors": [
+      "Mohammed H. M. Aljabari"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -66,6 +72,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed H. M. Aljabari",
+     "instructors": [
+      "Mohammed H. M. Aljabari"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -110,6 +119,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hijazi Issa Hussein Abu Ali",
+     "instructors": [
+      "Hijazi Issa Hussein Abu Ali"
+     ],
      "enrolled": 68,
      "capacity": null,
      "meetings": [
@@ -140,6 +152,9 @@
      "type": "Discussion",
      "number": "1",
      "instructor": "Hijazi Issa Hussein Abu Ali",
+     "instructors": [
+      "Hijazi Issa Hussein Abu Ali"
+     ],
      "enrolled": 40,
      "capacity": null,
      "meetings": [
@@ -156,6 +171,9 @@
      "type": "Discussion",
      "number": "2",
      "instructor": "Hijazi Issa Hussein Abu Ali",
+     "instructors": [
+      "Hijazi Issa Hussein Abu Ali"
+     ],
      "enrolled": 28,
      "capacity": null,
      "meetings": [
@@ -172,6 +190,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Hijazi Issa Hussein Abu Ali",
+     "instructors": [
+      "Hijazi Issa Hussein Abu Ali"
+     ],
      "enrolled": 35,
      "capacity": null,
      "meetings": [
@@ -188,6 +209,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Mohammed H. M. Aljabari",
+     "instructors": [
+      "Mohammed H. M. Aljabari"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -211,6 +235,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Diab T. D. Qadah",
+     "instructors": [
+      "Diab T. D. Qadah"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -227,6 +254,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Asem M. A. Mubarak",
+     "instructors": [
+      "Asem M. A. Mubarak"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -243,6 +273,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Diab T. D. Qadah",
+     "instructors": [
+      "Diab T. D. Qadah"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -266,6 +299,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Waseem Wajih Said Abo Oun",
+     "instructors": [
+      "Waseem Wajih Said Abo Oun"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -310,6 +346,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Diab T. D. Qadah",
+     "instructors": [
+      "Diab T. D. Qadah"
+     ],
      "enrolled": 62,
      "capacity": null,
      "meetings": [
@@ -340,6 +379,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Diab T. D. Qadah",
+     "instructors": [
+      "Diab T. D. Qadah"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -356,6 +398,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "instructors": [
+      "Saleh Mohammad Sulaiman Sulaiman"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -372,6 +417,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "instructors": [
+      "Saleh Mohammad Sulaiman Sulaiman"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -388,6 +436,9 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Diab T. D. Qadah",
+     "instructors": [
+      "Diab T. D. Qadah"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -411,6 +462,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Waseem Wajih Said Abo Oun",
+     "instructors": [
+      "Waseem Wajih Said Abo Oun"
+     ],
      "enrolled": 38,
      "capacity": null,
      "meetings": [
@@ -455,6 +509,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "instructors": [
+      "Saleh Mohammad Sulaiman Sulaiman"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": []
@@ -470,6 +527,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+     "instructors": [
+      "Saleh Mohammad Sulaiman Sulaiman"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -485,6 +545,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed H. M. Aljabari",
+     "instructors": [
+      "Mohammed H. M. Aljabari"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

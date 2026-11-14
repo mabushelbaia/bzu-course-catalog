@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-11T11:00:20+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hussein Ahed Hussein Ayaseh",
+     "instructors": [
+      "Hussein Ahed Hussein Ayaseh"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+     "instructors": [
+      "Mohammed Ibrahim Mohammed Alqaisi"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud M. I. Dodeen",
+     "instructors": [
+      "Mahmoud M. I. Dodeen"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -90,6 +99,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khaled I. A. Talahma",
+     "instructors": [
+      "Khaled I. A. Talahma"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -113,6 +125,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hussein Ahed Hussein Ayaseh",
+     "instructors": [
+      "Hussein Ahed Hussein Ayaseh"
+     ],
      "enrolled": 14,
      "capacity": null,
      "meetings": [
@@ -136,6 +151,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Diab Mohammad Diab Alshikh",
+     "instructors": [
+      "Diab Mohammad Diab Alshikh"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -159,6 +177,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Amir M. M. Khalil",
+     "instructors": [
+      "Amir M. M. Khalil"
+     ],
      "enrolled": 13,
      "capacity": null,
      "meetings": [
@@ -182,6 +203,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Saleem Fareez Nasra",
+     "instructors": [
+      "Ahmad Saleem Fareez Nasra"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -205,6 +229,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmad Saleem Fareez Nasra",
+     "instructors": [
+      "Ahmad Saleem Fareez Nasra"
+     ],
      "enrolled": 2,
      "capacity": null,
      "meetings": [
@@ -228,6 +255,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Hussein Ahed Hussein Ayaseh",
+     "instructors": [
+      "Hussein Ahed Hussein Ayaseh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -236,6 +266,10 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Fayez Mohummad Ahmad Ibkairat, Diab Mohammad Diab Alshikh",
+     "instructors": [
+      "Fayez Mohummad Ahmad Ibkairat",
+      "Diab Mohammad Diab Alshikh"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -244,6 +278,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Hussein Ahed Hussein Ayaseh",
+     "instructors": [
+      "Hussein Ahed Hussein Ayaseh"
+     ],
      "enrolled": 0,
      "capacity": null,
      "meetings": []
@@ -252,6 +289,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+     "instructors": [
+      "Mohammed Ibrahim Mohammed Alqaisi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -260,6 +300,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Mahmoud M. I. Dodeen",
+     "instructors": [
+      "Mahmoud M. I. Dodeen"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -268,6 +311,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Hussein Ahed Hussein Ayaseh",
+     "instructors": [
+      "Hussein Ahed Hussein Ayaseh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -276,6 +322,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Hussein Ahed Hussein Ayaseh",
+     "instructors": [
+      "Hussein Ahed Hussein Ayaseh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -284,6 +333,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Diab Mohammad Diab Alshikh",
+     "instructors": [
+      "Diab Mohammad Diab Alshikh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -292,6 +344,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Mahmoud M. I. Dodeen",
+     "instructors": [
+      "Mahmoud M. I. Dodeen"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T10:28:13+00:00",
+ "updated_at": "2026-11-14T16:23:19+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mohammed Fawzi Amin Alkhader",
+     "instructors": [
+      "Mohammed Fawzi Amin Alkhader"
+     ],
      "enrolled": 10,
      "capacity": null,
      "meetings": [
@@ -51,6 +54,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamil Elias Jamil Salem",
+     "instructors": [
+      "Jamil Elias Jamil Salem"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -74,6 +80,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mustafa Hussein Mahmoud Abdelbaqi",
+     "instructors": [
+      "Mustafa Hussein Mahmoud Abdelbaqi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -82,6 +91,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mueen A. M. Barghouthi",
+     "instructors": [
+      "Mueen A. M. Barghouthi"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -90,6 +102,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Diab Mohammad Diab Alshikh",
+     "instructors": [
+      "Diab Mohammad Diab Alshikh"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Mustafa Saleh Swaileh",
+     "instructors": [
+      "Khalid Mustafa Saleh Swaileh"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Jamil Younis Mohammad Harb",
+     "instructors": [
+      "Jamil Younis Mohammad Harb"
+     ],
      "enrolled": 19,
      "capacity": null,
      "meetings": [
@@ -60,6 +66,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
+     "instructors": [
+      "Emilia Joseph Antonio Rappocciolo"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -83,6 +92,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Mustafa Saleh Swaileh",
+     "instructors": [
+      "Khalid Mustafa Saleh Swaileh"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -120,6 +132,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamil Younis Mohammad Harb",
+     "instructors": [
+      "Jamil Younis Mohammad Harb"
+     ],
      "enrolled": 82,
      "capacity": null,
      "meetings": [
@@ -157,6 +172,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Arwa Abdel Rahman Yousef Abu Khweek",
+     "instructors": [
+      "Arwa Abdel Rahman Yousef Abu Khweek"
+     ],
      "enrolled": 33,
      "capacity": null,
      "meetings": [
@@ -187,6 +205,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
+     "instructors": [
+      "Emilia Joseph Antonio Rappocciolo"
+     ],
      "enrolled": 22,
      "capacity": null,
      "meetings": [
@@ -224,6 +245,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Mustafa Saleh Swaileh",
+     "instructors": [
+      "Khalid Mustafa Saleh Swaileh"
+     ],
      "enrolled": 7,
      "capacity": null,
      "meetings": [
@@ -247,6 +271,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Johnny Butros Hanna Stiban",
+     "instructors": [
+      "Johnny Butros Hanna Stiban"
+     ],
      "enrolled": 17,
      "capacity": null,
      "meetings": [
@@ -270,6 +297,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Mustafa Saleh Swaileh",
+     "instructors": [
+      "Khalid Mustafa Saleh Swaileh"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -300,6 +330,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
+     "instructors": [
+      "Emilia Joseph Antonio Rappocciolo"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -323,6 +356,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
+     "instructors": [
+      "Emilia Joseph Antonio Rappocciolo"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -346,6 +382,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "instructors": [
+      "Abdallah Taha Suleiman Abu Taha"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -376,6 +415,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Abdallah Taha Suleiman Abu Taha",
+     "instructors": [
+      "Abdallah Taha Suleiman Abu Taha"
+     ],
      "enrolled": 41,
      "capacity": null,
      "meetings": [
@@ -413,6 +455,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Arwa Abdel Rahman Yousef Abu Khweek",
+     "instructors": [
+      "Arwa Abdel Rahman Yousef Abu Khweek"
+     ],
      "enrolled": 43,
      "capacity": null,
      "meetings": [
@@ -443,6 +488,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Emilia Joseph Antonio Rappocciolo",
+     "instructors": [
+      "Emilia Joseph Antonio Rappocciolo"
+     ],
      "enrolled": 57,
      "capacity": null,
      "meetings": [
@@ -466,6 +514,9 @@
      "type": "Lab",
      "number": "1",
      "instructor": "Shadi Khalil Mohummad Hasan",
+     "instructors": [
+      "Shadi Khalil Mohummad Hasan"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -482,6 +533,9 @@
      "type": "Lab",
      "number": "2",
      "instructor": "Munther Hikmat Mohummad Metani",
+     "instructors": [
+      "Munther Hikmat Mohummad Metani"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -498,6 +552,9 @@
      "type": "Lab",
      "number": "3",
      "instructor": "Munther Hikmat Mohummad Metani",
+     "instructors": [
+      "Munther Hikmat Mohummad Metani"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -514,6 +571,9 @@
      "type": "Lab",
      "number": "4",
      "instructor": "Rasmi Fayez Mussallam Abu Helu",
+     "instructors": [
+      "Rasmi Fayez Mussallam Abu Helu"
+     ],
      "enrolled": 21,
      "capacity": null,
      "meetings": [
@@ -530,6 +590,9 @@
      "type": "Lab",
      "number": "5",
      "instructor": "Shadi Khalil Mohummad Hasan",
+     "instructors": [
+      "Shadi Khalil Mohummad Hasan"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -553,6 +616,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Mustafa Saleh Swaileh",
+     "instructors": [
+      "Khalid Mustafa Saleh Swaileh"
+     ],
      "enrolled": 4,
      "capacity": null,
      "meetings": [
@@ -576,6 +642,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -592,6 +661,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -608,6 +680,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -624,6 +699,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Rateb Mohammad Abdul Rahman Hussein",
+     "instructors": [
+      "Rateb Mohammad Abdul Rahman Hussein"
+     ],
      "enrolled": 18,
      "capacity": null,
      "meetings": [
@@ -640,6 +718,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Rateb Mohammad Abdul Rahman Hussein",
+     "instructors": [
+      "Rateb Mohammad Abdul Rahman Hussein"
+     ],
      "enrolled": 20,
      "capacity": null,
      "meetings": [
@@ -663,6 +744,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Khalid Mustafa Saleh Swaileh",
+     "instructors": [
+      "Khalid Mustafa Saleh Swaileh"
+     ],
      "enrolled": 15,
      "capacity": null,
      "meetings": [
@@ -700,6 +784,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 45,
      "capacity": null,
      "meetings": [
@@ -730,6 +817,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+     "instructors": [
+      "Mahmoud Abdul-Rahman Husein Srour"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -767,6 +857,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamil Younis Mohammad Harb",
+     "instructors": [
+      "Jamil Younis Mohammad Harb"
+     ],
      "enrolled": 8,
      "capacity": null,
      "meetings": [
@@ -790,6 +883,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamil Younis Mohammad Harb",
+     "instructors": [
+      "Jamil Younis Mohammad Harb"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -813,6 +909,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamil Younis Mohammad Harb",
+     "instructors": [
+      "Jamil Younis Mohammad Harb"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -843,6 +942,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Jamil Younis Mohammad Harb",
+     "instructors": [
+      "Jamil Younis Mohammad Harb"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [

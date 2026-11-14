@@ -1,7 +1,7 @@
 {
  "term": "1253",
  "name": "Summer Course 2025/2026",
- "updated_at": "2026-11-07T05:31:35+00:00",
+ "updated_at": "2026-11-14T16:23:34+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1253&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 60,
      "capacity": null,
      "meetings": [
@@ -65,6 +68,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 62,
      "capacity": null,
      "meetings": [
@@ -102,6 +108,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+     "instructors": [
+      "Qasam Theeb Qassim \"Haj Mohammad\""
+     ],
      "enrolled": 59,
      "capacity": null,
      "meetings": [
@@ -139,6 +148,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+     "instructors": [
+      "Qasam Theeb Qassim \"Haj Mohammad\""
+     ],
      "enrolled": 61,
      "capacity": null,
      "meetings": [
@@ -176,6 +188,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Rana Adeeb Abdullah Kherawish",
+     "instructors": [
+      "Rana Adeeb Abdullah Kherawish"
+     ],
      "enrolled": 62,
      "capacity": null,
      "meetings": [
@@ -213,6 +228,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Omar M. H. Qassis",
+     "instructors": [
+      "Omar M. H. Qassis"
+     ],
      "enrolled": 51,
      "capacity": null,
      "meetings": [
@@ -250,6 +268,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Manar Mohammad Afif Kawasmi",
+     "instructors": [
+      "Manar Mohammad Afif Kawasmi"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -287,6 +308,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Omar M. H. Qassis",
+     "instructors": [
+      "Omar M. H. Qassis"
+     ],
      "enrolled": 46,
      "capacity": null,
      "meetings": [
@@ -331,6 +355,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Huda Ribhi Hassan Awad",
+     "instructors": [
+      "Huda Ribhi Hassan Awad"
+     ],
      "enrolled": 50,
      "capacity": null,
      "meetings": [
@@ -368,6 +395,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Huda Ribhi Hassan Awad",
+     "instructors": [
+      "Huda Ribhi Hassan Awad"
+     ],
      "enrolled": 61,
      "capacity": null,
      "meetings": [
@@ -405,6 +435,9 @@
      "type": "Lecture",
      "number": "4",
      "instructor": "Bashir Rizeqallah Abd Alraziq Doha",
+     "instructors": [
+      "Bashir Rizeqallah Abd Alraziq Doha"
+     ],
      "enrolled": 65,
      "capacity": null,
      "meetings": [
@@ -442,6 +475,9 @@
      "type": "Lecture",
      "number": "5",
      "instructor": "Rana Adeeb Abdullah Kherawish",
+     "instructors": [
+      "Rana Adeeb Abdullah Kherawish"
+     ],
      "enrolled": 61,
      "capacity": null,
      "meetings": [
@@ -479,6 +515,9 @@
      "type": "Lecture",
      "number": "6",
      "instructor": "Rami Fawzi Issa Salameh",
+     "instructors": [
+      "Rami Fawzi Issa Salameh"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -516,6 +555,9 @@
      "type": "Lecture",
      "number": "7",
      "instructor": "Manar Mohammad Afif Kawasmi",
+     "instructors": [
+      "Manar Mohammad Afif Kawasmi"
+     ],
      "enrolled": 69,
      "capacity": null,
      "meetings": [
@@ -553,6 +595,9 @@
      "type": "Lecture",
      "number": "8",
      "instructor": "Sa'D Fathi Said Nimer",
+     "instructors": [
+      "Sa'D Fathi Said Nimer"
+     ],
      "enrolled": 61,
      "capacity": null,
      "meetings": [
@@ -590,6 +635,9 @@
      "type": "Lecture",
      "number": "9",
      "instructor": "Sa'D Fathi Said Nimer",
+     "instructors": [
+      "Sa'D Fathi Said Nimer"
+     ],
      "enrolled": 63,
      "capacity": null,
      "meetings": [

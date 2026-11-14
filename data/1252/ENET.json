@@ -1,7 +1,7 @@
 {
  "term": "1252",
  "name": "Second Semester 2025/2026",
- "updated_at": "2026-11-07T05:31:56+00:00",
+ "updated_at": "2026-11-14T16:23:57+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1252&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -28,6 +28,9 @@
      "type": "Lecture",
      "number": "2",
      "instructor": "Afif A. M. Akel",
+     "instructors": [
+      "Afif A. M. Akel"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": [
@@ -44,6 +47,9 @@
      "type": "Lecture",
      "number": "3",
      "instructor": "Rashed M. Y. Al-Sa'Ed",
+     "instructors": [
+      "Rashed M. Y. Al-Sa'Ed"
+     ],
      "enrolled": 5,
      "capacity": null,
      "meetings": [
@@ -67,6 +73,9 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+     "instructors": [
+      "Ahmed Mohammed Ahmed Abu Hanieh"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
@@ -90,6 +99,10 @@
      "type": "Lecture",
      "number": "1",
      "instructor": "Maher Omar Rushdi Abu-Madi, Rashed M. Y. Al-Sa'Ed",
+     "instructors": [
+      "Maher Omar Rushdi Abu-Madi",
+      "Rashed M. Y. Al-Sa'Ed"
+     ],
      "enrolled": 11,
      "capacity": null,
      "meetings": [
