@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-16T11:19:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "MPAS",
  "counts": {
   "courses": 8,
-  "sections": 12,
+  "sections": 13,
   "instructors": 5,
   "rooms": 5
  },
@@ -237,6 +237,17 @@
     {
      "type": "Lecture",
      "number": "5",
+     "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
      "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
      "instructors": [
       "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
