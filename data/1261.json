@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-15T10:55:28+00:00",
+ "updated_at": "2026-11-16T11:19:55+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "counts": {
   "courses": 1171,
-  "sections": 2835,
-  "instructors": 714,
+  "sections": 2838,
+  "instructors": 716,
   "rooms": 260
  },
  "courses": [
@@ -2319,7 +2319,7 @@
      "instructors": [
       "Suhaib Jalal Abdel Majeed Wadi"
      ],
-     "enrolled": 42,
+     "enrolled": 43,
      "capacity": null,
      "meetings": [
       {
@@ -13696,7 +13696,7 @@
      "instructors": [
       "Reem N. A. Masri"
      ],
-     "enrolled": 8,
+     "enrolled": 9,
      "capacity": null,
      "meetings": [
       {
@@ -13722,7 +13722,7 @@
      "instructors": [
       "Mohammed S. M. Khalil"
      ],
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": [
       {
@@ -13755,7 +13755,7 @@
      "instructors": [
       "Majd N. A. Masri"
      ],
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": [
       {
@@ -13774,7 +13774,7 @@
      "instructors": [
       "Majd N. A. Masri"
      ],
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": [
       {
@@ -13873,7 +13873,7 @@
      "instructors": [
       "Mahmoud M. A. Abu Hashhash"
      ],
-     "enrolled": 25,
+     "enrolled": 26,
      "capacity": null,
      "meetings": [
       {
@@ -16905,8 +16905,10 @@
     {
      "type": "Lab",
      "number": "2",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Joud Khaldoon Khalil Abuhomos",
+     "instructors": [
+      "Joud Khaldoon Khalil Abuhomos"
+     ],
      "enrolled": 16,
      "capacity": null,
      "meetings": [
@@ -17188,8 +17190,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Joud Khaldoon Khalil Abuhomos",
+     "instructors": [
+      "Joud Khaldoon Khalil Abuhomos"
+     ],
      "enrolled": 30,
      "capacity": null,
      "meetings": [
@@ -17264,8 +17268,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Joud Khaldoon Khalil Abuhomos",
+     "instructors": [
+      "Joud Khaldoon Khalil Abuhomos"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -17281,8 +17287,10 @@
     {
      "type": "Lab",
      "number": "2",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Joud Khaldoon Khalil Abuhomos",
+     "instructors": [
+      "Joud Khaldoon Khalil Abuhomos"
+     ],
      "enrolled": 24,
      "capacity": null,
      "meetings": [
@@ -31642,7 +31650,7 @@
       "Yaseen Nour Al_Din Mohammad Al_Sayyed",
       "Afaf R. A. Said"
      ],
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -39871,14 +39879,14 @@
      "meetings": [
       {
        "day": "S",
-       "start": "09:25",
+       "start": "09:30",
        "end": "10:50",
        "room": "Bahrain221",
        "building": "Bahrain"
       },
       {
        "day": "M",
-       "start": "09:25",
+       "start": "09:30",
        "end": "10:50",
        "room": "Bahrain221",
        "building": "Bahrain"
@@ -41021,6 +41029,17 @@
      "instructor": "Maysaa Yousef Khaled Nemer",
      "instructors": [
       "Maysaa Yousef Khaled Nemer"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Aisha Abdel Munem Omran Shalash",
+     "instructors": [
+      "Aisha Abdel Munem Omran Shalash"
      ],
      "enrolled": 1,
      "capacity": null,
@@ -50633,6 +50652,17 @@
      "enrolled": 1,
      "capacity": null,
      "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+     "instructors": [
+      "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
     }
    ]
   },
@@ -51122,8 +51152,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -51131,8 +51163,10 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -51167,8 +51201,10 @@
     {
      "type": "Lecture",
      "number": "6",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Hani Bsharah Yousef Asaad",
+     "instructors": [
+      "Hani Bsharah Yousef Asaad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -51203,8 +51239,10 @@
     {
      "type": "Lecture",
      "number": "10",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Hani Bsharah Yousef Asaad",
+     "instructors": [
+      "Hani Bsharah Yousef Asaad"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -51726,8 +51764,10 @@
     {
      "type": "Lecture",
      "number": "3",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Naseem Anton Dakwer",
+     "instructors": [
+      "Naseem Anton Dakwer"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -56521,6 +56561,17 @@
      "enrolled": 1,
      "capacity": null,
      "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Rafi Hussien Mahmoud Asfour",
+     "instructors": [
+      "Rafi Hussien Mahmoud Asfour"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
     }
    ]
   },
@@ -60194,7 +60245,7 @@
      "instructors": [
       "Mayyada Ismae'L Hasan Badawi"
      ],
-     "enrolled": 96,
+     "enrolled": 97,
      "capacity": null,
      "meetings": [
       {
@@ -60213,7 +60264,7 @@
      "instructors": [
       "Mahmoud Ahmed Mahmoud Issa"
      ],
-     "enrolled": 33,
+     "enrolled": 34,
      "capacity": null,
      "meetings": [
       {
@@ -61864,7 +61915,7 @@
      "instructors": [
       "Hasan Ahmad Soliman Ladadweh"
      ],
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
