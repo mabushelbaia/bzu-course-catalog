@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-17T11:54:56+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 18,
   "sections": 38,
   "instructors": 13,
-  "rooms": 24
+  "rooms": 25
  },
  "courses": [
   {
@@ -31,7 +31,7 @@
      "instructors": [
       "Samia Mahmoud Ahmad Al-Botmeh"
      ],
-     "enrolled": 152,
+     "enrolled": 153,
      "capacity": null,
      "meetings": [
       {
@@ -593,8 +593,8 @@
        "day": "S",
        "start": "11:00",
        "end": "12:20",
-       "room": "Al-Juraysi221",
-       "building": null
+       "room": "SCI021",
+       "building": "SCI"
       },
       {
        "day": "M",
@@ -645,7 +645,7 @@
      "instructors": [
       "Shireen Mustafa Kamel Al Basha"
      ],
-     "enrolled": 58,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -881,7 +881,7 @@
      "instructors": [
       "Tareq Mohammad Tallat Abdulfatah Ashour"
      ],
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -966,7 +966,7 @@
      "instructors": [
       "Adel Said Fares Zagha"
      ],
-     "enrolled": 17,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {

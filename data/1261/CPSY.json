@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-17T11:54:56+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "CPSY",
  "counts": {
   "courses": 10,
-  "sections": 12,
+  "sections": 14,
   "instructors": 7,
   "rooms": 5
  },
@@ -295,6 +295,28 @@
      "instructor": "Lena Mohammad Abdel-Hamid Meari",
      "instructors": [
       "Lena Mohammad Abdel-Hamid Meari"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
      ],
      "enrolled": 1,
      "capacity": null,

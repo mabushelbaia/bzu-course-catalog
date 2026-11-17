@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-17T11:54:56+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 28,
   "sections": 75,
-  "instructors": 18,
+  "instructors": 19,
   "rooms": 29
  },
  "courses": [
@@ -1000,7 +1000,7 @@
      "instructors": [
       "Hakam Suleiman Nu'Man Shehadeh"
      ],
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -1654,9 +1654,9 @@
     {
      "type": "Lecture",
      "number": "6",
-     "instructor": "Jamal Othman Hosen Seyam",
+     "instructor": "Ahmad Ibrahim Mousa Alyan",
      "instructors": [
-      "Jamal Othman Hosen Seyam"
+      "Ahmad Ibrahim Mousa Alyan"
      ],
      "enrolled": 2,
      "capacity": null,
