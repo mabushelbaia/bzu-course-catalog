@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-16T11:19:55+00:00",
+ "updated_at": "2026-11-17T11:54:56+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -9180,14 +9180,6 @@
     "S",
     "09:30",
     "10:50"
-   ],
-   [
-    "ECON3311",
-    "2",
-    "Mohammad Nassar Ahmad Amreyeh",
-    "S",
-    "11:00",
-    "12:20"
    ],
    [
     "FINN4302",
@@ -22474,6 +22466,14 @@
     "10:50"
    ],
    [
+    "ECON3311",
+    "2",
+    "Mohammad Nassar Ahmad Amreyeh",
+    "S",
+    "11:00",
+    "12:20"
+   ],
+   [
     "BIOT4340",
     "1",
     "Abdallah Taha Suleiman Abu Taha",
@@ -23246,7 +23246,7 @@
    [
     "MATH234",
     "1",
-    "Ahmad Yousef Rateb Al-Dweik",
+    "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
     "T",
     "09:30",
     "10:50"
@@ -23270,7 +23270,7 @@
    [
     "MATH234",
     "2",
-    "Ahmad Yousef Rateb Al-Dweik",
+    "Khaled Radwan Ali Altakhman, Ahmad Yousef Rateb Al-Dweik",
     "W",
     "08:00",
     "09:20"
@@ -23278,7 +23278,7 @@
    [
     "MATH234",
     "1",
-    "Ahmad Yousef Rateb Al-Dweik",
+    "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
     "W",
     "09:30",
     "10:50"
@@ -23302,7 +23302,7 @@
    [
     "MATH234",
     "2",
-    "Ahmad Yousef Rateb Al-Dweik",
+    "Khaled Radwan Ali Altakhman, Ahmad Yousef Rateb Al-Dweik",
     "R",
     "08:00",
     "09:20"
@@ -24088,7 +24088,7 @@
    [
     "MATH2312",
     "2",
-    "Ahmad Yousef Rateb Al-Dweik",
+    "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
     "T",
     "11:00",
     "12:20"
@@ -24120,7 +24120,7 @@
    [
     "MATH2312",
     "1",
-    "Ahmad Yousef Rateb Al-Dweik",
+    "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
     "W",
     "12:30",
     "13:50"
@@ -24152,7 +24152,7 @@
    [
     "MATH2312",
     "2",
-    "Ahmad Yousef Rateb Al-Dweik",
+    "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
     "R",
     "11:00",
     "12:20"
@@ -24160,7 +24160,7 @@
    [
     "MATH2312",
     "1",
-    "Ahmad Yousef Rateb Al-Dweik",
+    "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
     "R",
     "12:30",
     "13:50"

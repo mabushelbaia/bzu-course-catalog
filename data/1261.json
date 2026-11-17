@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-16T11:19:55+00:00",
+ "updated_at": "2026-11-17T11:54:56+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "counts": {
   "courses": 1171,
   "sections": 2838,
-  "instructors": 716,
+  "instructors": 715,
   "rooms": 260
  },
  "courses": [
@@ -6131,7 +6131,7 @@
      "instructors": [
       "Rania Yaser Qostande Jaber"
      ],
-     "enrolled": 131,
+     "enrolled": 132,
      "capacity": null,
      "meetings": [
       {
@@ -6438,7 +6438,7 @@
      "instructors": [
       "Maisa Yacoub Naoum Burbar"
      ],
-     "enrolled": 32,
+     "enrolled": 33,
      "capacity": null,
      "meetings": [
       {
@@ -6497,7 +6497,7 @@
      "instructors": [
       "Issam K. H. Halayqa"
      ],
-     "enrolled": 16,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -6674,7 +6674,7 @@
      "instructors": [
       "Alaa Mohammad Fares Hamad"
      ],
-     "enrolled": 131,
+     "enrolled": 132,
      "capacity": null,
      "meetings": [
       {
@@ -7559,7 +7559,7 @@
      "instructors": [
       "Grace Cana'An Daoud Khoury"
      ],
-     "enrolled": 11,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
@@ -10150,7 +10150,7 @@
      "instructors": [
       "Mohammed A. A. Husseinali"
      ],
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -10511,7 +10511,7 @@
      "instructors": [
       "Mohammed A. A. Husseinali"
      ],
-     "enrolled": 20,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -14560,6 +14560,28 @@
      "enrolled": 1,
      "capacity": null,
      "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Sama Suheil Salman Dawani",
+     "instructors": [
+      "Sama Suheil Salman Dawani"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
     }
    ]
   },
@@ -17272,7 +17294,7 @@
      "instructors": [
       "Joud Khaldoon Khalil Abuhomos"
      ],
-     "enrolled": 24,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -17291,7 +17313,7 @@
      "instructors": [
       "Joud Khaldoon Khalil Abuhomos"
      ],
-     "enrolled": 24,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -18939,7 +18961,7 @@
      "instructors": [
       "Samia Mahmoud Ahmad Al-Botmeh"
      ],
-     "enrolled": 152,
+     "enrolled": 153,
      "capacity": null,
      "meetings": [
       {
@@ -19501,8 +19523,8 @@
        "day": "S",
        "start": "11:00",
        "end": "12:20",
-       "room": "Al-Juraysi221",
-       "building": null
+       "room": "SCI021",
+       "building": "SCI"
       },
       {
        "day": "M",
@@ -19553,7 +19575,7 @@
      "instructors": [
       "Shireen Mustafa Kamel Al Basha"
      ],
-     "enrolled": 58,
+     "enrolled": 59,
      "capacity": null,
      "meetings": [
       {
@@ -19789,7 +19811,7 @@
      "instructors": [
       "Tareq Mohammad Tallat Abdulfatah Ashour"
      ],
-     "enrolled": 22,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -19874,7 +19896,7 @@
      "instructors": [
       "Adel Said Fares Zagha"
      ],
-     "enrolled": 17,
+     "enrolled": 18,
      "capacity": null,
      "meetings": [
       {
@@ -27487,9 +27509,9 @@
     {
      "type": "Lecture",
      "number": "11",
-     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "instructor": "Jamal Othman Hosen Seyam",
      "instructors": [
-      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
+      "Jamal Othman Hosen Seyam"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -27674,9 +27696,9 @@
     {
      "type": "Lecture",
      "number": "28",
-     "instructor": "Khader Shehadeh Nassar Mohammad",
+     "instructor": "Hanna Saba Hanna Bullata",
      "instructors": [
-      "Khader Shehadeh Nassar Mohammad"
+      "Hanna Saba Hanna Bullata"
      ],
      "enrolled": 1,
      "capacity": null,
@@ -27707,9 +27729,9 @@
     {
      "type": "Lecture",
      "number": "31",
-     "instructor": "Adnan Hussein Mahmoud Yahya",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
      "instructors": [
-      "Adnan Hussein Mahmoud Yahya"
+      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -27976,28 +27998,6 @@
       "Mohammed Ahmed Abdelrahman Khalil"
      ],
      "enrolled": 3,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "58",
-     "instructor": "Bilal Jafar Hamed Karaki",
-     "instructors": [
-      "Bilal Jafar Hamed Karaki"
-     ],
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "59",
-     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
-     "instructors": [
-      "Muhammad Sharif Mustafa Abu-Khaizaran"
-     ],
-     "enrolled": 0,
      "capacity": null,
      "meetings": []
     }
@@ -28330,9 +28330,9 @@
     {
      "type": "Lecture",
      "number": "31",
-     "instructor": "Adnan Hussein Mahmoud Yahya",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
      "instructors": [
-      "Adnan Hussein Mahmoud Yahya"
+      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -28390,17 +28390,6 @@
       "Ahmad Saleh Ibrahim Alsadeh"
      ],
      "enrolled": 3,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "37",
-     "instructor": "Ahmad Saleh Ibrahim Alsadeh",
-     "instructors": [
-      "Ahmad Saleh Ibrahim Alsadeh"
-     ],
-     "enrolled": 0,
      "capacity": null,
      "meetings": []
     },
@@ -29722,7 +29711,7 @@
      "instructors": [
       "Hakam Suleiman Nu'Man Shehadeh"
      ],
-     "enrolled": 46,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -30376,9 +30365,9 @@
     {
      "type": "Lecture",
      "number": "6",
-     "instructor": "Jamal Othman Hosen Seyam",
+     "instructor": "Ahmad Ibrahim Mousa Alyan",
      "instructors": [
-      "Jamal Othman Hosen Seyam"
+      "Ahmad Ibrahim Mousa Alyan"
      ],
      "enrolled": 2,
      "capacity": null,
@@ -31879,7 +31868,7 @@
      "instructors": [
       "Rula Tony Jabra Yousef"
      ],
-     "enrolled": 12,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
@@ -32103,7 +32092,7 @@
      "instructors": [
       "Rami Mahmoud Mohammed Abu Shamma"
      ],
-     "enrolled": 36,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -38065,7 +38054,7 @@
      "instructors": [
       "Fawzeya Mohmmed Idrees Mermash"
      ],
-     "enrolled": 13,
+     "enrolled": 14,
      "capacity": null,
      "meetings": [
       {
@@ -38098,7 +38087,7 @@
      "instructors": [
       "Hanine J. M. Hmouz"
      ],
-     "enrolled": 11,
+     "enrolled": 12,
      "capacity": null,
      "meetings": [
       {
@@ -38131,7 +38120,7 @@
      "instructors": [
       "Bissan Mohammed Ahmed Abu-Zaid"
      ],
-     "enrolled": 14,
+     "enrolled": 15,
      "capacity": null,
      "meetings": [
       {
@@ -41040,6 +41029,17 @@
      "instructor": "Aisha Abdel Munem Omran Shalash",
      "instructors": [
       "Aisha Abdel Munem Omran Shalash"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "instructors": [
+      "Bihan Ahmad Taher Al_Qaimari"
      ],
      "enrolled": 1,
      "capacity": null,
@@ -45832,7 +45832,7 @@
      "instructors": [
       "Mohammad W. K. Adarbeh"
      ],
-     "enrolled": 53,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -45851,7 +45851,7 @@
      "instructors": [
       "Mohammad W. K. Adarbeh"
      ],
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -45896,7 +45896,7 @@
      "instructors": [
       "Sundos Rafat Ibrahem Khalil"
      ],
-     "enrolled": 189,
+     "enrolled": 190,
      "capacity": null,
      "meetings": [
       {
@@ -46019,7 +46019,7 @@
      "instructors": [
       "Mohammad Tahseen Mustafa Ishtayeh"
      ],
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -46551,8 +46551,9 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "instructor": "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
      "instructors": [
+      "Farah Gh. S. Omar",
       "Ahmad Yousef Rateb Al-Dweik"
      ],
      "enrolled": 32,
@@ -46577,8 +46578,9 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "instructor": "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
      "instructors": [
+      "Farah Gh. S. Omar",
       "Ahmad Yousef Rateb Al-Dweik"
      ],
      "enrolled": 39,
@@ -46610,8 +46612,9 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "instructor": "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
      "instructors": [
+      "Farah Gh. S. Omar",
       "Ahmad Yousef Rateb Al-Dweik"
      ],
      "enrolled": 53,
@@ -46636,8 +46639,9 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "instructor": "Khaled Radwan Ali Altakhman, Ahmad Yousef Rateb Al-Dweik",
      "instructors": [
+      "Khaled Radwan Ali Altakhman",
       "Ahmad Yousef Rateb Al-Dweik"
      ],
      "enrolled": 54,
@@ -60628,7 +60632,7 @@
      "instructors": [
       "Omar Mohammad As'Ad Rahal"
      ],
-     "enrolled": 40,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -60937,7 +60941,7 @@
      "instructors": [
       "Hasan Odeh Hasan Abu Thaher"
      ],
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {

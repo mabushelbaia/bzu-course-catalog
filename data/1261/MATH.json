@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-17T11:54:56+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -529,7 +529,7 @@
      "instructors": [
       "Mohammad W. K. Adarbeh"
      ],
-     "enrolled": 53,
+     "enrolled": 54,
      "capacity": null,
      "meetings": [
       {
@@ -548,7 +548,7 @@
      "instructors": [
       "Mohammad W. K. Adarbeh"
      ],
-     "enrolled": 47,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -593,7 +593,7 @@
      "instructors": [
       "Sundos Rafat Ibrahem Khalil"
      ],
-     "enrolled": 189,
+     "enrolled": 190,
      "capacity": null,
      "meetings": [
       {
@@ -716,7 +716,7 @@
      "instructors": [
       "Mohammad Tahseen Mustafa Ishtayeh"
      ],
-     "enrolled": 49,
+     "enrolled": 50,
      "capacity": null,
      "meetings": [
       {
@@ -1248,8 +1248,9 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "instructor": "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
      "instructors": [
+      "Farah Gh. S. Omar",
       "Ahmad Yousef Rateb Al-Dweik"
      ],
      "enrolled": 32,
@@ -1274,8 +1275,9 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "instructor": "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
      "instructors": [
+      "Farah Gh. S. Omar",
       "Ahmad Yousef Rateb Al-Dweik"
      ],
      "enrolled": 39,
@@ -1307,8 +1309,9 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "instructor": "Farah Gh. S. Omar, Ahmad Yousef Rateb Al-Dweik",
      "instructors": [
+      "Farah Gh. S. Omar",
       "Ahmad Yousef Rateb Al-Dweik"
      ],
      "enrolled": 53,
@@ -1333,8 +1336,9 @@
     {
      "type": "Lecture",
      "number": "2",
-     "instructor": "Ahmad Yousef Rateb Al-Dweik",
+     "instructor": "Khaled Radwan Ali Altakhman, Ahmad Yousef Rateb Al-Dweik",
      "instructors": [
+      "Khaled Radwan Ali Altakhman",
       "Ahmad Yousef Rateb Al-Dweik"
      ],
      "enrolled": 54,

@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-17T11:54:56+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,8 +14,8 @@
  "prefix": "ENCS",
  "counts": {
   "courses": 38,
-  "sections": 213,
-  "instructors": 45,
+  "sections": 210,
+  "instructors": 44,
   "rooms": 29
  },
  "courses": [
@@ -2657,9 +2657,9 @@
     {
      "type": "Lecture",
      "number": "11",
-     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "instructor": "Jamal Othman Hosen Seyam",
      "instructors": [
-      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
+      "Jamal Othman Hosen Seyam"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -2844,9 +2844,9 @@
     {
      "type": "Lecture",
      "number": "28",
-     "instructor": "Khader Shehadeh Nassar Mohammad",
+     "instructor": "Hanna Saba Hanna Bullata",
      "instructors": [
-      "Khader Shehadeh Nassar Mohammad"
+      "Hanna Saba Hanna Bullata"
      ],
      "enrolled": 1,
      "capacity": null,
@@ -2877,9 +2877,9 @@
     {
      "type": "Lecture",
      "number": "31",
-     "instructor": "Adnan Hussein Mahmoud Yahya",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
      "instructors": [
-      "Adnan Hussein Mahmoud Yahya"
+      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -3146,28 +3146,6 @@
       "Mohammed Ahmed Abdelrahman Khalil"
      ],
      "enrolled": 3,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "58",
-     "instructor": "Bilal Jafar Hamed Karaki",
-     "instructors": [
-      "Bilal Jafar Hamed Karaki"
-     ],
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "59",
-     "instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
-     "instructors": [
-      "Muhammad Sharif Mustafa Abu-Khaizaran"
-     ],
-     "enrolled": 0,
      "capacity": null,
      "meetings": []
     }
@@ -3500,9 +3478,9 @@
     {
      "type": "Lecture",
      "number": "31",
-     "instructor": "Adnan Hussein Mahmoud Yahya",
+     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
      "instructors": [
-      "Adnan Hussein Mahmoud Yahya"
+      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -3560,17 +3538,6 @@
       "Ahmad Saleh Ibrahim Alsadeh"
      ],
      "enrolled": 3,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
-     "number": "37",
-     "instructor": "Ahmad Saleh Ibrahim Alsadeh",
-     "instructors": [
-      "Ahmad Saleh Ibrahim Alsadeh"
-     ],
-     "enrolled": 0,
      "capacity": null,
      "meetings": []
     },

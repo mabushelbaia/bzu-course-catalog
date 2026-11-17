@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-16T11:19:55+00:00",
+ "updated_at": "2026-11-17T11:54:56+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,8 +14,8 @@
  "prefix": "HLTH",
  "counts": {
   "courses": 9,
-  "sections": 19,
-  "instructors": 7,
+  "sections": 20,
+  "instructors": 8,
   "rooms": 2
  },
  "courses": [
@@ -348,6 +348,17 @@
      "instructor": "Aisha Abdel Munem Omran Shalash",
      "instructors": [
       "Aisha Abdel Munem Omran Shalash"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "instructors": [
+      "Bihan Ahmad Taher Al_Qaimari"
      ],
      "enrolled": 1,
      "capacity": null,
