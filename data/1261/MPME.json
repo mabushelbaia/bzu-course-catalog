@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-18T11:44:09+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -31,7 +31,7 @@
      "instructors": [
       "Suhail Sami Sadeq Sultan"
      ],
-     "enrolled": 38,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -50,7 +50,7 @@
      "instructors": [
       "Mustafa Shaban Mas'Oud Abed Musa"
      ],
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -95,7 +95,7 @@
      "instructors": [
       "Maysaa Yousef Khaled Nemer"
      ],
-     "enrolled": 40,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -114,7 +114,7 @@
      "instructors": [
       "Abdul Naser Amin Ahed Arafat"
      ],
-     "enrolled": 14,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
