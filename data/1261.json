@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-17T11:54:56+00:00",
+ "updated_at": "2026-11-18T11:44:09+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -2579,7 +2579,7 @@
      "instructors": [
       "Mariam S. A. Karakrah"
      ],
-     "enrolled": 43,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -15502,7 +15502,7 @@
      "instructors": [
       "Abdul Karim Majed Mustafa Barghothi"
      ],
-     "enrolled": 48,
+     "enrolled": 49,
      "capacity": null,
      "meetings": [
       {
@@ -20243,7 +20243,7 @@
      "instructors": [
       "Fatma K. M. Mohammed"
      ],
-     "enrolled": 18,
+     "enrolled": 17,
      "capacity": null,
      "meetings": [
       {
@@ -28330,9 +28330,9 @@
     {
      "type": "Lecture",
      "number": "31",
-     "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+     "instructor": "Khader Shehadeh Nassar Mohammad",
      "instructors": [
-      "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh"
+      "Khader Shehadeh Nassar Mohammad"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -50682,7 +50682,7 @@
      "instructors": [
       "Suhail Sami Sadeq Sultan"
      ],
-     "enrolled": 38,
+     "enrolled": 37,
      "capacity": null,
      "meetings": [
       {
@@ -50701,7 +50701,7 @@
      "instructors": [
       "Mustafa Shaban Mas'Oud Abed Musa"
      ],
-     "enrolled": 15,
+     "enrolled": 16,
      "capacity": null,
      "meetings": [
       {
@@ -50746,7 +50746,7 @@
      "instructors": [
       "Maysaa Yousef Khaled Nemer"
      ],
-     "enrolled": 40,
+     "enrolled": 42,
      "capacity": null,
      "meetings": [
       {
@@ -50765,7 +50765,7 @@
      "instructors": [
       "Abdul Naser Amin Ahed Arafat"
      ],
-     "enrolled": 14,
+     "enrolled": 13,
      "capacity": null,
      "meetings": [
       {
@@ -56104,7 +56104,7 @@
      "instructors": [
       "Sana' Mohammad Mahmoud Liftawi"
      ],
-     "enrolled": 8,
+     "enrolled": 9,
      "capacity": null,
      "meetings": [
       {
@@ -56208,7 +56208,7 @@
      "instructors": [
       "Khaled Ali Mahmoud Mallouh"
      ],
-     "enrolled": 4,
+     "enrolled": 5,
      "capacity": null,
      "meetings": []
     },
@@ -56237,7 +56237,7 @@
      "instructors": [
       "Mahmoud W. M. Kaied"
      ],
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -56289,7 +56289,7 @@
      "instructors": [
       "Khaled Ali Mahmoud Mallouh"
      ],
-     "enrolled": 45,
+     "enrolled": 46,
      "capacity": null,
      "meetings": [
       {
@@ -56393,7 +56393,7 @@
      "instructors": [
       "Tareq Gazi Ayesh Raja"
      ],
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": [
       {
