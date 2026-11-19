@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-19T11:42:46+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 20,
   "sections": 60,
   "instructors": 22,
-  "rooms": 6
+  "rooms": 7
  },
  "courses": [
   {
@@ -31,7 +31,7 @@
      "instructors": [
       "Yara Mohamed Mousa Bamieh"
      ],
-     "enrolled": 20,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -95,7 +95,7 @@
      "instructors": [
       "Rawan O. B. Masharqa"
      ],
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -180,7 +180,7 @@
      "instructors": [
       "Ayman S. I. Zaid"
      ],
-     "enrolled": 39,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -277,7 +277,7 @@
      "instructors": [
       "Samara Mahmoud Shehadeh Abughanam"
      ],
-     "enrolled": 22,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -360,7 +360,7 @@
      "instructors": [
       "Heba O. G. Tannous"
      ],
-     "enrolled": 68,
+     "enrolled": 67,
      "capacity": null,
      "meetings": [
       {
@@ -431,7 +431,7 @@
      "instructors": [
       "Mera Zeyad Mohammad Idries"
      ],
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -795,15 +795,15 @@
        "day": "M",
        "start": "08:00",
        "end": "10:50",
-       "room": null,
-       "building": null
+       "room": "Aweidah234",
+       "building": "Aweidah"
       },
       {
        "day": "W",
        "start": "08:00",
        "end": "10:50",
-       "room": null,
-       "building": null
+       "room": "Aweidah234",
+       "building": "Aweidah"
       }
      ]
     },

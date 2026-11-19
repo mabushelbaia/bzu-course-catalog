@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-17T11:54:56+00:00",
+ "updated_at": "2026-11-19T11:42:46+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -16,7 +16,7 @@
   "courses": 18,
   "sections": 38,
   "instructors": 13,
-  "rooms": 25
+  "rooms": 24
  },
  "courses": [
   {
@@ -888,15 +888,15 @@
        "day": "T",
        "start": "12:30",
        "end": "13:50",
-       "room": "SCI012",
-       "building": "SCI"
+       "room": "Al-Juraysi321",
+       "building": null
       },
       {
        "day": "R",
        "start": "12:30",
        "end": "13:50",
-       "room": "SCI012",
-       "building": "SCI"
+       "room": "Al-Juraysi321",
+       "building": null
       }
      ]
     }

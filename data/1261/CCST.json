@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-19T11:42:46+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -27,10 +27,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Wasim Abdelqader Mohammed Abu Fasheh, Basil Abdelrazeq Yaseen Farraj",
+     "instructor": "Basil Abdelrazeq Yaseen Farraj, Wasim Abdelqader Mohammed Abu Fasheh",
      "instructors": [
-      "Wasim Abdelqader Mohammed Abu Fasheh",
-      "Basil Abdelrazeq Yaseen Farraj"
+      "Basil Abdelrazeq Yaseen Farraj",
+      "Wasim Abdelqader Mohammed Abu Fasheh"
      ],
      "enrolled": 6,
      "capacity": null,

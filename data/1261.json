@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-18T11:44:09+00:00",
+ "updated_at": "2026-11-19T11:42:46+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "counts": {
   "courses": 1171,
-  "sections": 2838,
-  "instructors": 715,
+  "sections": 2869,
+  "instructors": 734,
   "rooms": 260
  },
  "courses": [
@@ -7903,10 +7903,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Wasim Abdelqader Mohammed Abu Fasheh, Basil Abdelrazeq Yaseen Farraj",
+     "instructor": "Basil Abdelrazeq Yaseen Farraj, Wasim Abdelqader Mohammed Abu Fasheh",
      "instructors": [
-      "Wasim Abdelqader Mohammed Abu Fasheh",
-      "Basil Abdelrazeq Yaseen Farraj"
+      "Basil Abdelrazeq Yaseen Farraj",
+      "Wasim Abdelqader Mohammed Abu Fasheh"
      ],
      "enrolled": 6,
      "capacity": null,
@@ -16678,7 +16678,7 @@
      "instructors": [
       "Aseel A. J. Abusada"
      ],
-     "enrolled": 45,
+     "enrolled": 44,
      "capacity": null,
      "meetings": [
       {
@@ -17649,7 +17649,7 @@
      "instructors": [
       "Yara Mohamed Mousa Bamieh"
      ],
-     "enrolled": 20,
+     "enrolled": 19,
      "capacity": null,
      "meetings": [
       {
@@ -17713,7 +17713,7 @@
      "instructors": [
       "Rawan O. B. Masharqa"
      ],
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -17798,7 +17798,7 @@
      "instructors": [
       "Ayman S. I. Zaid"
      ],
-     "enrolled": 39,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -17895,7 +17895,7 @@
      "instructors": [
       "Samara Mahmoud Shehadeh Abughanam"
      ],
-     "enrolled": 22,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -17978,7 +17978,7 @@
      "instructors": [
       "Heba O. G. Tannous"
      ],
-     "enrolled": 68,
+     "enrolled": 67,
      "capacity": null,
      "meetings": [
       {
@@ -18049,7 +18049,7 @@
      "instructors": [
       "Mera Zeyad Mohammad Idries"
      ],
-     "enrolled": 21,
+     "enrolled": 20,
      "capacity": null,
      "meetings": [
       {
@@ -18413,15 +18413,15 @@
        "day": "M",
        "start": "08:00",
        "end": "10:50",
-       "room": null,
-       "building": null
+       "room": "Aweidah234",
+       "building": "Aweidah"
       },
       {
        "day": "W",
        "start": "08:00",
        "end": "10:50",
-       "room": null,
-       "building": null
+       "room": "Aweidah234",
+       "building": "Aweidah"
       }
      ]
     },
@@ -19818,15 +19818,15 @@
        "day": "T",
        "start": "12:30",
        "end": "13:50",
-       "room": "SCI012",
-       "building": "SCI"
+       "room": "Al-Juraysi321",
+       "building": null
       },
       {
        "day": "R",
        "start": "12:30",
        "end": "13:50",
-       "room": "SCI012",
-       "building": "SCI"
+       "room": "Al-Juraysi321",
+       "building": null
       }
      ]
     }
@@ -27509,9 +27509,9 @@
     {
      "type": "Lecture",
      "number": "11",
-     "instructor": "Jamal Othman Hosen Seyam",
+     "instructor": "Iyad Khalil Ahmad Tumar",
      "instructors": [
-      "Jamal Othman Hosen Seyam"
+      "Iyad Khalil Ahmad Tumar"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -27817,9 +27817,9 @@
     {
      "type": "Lecture",
      "number": "39",
-     "instructor": "Iyad Khalil Ahmad Tumar",
+     "instructor": "Jamal Othman Hosen Seyam",
      "instructors": [
-      "Iyad Khalil Ahmad Tumar"
+      "Jamal Othman Hosen Seyam"
      ],
      "enrolled": 2,
      "capacity": null,
@@ -42581,7 +42581,7 @@
      "instructors": [
       "Mohammed Ibrahim Mohammed Alqaisi"
      ],
-     "enrolled": 189,
+     "enrolled": 190,
      "capacity": null,
      "meetings": [
       {
@@ -42676,7 +42676,7 @@
      "instructors": [
       "Rola Khaled Ahmad Aisa"
      ],
-     "enrolled": 64,
+     "enrolled": 65,
      "capacity": null,
      "meetings": [
       {
@@ -47510,15 +47510,6 @@
     },
     {
      "type": "Lecture",
-     "number": "3",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": []
-    },
-    {
-     "type": "Lecture",
      "number": "4",
      "instructor": "Edriss A. Titi, Ala Ata Abdelhady Talahmeh",
      "instructors": [
@@ -50753,7 +50744,7 @@
        "day": "S",
        "start": "14:00",
        "end": "16:50",
-       "room": "Al-Juraysi223",
+       "room": "Al-Juraysi225",
        "building": null
       }
      ]
@@ -52019,10 +52010,45 @@
    "sections": [
     {
      "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "number": "2",
+     "instructor": "Khalid Samer Ahmad Yaseen",
+     "instructors": [
+      "Khalid Samer Ahmad Yaseen"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Hatem Khalaf Mohammed Idais Manasrah",
+     "instructors": [
+      "Hatem Khalaf Mohammed Idais Manasrah"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "instructors": [
+      "Omar Hasan Abdulghani Almahmoud"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Omar Hasan Abdulghani Almahmoud",
+     "instructors": [
+      "Omar Hasan Abdulghani Almahmoud"
+     ],
+     "enrolled": 5,
      "capacity": null,
      "meetings": []
     }
@@ -52100,10 +52126,173 @@
    "sections": [
     {
      "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "number": "2",
+     "instructor": "Etaf A. M. Nazal",
+     "instructors": [
+      "Etaf A. M. Nazal"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Mohammad Kh. M. Shabaan",
+     "instructors": [
+      "Mohammad Kh. M. Shabaan"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "07:00",
+       "end": "14:30",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Hani N. J. Kittanah",
+     "instructors": [
+      "Hani N. J. Kittanah"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mohammad Abedalqader Saleem Qasim",
+     "instructors": [
+      "Mohammad Abedalqader Saleem Qasim"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "07:00",
+       "end": "14:30",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Mohammad Abedalqader Saleem Qasim",
+     "instructors": [
+      "Mohammad Abedalqader Saleem Qasim"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Anas A. H. Hroub",
+     "instructors": [
+      "Anas A. H. Hroub"
+     ],
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:30",
+       "end": "22:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Fuad Ali Hasan Abu Al Fayyah",
+     "instructors": [
+      "Fuad Ali Hasan Abu Al Fayyah"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Abdullah Mohammad Hasan Awad",
+     "instructors": [
+      "Abdullah Mohammad Hasan Awad"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:30",
+       "end": "22:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "10",
+     "instructor": "Mohammad I. A. Jawabrah",
+     "instructors": [
+      "Mohammad I. A. Jawabrah"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "11",
+     "instructor": "Amal Mahmoud Mohammad Hamadna",
+     "instructors": [
+      "Amal Mahmoud Mohammad Hamadna"
+     ],
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "22:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "12",
+     "instructor": "Hamza M. S. Hajaj",
+     "instructors": [
+      "Hamza M. S. Hajaj"
+     ],
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Amal Mahmoud Mohammad Hamadna",
+     "instructors": [
+      "Amal Mahmoud Mohammad Hamadna"
+     ],
+     "enrolled": 4,
      "capacity": null,
      "meetings": []
     }
@@ -52454,10 +52643,61 @@
    "sections": [
     {
      "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "number": "2",
+     "instructor": "Suad Monther Mohammad Ayyash",
+     "instructors": [
+      "Suad Monther Mohammad Ayyash"
+     ],
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Malak T. M. Jamhour",
+     "instructors": [
+      "Malak T. M. Jamhour"
+     ],
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:30",
+       "end": "22:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Malak T. M. Jamhour",
+     "instructors": [
+      "Malak T. M. Jamhour"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "07:00",
+       "end": "14:20",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Ghada N. S. At",
+     "instructors": [
+      "Ghada N. S. At"
+     ],
+     "enrolled": 7,
      "capacity": null,
      "meetings": []
     }
@@ -52496,12 +52736,63 @@
    "sections": [
     {
      "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "number": "2",
+     "instructor": "Mahmoud A. M. Abo Arra",
+     "instructors": [
+      "Mahmoud A. M. Abo Arra"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:00",
+       "end": "22:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Anas A. H. Hroub",
+     "instructors": [
+      "Anas A. H. Hroub"
+     ],
+     "enrolled": 6,
      "capacity": null,
      "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Abdullah Mohammad Hasan Awad",
+     "instructors": [
+      "Abdullah Mohammad Hasan Awad"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Zaher Ibraheem Essae Hadrob",
+     "instructors": [
+      "Zaher Ibraheem Essae Hadrob"
+     ],
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:30",
+       "end": "22:00",
+       "room": null,
+       "building": null
+      }
+     ]
     }
    ]
   },
@@ -52648,10 +52939,113 @@
    "sections": [
     {
      "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "number": "2",
+     "instructor": "Mahmoud A. M. Abo Arra",
+     "instructors": [
+      "Mahmoud A. M. Abo Arra"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Majdi M. A. Aldabbabsah",
+     "instructors": [
+      "Majdi M. A. Aldabbabsah"
+     ],
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Majdi M. A. Aldabbabsah",
+     "instructors": [
+      "Majdi M. A. Aldabbabsah"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mahmoud A. M. Abo Arra",
+     "instructors": [
+      "Mahmoud A. M. Abo Arra"
+     ],
+     "enrolled": 4,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Ibtisam Shaqour Mohammad Shawer",
+     "instructors": [
+      "Ibtisam Shaqour Mohammad Shawer"
+     ],
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "07:00",
+       "end": "14:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "7",
+     "instructor": "Ibtisam Shaqour Mohammad Shawer",
+     "instructors": [
+      "Ibtisam Shaqour Mohammad Shawer"
+     ],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "07:00",
+       "end": "14:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "8",
+     "instructor": "Firas Z. A. Daghlas",
+     "instructors": [
+      "Firas Z. A. Daghlas"
+     ],
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "07:00",
+       "end": "14:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "9",
+     "instructor": "Firas Z. A. Daghlas",
+     "instructors": [
+      "Firas Z. A. Daghlas"
+     ],
+     "enrolled": 6,
      "capacity": null,
      "meetings": []
     }
@@ -52664,10 +53058,50 @@
    "sections": [
     {
      "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "number": "2",
+     "instructor": "Fadi H. J. Alfroukh",
+     "instructors": [
+      "Fadi H. J. Alfroukh"
+     ],
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "07:00",
+       "end": "14:30",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Ayman Ata Suliman Najjar",
+     "instructors": [
+      "Ayman Ata Suliman Najjar"
+     ],
+     "enrolled": 8,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "S",
+       "start": "14:30",
+       "end": "22:00",
+       "room": null,
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": "Ayman Ata Suliman Najjar",
+     "instructors": [
+      "Ayman Ata Suliman Najjar"
+     ],
+     "enrolled": 8,
      "capacity": null,
      "meetings": []
     }
@@ -52680,12 +53114,53 @@
    "sections": [
     {
      "type": "Lecture",
-     "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "number": "2",
+     "instructor": "Khalid Samer Ahmad Yaseen",
+     "instructors": [
+      "Khalid Samer Ahmad Yaseen"
+     ],
+     "enrolled": 4,
      "capacity": null,
      "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "3",
+     "instructor": "Jehad M. M. Jamal",
+     "instructors": [
+      "Jehad M. M. Jamal"
+     ],
+     "enrolled": 5,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "4",
+     "instructor": null,
+     "instructors": [],
+     "enrolled": 6,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Imad Tawfiq Mohammad Asmar",
+     "instructors": [
+      "Imad Tawfiq Mohammad Asmar"
+     ],
+     "enrolled": 7,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:00",
+       "end": "14:00",
+       "room": null,
+       "building": null
+      }
+     ]
     }
    ]
   },
@@ -58460,7 +58935,7 @@
      "instructors": [
       "Imad Hassan Musa Ghayathah"
      ],
-     "enrolled": 178,
+     "enrolled": 179,
      "capacity": null,
      "meetings": [
       {
@@ -58517,7 +58992,7 @@
      "instructors": [
       "Raghad Abd Elhameed Mohammad Mohammad"
      ],
-     "enrolled": 40,
+     "enrolled": 41,
      "capacity": null,
      "meetings": [
       {
@@ -60083,7 +60558,7 @@
      "instructors": [
       "Nour Hatem Ahmad Mattour"
      ],
-     "enrolled": 133,
+     "enrolled": 134,
      "capacity": null,
      "meetings": [
       {
@@ -60204,7 +60679,7 @@
      "instructors": [
       "Hadil R. O. Allawi"
      ],
-     "enrolled": 47,
+     "enrolled": 48,
      "capacity": null,
      "meetings": [
       {

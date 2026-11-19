@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-18T11:44:09+00:00",
+ "updated_at": "2026-11-19T11:42:46+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -2657,9 +2657,9 @@
     {
      "type": "Lecture",
      "number": "11",
-     "instructor": "Jamal Othman Hosen Seyam",
+     "instructor": "Iyad Khalil Ahmad Tumar",
      "instructors": [
-      "Jamal Othman Hosen Seyam"
+      "Iyad Khalil Ahmad Tumar"
      ],
      "enrolled": 3,
      "capacity": null,
@@ -2965,9 +2965,9 @@
     {
      "type": "Lecture",
      "number": "39",
-     "instructor": "Iyad Khalil Ahmad Tumar",
+     "instructor": "Jamal Othman Hosen Seyam",
      "instructors": [
-      "Iyad Khalil Ahmad Tumar"
+      "Jamal Othman Hosen Seyam"
      ],
      "enrolled": 2,
      "capacity": null,
