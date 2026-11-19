@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-18T11:44:09+00:00",
+ "updated_at": "2026-11-19T11:42:46+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -1856,7 +1856,7 @@
    [
     "CCST6300",
     "1",
-    "Wasim Abdelqader Mohammed Abu Fasheh, Basil Abdelrazeq Yaseen Farraj",
+    "Basil Abdelrazeq Yaseen Farraj, Wasim Abdelqader Mohammed Abu Fasheh",
     "W",
     "14:00",
     "16:50"
@@ -9386,14 +9386,6 @@
     "13:50"
    ],
    [
-    "MPME6312",
-    "1",
-    "Maysaa Yousef Khaled Nemer",
-    "S",
-    "14:00",
-    "16:50"
-   ],
-   [
     "MKET3320",
     "1",
     "Dahouk Husain Abdel Afo Dawoudi",
@@ -9506,6 +9498,14 @@
     "S",
     "12:30",
     "13:45"
+   ],
+   [
+    "MPME6312",
+    "1",
+    "Maysaa Yousef Khaled Nemer",
+    "S",
+    "14:00",
+    "16:50"
    ],
    [
     "FINN431",
@@ -9938,6 +9938,14 @@
     "12:20"
    ],
    [
+    "ECON435",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
     "FINN4310",
     "1",
     "Osama M. Y. Sanadaah",
@@ -9960,6 +9968,14 @@
     "R",
     "11:00",
     "12:20"
+   ],
+   [
+    "ECON435",
+    "1",
+    "Tareq Mohammad Tallat Abdulfatah Ashour",
+    "R",
+    "12:30",
+    "13:50"
    ]
   ],
   "Al-Juraysi322": [
@@ -10720,12 +10736,28 @@
   ],
   "Aweidah234": [
    [
+    "DSIN3210",
+    "1",
+    "Zeinat J. M. Qadamani",
+    "M",
+    "08:00",
+    "10:50"
+   ],
+   [
     "DSGN1310",
     "1",
     "Bashar Mustafa Mohammed Khalaf",
     "T",
     "11:00",
     "13:50"
+   ],
+   [
+    "DSIN3210",
+    "1",
+    "Zeinat J. M. Qadamani",
+    "W",
+    "08:00",
+    "10:50"
    ],
    [
     "DSGN1310",
@@ -22192,14 +22224,6 @@
     "12:20"
    ],
    [
-    "ECON435",
-    "1",
-    "Tareq Mohammad Tallat Abdulfatah Ashour",
-    "T",
-    "12:30",
-    "13:50"
-   ],
-   [
     "CHEM411",
     "2",
     "Imtiaz Mohammad Darwish Darwish",
@@ -22230,14 +22254,6 @@
     "R",
     "11:00",
     "12:20"
-   ],
-   [
-    "ECON435",
-    "1",
-    "Tareq Mohammad Tallat Abdulfatah Ashour",
-    "R",
-    "12:30",
-    "13:50"
    ]
   ],
   "SCI016": [
