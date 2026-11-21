@@ -3,8 +3,8 @@
  "terms": {
   "1261": {
    "name": "First Semester 2026/2027",
-   "updated_at": "2026-11-20T11:41:58+00:00",
-   "hash": "5212ba2d75adde4bd766fd619b0da57bcfa3820745e16c3189bc373b4ed3b130",
+   "updated_at": "2026-11-21T11:03:22+00:00",
+   "hash": "5724d2ad22143aa8c2098ca4fa0672e592cebd829ada4d4d4b1f4ae252427af8",
    "counts": {
     "courses": 1171,
     "sections": 2869,
@@ -131,8 +131,8 @@
   },
   "1253": {
    "name": "Summer Course 2025/2026",
-   "updated_at": "2026-11-14T16:23:34+00:00",
-   "hash": "b2c133dfbf24de36ad6ab4b95f386b116a6ad08de793292fa130cbe5b8862457",
+   "updated_at": "2026-11-21T11:03:38+00:00",
+   "hash": "f3f2d4bcc64e041a261e6110a36999a6c1ae7f3f47e5cd1a945ee69903ae6c32",
    "counts": {
     "courses": 328,
     "sections": 592,
@@ -624,7 +624,7 @@
   "1253",
   "1252"
  ],
- "checked_at": "2026-11-20T11:44:23+00:00",
+ "checked_at": "2026-11-21T11:04:40+00:00",
  "current": {
   "term": "1261",
   "name": "First Semester 2026/2027",

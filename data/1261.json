@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-20T11:41:58+00:00",
+ "updated_at": "2026-11-21T11:03:22+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -3790,7 +3790,7 @@
      "instructors": [
       "Mahdi Asad Saleh Arar"
      ],
-     "enrolled": 6,
+     "enrolled": 7,
      "capacity": null,
      "meetings": [
       {
@@ -19981,7 +19981,7 @@
      "instructors": [
       "Samia Mahmoud Ahmad Al-Botmeh"
      ],
-     "enrolled": 10,
+     "enrolled": 11,
      "capacity": null,
      "meetings": [
       {
