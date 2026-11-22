@@ -3,12 +3,12 @@
  "terms": {
   "1261": {
    "name": "First Semester 2026/2027",
-   "updated_at": "2026-11-21T11:03:22+00:00",
-   "hash": "5724d2ad22143aa8c2098ca4fa0672e592cebd829ada4d4d4b1f4ae252427af8",
+   "updated_at": "2026-11-22T11:27:02+00:00",
+   "hash": "bbcf5561a822fca6b1de2c8aff0d729227ccc4655985381308e3742821bdaab8",
    "counts": {
     "courses": 1171,
-    "sections": 2869,
-    "instructors": 734,
+    "sections": 2899,
+    "instructors": 738,
     "rooms": 260
    },
    "prefixes": [
@@ -131,13 +131,13 @@
   },
   "1253": {
    "name": "Summer Course 2025/2026",
-   "updated_at": "2026-11-21T11:03:38+00:00",
-   "hash": "f3f2d4bcc64e041a261e6110a36999a6c1ae7f3f47e5cd1a945ee69903ae6c32",
+   "updated_at": "2026-11-22T11:27:18+00:00",
+   "hash": "8e9ae24f57f5d08c7e199b4925b18a1acd594c2e4cc6a8250fb47863412d6d59",
    "counts": {
-    "courses": 328,
-    "sections": 592,
-    "instructors": 222,
-    "rooms": 153
+    "courses": 325,
+    "sections": 562,
+    "instructors": 203,
+    "rooms": 148
    },
    "prefixes": [
     "ACCA",
@@ -202,8 +202,7 @@
     "SOCI",
     "STAT",
     "SWEN",
-    "TRAN",
-    "UNIV"
+    "TRAN"
    ],
    "calendar": {
     "teaching_starts": "2026-07-20",
@@ -624,7 +623,7 @@
   "1253",
   "1252"
  ],
- "checked_at": "2026-11-21T11:04:40+00:00",
+ "checked_at": "2026-11-22T11:28:23+00:00",
  "current": {
   "term": "1261",
   "name": "First Semester 2026/2027",

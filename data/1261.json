@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-21T11:03:22+00:00",
+ "updated_at": "2026-11-22T11:27:02+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "counts": {
   "courses": 1171,
-  "sections": 2869,
-  "instructors": 734,
+  "sections": 2899,
+  "instructors": 738,
   "rooms": 260
  },
  "courses": [
@@ -17943,8 +17943,10 @@
     {
      "type": "Lecture",
      "number": "5",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Joud Khaldoon Khalil Abuhomos",
+     "instructors": [
+      "Joud Khaldoon Khalil Abuhomos"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [
@@ -65037,6 +65039,406 @@
        "building": null
       }
      ]
+    },
+    {
+     "type": "Lecture",
+     "number": "16",
+     "instructor": "Nibal Mohammad Khalil Al-Thwabteh",
+     "instructors": [
+      "Nibal Mohammad Khalil Al-Thwabteh"
+     ],
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "17",
+     "instructor": "Emad Sameer Ahmad Alasfar",
+     "instructors": [
+      "Emad Sameer Ahmad Alasfar"
+     ],
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "18",
+     "instructor": "Enas Shaker Husein Eideh",
+     "instructors": [
+      "Enas Shaker Husein Eideh"
+     ],
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "19",
+     "instructor": "Sahar Mahmoud Mosa El_Jallad",
+     "instructors": [
+      "Sahar Mahmoud Mosa El_Jallad"
+     ],
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "20",
+     "instructor": "Faten Tawfiq Masoud Shahwan",
+     "instructors": [
+      "Faten Tawfiq Masoud Shahwan"
+     ],
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "21",
+     "instructor": "Ruwa' Fayeq Suliman Abu Hweidi",
+     "instructors": [
+      "Ruwa' Fayeq Suliman Abu Hweidi"
+     ],
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh101",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "22",
+     "instructor": "Faten Tawfiq Masoud Shahwan",
+     "instructors": [
+      "Faten Tawfiq Masoud Shahwan"
+     ],
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "23",
+     "instructor": "Ruwa' Fayeq Suliman Abu Hweidi",
+     "instructors": [
+      "Ruwa' Fayeq Suliman Abu Hweidi"
+     ],
+     "enrolled": 38,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "24",
+     "instructor": "Suhair Taisir Hassan Kalifah",
+     "instructors": [
+      "Suhair Taisir Hassan Kalifah"
+     ],
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh204",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "25",
+     "instructor": "Mohammed Sami Abdul Karim Hussein",
+     "instructors": [
+      "Mohammed Sami Abdul Karim Hussein"
+     ],
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
     }
    ]
   },
@@ -65327,6 +65729,406 @@
        "end": "10:50",
        "room": "Al-Juraysi002",
        "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "16",
+     "instructor": "Jawana Abed Al-Hadi Odeh Awwad",
+     "instructors": [
+      "Jawana Abed Al-Hadi Odeh Awwad"
+     ],
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "17",
+     "instructor": "Tagreed Bajes Butros Abed",
+     "instructors": [
+      "Tagreed Bajes Butros Abed"
+     ],
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh203",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "18",
+     "instructor": "Noor Riyad Abdulfattah Awad",
+     "instructors": [
+      "Noor Riyad Abdulfattah Awad"
+     ],
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh103",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "19",
+     "instructor": "Dana Khaled Kamal Qaimary Siaj",
+     "instructors": [
+      "Dana Khaled Kamal Qaimary Siaj"
+     ],
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh205",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "20",
+     "instructor": "Fatma K. M. Mohammed",
+     "instructors": [
+      "Fatma K. M. Mohammed"
+     ],
+     "enrolled": 42,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh206",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "21",
+     "instructor": "Rania Mohammad Nu'Man Qassrawi",
+     "instructors": [
+      "Rania Mohammad Nu'Man Qassrawi"
+     ],
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "22",
+     "instructor": "Heba Atif R. Tahboub",
+     "instructors": [
+      "Heba Atif R. Tahboub"
+     ],
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "Bamieh106",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "23",
+     "instructor": "Dana Khaled Kamal Qaimary Siaj",
+     "instructors": [
+      "Dana Khaled Kamal Qaimary Siaj"
+     ],
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh104",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "24",
+     "instructor": "Heba Atif R. Tahboub",
+     "instructors": [
+      "Heba Atif R. Tahboub"
+     ],
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "Bamieh105",
+       "building": "Bamieh"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "25",
+     "instructor": "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+     "instructors": [
+      "Amin Mahmoud Abed Al-Mone'M Thawabteh"
+     ],
+     "enrolled": 43,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Bamieh201",
+       "building": "Bamieh"
       }
      ]
     }
@@ -65633,6 +66435,416 @@
        "start": "11:00",
        "end": "12:20",
        "room": "PNH301",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "16",
+     "instructor": "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+     "instructors": [
+      "Fuad Ali Hasan Abu Al Fayyah",
+      "Suhair Awdah Nade Najjar"
+     ],
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH105",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "17",
+     "instructor": "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+     "instructors": [
+      "Maurice F. B. Backleh",
+      "Fuad Ali Hasan Abu Al Fayyah"
+     ],
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Al-Juraysi323",
+       "building": null
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Al-Juraysi323",
+       "building": null
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Al-Juraysi323",
+       "building": null
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "Al-Juraysi323",
+       "building": null
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "18",
+     "instructor": "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+     "instructors": [
+      "Imad Tawfiq Mohammad Asmar",
+      "Maurice F. B. Backleh"
+     ],
+     "enrolled": 44,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH303",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH303",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH303",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH303",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "19",
+     "instructor": "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+     "instructors": [
+      "Suhair Awdah Nade Najjar",
+      "Jehad M. M. Jamal"
+     ],
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "20",
+     "instructor": "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+     "instructors": [
+      "Fuad Ali Hasan Abu Al Fayyah",
+      "Maurice F. B. Backleh"
+     ],
+     "enrolled": 39,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "21",
+     "instructor": "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+     "instructors": [
+      "Imad Tawfiq Mohammad Asmar",
+      "Maurice F. B. Backleh"
+     ],
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH403",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH403",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "22",
+     "instructor": "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+     "instructors": [
+      "Amal Kaleel Abdelrazeq Deheidel",
+      "Fuad Ali Hasan Abu Al Fayyah"
+     ],
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "08:30",
+       "end": "09:50",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "23",
+     "instructor": "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+     "instructors": [
+      "Jehad M. M. Jamal",
+      "Fatima Said Mohammad Tirhi"
+     ],
+     "enrolled": 45,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "PNH203",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "10:30",
+       "end": "11:50",
+       "room": "PNH203",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "24",
+     "instructor": "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+     "instructors": [
+      "Jehad M. M. Jamal",
+      "Fatima Said Mohammad Tirhi"
+     ],
+     "enrolled": 40,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH103",
+       "building": "PNH"
+      }
+     ]
+    },
+    {
+     "type": "Lecture",
+     "number": "25",
+     "instructor": "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
+     "instructors": [
+      "Amal Kaleel Abdelrazeq Deheidel",
+      "Jehad M. M. Jamal"
+     ],
+     "enrolled": 41,
+     "capacity": null,
+     "meetings": [
+      {
+       "day": "M",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "T",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "W",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH105",
+       "building": "PNH"
+      },
+      {
+       "day": "R",
+       "start": "12:30",
+       "end": "13:50",
+       "room": "PNH105",
        "building": "PNH"
       }
      ]
