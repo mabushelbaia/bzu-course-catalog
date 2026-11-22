@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-19T11:42:46+00:00",
+ "updated_at": "2026-11-22T11:27:02+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 20,
   "sections": 60,
-  "instructors": 22,
+  "instructors": 23,
   "rooms": 7
  },
  "courses": [
@@ -325,8 +325,10 @@
     {
      "type": "Lecture",
      "number": "5",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Joud Khaldoon Khalil Abuhomos",
+     "instructors": [
+      "Joud Khaldoon Khalil Abuhomos"
+     ],
      "enrolled": 12,
      "capacity": null,
      "meetings": [

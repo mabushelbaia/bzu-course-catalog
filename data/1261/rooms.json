@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-21T11:03:22+00:00",
+ "updated_at": "2026-11-22T11:27:02+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -10110,6 +10110,14 @@
     "10:50"
    ],
    [
+    "UNIV1130",
+    "17",
+    "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
     "ENGC2401",
     "1",
     "Andira A. M. Abdallah, Afaf R. A. Said",
@@ -10142,6 +10150,14 @@
     "10:50"
    ],
    [
+    "UNIV1130",
+    "17",
+    "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
     "BUSA236",
     "1",
     "Mira Taysir Ibrahim El-Far",
@@ -10156,6 +10172,14 @@
     "T",
     "12:30",
     "13:50"
+   ],
+   [
+    "UNIV1130",
+    "17",
+    "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+    "W",
+    "10:30",
+    "11:50"
    ],
    [
     "ECON3372",
@@ -10180,6 +10204,14 @@
     "R",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1130",
+    "17",
+    "Maurice F. B. Backleh, Fuad Ali Hasan Abu Al Fayyah",
+    "R",
+    "10:30",
+    "11:50"
    ],
    [
     "BUSA236",
@@ -11774,6 +11806,14 @@
     "08:50"
    ],
    [
+    "UNIV1110",
+    "19",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "ENGC2400",
     "21",
     "Ahmad Shukri Ahmad Shayeb",
@@ -11787,6 +11827,14 @@
     "Ahmad Mahmoud Fteiha Fteiha",
     "M",
     "11:00",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "21",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "M",
+    "12:30",
     "13:50"
    ],
    [
@@ -11804,6 +11852,14 @@
     "T",
     "08:00",
     "09:20"
+   ],
+   [
+    "UNIV1110",
+    "19",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "T",
+    "08:30",
+    "09:50"
    ],
    [
     "PUBA236",
@@ -11830,6 +11886,14 @@
     "13:50"
    ],
    [
+    "UNIV1110",
+    "21",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
     "EDUC4341",
     "1",
     "Mahmoud Mohamad Hamdan Abu-Shama",
@@ -11844,6 +11908,14 @@
     "T",
     "14:00",
     "16:50"
+   ],
+   [
+    "UNIV1110",
+    "19",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "W",
+    "08:30",
+    "09:50"
    ],
    [
     "JURI230",
@@ -11862,12 +11934,28 @@
     "13:50"
    ],
    [
+    "UNIV1110",
+    "21",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
     "ARAB1360",
     "38",
     "Ola Azzam Kamal Abu Beih",
     "R",
     "08:00",
     "09:20"
+   ],
+   [
+    "UNIV1110",
+    "19",
+    "Sahar Mahmoud Mosa El_Jallad",
+    "R",
+    "08:30",
+    "09:50"
    ],
    [
     "PUBA236",
@@ -11884,6 +11972,14 @@
     "R",
     "11:00",
     "12:20"
+   ],
+   [
+    "UNIV1110",
+    "21",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "R",
+    "12:30",
+    "13:50"
    ]
   ],
   "Bamieh102": [
@@ -12099,6 +12195,14 @@
    ],
    [
     "UNIV1120",
+    "18",
+    "Noor Riyad Abdulfattah Awad",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
     "4",
     "Omayma Kh. M. Yousef",
     "M",
@@ -12125,6 +12229,14 @@
     "COMP431",
     "2",
     "Mohammad Y. M. Alkhanafseh",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "18",
+    "Noor Riyad Abdulfattah Awad",
     "T",
     "12:30",
     "13:50"
@@ -12170,6 +12282,14 @@
     "13:50"
    ],
    [
+    "UNIV1120",
+    "18",
+    "Noor Riyad Abdulfattah Awad",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
     "ARAB1360",
     "19",
     "Safa H. A. Ali Ahmad",
@@ -12207,6 +12327,14 @@
     "Ahmad M. A. Aljanazrah",
     "R",
     "11:00",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "18",
+    "Noor Riyad Abdulfattah Awad",
+    "R",
+    "12:30",
     "13:50"
    ],
    [
@@ -12268,12 +12396,28 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "25",
+    "Mohammed Sami Abdul Karim Hussein",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "ENCS3390",
     "2",
     "Rania Talal Ribhi Shahwan",
     "M",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "23",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "M",
+    "10:30",
+    "11:50"
    ],
    [
     "JURI2350",
@@ -12300,12 +12444,28 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "25",
+    "Mohammed Sami Abdul Karim Hussein",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
     "COMP2421",
     "2",
     "Ahmed A. A. Abusnaina",
     "T",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "23",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "T",
+    "10:30",
+    "11:50"
    ],
    [
     "EDUC334",
@@ -12340,11 +12500,27 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "25",
+    "Mohammed Sami Abdul Karim Hussein",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
     "PHED4205",
     "1",
     "Sana' Mohammad Mahmoud Liftawi",
     "W",
     "10:00",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "23",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "W",
+    "10:30",
     "11:50"
    ],
    [
@@ -12380,12 +12556,28 @@
     "08:50"
    ],
    [
+    "UNIV1110",
+    "25",
+    "Mohammed Sami Abdul Karim Hussein",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
     "COMP2421",
     "2",
     "Ahmed A. A. Abusnaina",
     "R",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "23",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "R",
+    "10:30",
+    "11:50"
    ],
    [
     "EDUC334",
@@ -12446,12 +12638,36 @@
     "16:50"
    ],
    [
+    "UNIV1110",
+    "22",
+    "Faten Tawfiq Masoud Shahwan",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "EDUC2370",
     "2",
     "Mahmoud Mohamad Hamdan Abu-Shama",
     "M",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1110",
+    "20",
+    "Faten Tawfiq Masoud Shahwan",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
+    "UNIV1120",
+    "24",
+    "Heba Atif R. Tahboub",
+    "M",
+    "12:30",
+    "13:50"
    ],
    [
     "POLS231",
@@ -12478,12 +12694,28 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "22",
+    "Faten Tawfiq Masoud Shahwan",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
     "COMP431",
     "1",
     "Mohammad Y. M. Alkhanafseh",
     "T",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1110",
+    "20",
+    "Faten Tawfiq Masoud Shahwan",
+    "T",
+    "10:30",
+    "11:50"
    ],
    [
     "POLS236",
@@ -12494,12 +12726,28 @@
     "11:50"
    ],
    [
+    "UNIV1120",
+    "24",
+    "Heba Atif R. Tahboub",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
     "ARAB233",
     "1",
     "Nasserel-Din Deeb Mustafa Abu Khdair",
     "T",
     "14:00",
     "15:20"
+   ],
+   [
+    "UNIV1110",
+    "22",
+    "Faten Tawfiq Masoud Shahwan",
+    "W",
+    "08:30",
+    "09:50"
    ],
    [
     "COMP431",
@@ -12510,11 +12758,27 @@
     "10:50"
    ],
    [
+    "UNIV1110",
+    "20",
+    "Faten Tawfiq Masoud Shahwan",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
     "EDUC3301",
     "1",
     "Fatma K. M. Mohammed",
     "W",
     "11:00",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "24",
+    "Heba Atif R. Tahboub",
+    "W",
+    "12:30",
     "13:50"
    ],
    [
@@ -12534,12 +12798,36 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "22",
+    "Faten Tawfiq Masoud Shahwan",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "20",
+    "Faten Tawfiq Masoud Shahwan",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
     "PUBA131",
     "3",
     "Mahmoud Ahmed Mahmoud Issa",
     "R",
     "12:00",
     "12:50"
+   ],
+   [
+    "UNIV1120",
+    "24",
+    "Heba Atif R. Tahboub",
+    "R",
+    "12:30",
+    "13:50"
    ],
    [
     "ARAB233",
@@ -12592,6 +12880,14 @@
     "16:50"
    ],
    [
+    "UNIV1120",
+    "22",
+    "Heba Atif R. Tahboub",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "JURI130",
     "3",
     "Rola Khaled Ahmad Aisa",
@@ -12630,6 +12926,14 @@
     "T",
     "08:00",
     "09:20"
+   ],
+   [
+    "UNIV1120",
+    "22",
+    "Heba Atif R. Tahboub",
+    "T",
+    "08:30",
+    "09:50"
    ],
    [
     "PACS4340",
@@ -12672,6 +12976,14 @@
     "09:20"
    ],
    [
+    "UNIV1120",
+    "22",
+    "Heba Atif R. Tahboub",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
     "COMP233",
     "4",
     "Hisham W. Y. Ihshaish",
@@ -12702,6 +13014,14 @@
     "W",
     "14:00",
     "15:20"
+   ],
+   [
+    "UNIV1120",
+    "22",
+    "Heba Atif R. Tahboub",
+    "R",
+    "08:30",
+    "09:50"
    ],
    [
     "PACS4340",
@@ -12828,6 +13148,14 @@
     "10:50"
    ],
    [
+    "UNIV1120",
+    "25",
+    "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
     "HEBR332",
     "1",
     "Mohammed Aqel Mohammed Halsa",
@@ -12839,6 +13167,14 @@
     "PHED334",
     "2",
     "Rafi Hussien Mahmoud Asfour",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "21",
+    "Rania Mohammad Nu'Man Qassrawi",
     "M",
     "12:30",
     "13:50"
@@ -12860,6 +13196,14 @@
     "10:50"
    ],
    [
+    "UNIV1120",
+    "25",
+    "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+    "T",
+    "10:30",
+    "11:50"
+   ],
+   [
     "SPAU2310",
     "1",
     "Bihan Ahmad Taher Al_Qaimari",
@@ -12871,6 +13215,14 @@
     "INED3317",
     "1",
     "Ayman Abdelmajeed Saleem Rezeqallah",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "21",
+    "Rania Mohammad Nu'Man Qassrawi",
     "T",
     "12:30",
     "13:50"
@@ -12892,6 +13244,14 @@
     "10:50"
    ],
    [
+    "UNIV1120",
+    "25",
+    "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
     "COMP433",
     "4",
     "Mohammed A. A. Husseinali",
@@ -12903,6 +13263,14 @@
     "INED3317",
     "1",
     "Ayman Abdelmajeed Saleem Rezeqallah",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "21",
+    "Rania Mohammad Nu'Man Qassrawi",
     "W",
     "12:30",
     "13:50"
@@ -12932,6 +13300,14 @@
     "10:50"
    ],
    [
+    "UNIV1120",
+    "25",
+    "Amin Mahmoud Abed Al-Mone'M Thawabteh",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
     "COMP433",
     "4",
     "Mohammed A. A. Husseinali",
@@ -12943,6 +13319,14 @@
     "UNIV1110",
     "10",
     "Enas Shaker Husein Eideh",
+    "R",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "21",
+    "Rania Mohammad Nu'Man Qassrawi",
     "R",
     "12:30",
     "13:50"
@@ -13112,12 +13496,28 @@
     "16:50"
    ],
    [
+    "UNIV1110",
+    "18",
+    "Enas Shaker Husein Eideh",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "COMP439",
     "1",
     "Refat T. A. Othman",
     "M",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "17",
+    "Tagreed Bajes Butros Abed",
+    "M",
+    "10:30",
+    "11:50"
    ],
    [
     "EDUC4316",
@@ -13136,12 +13536,28 @@
     "09:50"
    ],
    [
+    "UNIV1110",
+    "18",
+    "Enas Shaker Husein Eideh",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
     "JURI130",
     "8",
     "Majd Y. S. Aburas",
     "T",
     "10:00",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "17",
+    "Tagreed Bajes Butros Abed",
+    "T",
+    "10:30",
+    "11:50"
    ],
    [
     "INED4331",
@@ -13168,12 +13584,28 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "18",
+    "Enas Shaker Husein Eideh",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
     "PUBA2320",
     "1",
     "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
     "W",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "17",
+    "Tagreed Bajes Butros Abed",
+    "W",
+    "10:30",
+    "11:50"
    ],
    [
     "EDUC4311",
@@ -13192,12 +13624,28 @@
     "15:20"
    ],
    [
+    "UNIV1110",
+    "18",
+    "Enas Shaker Husein Eideh",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
     "ENCS3341",
     "1",
     "Rania Talal Ribhi Shahwan",
     "R",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "17",
+    "Tagreed Bajes Butros Abed",
+    "R",
+    "10:30",
+    "11:50"
    ],
    [
     "EDUC2340",
@@ -13250,12 +13698,28 @@
     "15:20"
    ],
    [
+    "UNIV1110",
+    "16",
+    "Nibal Mohammad Khalil Al-Thwabteh",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "INED3314",
     "1",
     "Bihan Ahmad Taher Al_Qaimari",
     "M",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1110",
+    "17",
+    "Emad Sameer Ahmad Alasfar",
+    "M",
+    "10:30",
+    "11:50"
    ],
    [
     "CULS332",
@@ -13274,6 +13738,14 @@
     "13:50"
    ],
    [
+    "UNIV1110",
+    "24",
+    "Suhair Taisir Hassan Kalifah",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
     "SPAU2336",
     "1",
     "Adnan Monther Shehadeh Shihabi",
@@ -13282,12 +13754,28 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "16",
+    "Nibal Mohammad Khalil Al-Thwabteh",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
     "POLS331",
     "1",
     "Ghada Adnan Kathem Almadbouh",
     "T",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1110",
+    "17",
+    "Emad Sameer Ahmad Alasfar",
+    "T",
+    "10:30",
+    "11:50"
    ],
    [
     "EDUC4300",
@@ -13301,6 +13789,14 @@
     "EDUC331",
     "1",
     "Hasan Mahmoud Ali Abdelkareem",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "24",
+    "Suhair Taisir Hassan Kalifah",
     "T",
     "12:30",
     "13:50"
@@ -13322,6 +13818,14 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "16",
+    "Nibal Mohammad Khalil Al-Thwabteh",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
     "ARAB1360",
     "39",
     "Thabit Muhammad Khalil Hamed",
@@ -13330,9 +13834,25 @@
     "10:50"
    ],
    [
+    "UNIV1110",
+    "17",
+    "Emad Sameer Ahmad Alasfar",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
     "EDUC331",
     "1",
     "Hasan Mahmoud Ali Abdelkareem",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1110",
+    "24",
+    "Suhair Taisir Hassan Kalifah",
     "W",
     "12:30",
     "13:50"
@@ -13354,6 +13874,14 @@
     "09:20"
    ],
    [
+    "UNIV1110",
+    "16",
+    "Nibal Mohammad Khalil Al-Thwabteh",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
     "POLS331",
     "1",
     "Ghada Adnan Kathem Almadbouh",
@@ -13362,12 +13890,28 @@
     "10:50"
    ],
    [
+    "UNIV1110",
+    "17",
+    "Emad Sameer Ahmad Alasfar",
+    "R",
+    "10:30",
+    "11:50"
+   ],
+   [
     "EDUC4300",
     "1",
     "Abdallah Ibrahim Atiyeh Bsharat",
     "R",
     "11:00",
     "12:20"
+   ],
+   [
+    "UNIV1110",
+    "24",
+    "Suhair Taisir Hassan Kalifah",
+    "R",
+    "12:30",
+    "13:50"
    ],
    [
     "LECO631",
@@ -13404,6 +13948,14 @@
     "13:50"
    ],
    [
+    "UNIV1120",
+    "19",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "CSEC1310",
     "2",
     "Yousef W. S. Sabbah",
@@ -13412,9 +13964,25 @@
     "10:50"
    ],
    [
+    "UNIV1110",
+    "23",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
     "CULS331",
     "5",
     "Qasam Theeb Qassim \"Haj Mohammad\"",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "16",
+    "Jawana Abed Al-Hadi Odeh Awwad",
     "M",
     "12:30",
     "13:50"
@@ -13428,12 +13996,28 @@
     "09:20"
    ],
    [
+    "UNIV1120",
+    "19",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
     "INED3321",
     "1",
     "Hasan Mahmoud Ali Abdelkareem",
     "T",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1110",
+    "23",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "T",
+    "10:30",
+    "11:50"
    ],
    [
     "ARAB2391",
@@ -13452,6 +14036,14 @@
     "13:50"
    ],
    [
+    "UNIV1120",
+    "16",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
     "PHED1250",
     "3",
     "Sana' Mohammad Mahmoud Liftawi",
@@ -13460,12 +14052,28 @@
     "15:50"
    ],
    [
+    "UNIV1120",
+    "19",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
     "INED3321",
     "1",
     "Hasan Mahmoud Ali Abdelkareem",
     "W",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1110",
+    "23",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "W",
+    "10:30",
+    "11:50"
    ],
    [
     "ENEE2312",
@@ -13484,12 +14092,36 @@
     "13:50"
    ],
    [
+    "UNIV1120",
+    "16",
+    "Jawana Abed Al-Hadi Odeh Awwad",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
     "UNIV1130",
     "8",
     "Amal Kaleel Abdelrazeq Deheidel, Maysam M. M. Hawamdeh",
     "W",
     "14:00",
     "15:20"
+   ],
+   [
+    "UNIV1120",
+    "19",
+    "Dana Khaled Kamal Qaimary Siaj",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1110",
+    "23",
+    "Ruwa' Fayeq Suliman Abu Hweidi",
+    "R",
+    "10:30",
+    "11:50"
    ],
    [
     "ARAB2391",
@@ -13503,6 +14135,14 @@
     "EDUC4301",
     "1",
     "Fatma K. M. Mohammed",
+    "R",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1120",
+    "16",
+    "Jawana Abed Al-Hadi Odeh Awwad",
     "R",
     "12:30",
     "13:50"
@@ -13566,6 +14206,14 @@
     "10:50"
    ],
    [
+    "UNIV1120",
+    "20",
+    "Fatma K. M. Mohammed",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
     "JURI130",
     "6",
     "Sarah Waled Ibrahim Alhajabed",
@@ -13588,6 +14236,14 @@
     "T",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "20",
+    "Fatma K. M. Mohammed",
+    "T",
+    "10:30",
+    "11:50"
    ],
    [
     "EDUC4304",
@@ -13622,6 +14278,14 @@
     "10:50"
    ],
    [
+    "UNIV1120",
+    "20",
+    "Fatma K. M. Mohammed",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
     "PHED233",
     "1",
     "Waleed Mohammad Hassan Shaheen",
@@ -13644,6 +14308,14 @@
     "R",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1120",
+    "20",
+    "Fatma K. M. Mohammed",
+    "R",
+    "10:30",
+    "11:50"
    ],
    [
     "EDUC4304",
@@ -19818,6 +20490,14 @@
     "13:50"
    ],
    [
+    "UNIV1130",
+    "24",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
     "PHAR4450",
     "1",
     "Nima N. M. Farhan",
@@ -19858,6 +20538,14 @@
     "13:50"
    ],
    [
+    "UNIV1130",
+    "24",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
     "COMM2216",
     "1",
     "Hanin Peter Farhan Khoury",
@@ -19877,6 +20565,14 @@
     "ENCS3390",
     "3",
     "Ahmad Suhail Ahmad Afaneh",
+    "W",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "24",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
     "W",
     "12:30",
     "13:50"
@@ -19909,6 +20605,14 @@
     "SPAU3320",
     "1",
     "Adnan Monther Shehadeh Shihabi",
+    "R",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "24",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
     "R",
     "12:30",
     "13:50"
@@ -20150,6 +20854,14 @@
     "08:50"
    ],
    [
+    "UNIV1130",
+    "16",
+    "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "UNIV1120",
     "3",
     "Haya Abdulrahman Abdulrahman Abuhussein",
@@ -20174,6 +20886,14 @@
     "13:50"
    ],
    [
+    "UNIV1130",
+    "25",
+    "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
     "ARAB1360",
     "8",
     "Hazem Hasan Ahmad Albarghouthi",
@@ -20188,6 +20908,14 @@
     "T",
     "08:00",
     "09:20"
+   ],
+   [
+    "UNIV1130",
+    "16",
+    "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+    "T",
+    "08:30",
+    "09:50"
    ],
    [
     "NUTD336",
@@ -20214,6 +20942,14 @@
     "13:50"
    ],
    [
+    "UNIV1130",
+    "25",
+    "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
     "BCLS4300",
     "1",
     "Firas A. M. Qunneis",
@@ -20230,12 +20966,28 @@
     "09:20"
    ],
    [
+    "UNIV1130",
+    "16",
+    "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
     "JURI3341",
     "2",
     "Mustafa Hussein Mahmoud Abdelbaqi",
     "W",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1130",
+    "25",
+    "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
+    "W",
+    "12:30",
+    "13:50"
    ],
    [
     "NURS4300",
@@ -20254,6 +21006,14 @@
     "09:20"
    ],
    [
+    "UNIV1130",
+    "16",
+    "Fuad Ali Hasan Abu Al Fayyah, Suhair Awdah Nade Najjar",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
     "NUTD336",
     "1",
     "Safaa M. A. Muhanna",
@@ -20265,6 +21025,14 @@
     "SPAU133",
     "1",
     "Nasralla Mohammad Ahmad Alshaier",
+    "R",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "25",
+    "Amal Kaleel Abdelrazeq Deheidel, Jehad M. M. Jamal",
     "R",
     "12:30",
     "13:50"
@@ -20510,12 +21278,28 @@
     "09:20"
    ],
    [
+    "UNIV1130",
+    "22",
+    "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "ENGL238",
     "2",
     "Lubna \"Muhammad Ahed Diab Dikeidek",
     "M",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1130",
+    "23",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "M",
+    "10:30",
+    "11:50"
    ],
    [
     "SPAU3210",
@@ -20540,6 +21324,22 @@
     "T",
     "08:00",
     "09:20"
+   ],
+   [
+    "UNIV1130",
+    "22",
+    "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "23",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "T",
+    "10:30",
+    "11:50"
    ],
    [
     "NUTD338",
@@ -20574,6 +21374,14 @@
     "08:50"
    ],
    [
+    "UNIV1130",
+    "22",
+    "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
     "PUBA130",
     "7",
     "Rand Suhail Naser Salman",
@@ -20588,6 +21396,14 @@
     "W",
     "10:00",
     "10:50"
+   ],
+   [
+    "UNIV1130",
+    "23",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "W",
+    "10:30",
+    "11:50"
    ],
    [
     "NUTD4221",
@@ -20612,6 +21428,22 @@
     "R",
     "08:00",
     "09:20"
+   ],
+   [
+    "UNIV1130",
+    "22",
+    "Amal Kaleel Abdelrazeq Deheidel, Fuad Ali Hasan Abu Al Fayyah",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
+    "UNIV1130",
+    "23",
+    "Jehad M. M. Jamal, Fatima Said Mohammad Tirhi",
+    "R",
+    "10:30",
+    "11:50"
    ],
    [
     "NUTD338",
@@ -21026,6 +21858,14 @@
     "16:50"
    ],
    [
+    "UNIV1130",
+    "18",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
     "PHAR554",
     "2",
     "Bader Nael Abdaljaleel Remawi",
@@ -21074,6 +21914,14 @@
     "13:50"
    ],
    [
+    "UNIV1130",
+    "18",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
     "NUTD233",
     "1",
     "Thekra B. M. Hweih",
@@ -21104,6 +21952,14 @@
     "W",
     "11:00",
     "12:20"
+   ],
+   [
+    "UNIV1130",
+    "18",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "W",
+    "12:30",
+    "13:50"
    ],
    [
     "PHAR554",
@@ -21149,6 +22005,14 @@
     "PHAR4360",
     "2",
     "Hani Abul Hafez Ibrahim Shtaya",
+    "R",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "18",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
     "R",
     "12:30",
     "13:50"
@@ -21530,6 +22394,14 @@
     "08:50"
    ],
    [
+    "UNIV1130",
+    "19",
+    "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+    "M",
+    "08:30",
+    "09:50"
+   ],
+   [
     "PHAR3203",
     "2",
     "Hani Abul Hafez Ibrahim Shtaya",
@@ -21546,9 +22418,25 @@
     "11:50"
    ],
    [
+    "UNIV1130",
+    "20",
+    "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+    "M",
+    "10:30",
+    "11:50"
+   ],
+   [
     "NUTD343",
     "1",
     "Emilia Joseph Antonio Rappocciolo",
+    "M",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "21",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
     "M",
     "12:30",
     "13:50"
@@ -21570,12 +22458,28 @@
     "09:20"
    ],
    [
+    "UNIV1130",
+    "19",
+    "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+    "T",
+    "08:30",
+    "09:50"
+   ],
+   [
     "PHAR535",
     "1",
     "Abdullah Khalil Salem Rabba",
     "T",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1130",
+    "20",
+    "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+    "T",
+    "10:30",
+    "11:50"
    ],
    [
     "PHAR341",
@@ -21589,6 +22493,14 @@
     "PHAR341",
     "2",
     "Dima Mahmoud Mustafa Jarar",
+    "T",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "21",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
     "T",
     "12:30",
     "13:50"
@@ -21610,6 +22522,14 @@
     "09:20"
    ],
    [
+    "UNIV1130",
+    "19",
+    "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+    "W",
+    "08:30",
+    "09:50"
+   ],
+   [
     "PHAR535",
     "1",
     "Abdullah Khalil Salem Rabba",
@@ -21618,12 +22538,28 @@
     "10:50"
    ],
    [
+    "UNIV1130",
+    "20",
+    "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+    "W",
+    "10:30",
+    "11:50"
+   ],
+   [
     "PHAR341",
     "1",
     "Dima Mahmoud Mustafa Jarar",
     "W",
     "11:00",
     "11:50"
+   ],
+   [
+    "UNIV1130",
+    "21",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
+    "W",
+    "12:30",
+    "13:50"
    ],
    [
     "PHAR341",
@@ -21650,12 +22586,28 @@
     "09:20"
    ],
    [
+    "UNIV1130",
+    "19",
+    "Suhair Awdah Nade Najjar, Jehad M. M. Jamal",
+    "R",
+    "08:30",
+    "09:50"
+   ],
+   [
     "NURS4321",
     "1",
     "Omar Hasan Abdulghani Almahmoud",
     "R",
     "09:30",
     "10:50"
+   ],
+   [
+    "UNIV1130",
+    "20",
+    "Fuad Ali Hasan Abu Al Fayyah, Maurice F. B. Backleh",
+    "R",
+    "10:30",
+    "11:50"
    ],
    [
     "PHAR341",
@@ -21669,6 +22621,14 @@
     "PHAR341",
     "2",
     "Dima Mahmoud Mustafa Jarar",
+    "R",
+    "12:30",
+    "13:50"
+   ],
+   [
+    "UNIV1130",
+    "21",
+    "Imad Tawfiq Mohammad Asmar, Maurice F. B. Backleh",
     "R",
     "12:30",
     "13:50"
