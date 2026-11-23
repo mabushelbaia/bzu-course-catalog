@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-23T12:43:52+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,10 +13,10 @@
  },
  "prefix": "LECO",
  "counts": {
-  "courses": 6,
-  "sections": 7,
+  "courses": 5,
+  "sections": 6,
   "instructors": 6,
-  "rooms": 5
+  "rooms": 4
  },
  "courses": [
   {
@@ -93,32 +93,6 @@
        "end": "13:50",
        "room": "PNH103",
        "building": "PNH"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "LECO830",
-   "prefix": "LECO",
-   "name": "SEMINAR 1",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": "Amir M. M. Khalil",
-     "instructors": [
-      "Amir M. M. Khalil"
-     ],
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "W",
-       "start": "08:00",
-       "end": "10:50",
-       "room": "ALSADIK304",
-       "building": "ALSADIK"
       }
      ]
     }

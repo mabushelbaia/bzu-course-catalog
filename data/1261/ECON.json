@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-21T11:03:22+00:00",
+ "updated_at": "2026-11-23T12:43:52+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "prefix": "ECON",
  "counts": {
-  "courses": 18,
-  "sections": 38,
+  "courses": 17,
+  "sections": 37,
   "instructors": 13,
   "rooms": 24
  },
@@ -896,32 +896,6 @@
        "start": "12:30",
        "end": "13:50",
        "room": "Al-Juraysi321",
-       "building": null
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "ECON437",
-   "prefix": "ECON",
-   "name": "SEMINAR IN ECONOMICS",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": "Mohanad Oudah Mohammed Ismael",
-     "instructors": [
-      "Mohanad Oudah Mohammed Ismael"
-     ],
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "W",
-       "start": "14:00",
-       "end": "16:50",
-       "room": "Al-Juraysi322",
        "building": null
       }
      ]

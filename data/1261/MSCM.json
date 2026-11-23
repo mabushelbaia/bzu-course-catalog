@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-23T12:43:52+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,9 +13,9 @@
  },
  "prefix": "MSCM",
  "counts": {
-  "courses": 1,
-  "sections": 1,
-  "instructors": 1,
+  "courses": 3,
+  "sections": 3,
+  "instructors": 2,
   "rooms": 0
  },
  "courses": [
@@ -32,6 +32,40 @@
       "Khaldoon Abdall Zaid Kaylani"
      ],
      "enrolled": 10,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MSCM6370",
+   "prefix": "MSCM",
+   "name": "CUSTOMS CLEARANCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Moayyad Majed Mohammad Alhousani",
+     "instructors": [
+      "Moayyad Majed Mohammad Alhousani"
+     ],
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MSCM7390",
+   "prefix": "MSCM",
+   "name": "SP.TOP: DESIGN THINKING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "instructors": [],
+     "enrolled": 0,
      "capacity": null,
      "meetings": []
     }
