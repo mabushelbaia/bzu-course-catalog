@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-18T11:44:09+00:00",
+ "updated_at": "2026-11-23T12:43:52+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "prefix": "EDUC",
  "counts": {
-  "courses": 44,
-  "sections": 71,
+  "courses": 43,
+  "sections": 70,
   "instructors": 20,
   "rooms": 18
  },
@@ -634,32 +634,6 @@
       "Ahmad M. A. Aljanazrah"
      ],
      "enrolled": 2,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "R",
-       "start": "11:00",
-       "end": "13:50",
-       "room": "Bamieh103",
-       "building": "Bamieh"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "EDUC4325",
-   "prefix": "EDUC",
-   "name": "METHODS OF TEACHING CHEMISTRY 1",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": "Ahmad M. A. Aljanazrah",
-     "instructors": [
-      "Ahmad M. A. Aljanazrah"
-     ],
-     "enrolled": 0,
      "capacity": null,
      "meetings": [
       {

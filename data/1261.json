@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-22T11:27:02+00:00",
+ "updated_at": "2026-11-23T12:43:52+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -12,9 +12,9 @@
   "R": "Thu"
  },
  "counts": {
-  "courses": 1171,
+  "courses": 1170,
   "sections": 2899,
-  "instructors": 738,
+  "instructors": 739,
   "rooms": 260
  },
  "courses": [
@@ -19835,32 +19835,6 @@
    ]
   },
   {
-   "code": "ECON437",
-   "prefix": "ECON",
-   "name": "SEMINAR IN ECONOMICS",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": "Mohanad Oudah Mohammed Ismael",
-     "instructors": [
-      "Mohanad Oudah Mohammed Ismael"
-     ],
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "W",
-       "start": "14:00",
-       "end": "16:50",
-       "room": "Al-Juraysi322",
-       "building": null
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "ECON4371",
    "prefix": "ECON",
    "name": "SEMINAR IN BUSINESS ECONOMICS",
@@ -20638,32 +20612,6 @@
       "Ahmad M. A. Aljanazrah"
      ],
      "enrolled": 2,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "R",
-       "start": "11:00",
-       "end": "13:50",
-       "room": "Bamieh103",
-       "building": "Bamieh"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "code": "EDUC4325",
-   "prefix": "EDUC",
-   "name": "METHODS OF TEACHING CHEMISTRY 1",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": "Ahmad M. A. Aljanazrah",
-     "instructors": [
-      "Ahmad M. A. Aljanazrah"
-     ],
-     "enrolled": 0,
      "capacity": null,
      "meetings": [
       {
@@ -22524,7 +22472,7 @@
      "instructors": [
       "Batool J. Y. Harb"
      ],
-     "enrolled": 25,
+     "enrolled": 24,
      "capacity": null,
      "meetings": [
       {
@@ -22550,7 +22498,7 @@
      "instructors": [
       "Mohammed N. A. Abualrob"
      ],
-     "enrolled": 24,
+     "enrolled": 25,
      "capacity": null,
      "meetings": [
       {
@@ -32299,8 +32247,8 @@
        "day": "T",
        "start": "14:00",
        "end": "15:20",
-       "room": "A.Shaheen016",
-       "building": "A.Shaheen"
+       "room": "Aggad315",
+       "building": "Aggad"
       },
       {
        "day": "W",
@@ -33110,7 +33058,7 @@
      "instructors": [
       "Rula Tony Jabra Yousef"
      ],
-     "enrolled": 37,
+     "enrolled": 38,
      "capacity": null,
      "meetings": [
       {
@@ -36232,7 +36180,7 @@
      "instructors": [
       "Salem Abdul Latif Abdul Karim Thawaba"
      ],
-     "enrolled": 24,
+     "enrolled": 23,
      "capacity": null,
      "meetings": [
       {
@@ -36251,7 +36199,7 @@
      "instructors": [
       "Sanaa Maher Wasef Anabtawi"
      ],
-     "enrolled": 27,
+     "enrolled": 28,
      "capacity": null,
      "meetings": [
       {
@@ -38957,8 +38905,8 @@
        "day": "W",
        "start": "10:00",
        "end": "10:50",
-       "room": "Khoury112",
-       "building": "Khoury"
+       "room": "A.Shaheen016",
+       "building": "A.Shaheen"
       }
      ]
     },
@@ -39324,8 +39272,8 @@
        "day": "W",
        "start": "14:00",
        "end": "15:20",
-       "room": "Aggad336",
-       "building": "Aggad"
+       "room": "A.Shaheen116",
+       "building": "A.Shaheen"
       }
      ]
     }
@@ -45244,32 +45192,6 @@
    ]
   },
   {
-   "code": "LECO830",
-   "prefix": "LECO",
-   "name": "SEMINAR 1",
-   "sections": [
-    {
-     "type": "Lecture",
-     "number": "1",
-     "instructor": "Amir M. M. Khalil",
-     "instructors": [
-      "Amir M. M. Khalil"
-     ],
-     "enrolled": 0,
-     "capacity": null,
-     "meetings": [
-      {
-       "day": "W",
-       "start": "08:00",
-       "end": "10:50",
-       "room": "ALSADIK304",
-       "building": "ALSADIK"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "code": "LECO831",
    "prefix": "LECO",
    "name": "SEMINAR 2",
@@ -51120,6 +51042,17 @@
      "enrolled": 1,
      "capacity": null,
      "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "14",
+     "instructor": "Abdallatif S. A. Abuissa",
+     "instructors": [
+      "Abdallatif S. A. Abuissa"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
     }
    ]
   },
@@ -51136,6 +51069,40 @@
       "Khaldoon Abdall Zaid Kaylani"
      ],
      "enrolled": 10,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MSCM6370",
+   "prefix": "MSCM",
+   "name": "CUSTOMS CLEARANCE",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": "Moayyad Majed Mohammad Alhousani",
+     "instructors": [
+      "Moayyad Majed Mohammad Alhousani"
+     ],
+     "enrolled": 0,
+     "capacity": null,
+     "meetings": []
+    }
+   ]
+  },
+  {
+   "code": "MSCM7390",
+   "prefix": "MSCM",
+   "name": "SP.TOP: DESIGN THINKING",
+   "sections": [
+    {
+     "type": "Lecture",
+     "number": "1",
+     "instructor": null,
+     "instructors": [],
+     "enrolled": 0,
      "capacity": null,
      "meetings": []
     }
@@ -65049,36 +65016,7 @@
      ],
      "enrolled": 43,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65089,36 +65027,7 @@
      ],
      "enrolled": 40,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65129,36 +65038,7 @@
      ],
      "enrolled": 42,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh203",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh203",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh203",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh203",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65169,36 +65049,7 @@
      ],
      "enrolled": 42,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh101",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh101",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh101",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh101",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65209,36 +65060,7 @@
      ],
      "enrolled": 40,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65249,36 +65071,7 @@
      ],
      "enrolled": 42,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh101",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh101",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh101",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh101",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65289,36 +65082,7 @@
      ],
      "enrolled": 45,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65329,36 +65093,7 @@
      ],
      "enrolled": 38,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65369,36 +65104,7 @@
      ],
      "enrolled": 41,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh204",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65409,36 +65115,7 @@
      ],
      "enrolled": 44,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh104",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh104",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh104",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh104",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     }
    ]
   },
@@ -65741,36 +65418,7 @@
      ],
      "enrolled": 43,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65781,36 +65429,7 @@
      ],
      "enrolled": 45,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh203",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh203",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh203",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh203",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65821,36 +65440,7 @@
      ],
      "enrolled": 40,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh103",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh103",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh103",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh103",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65861,36 +65451,7 @@
      ],
      "enrolled": 40,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh205",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65901,36 +65462,7 @@
      ],
      "enrolled": 42,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh206",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh206",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh206",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh206",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65941,36 +65473,7 @@
      ],
      "enrolled": 39,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh201",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh201",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh201",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh201",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -65981,36 +65484,7 @@
      ],
      "enrolled": 41,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh106",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh106",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh106",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "Bamieh106",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66021,36 +65495,7 @@
      ],
      "enrolled": 40,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh104",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh104",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh104",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh104",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66061,36 +65506,7 @@
      ],
      "enrolled": 45,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "Bamieh105",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66101,36 +65517,7 @@
      ],
      "enrolled": 43,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh201",
-       "building": "Bamieh"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh201",
-       "building": "Bamieh"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh201",
-       "building": "Bamieh"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Bamieh201",
-       "building": "Bamieh"
-      }
-     ]
+     "meetings": []
     }
    ]
   },
@@ -66449,36 +65836,7 @@
      ],
      "enrolled": 39,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH105",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH105",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH105",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH105",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66490,36 +65848,7 @@
      ],
      "enrolled": 41,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Al-Juraysi323",
-       "building": null
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Al-Juraysi323",
-       "building": null
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Al-Juraysi323",
-       "building": null
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "Al-Juraysi323",
-       "building": null
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66531,36 +65860,7 @@
      ],
      "enrolled": 44,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH303",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH303",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH303",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH303",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66572,36 +65872,7 @@
      ],
      "enrolled": 40,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH403",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66613,36 +65884,7 @@
      ],
      "enrolled": 39,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "PNH403",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66654,36 +65896,7 @@
      ],
      "enrolled": 40,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH403",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH403",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66695,36 +65908,7 @@
      ],
      "enrolled": 41,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH203",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH203",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH203",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "08:30",
-       "end": "09:50",
-       "room": "PNH203",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66736,36 +65920,7 @@
      ],
      "enrolled": 45,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "PNH203",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "PNH203",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "PNH203",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "10:30",
-       "end": "11:50",
-       "room": "PNH203",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66777,36 +65932,7 @@
      ],
      "enrolled": 40,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH103",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH103",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH103",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH103",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     },
     {
      "type": "Lecture",
@@ -66818,36 +65944,7 @@
      ],
      "enrolled": 41,
      "capacity": null,
-     "meetings": [
-      {
-       "day": "M",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH105",
-       "building": "PNH"
-      },
-      {
-       "day": "T",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH105",
-       "building": "PNH"
-      },
-      {
-       "day": "W",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH105",
-       "building": "PNH"
-      },
-      {
-       "day": "R",
-       "start": "12:30",
-       "end": "13:50",
-       "room": "PNH105",
-       "building": "PNH"
-      }
-     ]
+     "meetings": []
     }
    ]
   },
