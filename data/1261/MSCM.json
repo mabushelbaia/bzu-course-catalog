@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-23T12:43:52+00:00",
+ "updated_at": "2026-11-24T13:45:28+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 3,
   "sections": 3,
-  "instructors": 2,
+  "instructors": 3,
   "rooms": 0
  },
  "courses": [
@@ -49,7 +49,7 @@
      "instructors": [
       "Moayyad Majed Mohammad Alhousani"
      ],
-     "enrolled": 0,
+     "enrolled": 10,
      "capacity": null,
      "meetings": []
     }
@@ -63,9 +63,11 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "instructor": "Majed Ibrahim Said Ayyad",
+     "instructors": [
+      "Majed Ibrahim Said Ayyad"
+     ],
+     "enrolled": 10,
      "capacity": null,
      "meetings": []
     }

@@ -3,12 +3,12 @@
  "terms": {
   "1261": {
    "name": "First Semester 2026/2027",
-   "updated_at": "2026-11-23T12:43:52+00:00",
-   "hash": "64212218f8ba18e0e6f3079086f369c9b472d290951464ee2bcae882b2c0fb19",
+   "updated_at": "2026-11-24T13:45:28+00:00",
+   "hash": "d7d435010ddbb0ec53a08a3659f7a9ad67a62fa53423ddf9d88186cd80e2ba3d",
    "counts": {
     "courses": 1170,
-    "sections": 2899,
-    "instructors": 739,
+    "sections": 2900,
+    "instructors": 740,
     "rooms": 260
    },
    "prefixes": [
@@ -623,7 +623,7 @@
   "1253",
   "1252"
  ],
- "checked_at": "2026-11-23T12:45:16+00:00",
+ "checked_at": "2026-11-24T13:46:53+00:00",
  "current": {
   "term": "1261",
   "name": "First Semester 2026/2027",
