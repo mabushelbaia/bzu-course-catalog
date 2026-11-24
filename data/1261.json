@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-23T12:43:52+00:00",
+ "updated_at": "2026-11-24T13:45:28+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "counts": {
   "courses": 1170,
-  "sections": 2899,
-  "instructors": 739,
+  "sections": 2900,
+  "instructors": 740,
   "rooms": 260
  },
  "courses": [
@@ -254,6 +254,17 @@
      "instructor": "Yousef Mohammad Yousef Hassan",
      "instructors": [
       "Yousef Mohammad Yousef Hassan"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "instructors": [
+      "Zeyad Fawaz Fouzi Munawer"
      ],
      "enrolled": 1,
      "capacity": null,
@@ -14213,8 +14224,10 @@
     {
      "type": "Lecture",
      "number": "5",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Reem N. A. Masri",
+     "instructors": [
+      "Reem N. A. Masri"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -51086,7 +51099,7 @@
      "instructors": [
       "Moayyad Majed Mohammad Alhousani"
      ],
-     "enrolled": 0,
+     "enrolled": 10,
      "capacity": null,
      "meetings": []
     }
@@ -51100,9 +51113,11 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": null,
-     "instructors": [],
-     "enrolled": 0,
+     "instructor": "Majed Ibrahim Said Ayyad",
+     "instructors": [
+      "Majed Ibrahim Said Ayyad"
+     ],
+     "enrolled": 10,
      "capacity": null,
      "meetings": []
     }
@@ -57254,8 +57269,10 @@
     {
      "type": "Lecture",
      "number": "9",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -57263,8 +57280,10 @@
     {
      "type": "Lecture",
      "number": "10",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -57272,8 +57291,10 @@
     {
      "type": "Lecture",
      "number": "11",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -57281,8 +57302,10 @@
     {
      "type": "Lecture",
      "number": "12",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -57290,8 +57313,10 @@
     {
      "type": "Lecture",
      "number": "13",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -57299,8 +57324,10 @@
     {
      "type": "Lecture",
      "number": "14",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -57308,8 +57335,10 @@
     {
      "type": "Lecture",
      "number": "15",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []
@@ -57317,8 +57346,10 @@
     {
      "type": "Lecture",
      "number": "16",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Munir Kamal Hani Fakher Eldin",
+     "instructors": [
+      "Munir Kamal Hani Fakher Eldin"
+     ],
      "enrolled": 1,
      "capacity": null,
      "meetings": []

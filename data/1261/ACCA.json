@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-24T13:45:28+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "ACCA",
  "counts": {
   "courses": 5,
-  "sections": 16,
+  "sections": 17,
   "instructors": 4,
   "rooms": 4
  },
@@ -255,6 +255,17 @@
      "instructor": "Yousef Mohammad Yousef Hassan",
      "instructors": [
       "Yousef Mohammad Yousef Hassan"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "13",
+     "instructor": "Zeyad Fawaz Fouzi Munawer",
+     "instructors": [
+      "Zeyad Fawaz Fouzi Munawer"
      ],
      "enrolled": 1,
      "capacity": null,
