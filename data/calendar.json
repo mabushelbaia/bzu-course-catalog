@@ -1,0 +1,983 @@
+{
+ "updated_at": "2026-11-25T19:55:31+00:00",
+ "years": {
+  "2026/2027": {
+   "source": "https://ritaj.birzeit.edu/be1/en/academic/academic-calendar/public-academic-calendar?academic-year=2026%2F2027",
+   "events": [
+    {
+     "date": "2026-09-19",
+     "kind": "staff",
+     "title": "Academic staff return",
+     "ar": "بدء دوام أعضاء الهيئة الأكاديمية للفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-10-06",
+     "kind": "term",
+     "title": "Teaching starts",
+     "ar": "بدء التدريس للفصل الدراسي الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-10-12",
+     "kind": "deadline",
+     "title": "Last day for late registration and add/drop",
+     "ar": "آخر موعد للتسجيل المتأخر وتعديل التسجيل للفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-10-13",
+     "kind": "deadline",
+     "title": "Withdrawal period opens",
+     "ar": "بدء فترة الانسحاب من مساقات الفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-10-14",
+     "kind": "swap",
+     "title": "Classes follow the Saturday timetable",
+     "ar": "برنامج تدريس يوم السبت"
+    },
+    {
+     "date": "2026-10-17",
+     "kind": "holiday",
+     "title": "Olive harvest holiday",
+     "ar": "عطلة قطف الزيتون"
+    },
+    {
+     "date": "2026-10-20",
+     "kind": "swap",
+     "title": "Classes follow the Thursday timetable",
+     "ar": "برنامج تدريس يوم الخميس"
+    },
+    {
+     "date": "2026-11-15",
+     "kind": "holiday",
+     "title": "Independence Day",
+     "ar": "عطلة بمناسبة إعلان الاستقلال"
+    },
+    {
+     "date": "2026-12-24",
+     "kind": "holiday",
+     "title": "Christmas (Western) and winter break",
+     "ar": "بدء عطلة عيد الميلاد المجيد (حسب التقويم الغربي) وعطلة الشتاء (8:00 صباحاً)",
+     "end": "2027-01-01"
+    },
+    {
+     "date": "2027-01-07",
+     "kind": "holiday",
+     "title": "Christmas (Eastern)",
+     "ar": "عطلة بمناسبة عيد الميلاد المجيد (حسب التقويم الشرقي)"
+    },
+    {
+     "date": "2027-01-07",
+     "kind": "holiday",
+     "title": "Isra and Mi'raj",
+     "ar": "عطلة بمناسبة ذكرى الإسراء والمعراج (متوقع)",
+     "expected": true
+    },
+    {
+     "date": "2027-01-20",
+     "kind": "deadline",
+     "title": "Last day to withdraw from a course",
+     "ar": "آخر موعد للانسحاب من مساقات الفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2027-01-28",
+     "kind": "term",
+     "title": "Last day of teaching",
+     "ar": "آخر يوم تدريس للفصل الدراسي الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2027-01-30",
+     "kind": "exams",
+     "title": "Final exams start",
+     "ar": "بدء فترة الامتحانات النهائية للفصل الدراسي الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2027-02-14",
+     "kind": "exams",
+     "title": "Final exams end",
+     "ar": "انتهاء فترة الامتحانات النهائية للفصل الدراسي الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2027-02-17",
+     "kind": "staff",
+     "title": "Grades due",
+     "ar": "آخر يوم لتسليم العلامات للفصل الدراسي الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2027-02-18",
+     "kind": "deadline",
+     "title": "Last day to complete an incomplete grade",
+     "ar": "آخر موعد لاستكمال علامة غير مكتمل للفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2027-02-20",
+     "kind": "term",
+     "title": "Teaching starts",
+     "ar": "بدء التدريس للفصل الدراسي الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-02-27",
+     "kind": "deadline",
+     "title": "Last day for late registration and add/drop",
+     "ar": "آخر موعد للتسجيل المتأخر وتعديل التسجيل للفصل الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-03-01",
+     "kind": "deadline",
+     "title": "Withdrawal period opens",
+     "ar": "بدء فترة الانسحاب من مساقات الفصل الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-03-08",
+     "kind": "holiday",
+     "title": "International Women's Day",
+     "ar": "عطلة بمناسبة يوم المرأة العالمي"
+    },
+    {
+     "date": "2027-03-09",
+     "kind": "holiday",
+     "title": "Eid al-Fitr",
+     "ar": "بدء عطلة عيد الفطر (متوقع) (8:00 صباحاً)",
+     "expected": true,
+     "end": "2027-03-11"
+    },
+    {
+     "date": "2027-03-27",
+     "kind": "swap",
+     "title": "Classes follow the Monday timetable",
+     "ar": "برنامج تدريس يوم الأثنين"
+    },
+    {
+     "date": "2027-04-29",
+     "kind": "swap",
+     "title": "Classes follow the Monday timetable",
+     "ar": "برنامج تدريس يوم الأثنين"
+    },
+    {
+     "date": "2027-05-01",
+     "kind": "holiday",
+     "title": "Labour Day",
+     "ar": "عطلة بمناسبة عيد العمال"
+    },
+    {
+     "date": "2027-05-01",
+     "kind": "holiday",
+     "title": "Easter",
+     "ar": "بدء عطلة عيد الفصح المجيد (8:00 صباحاً)",
+     "end": "2027-05-03"
+    },
+    {
+     "date": "2027-05-15",
+     "kind": "holiday",
+     "title": "Eid al-Adha",
+     "ar": "بدء عطلة عيد الأضحى المبارك (متوقع) (8:00 صباحاً)",
+     "expected": true,
+     "end": "2027-05-19"
+    },
+    {
+     "date": "2027-06-07",
+     "kind": "holiday",
+     "title": "Islamic New Year",
+     "ar": "عطلة بمناسبة رأس السنة الهجرية (متوقع)",
+     "expected": true
+    },
+    {
+     "date": "2027-06-12",
+     "kind": "deadline",
+     "title": "Last day to withdraw from a course",
+     "ar": "آخر موعد للانسحاب من مساقات الفصل الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-06-19",
+     "kind": "term",
+     "title": "Last day of teaching",
+     "ar": "آخر يوم تدريس للفصل الدراسي الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-06-21",
+     "kind": "exams",
+     "title": "Final exams start",
+     "ar": "بدء فترة الامتحانات النهائية للفصل الدراسي الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-07-06",
+     "kind": "exams",
+     "title": "Final exams end",
+     "ar": "انتهاء فترة الامتحانات النهائية للفصل الدراسي الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-07-09",
+     "kind": "staff",
+     "title": "Grades due",
+     "ar": "آخر يوم لتسليم العلامات للفصل الدراسي الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-07-09",
+     "kind": "ceremony",
+     "title": "Graduation ceremony I",
+     "ar": "حفل التخرج I"
+    },
+    {
+     "date": "2027-07-10",
+     "kind": "ceremony",
+     "title": "Graduation ceremony II",
+     "ar": "حفل التخرج II"
+    },
+    {
+     "date": "2027-07-11",
+     "kind": "ceremony",
+     "title": "Graduation ceremony III",
+     "ar": "حفل التخرج III"
+    },
+    {
+     "date": "2027-07-12",
+     "kind": "deadline",
+     "title": "Last day to complete an incomplete grade",
+     "ar": "آخر موعد لاستكمال علامة غير مكتمل للفصل الدراسي الثاني 2026/2027",
+     "term": "1262"
+    },
+    {
+     "date": "2027-07-12",
+     "kind": "ceremony",
+     "title": "Graduation ceremony IV",
+     "ar": "حفل التخرج IV"
+    },
+    {
+     "date": "2027-07-13",
+     "kind": "staff",
+     "title": "Summer break starts for academic staff",
+     "ar": "بدء العطلة الصيفية لأعضاء الهيئة الأكاديمية للعام 2026/2027"
+    },
+    {
+     "date": "2027-07-13",
+     "kind": "term",
+     "title": "Teaching starts",
+     "ar": "بدء التدريس للدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-07-19",
+     "kind": "deadline",
+     "title": "Last day for late registration and add/drop",
+     "ar": "آخر موعد للتسجيل المتأخر وتعديل التسجيل للدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-07-20",
+     "kind": "deadline",
+     "title": "Withdrawal period opens",
+     "ar": "بدء فترة الانسحاب من مساقات الدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-08-16",
+     "kind": "holiday",
+     "title": "The Prophet's Birthday",
+     "ar": "عطلة بمناسبة المولد النبوي الشريف (متوقع)",
+     "expected": true
+    },
+    {
+     "date": "2027-08-17",
+     "kind": "swap",
+     "title": "Classes follow the Monday timetable",
+     "ar": "برنامج تدريس يوم الأثنين"
+    },
+    {
+     "date": "2027-08-24",
+     "kind": "deadline",
+     "title": "Last day to withdraw from a course",
+     "ar": "آخر موعد للانسحاب من مساقات الدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-08-31",
+     "kind": "term",
+     "title": "Last day of teaching",
+     "ar": "آخر يوم تدريس للدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-09-02",
+     "kind": "exams",
+     "title": "Final exams start",
+     "ar": "بدء فترة الامتحانات النهائية للدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-09-09",
+     "kind": "exams",
+     "title": "Final exams end",
+     "ar": "انتهاء فترة الامتحانات النهائية للدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-09-12",
+     "kind": "staff",
+     "title": "Grades due",
+     "ar": "آخر يوم لتسليم العلامات للدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-09-15",
+     "kind": "staff",
+     "title": "Academic staff return",
+     "ar": "بدء دوام أعضاء الهيئة الأكاديمية للفصل الأول 2027/2028",
+     "term": "1271"
+    },
+    {
+     "date": "2027-09-15",
+     "kind": "deadline",
+     "title": "Last day to complete an incomplete grade",
+     "ar": "آخر موعد لاستكمال علامة غير مكتمل للدورة الصيفية 2026/2027",
+     "term": "1263"
+    },
+    {
+     "date": "2027-09-22",
+     "kind": "term",
+     "title": "Teaching starts",
+     "ar": "بدء التدريس للفصل الدراسي الأول 2027/2028",
+     "term": "1271"
+    }
+   ]
+  },
+  "2025/2026": {
+   "source": "https://ritaj.birzeit.edu/be1/en/academic/academic-calendar/public-academic-calendar?academic-year=2025%2F2026",
+   "events": [
+    {
+     "date": "2025-09-04",
+     "kind": "holiday",
+     "title": "The Prophet's Birthday",
+     "ar": "عطلة بمناسبة المولد النبوي الشريف"
+    },
+    {
+     "date": "2025-09-06",
+     "kind": "swap",
+     "title": "Classes follow the Thursday timetable",
+     "ar": "برنامج تدريس يوم الخميس - تدريس عن بعد"
+    },
+    {
+     "date": "2025-09-22",
+     "kind": "staff",
+     "title": "Academic staff return",
+     "ar": "بدء دوام أعضاء الهيئة الأكاديمية للفصل الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2025-09-29",
+     "kind": "term",
+     "title": "Teaching starts",
+     "ar": "بدء التدريس للفصل الدراسي الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2025-10-02",
+     "kind": "deadline",
+     "title": "Last day for late registration and add/drop",
+     "ar": "آخر موعد للتسجيل المتأخر وتعديل التسجيل للفصل الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2025-10-04",
+     "kind": "deadline",
+     "title": "Withdrawal period opens",
+     "ar": "بدء فترة الانسحاب بعلامة “W” من مساقات الفصل الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2025-10-18",
+     "kind": "holiday",
+     "title": "Olive harvest holiday",
+     "ar": "عطلة قطف الزيتون"
+    },
+    {
+     "date": "2025-11-01",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2025-11-04",
+     "kind": "swap",
+     "title": "Classes follow the Thursday timetable",
+     "ar": "برنامج تدريس يوم الخميس"
+    },
+    {
+     "date": "2025-11-12",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2025-11-13",
+     "kind": "other",
+     "title": null,
+     "ar": "يوم امتحانات"
+    },
+    {
+     "date": "2025-11-15",
+     "kind": "holiday",
+     "title": "Independence Day",
+     "ar": "عطلة بمناسبة إعلان الاستقلال"
+    },
+    {
+     "date": "2025-11-24",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2025-11-25",
+     "kind": "other",
+     "title": null,
+     "ar": "يوم امتحانات"
+    },
+    {
+     "date": "2025-11-29",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2025-12-01",
+     "kind": "other",
+     "title": null,
+     "ar": "يوم امتحانات"
+    },
+    {
+     "date": "2025-12-11",
+     "kind": "other",
+     "title": null,
+     "ar": "يوم امتحانات"
+    },
+    {
+     "date": "2025-12-13",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2025-12-22",
+     "kind": "other",
+     "title": null,
+     "ar": "يوم امتحانات"
+    },
+    {
+     "date": "2025-12-23",
+     "kind": "swap",
+     "title": "Classes follow the Saturday timetable",
+     "ar": "برنامج تدريس يوم السبت"
+    },
+    {
+     "date": "2025-12-23",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2025-12-24",
+     "kind": "holiday",
+     "title": "Christmas (Western) and winter break",
+     "ar": "بدء عطلة عيد الميلاد المجيد (حسب التقويم الغربي) وعطلة الشتاء (8:00 صباحاً)",
+     "end": "2026-01-01"
+    },
+    {
+     "date": "2026-01-07",
+     "kind": "holiday",
+     "title": "Christmas (Eastern)",
+     "ar": "عطلة بمناسبة عيد الميلاد المجيد (حسب التقويم الشرقي)"
+    },
+    {
+     "date": "2026-01-08",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-01-12",
+     "kind": "other",
+     "title": null,
+     "ar": "يوم امتحانات"
+    },
+    {
+     "date": "2026-01-13",
+     "kind": "swap",
+     "title": "Classes follow the Thursday timetable",
+     "ar": "برنامج تدريس يوم الخميس"
+    },
+    {
+     "date": "2026-01-13",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد"
+    },
+    {
+     "date": "2026-01-15",
+     "kind": "swap",
+     "title": "Classes follow the Tuesday timetable",
+     "ar": "برنامج تدريس يوم الثلاثاء"
+    },
+    {
+     "date": "2026-01-17",
+     "kind": "holiday",
+     "title": "Isra and Mi'raj",
+     "ar": "عطلة بمناسبة ذكرى الإسراء والمعراج (متوقع)",
+     "expected": true
+    },
+    {
+     "date": "2026-01-19",
+     "kind": "deadline",
+     "title": "Last day to withdraw from a course",
+     "ar": "آخر موعد للانسحاب بعلامة \"W\" من مساقات الفصل الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2026-01-27",
+     "kind": "term",
+     "title": "Last day of teaching",
+     "ar": "آخر يوم تدريس للفصل الدراسي الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2026-02-04",
+     "kind": "exams",
+     "title": "Final exams start",
+     "ar": "بدء فترة الامتحانات النهائية للفصل الدراسي الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2026-02-28",
+     "kind": "exams",
+     "title": "Final exams end",
+     "ar": "انتهاء فترة الامتحانات النهائية للفصل الدراسي الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2026-03-03",
+     "kind": "staff",
+     "title": "Grades due",
+     "ar": "آخر يوم لتسليم العلامات للفصل الدراسي الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2026-03-08",
+     "kind": "holiday",
+     "title": "International Women's Day",
+     "ar": "عطلة بمناسبة يوم المرأة العالمي"
+    },
+    {
+     "date": "2026-03-09",
+     "kind": "term",
+     "title": "Teaching starts",
+     "ar": "بدء التدريس للفصل الدراسي الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-03-18",
+     "kind": "deadline",
+     "title": "Last day to complete an incomplete grade",
+     "ar": "آخر موعد لاستكمال علامة غير مكتمل للفصل الأول 2025/2026",
+     "term": "1251"
+    },
+    {
+     "date": "2026-03-19",
+     "kind": "holiday",
+     "title": "Eid al-Fitr",
+     "ar": "بدء عطلة عيد الفطر (8:00 صباحاً)",
+     "end": "2026-03-21"
+    },
+    {
+     "date": "2026-03-23",
+     "kind": "deadline",
+     "title": "Last day for late registration and add/drop",
+     "ar": "آخر موعد للتسجيل المتأخر وتعديل التسجيل للفصل الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-03-24",
+     "kind": "deadline",
+     "title": "Withdrawal period opens",
+     "ar": "بدء فترة الانسحاب من مساقات الفصل الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-03-30",
+     "kind": "swap",
+     "title": "Classes follow the Saturday timetable",
+     "ar": "برنامج تدريس يوم السبت"
+    },
+    {
+     "date": "2026-04-11",
+     "kind": "holiday",
+     "title": "Easter",
+     "ar": "بدء عطلة عيد الفصح المجيد (8:00 صباحاً)",
+     "end": "2026-04-13"
+    },
+    {
+     "date": "2026-04-28",
+     "kind": "swap",
+     "title": "Classes follow the Saturday timetable",
+     "ar": "برنامج تدريس يوم السبت"
+    },
+    {
+     "date": "2026-05-01",
+     "kind": "holiday",
+     "title": "Labour Day",
+     "ar": "عطلة بمناسبة عيد العمال"
+    },
+    {
+     "date": "2026-05-26",
+     "kind": "holiday",
+     "title": "Eid al-Adha",
+     "ar": "بدء عطلة عيد الأضحى المبارك (متوقع) (8:00 صباحاً)",
+     "expected": true,
+     "end": "2026-05-30"
+    },
+    {
+     "date": "2026-06-16",
+     "kind": "holiday",
+     "title": "Islamic New Year",
+     "ar": "عطلة بمناسبة رأس السنة الهجرية"
+    },
+    {
+     "date": "2026-06-18",
+     "kind": "deadline",
+     "title": "Last day to withdraw from a course",
+     "ar": "آخر موعد للانسحاب من مساقات الفصل الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-06-25",
+     "kind": "term",
+     "title": "Last day of teaching",
+     "ar": "آخر يوم تدريس للفصل الدراسي الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-06-27",
+     "kind": "exams",
+     "title": "Final exams start",
+     "ar": "بدء فترة الامتحانات النهائية للفصل الدراسي الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-07-12",
+     "kind": "exams",
+     "title": "Final exams end",
+     "ar": "انتهاء فترة الامتحانات النهائية للفصل الدراسي الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-07-15",
+     "kind": "staff",
+     "title": "Grades due",
+     "ar": "آخر يوم لتسليم العلامات للفصل الدراسي الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-07-16",
+     "kind": "ceremony",
+     "title": "Graduation ceremony I",
+     "ar": "حفل التخرج I"
+    },
+    {
+     "date": "2026-07-17",
+     "kind": "other",
+     "title": null,
+     "ar": "حفل تخرج II"
+    },
+    {
+     "date": "2026-07-18",
+     "kind": "deadline",
+     "title": "Last day to complete an incomplete grade",
+     "ar": "آخر موعد لاستكمال علامة غير مكتمل للفصل الثاني 2025/2026",
+     "term": "1252"
+    },
+    {
+     "date": "2026-07-18",
+     "kind": "other",
+     "title": null,
+     "ar": "حفل تخرج III"
+    },
+    {
+     "date": "2026-07-19",
+     "kind": "ceremony",
+     "title": "Graduation ceremony IV",
+     "ar": "حفل التخرج IV"
+    },
+    {
+     "date": "2026-07-20",
+     "kind": "staff",
+     "title": "Summer break starts for academic staff",
+     "ar": "بدء العطلة الصيفية لأعضاء الهيئة الأكاديمية للعام 2025/2026"
+    },
+    {
+     "date": "2026-07-20",
+     "kind": "term",
+     "title": "Teaching starts",
+     "ar": "بدء التدريس للدورة الصيفية 2025/2026",
+     "term": "1253"
+    },
+    {
+     "date": "2026-07-25",
+     "kind": "deadline",
+     "title": "Last day for late registration and add/drop",
+     "ar": "آخر موعد للتسجيل المتأخر وتعديل التسجيل للدورة الصيفية 2025/2026",
+     "term": "1253"
+    },
+    {
+     "date": "2026-07-25",
+     "kind": "swap",
+     "title": "Classes follow the Wednesday timetable",
+     "ar": "برنامج تدريس يوم الأربعاء"
+    },
+    {
+     "date": "2026-07-25",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-07-27",
+     "kind": "deadline",
+     "title": "Withdrawal period opens",
+     "ar": "بدء فترة الانسحاب من مساقات الدورة الصيفية 2025/2026",
+     "term": "1253"
+    },
+    {
+     "date": "2026-08-01",
+     "kind": "swap",
+     "title": "Classes follow the Thursday timetable",
+     "ar": "برنامج تدريس يوم الخميس"
+    },
+    {
+     "date": "2026-08-01",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-08-08",
+     "kind": "swap",
+     "title": "Classes follow the Monday timetable",
+     "ar": "برنامج تدريس يوم الأثنين"
+    },
+    {
+     "date": "2026-08-08",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-08-15",
+     "kind": "swap",
+     "title": "Classes follow the Tuesday timetable",
+     "ar": "برنامج تدريس يوم الثلاثاء"
+    },
+    {
+     "date": "2026-08-15",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-08-22",
+     "kind": "swap",
+     "title": "Classes follow the Wednesday timetable",
+     "ar": "برنامج تدريس يوم الأربعاء"
+    },
+    {
+     "date": "2026-08-22",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-08-25",
+     "kind": "holiday",
+     "title": "The Prophet's Birthday",
+     "ar": "عطلة بمناسبة المولد النبوي الشريف"
+    },
+    {
+     "date": "2026-08-26",
+     "kind": "swap",
+     "title": "Classes follow the Tuesday timetable",
+     "ar": "برنامج تدريس يوم الثلاثاء"
+    },
+    {
+     "date": "2026-08-29",
+     "kind": "swap",
+     "title": "Classes follow the Thursday timetable",
+     "ar": "برنامج تدريس يوم الخميس"
+    },
+    {
+     "date": "2026-08-29",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-09-05",
+     "kind": "swap",
+     "title": "Classes follow the Monday timetable",
+     "ar": "برنامج تدريس يوم الأثنين"
+    },
+    {
+     "date": "2026-09-05",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-09-07",
+     "kind": "other",
+     "title": null,
+     "ar": "UNIV1110 - الذكاء الاصطناعي والتربية"
+    },
+    {
+     "date": "2026-09-07",
+     "kind": "term",
+     "title": "Teaching starts",
+     "ar": "بدء التدريس المكثف لمساقات متطلبات الجامعة-الفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-09-07",
+     "kind": "other",
+     "title": null,
+     "ar": "UNIV1120 - الاتصال والتواصل"
+    },
+    {
+     "date": "2026-09-07",
+     "kind": "other",
+     "title": null,
+     "ar": "UNIV1130 - الصحة النفسية والرفاه النفسي"
+    },
+    {
+     "date": "2026-09-09",
+     "kind": "deadline",
+     "title": "Withdrawal period opens",
+     "ar": "بدء فترة الانسحاب من مساقات متطلبات الجامعة – الفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-09-12",
+     "kind": "deadline",
+     "title": "Last day to withdraw from a course",
+     "ar": "آخر موعد للانسحاب من مساقات الدورة الصيفية 2025/2026",
+     "term": "1253"
+    },
+    {
+     "date": "2026-09-12",
+     "kind": "swap",
+     "title": "Classes follow the Tuesday timetable",
+     "ar": "برنامج تدريس يوم الثلاثاء"
+    },
+    {
+     "date": "2026-09-12",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-09-17",
+     "kind": "other",
+     "title": null,
+     "ar": "اخر موعد للانسحاب من مساقات متطلبات الجامعة – الفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-09-19",
+     "kind": "other",
+     "title": null,
+     "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
+    },
+    {
+     "date": "2026-09-19",
+     "kind": "staff",
+     "title": "Academic staff return",
+     "ar": "بدء دوام أعضاء الهيئة الأكاديمية للفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-09-19",
+     "kind": "swap",
+     "title": "Classes follow the Wednesday timetable",
+     "ar": "برنامج تدريس يوم الأربعاء"
+    },
+    {
+     "date": "2026-09-24",
+     "kind": "term",
+     "title": "Last day of teaching",
+     "ar": "آخر يوم تدريس للدورة الصيفية 2025/2026",
+     "term": "1253"
+    },
+    {
+     "date": "2026-09-26",
+     "kind": "exams",
+     "title": "Final exams start",
+     "ar": "بدء فترة الامتحانات النهائية للدورة الصيفية 2025/2026",
+     "term": "1253"
+    },
+    {
+     "date": "2026-09-26",
+     "kind": "other",
+     "title": null,
+     "ar": "اخر يوم للتدريس المكثف لمساقات متطلبات الجامعة-الفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-09-28",
+     "kind": "other",
+     "title": null,
+     "ar": "آخر يوم لتسليم علامات مساقات متطلبات الجامعة-الفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-09-29",
+     "kind": "deadline",
+     "title": "Last day to complete an incomplete grade",
+     "ar": "آخر موعد لاستكمال علامة غير مكتمل (I) لمساقات متطلبات الجامعة-الفصل الأول 2026/2027",
+     "term": "1261"
+    },
+    {
+     "date": "2026-10-03",
+     "kind": "exams",
+     "title": "Final exams end",
+     "ar": "انتهاء فترة الامتحانات النهائية للدورة الصيفية 2025/2026",
+     "term": "1253"
+    },
+    {
+     "date": "2026-10-06",
+     "kind": "staff",
+     "title": "Grades due",
+     "ar": "آخر يوم لتسليم العلامات للدورة الصيفية 2025/2026",
+     "term": "1253"
+    },
+    {
+     "date": "2026-10-10",
+     "kind": "deadline",
+     "title": "Last day to complete an incomplete grade",
+     "ar": "آخر موعد لاستكمال علامة غير مكتمل للدورة الصيفية 2025/2026",
+     "term": "1253"
+    }
+   ]
+  }
+ }
+}
