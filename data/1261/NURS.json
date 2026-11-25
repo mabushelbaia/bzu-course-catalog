@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-19T11:42:46+00:00",
+ "updated_at": "2026-11-25T12:57:53+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 26,
   "sections": 74,
-  "instructors": 32,
+  "instructors": 33,
   "rooms": 17
  },
  "courses": [
@@ -1387,8 +1387,10 @@
     {
      "type": "Lecture",
      "number": "4",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Mahmoud A. S. Taha",
+     "instructors": [
+      "Mahmoud A. S. Taha"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []

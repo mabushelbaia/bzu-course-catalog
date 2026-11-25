@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-25T12:57:53+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -270,7 +270,7 @@
       "Fayez Mohummad Ahmad Ibkairat",
       "Diab Mohammad Diab Alshikh"
      ],
-     "enrolled": 0,
+     "enrolled": 1,
      "capacity": null,
      "meetings": []
     },

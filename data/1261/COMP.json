@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-17T11:54:56+00:00",
+ "updated_at": "2026-11-25T12:57:53+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -4021,7 +4021,7 @@
      "instructors": [
       "Yazan Jamal Ibrahim Abu Farha"
      ],
-     "enrolled": 3,
+     "enrolled": 4,
      "capacity": null,
      "meetings": [
       {
