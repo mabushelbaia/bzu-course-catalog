@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T19:55:31+00:00",
+ "updated_at": "2026-11-25T20:05:45+00:00",
  "years": {
   "2026/2027": {
    "source": "https://ritaj.birzeit.edu/be1/en/academic/academic-calendar/public-academic-calendar?academic-year=2026%2F2027",
@@ -408,8 +408,8 @@
     },
     {
      "date": "2025-11-01",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -420,14 +420,14 @@
     },
     {
      "date": "2025-11-12",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
      "date": "2025-11-13",
-     "kind": "other",
-     "title": null,
+     "kind": "exams",
+     "title": "Exam day",
      "ar": "يوم امتحانات"
     },
     {
@@ -438,44 +438,44 @@
     },
     {
      "date": "2025-11-24",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
      "date": "2025-11-25",
-     "kind": "other",
-     "title": null,
+     "kind": "exams",
+     "title": "Exam day",
      "ar": "يوم امتحانات"
     },
     {
      "date": "2025-11-29",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
      "date": "2025-12-01",
-     "kind": "other",
-     "title": null,
+     "kind": "exams",
+     "title": "Exam day",
      "ar": "يوم امتحانات"
     },
     {
      "date": "2025-12-11",
-     "kind": "other",
-     "title": null,
+     "kind": "exams",
+     "title": "Exam day",
      "ar": "يوم امتحانات"
     },
     {
      "date": "2025-12-13",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
      "date": "2025-12-22",
-     "kind": "other",
-     "title": null,
+     "kind": "exams",
+     "title": "Exam day",
      "ar": "يوم امتحانات"
     },
     {
@@ -486,8 +486,8 @@
     },
     {
      "date": "2025-12-23",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -505,14 +505,14 @@
     },
     {
      "date": "2026-01-08",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
      "date": "2026-01-12",
-     "kind": "other",
-     "title": null,
+     "kind": "exams",
+     "title": "Exam day",
      "ar": "يوم امتحانات"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
      "date": "2026-01-13",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Teaching online",
      "ar": "تدريس عن بعد"
     },
     {
@@ -698,8 +698,8 @@
     },
     {
      "date": "2026-07-17",
-     "kind": "other",
-     "title": null,
+     "kind": "ceremony",
+     "title": "Graduation ceremony II",
      "ar": "حفل تخرج II"
     },
     {
@@ -711,8 +711,8 @@
     },
     {
      "date": "2026-07-18",
-     "kind": "other",
-     "title": null,
+     "kind": "ceremony",
+     "title": "Graduation ceremony III",
      "ar": "حفل تخرج III"
     },
     {
@@ -749,8 +749,8 @@
     },
     {
      "date": "2026-07-25",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -768,8 +768,8 @@
     },
     {
      "date": "2026-08-01",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -780,8 +780,8 @@
     },
     {
      "date": "2026-08-08",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -792,8 +792,8 @@
     },
     {
      "date": "2026-08-15",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -804,8 +804,8 @@
     },
     {
      "date": "2026-08-22",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -828,8 +828,8 @@
     },
     {
      "date": "2026-08-29",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -840,8 +840,8 @@
     },
     {
      "date": "2026-09-05",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -891,21 +891,21 @@
     },
     {
      "date": "2026-09-12",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
      "date": "2026-09-17",
-     "kind": "other",
-     "title": null,
+     "kind": "deadline",
+     "title": "Last day to withdraw from university requirement courses",
      "ar": "اخر موعد للانسحاب من مساقات متطلبات الجامعة – الفصل الأول 2026/2027",
      "term": "1261"
     },
     {
      "date": "2026-09-19",
-     "kind": "other",
-     "title": null,
+     "kind": "remote",
+     "title": "Theory courses online; lab and graduate courses on campus",
      "ar": "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"
     },
     {
@@ -937,15 +937,15 @@
     },
     {
      "date": "2026-09-26",
-     "kind": "other",
-     "title": null,
+     "kind": "term",
+     "title": "Last day of intensive teaching for university requirement courses",
      "ar": "اخر يوم للتدريس المكثف لمساقات متطلبات الجامعة-الفصل الأول 2026/2027",
      "term": "1261"
     },
     {
      "date": "2026-09-28",
-     "kind": "other",
-     "title": null,
+     "kind": "staff",
+     "title": "Grades due for university requirement courses",
      "ar": "آخر يوم لتسليم علامات مساقات متطلبات الجامعة-الفصل الأول 2026/2027",
      "term": "1261"
     },
