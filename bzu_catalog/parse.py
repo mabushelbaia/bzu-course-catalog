@@ -199,6 +199,84 @@ def term_dates(events: list[tuple[str, str]], term: str) -> dict:
     return out
 
 
+# Every event, described: what kind it is, the semester it belongs to and an English title next to
+# Ritaj's Arabic text. A holiday over several days is two rows on the page (its start and its end);
+# here it is one event with an end date. An event this doesn't recognise keeps title None, so a page
+# shows Ritaj's text rather than a guess.
+
+# The semester an event names, and the last digit of its term code. Matched without the article, since
+# "للفصل" (for the semester) and "الفصل" (the semester) share only "فصل"
+_TERMS = [("فصل الدراسي الأول", "1"), ("فصل الأول", "1"), ("فصل الدراسي الثاني", "2"), ("فصل الثاني", "2"), ("دورة الصيفية", "3")]
+_WEEKDAYS = {"السبت": "Saturday", "الأحد": "Sunday", "الأثنين": "Monday", "الاثنين": "Monday", "الثلاثاء": "Tuesday", "الأربعاء": "Wednesday", "الخميس": "Thursday"}
+# (what the text starts with, kind, English title), checked in order
+_DATED = [
+    ("بدء التدريس", "term", "Teaching starts"),
+    ("آخر يوم تدريس", "term", "Last day of teaching"),
+    ("بدء فترة الامتحانات النهائية", "exams", "Final exams start"),
+    ("انتهاء فترة الامتحانات النهائية", "exams", "Final exams end"),
+    ("آخر موعد للتسجيل المتأخر وتعديل التسجيل", "deadline", "Last day for late registration and add/drop"),
+    ("بدء فترة الانسحاب", "deadline", "Withdrawal period opens"),
+    ("آخر موعد للانسحاب", "deadline", "Last day to withdraw from a course"),
+    ("آخر موعد لاستكمال علامة غير مكتمل", "deadline", "Last day to complete an incomplete grade"),
+    ("آخر يوم لتسليم العلامات", "staff", "Grades due"),
+    ("بدء دوام أعضاء الهيئة الأكاديمية", "staff", "Academic staff return"),
+    ("بدء العطلة الصيفية لأعضاء الهيئة الأكاديمية", "staff", "Summer break starts for academic staff"),
+]
+# (words in a holiday's name, English name), checked in order
+_HOLIDAYS = [
+    ("عطلة الشتاء", "Christmas (Western) and winter break"),
+    ("حسب التقويم الغربي", "Christmas (Western)"),
+    ("حسب التقويم الشرقي", "Christmas (Eastern)"),
+    ("قطف الزيتون", "Olive harvest holiday"),
+    ("إعلان الاستقلال", "Independence Day"),
+    ("الإسراء والمعراج", "Isra and Mi'raj"),
+    ("يوم المرأة", "International Women's Day"),
+    ("عيد الفطر", "Eid al-Fitr"),
+    ("عيد العمال", "Labour Day"),
+    ("عيد الفصح", "Easter"),
+    ("عيد الأضحى", "Eid al-Adha"),
+    ("رأس السنة الهجرية", "Islamic New Year"),
+    ("المولد النبوي", "The Prophet's Birthday"),
+]
+
+
+def describe_calendar(events: list[tuple[str, str]]) -> list[dict]:
+    """The calendar's events as {date, end?, kind, title, ar, term?, expected?}, in date order.
+
+    kind is one of term, exams, deadline, holiday, swap (a day that follows another weekday's
+    timetable), staff, ceremony or other. expected marks dates Ritaj gives as expected (moon sightings).
+    """
+    out, open_holidays = [], {}
+    for date, text in events:
+        e = {"date": date, "kind": "other", "title": None, "ar": text}
+        year = re.search(r"(\d{4})/(\d{4})", text)
+        term = next((n for phrase, n in _TERMS if phrase in text), None)
+        if year and term:
+            e["term"] = f"{int(year.group(1)) - 1900}{term}"
+        if "(متوقع)" in text:
+            e["expected"] = True
+        dated = next(((k, t) for phrase, k, t in _DATED if text.startswith(phrase)), None)
+        if dated:
+            e["kind"], e["title"] = dated
+        elif "حفل التخرج" in text:
+            n = re.search(r"\b([IVX]+)$", text)
+            e["kind"], e["title"] = "ceremony", "Graduation ceremony" + (f" {n.group(1)}" if n else "")
+        elif text.startswith("برنامج تدريس يوم"):
+            day = next((en for ar, en in _WEEKDAYS.items() if ar in text), None)
+            e["kind"], e["title"] = "swap", (f"Classes follow the {day} timetable" if day else None)
+        elif "عطلة" in text:
+            e["kind"], e["title"] = "holiday", next((en for ar, en in _HOLIDAYS if ar in text), None)
+            # "بدء عطلة X (8:00 صباحاً)" opens a holiday that "انتهاء عطلة X (5:00 مساءً)" closes
+            key = re.sub(r"^(بدء|انتهاء)\s+", "", re.sub(r"\s*\(\d{1,2}:\d{2}[^)]*\)", "", text))
+            if text.startswith("انتهاء") and key in open_holidays:
+                open_holidays.pop(key)["end"] = date
+                continue
+            if text.startswith("بدء"):
+                open_holidays[key] = e
+        out.append(e)
+    return sorted(out, key=lambda e: e["date"])
+
+
 # --- Faculties and departments ----------------------------------------------------------------
 # Ritaj's unit tree (hemis/bu/hierarchy) nests faculties, departments and, under each department,
 # its programs: "Bachelor Level Courses of Computer Engineering ENCS". The last word of a program is

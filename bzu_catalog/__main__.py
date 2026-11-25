@@ -7,7 +7,8 @@ Writes, per semester:
     data/<term>.json              every course, section and meeting
     data/<term>/<PREFIX>.json     the same, one file per course prefix (e.g. ENCS) for small static sites
     data/<term>/rooms.json        every department's meetings grouped by room (rooms are shared)
-and data/departments.json: Ritaj's faculties and departments with each one's programs and course prefixes,
+and data/calendar.json: every event on Ritaj's academic calendar (holidays, deadlines, make-up days, exams)
+for the academic years scraped, data/departments.json: Ritaj's faculties and departments with each one's programs and course prefixes,
 and data/index.json listing the semesters, their counts, when their data last changed, their
 teaching and exam dates from Ritaj's academic calendar, the semester in progress (current), and
 when Ritaj was last checked (checked_at, stamped on every scrape). A semester's files are only
@@ -23,7 +24,7 @@ from pathlib import Path
 
 from . import fetch as fetching
 from .check import problems
-from .parse import CALENDAR_URL, DAYS, HIERARCHY_URL, academic_year, parse_calendar, parse_courses, parse_hierarchy, parse_terms, shown_term, term_dates
+from .parse import CALENDAR_URL, DAYS, HIERARCHY_URL, academic_year, describe_calendar, parse_calendar, parse_courses, parse_hierarchy, parse_terms, shown_term, term_dates
 
 
 def now() -> str:
@@ -164,7 +165,7 @@ def cmd_scrape(args) -> None:
         write_term(out, index, {"code": code, "name": names.get(code, code)}, parse_courses(h), url)
         done.append(code)
     index["published_terms"] = done
-    add_calendar(index, done)
+    add_calendar(index, done, out)
     write_departments(out)
     # Stamped on every run, changed or not: shows the data is still being checked, and the daily
     # commit keeps the repo active so GitHub never pauses the scheduled workflow (it does after 60 quiet days)
@@ -198,10 +199,11 @@ def write_departments(out: Path, html: str | None = None, source: str | None = N
     print(f"  departments: written ({len(tree['faculties'])} faculties, {n} departments)")
 
 
-def add_calendar(index: dict, terms: list[str]) -> None:
-    """Teaching and exam dates per semester from Ritaj's academic calendar, and which one is on now.
+def add_calendar(index: dict, terms: list[str], out: Path | None = None) -> None:
+    """Teaching and exam dates per semester from Ritaj's academic calendar, and which one is on now;
+    with out, every event of each academic year into out/calendar.json.
 
-    A calendar that can't be fetched keeps the dates from the last run; it never fails the scrape.
+    A calendar that can't be fetched keeps the dates and events from the last run; it never fails the scrape.
     """
     pages: dict[tuple[int, int], list] = {}
     for code in terms:
@@ -225,6 +227,25 @@ def add_calendar(index: dict, terms: list[str]) -> None:
     if started:
         code, cal = started[-1]
         index["current"] = {"term": code, "name": index["terms"][code]["name"], **{k: v for k, v in cal.items() if k != "source"}}
+    if out is not None:
+        write_calendar(out, pages)
+
+
+def write_calendar(out: Path, pages: dict[tuple[int, int], list]) -> None:
+    """data/calendar.json: each academic year's events, newest year first. A year whose page couldn't be
+    fetched (or parsed to nothing) keeps its events from the last file. Rewritten only when they changed."""
+    path = out / "calendar.json"
+    old = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    years = dict(old.get("years", {}))
+    for (start, end), events in pages.items():
+        if events:
+            years[f"{start}/{end}"] = {"source": CALENDAR_URL.format(start=start, end=end), "events": describe_calendar(events)}
+    years = dict(sorted(years.items(), reverse=True))
+    if digest(years) == digest(old.get("years")):
+        print("  calendar.json: unchanged")
+        return
+    dump(path, {"updated_at": now(), "years": years})
+    print(f"  calendar.json: written ({sum(len(y['events']) for y in years.values())} events)")
 
 
 def cmd_parse(args) -> None:
