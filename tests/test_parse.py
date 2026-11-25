@@ -75,6 +75,14 @@ def test_calendar_events():
     drop = by("Last day for late registration and add/drop")
     assert [(e["date"], e["term"]) for e in drop] == [("2026-10-12", "1261"), ("2027-02-27", "1262"), ("2027-07-19", "1263")]
     assert {e["kind"] for e in events} == {"term", "exams", "deadline", "holiday", "swap", "staff", "ceremony"}
+    # Wordings from other years' pages
+    more = describe_calendar([("2025-11-01", "تدريس عن بعد للمساقات النظرية في درجة البكالوريوس ووجاهيا للمساقات العملية ومساقات الدراسات العليا"),
+                              ("2025-11-13", "يوم امتحانات"), ("2026-07-17", "حفل تخرج II"),
+                              ("2026-09-17", "اخر موعد للانسحاب من مساقات متطلبات الجامعة – الفصل الأول 2026/2027")])
+    assert [(e["kind"], e["title"]) for e in more] == [
+        ("remote", "Theory courses online; lab and graduate courses on campus"), ("exams", "Exam day"),
+        ("ceremony", "Graduation ceremony II"), ("deadline", "Last day to withdraw from university requirement courses")]
+    assert more[3]["term"] == "1261"
     # Next year's first semester is told apart from this year's
     assert by("Teaching starts")[-1] == {**by("Teaching starts")[-1], "date": "2027-09-22", "term": "1271"}
 
