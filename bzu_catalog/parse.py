@@ -210,6 +210,13 @@ _TERMS = [("فصل الدراسي الأول", "1"), ("فصل الأول", "1"),
 _WEEKDAYS = {"السبت": "Saturday", "الأحد": "Sunday", "الأثنين": "Monday", "الاثنين": "Monday", "الثلاثاء": "Tuesday", "الأربعاء": "Wednesday", "الخميس": "Thursday"}
 # (what the text starts with, kind, English title), checked in order
 _DATED = [
+    # University-requirement courses (UNIV) run on their own, earlier dates
+    ("آخر موعد للانسحاب من مساقات متطلبات الجامعة", "deadline", "Last day to withdraw from university requirement courses"),
+    ("آخر يوم للتدريس المكثف لمساقات متطلبات الجامعة", "term", "Last day of intensive teaching for university requirement courses"),
+    ("آخر يوم لتسليم علامات مساقات متطلبات الجامعة", "staff", "Grades due for university requirement courses"),
+    ("تدريس عن بعد للمساقات النظرية", "remote", "Theory courses online; lab and graduate courses on campus"),
+    ("تدريس عن بعد", "remote", "Teaching online"),
+    ("يوم امتحانات", "exams", "Exam day"),
     ("بدء التدريس", "term", "Teaching starts"),
     ("آخر يوم تدريس", "term", "Last day of teaching"),
     ("بدء فترة الامتحانات النهائية", "exams", "Final exams start"),
@@ -244,11 +251,12 @@ def describe_calendar(events: list[tuple[str, str]]) -> list[dict]:
     """The calendar's events as {date, end?, kind, title, ar, term?, expected?}, in date order.
 
     kind is one of term, exams, deadline, holiday, swap (a day that follows another weekday's
-    timetable), staff, ceremony or other. expected marks dates Ritaj gives as expected (moon sightings).
+    timetable), remote (teaching online), staff, ceremony or other. expected marks dates Ritaj gives as expected (moon sightings).
     """
     out, open_holidays = [], {}
     for date, text in events:
         e = {"date": date, "kind": "other", "title": None, "ar": text}
+        text = re.sub(r"^اخر\b", "آخر", text)  # Ritaj sometimes drops the hamza
         year = re.search(r"(\d{4})/(\d{4})", text)
         term = next((n for phrase, n in _TERMS if phrase in text), None)
         if year and term:
@@ -258,7 +266,7 @@ def describe_calendar(events: list[tuple[str, str]]) -> list[dict]:
         dated = next(((k, t) for phrase, k, t in _DATED if text.startswith(phrase)), None)
         if dated:
             e["kind"], e["title"] = dated
-        elif "حفل التخرج" in text:
+        elif "حفل التخرج" in text or "حفل تخرج" in text:
             n = re.search(r"\b([IVX]+)$", text)
             e["kind"], e["title"] = "ceremony", "Graduation ceremony" + (f" {n.group(1)}" if n else "")
         elif text.startswith("برنامج تدريس يوم"):
