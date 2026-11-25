@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-25T12:57:53+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -134,7 +134,7 @@
      "instructors": [
       "Maen Khader Shehadah Mohammad"
      ],
-     "enrolled": 45,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -153,7 +153,7 @@
      "instructors": [
       "Maen Khader Shehadah Mohammad"
      ],
-     "enrolled": 42,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {

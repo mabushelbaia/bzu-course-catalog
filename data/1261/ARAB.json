@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-21T11:03:22+00:00",
+ "updated_at": "2026-11-25T12:57:53+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -1345,7 +1345,7 @@
      "instructors": [
       "Ibrahim Mohammad Ahmad Abu Hashhash"
      ],
-     "enrolled": 78,
+     "enrolled": 76,
      "capacity": null,
      "meetings": [
       {

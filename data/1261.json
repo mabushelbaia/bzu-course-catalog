@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-24T13:45:28+00:00",
+ "updated_at": "2026-11-25T12:57:53+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "counts": {
   "courses": 1170,
-  "sections": 2900,
-  "instructors": 740,
+  "sections": 2901,
+  "instructors": 742,
   "rooms": 260
  },
  "courses": [
@@ -3169,7 +3169,7 @@
      "instructors": [
       "Ibrahim Mohammad Ahmad Abu Hashhash"
      ],
-     "enrolled": 78,
+     "enrolled": 76,
      "capacity": null,
      "meetings": [
       {
@@ -4066,7 +4066,7 @@
      "instructors": [
       "Sami Ehmedan Rasheed Sha\"Th"
      ],
-     "enrolled": 19,
+     "enrolled": 21,
      "capacity": null,
      "meetings": [
       {
@@ -13579,7 +13579,7 @@
      "instructors": [
       "Yazan Jamal Ibrahim Abu Farha"
      ],
-     "enrolled": 3,
+     "enrolled": 4,
      "capacity": null,
      "meetings": [
       {
@@ -14591,6 +14591,17 @@
      "instructor": "Sama Suheil Salman Dawani",
      "instructors": [
       "Sama Suheil Salman Dawani"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Abaher Ibrahim Arafat El-Sakka",
+     "instructors": [
+      "Abaher Ibrahim Arafat El-Sakka"
      ],
      "enrolled": 1,
      "capacity": null,
@@ -42285,8 +42296,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Khaled Nimer Khaled Anabtawi",
+     "instructors": [
+      "Khaled Nimer Khaled Anabtawi"
+     ],
      "enrolled": 9,
      "capacity": null,
      "meetings": [
@@ -47916,7 +47929,7 @@
      "instructors": [
       "Maen Khader Shehadah Mohammad"
      ],
-     "enrolled": 45,
+     "enrolled": 47,
      "capacity": null,
      "meetings": [
       {
@@ -47935,7 +47948,7 @@
      "instructors": [
       "Maen Khader Shehadah Mohammad"
      ],
-     "enrolled": 42,
+     "enrolled": 40,
      "capacity": null,
      "meetings": [
       {
@@ -53121,8 +53134,10 @@
     {
      "type": "Lecture",
      "number": "4",
-     "instructor": null,
-     "instructors": [],
+     "instructor": "Mahmoud A. S. Taha",
+     "instructors": [
+      "Mahmoud A. S. Taha"
+     ],
      "enrolled": 6,
      "capacity": null,
      "meetings": []
@@ -59864,7 +59879,7 @@
       "Fayez Mohummad Ahmad Ibkairat",
       "Diab Mohammad Diab Alshikh"
      ],
-     "enrolled": 0,
+     "enrolled": 1,
      "capacity": null,
      "meetings": []
     },
