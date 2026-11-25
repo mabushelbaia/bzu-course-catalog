@@ -1,3 +1,4 @@
+import json
 """Parser checks against a saved Course Browser page (Summer 2025/2026, from dept-ops' seed data)."""
 
 from pathlib import Path
@@ -53,6 +54,41 @@ def test_calendar():
     # The second semester starts on 20 February; next year's first semester isn't mistaken for this one's
     assert term_dates(events, "1262")["teaching_starts"] == "2027-02-20"
     assert set(term_dates(events, "1263")) == {"teaching_starts", "teaching_ends", "exams_start", "exams_end"}
+
+
+def test_calendar_events():
+    from bzu_catalog.parse import describe_calendar, parse_calendar
+
+    html = (Path(__file__).parent / "fixtures" / "calendar-2026-2027.html").read_text(encoding="utf-8")
+    events = describe_calendar(parse_calendar(html))
+    by = lambda title: [e for e in events if e["title"] == title]
+    # Every event on this year's page is recognised, and keeps Ritaj's text
+    assert all(e["title"] and e["ar"] for e in events)
+    assert [e["date"] for e in events] == sorted(e["date"] for e in events)
+    # A holiday over several days is one event with an end date; its "end" row is folded in
+    xmas = by("Christmas (Western) and winter break")
+    assert len(xmas) == 1 and xmas[0]["date"] == "2026-12-24" and xmas[0]["end"] == "2027-01-01"
+    assert by("Eid al-Fitr")[0] == {**by("Eid al-Fitr")[0], "date": "2027-03-09", "end": "2027-03-11", "expected": True}
+    assert not any(e["ar"].startswith("انتهاء عطلة") for e in events)
+    # Make-up days, deadlines and their semester
+    assert by("Classes follow the Saturday timetable")[0]["date"] == "2026-10-14"
+    drop = by("Last day for late registration and add/drop")
+    assert [(e["date"], e["term"]) for e in drop] == [("2026-10-12", "1261"), ("2027-02-27", "1262"), ("2027-07-19", "1263")]
+    assert {e["kind"] for e in events} == {"term", "exams", "deadline", "holiday", "swap", "staff", "ceremony"}
+    # Next year's first semester is told apart from this year's
+    assert by("Teaching starts")[-1] == {**by("Teaching starts")[-1], "date": "2027-09-22", "term": "1271"}
+
+
+def test_calendar_file_keeps_a_year_it_could_not_fetch(tmp_path):
+    from bzu_catalog.__main__ import write_calendar
+    from bzu_catalog.parse import parse_calendar
+
+    html = (Path(__file__).parent / "fixtures" / "calendar-2026-2027.html").read_text(encoding="utf-8")
+    write_calendar(tmp_path, {(2026, 2027): parse_calendar(html)})
+    first = (tmp_path / "calendar.json").read_text(encoding="utf-8")
+    write_calendar(tmp_path, {(2026, 2027): []})  # Ritaj unreachable: nothing changes
+    assert (tmp_path / "calendar.json").read_text(encoding="utf-8") == first
+    assert len(json.loads(first)["years"]["2026/2027"]["events"]) == 52
 
 
 def test_rooms_cover_every_department():
