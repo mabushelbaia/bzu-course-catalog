@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-25T12:57:53+00:00",
+ "updated_at": "2026-11-26T12:40:16+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,7 +13,7 @@
  },
  "counts": {
   "courses": 1170,
-  "sections": 2901,
+  "sections": 2902,
   "instructors": 742,
   "rooms": 260
  },
@@ -14606,6 +14606,17 @@
      "enrolled": 1,
      "capacity": null,
      "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "instructors": [
+      "Bihan Ahmad Taher Al_Qaimari"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
     }
    ]
   },
@@ -16332,7 +16343,7 @@
      "instructors": [
       "Mudar Fuad Khalil Kassis"
      ],
-     "enrolled": 7,
+     "enrolled": 8,
      "capacity": null,
      "meetings": [
       {
@@ -16358,7 +16369,7 @@
      "instructors": [
       "Reem Mahmoud Ahmed Albatmah"
      ],
-     "enrolled": 10,
+     "enrolled": 11,
      "capacity": null,
      "meetings": [
       {

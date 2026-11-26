@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-25T12:57:53+00:00",
+ "updated_at": "2026-11-26T12:40:16+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,8 +14,8 @@
  "prefix": "CPSY",
  "counts": {
   "courses": 10,
-  "sections": 15,
-  "instructors": 8,
+  "sections": 16,
+  "instructors": 9,
   "rooms": 5
  },
  "courses": [
@@ -328,6 +328,17 @@
      "instructor": "Abaher Ibrahim Arafat El-Sakka",
      "instructors": [
       "Abaher Ibrahim Arafat El-Sakka"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "6",
+     "instructor": "Bihan Ahmad Taher Al_Qaimari",
+     "instructors": [
+      "Bihan Ahmad Taher Al_Qaimari"
      ],
      "enrolled": 1,
      "capacity": null,
