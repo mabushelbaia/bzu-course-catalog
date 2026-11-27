@@ -3,8 +3,8 @@
  "terms": {
   "1261": {
    "name": "First Semester 2026/2027",
-   "updated_at": "2026-11-26T12:40:16+00:00",
-   "hash": "6229285d962b119526f217dcc038cfd06d70072868e638ab03e642e145b7a388",
+   "updated_at": "2026-11-27T12:23:17+00:00",
+   "hash": "f6cfa64c092efac34964b0a838662853d8d8aa169292ef21c4db731fd3a5ed01",
    "counts": {
     "courses": 1170,
     "sections": 2902,
@@ -623,7 +623,7 @@
   "1253",
   "1252"
  ],
- "checked_at": "2026-11-26T12:41:41+00:00",
+ "checked_at": "2026-11-27T12:24:37+00:00",
  "current": {
   "term": "1261",
   "name": "First Semester 2026/2027",
