@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-18T11:44:09+00:00",
+ "updated_at": "2026-11-28T11:47:47+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -14,7 +14,7 @@
  "prefix": "PHED",
  "counts": {
   "courses": 32,
-  "sections": 60,
+  "sections": 61,
   "instructors": 8,
   "rooms": 17
  },
@@ -1470,6 +1470,17 @@
      "instructor": "Rafi Hussien Mahmoud Asfour",
      "instructors": [
       "Rafi Hussien Mahmoud Asfour"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
      ],
      "enrolled": 1,
      "capacity": null,

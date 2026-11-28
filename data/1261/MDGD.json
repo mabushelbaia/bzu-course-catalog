@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-14T16:23:19+00:00",
+ "updated_at": "2026-11-28T11:47:47+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -15,7 +15,7 @@
  "counts": {
   "courses": 4,
   "sections": 4,
-  "instructors": 5,
+  "instructors": 6,
   "rooms": 3
  },
  "courses": [
@@ -53,9 +53,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Waleed Mousa Shukri Habbas",
+     "instructor": "Waleed Mousa Shukri Habbas, Khaldoun Bajes Theib Abu Khatab",
      "instructors": [
-      "Waleed Mousa Shukri Habbas"
+      "Waleed Mousa Shukri Habbas",
+      "Khaldoun Bajes Theib Abu Khatab"
      ],
      "enrolled": 9,
      "capacity": null,

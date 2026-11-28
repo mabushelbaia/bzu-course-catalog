@@ -1,7 +1,7 @@
 {
  "term": "1261",
  "name": "First Semester 2026/2027",
- "updated_at": "2026-11-27T12:23:17+00:00",
+ "updated_at": "2026-11-28T11:47:47+00:00",
  "source": "https://ritaj.birzeit.edu/hemis/courses?term=1261&bu=182&mode=CB&lang=en",
  "days": {
   "S": "Sat",
@@ -13,8 +13,8 @@
  },
  "counts": {
   "courses": 1170,
-  "sections": 2902,
-  "instructors": 742,
+  "sections": 2903,
+  "instructors": 743,
   "rooms": 260
  },
  "courses": [
@@ -1795,14 +1795,14 @@
       {
        "day": "T",
        "start": "08:00",
-       "end": "12:30",
+       "end": "12:20",
        "room": null,
        "building": null
       },
       {
        "day": "R",
        "start": "08:00",
-       "end": "12:30",
+       "end": "12:20",
        "room": null,
        "building": null
       }
@@ -48138,9 +48138,10 @@
     {
      "type": "Lecture",
      "number": "1",
-     "instructor": "Waleed Mousa Shukri Habbas",
+     "instructor": "Waleed Mousa Shukri Habbas, Khaldoun Bajes Theib Abu Khatab",
      "instructors": [
-      "Waleed Mousa Shukri Habbas"
+      "Waleed Mousa Shukri Habbas",
+      "Khaldoun Bajes Theib Abu Khatab"
      ],
      "enrolled": 9,
      "capacity": null,
@@ -57057,6 +57058,17 @@
      "instructor": "Rafi Hussien Mahmoud Asfour",
      "instructors": [
       "Rafi Hussien Mahmoud Asfour"
+     ],
+     "enrolled": 1,
+     "capacity": null,
+     "meetings": []
+    },
+    {
+     "type": "Lecture",
+     "number": "5",
+     "instructor": "Mahmoud W. M. Kaied",
+     "instructors": [
+      "Mahmoud W. M. Kaied"
      ],
      "enrolled": 1,
      "capacity": null,
